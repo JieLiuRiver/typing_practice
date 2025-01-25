@@ -27,7 +27,7 @@ const TypingEffect = ({ text }) => {
       });
       setCursorPos(prev => prev + 1);
       
-      if (e.key === text[cursorPos]) {
+      if (e.key.toLowerCase() === text[cursorPos].toLowerCase()) {
         playSound('correct');
       } else {
         playSound('wrong');
@@ -44,7 +44,7 @@ const TypingEffect = ({ text }) => {
     return text.split('').map((char, index) => {
       let className = '';
       if (index < cursorPos) {
-        className = char === input[index] ? 'correct' : 'incorrect';
+        className = char.toLowerCase() === input[index].toLowerCase() ? 'correct' : 'incorrect';
       }
       return {
         char: char,
