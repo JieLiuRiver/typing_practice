@@ -1,5 +1,401 @@
 [
   {
+    "source": "The developer is optimizing the database queries.",
+    "translation": "开发人员正在优化数据库查询。"
+  },
+  {
+    "source": "The RM suggested diversifying the bond portfolio.",
+    "translation": "客户经理建议分散债券投资组合。"
+  },
+  {
+    "source": "The system's authentication process uses two-factor verification.",
+    "translation": "系统的身份验证过程使用了双重验证。"
+  },
+  {
+    "source": "The BA documented the requirements for the new FX module.",
+    "translation": "BA记录了新外汇模块的需求。"
+  },
+  {
+    "source": "The structured note offers a higher return with higher risk.",
+    "translation": "结构性票据提供更高回报但风险也更高。"
+  },
+  {
+    "source": "The Spring Boot service integrates with Kafka for messaging.",
+    "translation": "Spring Boot服务与Kafka集成用于消息传递。"
+  },
+  {
+    "source": "Can we deploy the FX blotter enhancement this week?",
+    "translation": "我们能在本周部署外汇交易记录的改进功能吗？"
+  },
+  {
+    "source": "The bond yield is calculated based on the current market price.",
+    "translation": "债券收益率根据当前市场价格计算。"
+  },
+  {
+    "source": "The QA team identified a critical bug in the FX system.",
+    "translation": "QA团队在外汇系统中发现了一个关键漏洞。"
+  },
+  {
+    "source": "The RM scheduled a call to explain the structured deposit details.",
+    "translation": "客户经理安排了一个电话会议来解释结构性存款的细节。"
+  },
+  {
+    "source": "The team decided to use JPA for database interactions.",
+    "translation": "团队决定使用JPA进行数据库交互。"
+  },
+  {
+    "source": "The compliance team reviewed the FX trading logs for anomalies.",
+    "translation": "合规团队审查了外汇交易日志以排查异常。"
+  },
+  {
+    "source": "The structured note has a built-in downside protection mechanism.",
+    "translation": "结构性票据内置了下行保护机制。"
+  },
+  {
+    "source": "The team conducted a sprint planning session yesterday.",
+    "translation": "团队昨天进行了冲刺计划会议。"
+  },
+  {
+    "source": "The Java service uses RESTful APIs for communication.",
+    "translation": "Java服务使用RESTful API进行通信。"
+  },
+  {
+    "source": "The FX platform was upgraded to support cross-currency trades.",
+    "translation": "外汇平台已升级以支持跨货币交易。"
+  },
+  {
+    "source": "The RM shared a market outlook report with the clients.",
+    "translation": "客户经理与客户分享了一份市场前景报告。"
+  },
+  {
+    "source": "The bond's maturity date is set for December 2030.",
+    "translation": "债券的到期日为2030年12月。"
+  },
+  {
+    "source": "The structured deposit's return is linked to gold prices.",
+    "translation": "结构性存款的回报与黄金价格挂钩。"
+  },
+  {
+    "source": "The developer created unit tests for the Spring Boot application.",
+    "translation": "开发人员为Spring Boot应用创建了单元测试。"
+  },
+  {
+    "source": "The BA facilitated a workshop to define the project scope.",
+    "translation": "BA主持了一次研讨会以定义项目范围。"
+  },
+  {
+    "source": "The RM provided the client with an FX hedging strategy.",
+    "translation": "客户经理为客户提供了一个外汇对冲策略。"
+  },
+  {
+    "source": "The system's uptime must be above 99.9%.",
+    "translation": "系统的正常运行时间必须超过99.9%。"
+  },
+  {
+    "source": "The QA team executed regression tests for the latest release.",
+    "translation": "QA团队为最新版本执行了回归测试。"
+  },
+  {
+    "source": "The bond's price dropped due to rising interest rates.",
+    "translation": "由于利率上升，债券价格下跌。"
+  },
+  {
+    "source": "The developer used a load balancer to distribute traffic.",
+    "translation": "开发人员使用负载均衡器分配流量。"
+  },
+  {
+    "source": "The structured deposit includes an equity-indexed component.",
+    "translation": "结构性存款包含一个与股票指数挂钩的部分。"
+  },
+  {
+    "source": "The BA prepared user acceptance criteria for the new feature.",
+    "translation": "BA为新功能准备了用户验收标准。"
+  },
+  {
+    "source": "The RM explained the bond's duration risk to the client.",
+    "translation": "客户经理向客户解释了债券的久期风险。"
+  },
+  {
+    "source": "The Spring Boot app uses Redis for session management.",
+    "translation": "Spring Boot应用使用Redis进行会话管理。"
+  },
+  {
+    "source": "The FX system supports both spot and forward trades.",
+    "translation": "外汇系统支持即期和远期交易。"
+  },
+  {
+    "source": "The QA team is automating the test scripts for faster execution.",
+    "translation": "QA团队正在自动化测试脚本以加快执行速度。"
+  },
+  {
+    "source": "The structured note provides a guaranteed minimum return.",
+    "translation": "结构性票据提供最低回报保障。"
+  },
+  {
+    "source": "The developer configured the CI/CD pipeline for faster deployments.",
+    "translation": "开发人员配置了CI/CD流水线以加快部署速度。"
+  },
+  {
+    "source": "The RM prepared a presentation on the bond's risk-return profile.",
+    "translation": "客户经理准备了一份关于债券风险收益概况的演示文稿。"
+  },
+  {
+    "source": "The system's API supports OAuth for authentication.",
+    "translation": "系统的API支持OAuth认证。"
+  },
+  {
+    "source": "The Agile team uses story points for estimating tasks.",
+    "translation": "敏捷团队使用故事点来估算任务。"
+  },
+  {
+    "source": "The FX blotter now includes a filter for trade types.",
+    "translation": "外汇交易记录现在包括一个交易类型过滤器。"
+  },
+  {
+    "source": "The structured deposit's performance depends on currency rates.",
+    "translation": "结构性存款的表现取决于汇率。"
+  },
+  {
+    "source": "The developer fixed a concurrency issue in the Java application.",
+    "translation": "开发人员修复了Java应用中的并发问题。"
+  },
+  {
+    "source": "The RM provided the client with a bond portfolio review.",
+    "translation": "客户经理为客户提供了债券投资组合评估。"
+  },
+  {
+    "source": "The compliance team flagged a suspicious FX transaction.",
+    "translation": "合规团队标记了一笔可疑的外汇交易。"
+  },
+  {
+    "source": "The QA team conducted load testing on the FX platform.",
+    "translation": "QA团队对外汇平台进行了负载测试。"
+  },
+  {
+    "source": "The structured note's terms are linked to a commodity index.",
+    "translation": "结构性票据的条款与商品指数挂钩。"
+  },
+  {
+    "source": "The system's database replication ensures high availability.",
+    "translation": "系统的数据库复制确保了高可用性。"
+  },
+  {
+    "source": "The Agile team held a stand-up meeting to discuss progress.",
+    "translation": "敏捷团队召开了站立会议讨论进展情况。"
+  },
+  {
+    "source": "The RM requested a detailed FX trade report for the client.",
+    "translation": "客户经理为客户请求了一份详细的外汇交易报告。"
+  },
+  {
+    "source": "The Spring Boot service now supports asynchronous processing.",
+    "translation": "Spring Boot服务现在支持异步处理。"
+  },
+  {
+    "source": "Can we prioritize the bug fixes in this sprint?",
+    "translation": "我们能在这个冲刺中优先处理这些bug吗？"
+  },
+  {
+    "source": "The Spring Boot app needs caching for better performance.",
+    "translation": "Spring Boot应用需要缓存以提升性能。"
+  },
+  {
+    "source": "Let's set up a grooming session for the new backlog items.",
+    "translation": "我们来安排一次梳理会议处理新的待办事项。"
+  },
+  {
+    "source": "The FX system requires additional security layers.",
+    "translation": "外汇系统需要增加安全层。"
+  },
+  {
+    "source": "Can we deploy the changes to the staging environment first?",
+    "translation": "我们能先把改动部署到预生产环境吗？"
+  },
+  {
+    "source": "The client requested a real-time bond price inquiry feature.",
+    "translation": "客户要求一个实时债券价格查询功能。"
+  },
+  {
+    "source": "Please review the API specs before the next meeting.",
+    "translation": "请在下次会议前查看API规范。"
+  },
+  {
+    "source": "The bond's coupon payment schedule is semi-annual.",
+    "translation": "债券的票息支付安排为每半年一次。"
+  },
+  {
+    "source": "The RM flagged an unusual trading pattern for investigation.",
+    "translation": "客户经理标记了一个异常交易模式以供调查。"
+  },
+  {
+    "source": "We need to refactor the code to improve readability.",
+    "translation": "我们需要重构代码以提高可读性。"
+  },
+  {
+    "source": "Does the structured deposit support early withdrawal?",
+    "translation": "结构性存款支持提前支取吗？"
+  },
+  {
+    "source": "The team completed a retrospective on the last sprint.",
+    "translation": "团队完成了上次冲刺的回顾会议。"
+  },
+  {
+    "source": "The QA team needs more time for regression testing.",
+    "translation": "QA团队需要更多时间进行回归测试。"
+  },
+  {
+    "source": "The FX trading platform will be upgraded this weekend.",
+    "translation": "外汇交易平台将在本周末升级。"
+  },
+  {
+    "source": "The RM explained the bond's risk-return profile to the client.",
+    "translation": "客户经理向客户解释了债券的风险收益概况。"
+  },
+  {
+    "source": "Can we integrate the third-party API by next release?",
+    "translation": "我们能在下次发布前集成第三方API吗？"
+  },
+  {
+    "source": "The team decided to adopt TDD for the new module.",
+    "translation": "团队决定为新模块采用测试驱动开发。"
+  },
+  {
+    "source": "The client wants a custom report on FX trade history.",
+    "translation": "客户需要一份定制的外汇交易历史报告。"
+  },
+  {
+    "source": "The bond's yield curve shows a positive slope.",
+    "translation": "债券的收益率曲线显示出正斜率。"
+  },
+  {
+    "source": "The structured note includes an equity-linked component.",
+    "translation": "结构性票据包含一个与股票挂钩的部分。"
+  },
+  {
+    "source": "The BA created user stories based on client requirements.",
+    "translation": "BA根据客户需求创建了用户故事。"
+  },
+  {
+    "source": "Can we automate the FX blotter generation process?",
+    "translation": "我们能自动化外汇交易记录的生成过程吗？"
+  },
+  {
+    "source": "The developer is working on fixing a memory leak issue.",
+    "translation": "开发人员正在修复内存泄漏问题。"
+  },
+  {
+    "source": "The RM scheduled a meeting to discuss the bond portfolio.",
+    "translation": "客户经理安排了一次会议讨论债券组合。"
+  },
+  {
+    "source": "The Agile team decided to shorten the sprint length.",
+    "translation": "敏捷团队决定缩短冲刺周期。"
+  },
+  {
+    "source": "The structured deposit offers a floating interest rate.",
+    "translation": "结构性存款提供浮动利率。"
+  },
+  {
+    "source": "The Java service needs to support high concurrency scenarios.",
+    "translation": "Java服务需要支持高并发场景。"
+  },
+  {
+    "source": "The compliance team needs access to all trade logs.",
+    "translation": "合规团队需要访问所有交易日志。"
+  },
+  {
+    "source": "The team demoed the new features during the sprint review.",
+    "translation": "团队在冲刺评审中演示了新功能。"
+  },
+  {
+    "source": "The RM sent a market update to all high-net-worth clients.",
+    "translation": "客户经理向所有高净值客户发送了市场更新。"
+  },
+  {
+    "source": "The system's latency must be under 200 milliseconds.",
+    "translation": "系统的延迟必须低于200毫秒。"
+  },
+  {
+    "source": "The BA proposed an enhancement to the FX blotter UI.",
+    "translation": "BA提出了一个外汇交易记录UI的改进建议。"
+  },
+  {
+    "source": "The team migrated the database to a cloud-based solution.",
+    "translation": "团队将数据库迁移到了基于云的解决方案。"
+  },
+  {
+    "source": "The bond's duration measures its price sensitivity to interest rates.",
+    "translation": "债券的久期衡量其对利率的价格敏感性。"
+  },
+  {
+    "source": "The developer created a Jenkins pipeline for CI/CD.",
+    "translation": "开发人员为CI/CD创建了一个Jenkins流水线。"
+  },
+  {
+    "source": "The RM placed a redemption order for a bond on behalf of the client.",
+    "translation": "客户经理代表客户下了一份债券赎回订单。"
+  },
+  {
+    "source": "The Agile team uses velocity to measure productivity.",
+    "translation": "敏捷团队使用速度来衡量生产力。"
+  },
+  {
+    "source": "The FX platform supports real-time position monitoring.",
+    "translation": "外汇平台支持实时头寸监控。"
+  },
+  {
+    "source": "The BA held a workshop to gather requirements from stakeholders.",
+    "translation": "BA举办了一次研讨会收集利益相关者的需求。"
+  },
+  {
+    "source": "The Spring Boot app leverages Hibernate for ORM.",
+    "translation": "Spring Boot应用利用Hibernate进行对象关系映射。"
+  },
+  {
+    "source": "The compliance team detected a mismatch in the trade details.",
+    "translation": "合规团队发现了交易细节中的不匹配。"
+  },
+  {
+    "source": "The RM is analyzing FX exposure for the client's portfolio.",
+    "translation": "客户经理正在分析客户投资组合的外汇敞口。"
+  },
+  {
+    "source": "The developer added a logging framework for better debugging.",
+    "translation": "开发人员添加了一个日志框架以便于调试。"
+  },
+  {
+    "source": "The structured note is linked to the performance of a stock index.",
+    "translation": "结构性票据与某股票指数的表现挂钩。"
+  },
+  {
+    "source": "The QA team is preparing test cases for the upcoming release.",
+    "translation": "QA团队正在为即将发布的版本准备测试用例。"
+  },
+  {
+    "source": "The bond's face value is $10,000.",
+    "translation": "债券的面值为10,000美元。"
+  },
+  {
+    "source": "The team used Docker to containerize the Java application.",
+    "translation": "团队使用Docker对Java应用进行容器化。"
+  },
+  {
+    "source": "The RM provided the client with a quarterly investment review.",
+    "translation": "客户经理为客户提供了季度投资回顾。"
+  },
+  {
+    "source": "The system encountered a timeout issue during peak hours.",
+    "translation": "系统在高峰时段遇到了超时问题。"
+  },
+  {
+    "source": "The structured deposit includes a capital protection feature.",
+    "translation": "结构性存款包含本金保护功能。"
+  },
+  {
+    "source": "The team applied pagination to the FX blotter for performance.",
+    "translation": "团队为外汇交易记录添加了分页以提升性能。"
+  },
+  {
     "source": "The integration test failed due to a missing configuration.",
     "translation": "集成测试因缺少配置而失败。"
   },
@@ -5839,5 +6235,601 @@
   {
     "source": "The BA clarified the user requirements during the meeting.",
     "translation": "BA在会议中澄清了用户需求。"
+  },
+  {
+    "source": "The developer implemented caching to improve system performance.",
+    "translation": "开发人员实施了缓存以提高系统性能。"
+  },
+  {
+    "source": "The RM discussed hedging strategies for structured deposits with the client.",
+    "translation": "客户经理与客户讨论了结构性存款的对冲策略。"
+  },
+  {
+    "source": "The bond's yield to maturity was recalculated after the price change.",
+    "translation": "债券到期收益率在价格变化后重新计算。"
+  },
+  {
+    "source": "The BA created a workflow diagram for the FX trading process.",
+    "translation": "BA为外汇交易流程创建了一个工作流程图。"
+  },
+  {
+    "source": "The Agile team broke down the task into smaller user stories.",
+    "translation": "敏捷团队将任务分解为更小的用户故事。"
+  },
+  {
+    "source": "The structured note's payout depends on the S&P 500 index.",
+    "translation": "结构性票据的支付取决于标普500指数。"
+  },
+  {
+    "source": "The system encountered a timeout error during high traffic.",
+    "translation": "系统在高流量期间遇到了超时错误。"
+  },
+  {
+    "source": "The QA team updated the test cases to include edge scenarios.",
+    "translation": "QA团队更新了测试用例以包括边缘场景。"
+  },
+  {
+    "source": "The Spring Boot app's API now supports pagination for large datasets.",
+    "translation": "Spring Boot应用的API现在支持大数据集的分页功能。"
+  },
+  {
+    "source": "The FX blotter's UI was enhanced for better usability.",
+    "translation": "外汇交易记录的界面已优化以提高可用性。"
+  },
+  {
+    "source": "The BA ensured that all requirements were aligned with compliance policies.",
+    "translation": "BA确保所有需求与合规政策一致。"
+  },
+  {
+    "source": "The RM explained how the structured deposit's returns are calculated.",
+    "translation": "客户经理解释了结构性存款的回报是如何计算的。"
+  },
+  {
+    "source": "The team used Jenkins to automate the CI/CD pipeline.",
+    "translation": "团队使用Jenkins自动化CI/CD流水线。"
+  },
+  {
+    "source": "The bond market saw increased volatility due to economic uncertainty.",
+    "translation": "由于经济不确定性，债券市场波动加剧。"
+  },
+  {
+    "source": "The developer added logging to track system errors.",
+    "translation": "开发人员添加了日志功能以跟踪系统错误。"
+  },
+  {
+    "source": "The FX platform integrates with external APIs for real-time rates.",
+    "translation": "外汇平台与外部API集成以获取实时汇率。"
+  },
+  {
+    "source": "The Agile team conducted a retrospective to discuss sprint challenges.",
+    "translation": "敏捷团队举行了回顾会议讨论冲刺中的挑战。"
+  },
+  {
+    "source": "The RM provided insights on the bond's credit rating to the client.",
+    "translation": "客户经理向客户提供了债券信用评级的见解。"
+  },
+  {
+    "source": "The system supports batch processing for high-volume transactions.",
+    "translation": "系统支持大批量交易的批处理。"
+  },
+  {
+    "source": "The structured deposit includes a cap on maximum returns.",
+    "translation": "结构性存款对最大回报设置了上限。"
+  },
+  {
+    "source": "The QA team validated the system's behavior under stress conditions.",
+    "translation": "QA团队验证了系统在压力条件下的行为。"
+  },
+  {
+    "source": "The BA gathered user feedback for further product enhancements.",
+    "translation": "BA收集了用户反馈以进行进一步的产品改进。"
+  },
+  {
+    "source": "The RM highlighted the tax implications of the bond investment.",
+    "translation": "客户经理强调了债券投资的税务影响。"
+  },
+  {
+    "source": "The developer used Hibernate for ORM in the Spring Boot project.",
+    "translation": "开发人员在Spring Boot项目中使用Hibernate进行对象关系映射。"
+  },
+  {
+    "source": "The FX trading system now supports multi-currency accounts.",
+    "translation": "外汇交易系统现在支持多货币账户。"
+  },
+  {
+    "source": "The compliance team reviewed the structured product for regulatory risks.",
+    "translation": "合规团队审查了结构性产品的监管风险。"
+  },
+  {
+    "source": "The BA documented the user stories in Jira for tracking.",
+    "translation": "BA在Jira中记录了用户故事以便跟踪。"
+  },
+  {
+    "source": "The structured note is designed for risk-averse investors.",
+    "translation": "结构性票据专为风险规避型投资者设计。"
+  },
+  {
+    "source": "The QA team performed integration testing for the new FX module.",
+    "translation": "QA团队为新的外汇模块进行了集成测试。"
+  },
+  {
+    "source": "The Spring Boot application now uses JWT for secure authentication.",
+    "translation": "Spring Boot应用现在使用JWT进行安全认证。"
+  },
+  {
+    "source": "The RM arranged a training session on bond trading for new clients.",
+    "translation": "客户经理为新客户安排了债券交易的培训课程。"
+  },
+  {
+    "source": "The Agile team prioritized the backlog items for the next sprint.",
+    "translation": "敏捷团队为下一个冲刺优先排序了待办事项。"
+  },
+  {
+    "source": "The structured deposit offers a guaranteed principal.",
+    "translation": "结构性存款提供本金保障。"
+  },
+  {
+    "source": "The system uses Kafka for real-time event streaming.",
+    "translation": "系统使用Kafka进行实时事件流处理。"
+  },
+  {
+    "source": "The developer fixed the issue with delayed API responses.",
+    "translation": "开发人员修复了API响应延迟的问题。"
+  },
+  {
+    "source": "The FX platform's new dashboard shows trade analytics.",
+    "translation": "外汇平台的新仪表盘显示交易分析。"
+  },
+  {
+    "source": "The BA facilitated a requirements gathering session with stakeholders.",
+    "translation": "BA主持了与利益相关者的需求收集会议。"
+  },
+  {
+    "source": "The RM shared a market research report on currency trends.",
+    "translation": "客户经理分享了一份关于货币趋势的市场研究报告。"
+  },
+  {
+    "source": "The bond's coupon payments are made semi-annually.",
+    "translation": "债券的票息支付为半年一次。"
+  },
+  {
+    "source": "The structured deposit ties returns to the performance of a commodity basket.",
+    "translation": "结构性存款的回报与一篮子商品的表现挂钩。"
+  },
+  {
+    "source": "The QA team automated the regression suite for faster testing cycles.",
+    "translation": "QA团队自动化了回归测试套件以加快测试周期。"
+  },
+  {
+    "source": "The Agile team updated the sprint board to reflect task progress.",
+    "translation": "敏捷团队更新了冲刺板以反映任务进展。"
+  },
+  {
+    "source": "The developer implemented a feature to export FX trade reports.",
+    "translation": "开发人员实现了导出外汇交易报告的功能。"
+  },
+  {
+    "source": "The RM explained the bond ladder strategy to the client.",
+    "translation": "客户经理向客户解释了债券梯式投资策略。"
+  },
+  {
+    "source": "The system's performance metrics are monitored using Prometheus.",
+    "translation": "系统的性能指标通过Prometheus进行监控。"
+  },
+  {
+    "source": "The structured deposit includes a barrier level for protection.",
+    "translation": "结构性存款包含一个保护障碍水平。"
+  },
+  {
+    "source": "The BA ensured the requirements were clear and testable.",
+    "translation": "BA确保需求明确且可测试。"
+  },
+  {
+    "source": "The QA team conducted smoke testing after deployment.",
+    "translation": "QA团队在部署后进行了冒烟测试。"
+  },
+  {
+    "source": "The FX system's user guide was updated for the new features.",
+    "translation": "外汇系统的用户指南已更新以包含新功能。"
+  },
+  {
+    "source": "The RM provided an overview of the bond market's performance.",
+    "translation": "客户经理提供了债券市场表现的概述。"
+  },
+  {
+    "source": "The developer refactored the code to improve maintainability.",
+    "translation": "开发人员重构了代码以提高可维护性。"
+  },
+  {
+    "source": "The RM discussed FX hedging options with a corporate client.",
+    "translation": "客户经理与企业客户讨论了外汇对冲选项。"
+  },
+  {
+    "source": "The bond's duration was recalculated after the interest rate change.",
+    "translation": "债券的久期在利率变动后重新计算。"
+  },
+  {
+    "source": "The BA created a wireframe for the new FX dashboard.",
+    "translation": "BA为新的外汇仪表盘创建了线框图。"
+  },
+  {
+    "source": "The Agile team held a sprint planning meeting to set priorities.",
+    "translation": "敏捷团队举行了冲刺计划会议以确定优先级。"
+  },
+  {
+    "source": "The structured deposit's returns are linked to equity performance.",
+    "translation": "结构性存款的回报与股票表现挂钩。"
+  },
+  {
+    "source": "The system logs showed an error in the API response handler.",
+    "translation": "系统日志显示API响应处理程序中的错误。"
+  },
+  {
+    "source": "The QA team executed test cases for the bond module.",
+    "translation": "QA团队为债券模块执行了测试用例。"
+  },
+  {
+    "source": "The Spring Boot project uses RESTful APIs for client-server communication.",
+    "translation": "Spring Boot项目使用RESTful API进行客户端和服务器之间的通信。"
+  },
+  {
+    "source": "The FX platform now supports multi-language localization.",
+    "translation": "外汇平台现在支持多语言本地化。"
+  },
+  {
+    "source": "The BA ensured traceability between requirements and test cases.",
+    "translation": "BA确保了需求与测试用例之间的可追溯性。"
+  },
+  {
+    "source": "The RM provided a detailed explanation of callable bonds to the client.",
+    "translation": "客户经理向客户详细解释了可赎回债券。"
+  },
+  {
+    "source": "The team integrated Docker for easier deployment.",
+    "translation": "团队集成了Docker以简化部署。"
+  },
+  {
+    "source": "The bond market showed signs of recovery after the rate hike.",
+    "translation": "加息后，债券市场显示出复苏迹象。"
+  },
+  {
+    "source": "The developer implemented API throttling to manage high traffic.",
+    "translation": "开发人员实现了API限流以管理高流量。"
+  },
+  {
+    "source": "The FX trading platform includes real-time charts for currency pairs.",
+    "translation": "外汇交易平台包含货币对的实时图表。"
+  },
+  {
+    "source": "The Agile team conducted a daily stand-up to track progress.",
+    "translation": "敏捷团队举行了每日站会以跟踪进展。"
+  },
+  {
+    "source": "The RM shared insights on the bond's risk factors with the investor.",
+    "translation": "客户经理与投资者分享了债券的风险因素。"
+  },
+  {
+    "source": "The system supports dynamic rule-based validation for transactions.",
+    "translation": "系统支持基于规则的动态交易验证。"
+  },
+  {
+    "source": "The structured deposit offers potential upside with limited risk.",
+    "translation": "结构性存款提供有限风险的潜在收益。"
+  },
+  {
+    "source": "The QA team performed compatibility testing for the updated FX module.",
+    "translation": "QA团队为更新的外汇模块进行了兼容性测试。"
+  },
+  {
+    "source": "The BA gathered feedback to refine the product backlog.",
+    "translation": "BA收集了反馈以改进产品待办事项清单。"
+  },
+  {
+    "source": "The RM discussed bond laddering as a diversification strategy.",
+    "translation": "客户经理讨论了债券梯式投资作为一种多样化策略。"
+  },
+  {
+    "source": "The Spring Boot application uses a microservices architecture.",
+    "translation": "Spring Boot应用使用了微服务架构。"
+  },
+  {
+    "source": "The FX platform was upgraded to support high-frequency trading.",
+    "translation": "外汇平台已升级以支持高频交易。"
+  },
+  {
+    "source": "The compliance team verified the structured product against regulatory guidelines.",
+    "translation": "合规团队根据监管指南验证了结构性产品。"
+  },
+  {
+    "source": "The BA documented use cases for the new bond trading system.",
+    "translation": "BA为新的债券交易系统记录了用例。"
+  },
+  {
+    "source": "The structured note is designed to minimize exposure to market risks.",
+    "translation": "结构性票据旨在最小化市场风险敞口。"
+  },
+  {
+    "source": "The QA team tested the system's response time under peak load.",
+    "translation": "QA团队在峰值负载下测试了系统的响应时间。"
+  },
+  {
+    "source": "The Agile team revised the sprint backlog after stakeholder feedback.",
+    "translation": "敏捷团队在利益相关者反馈后修改了冲刺待办事项清单。"
+  },
+  {
+    "source": "The developer integrated a feature to generate FX trade invoices.",
+    "translation": "开发人员集成了生成外汇交易发票的功能。"
+  },
+  {
+    "source": "The RM explained the tax advantages of municipal bonds to the client.",
+    "translation": "客户经理向客户解释了市政债券的税收优势。"
+  },
+  {
+    "source": "The system uses Redis for faster data caching.",
+    "translation": "系统使用Redis进行更快的数据缓存。"
+  },
+  {
+    "source": "The structured deposit includes a participation rate in market gains.",
+    "translation": "结构性存款包括市场收益的参与率。"
+  },
+  {
+    "source": "The BA ensured all requirements were included in the traceability matrix.",
+    "translation": "BA确保所有需求都包含在可追溯性矩阵中。"
+  },
+  {
+    "source": "The QA team conducted exploratory testing on the new module.",
+    "translation": "QA团队对新模块进行了探索性测试。"
+  },
+  {
+    "source": "The FX trading platform's mobile app now supports biometric login.",
+    "translation": "外汇交易平台的移动应用现在支持生物识别登录。"
+  },
+  {
+    "source": "The RM shared a report on the bond yield curve with the client.",
+    "translation": "客户经理与客户分享了一份关于债券收益率曲线的报告。"
+  },
+  {
+    "source": "The system architecture uses a message queue for asynchronous processing.",
+    "translation": "系统架构使用消息队列进行异步处理。"
+  },
+  {
+    "source": "The structured deposit's returns are capped at a maximum level.",
+    "translation": "结构性存款的回报设置了最高上限。"
+  },
+  {
+    "source": "The BA led a workshop to gather requirements for the FX trading app.",
+    "translation": "BA主持了一个研讨会以收集外汇交易应用的需求。"
+  },
+  {
+    "source": "The QA team identified critical bugs during the regression test cycle.",
+    "translation": "QA团队在回归测试周期中发现了关键漏洞。"
+  },
+  {
+    "source": "The Agile team used velocity metrics to estimate the next sprint.",
+    "translation": "敏捷团队使用速度指标来估算下一个冲刺。"
+  },
+  {
+    "source": "The developer added a retry mechanism for failed API calls.",
+    "translation": "开发人员为失败的API调用添加了重试机制。"
+  },
+  {
+    "source": "The RM explained the risks associated with zero-coupon bonds.",
+    "translation": "客户经理解释了零息债券的相关风险。"
+  },
+  {
+    "source": "The system supports real-time notifications for FX rate updates.",
+    "translation": "系统支持外汇汇率更新的实时通知。"
+  },
+  {
+    "source": "The structured deposit provides downside protection for the principal.",
+    "translation": "结构性存款为本金提供下行保护。"
+  },
+  {
+    "source": "The QA team validated the new functionality in a staging environment.",
+    "translation": "QA团队在预发布环境中验证了新功能。"
+  },
+  {
+    "source": "The BA ensured the requirements were aligned with the project scope.",
+    "translation": "BA确保需求与项目范围一致。"
+  },
+  {
+    "source": "The RM scheduled a client meeting to review the bond portfolio.",
+    "translation": "客户经理安排了客户会议以审查债券组合。"
+  },
+  {
+    "source": "The developer optimized the database query to improve performance.",
+    "translation": "开发人员优化了数据库查询以提升性能。"
+  },
+  {
+    "source": "The FX system was updated to include spot and forward trading.",
+    "translation": "外汇系统已更新为包括即期和远期交易。"
+  },
+  {
+    "source": "The structured deposit offers a minimum guaranteed return.",
+    "translation": "结构性存款提供最低保证回报。"
+  },
+  {
+    "source": "The Agile team used story points to estimate tasks in the backlog.",
+    "translation": "敏捷团队使用故事点估算了待办事项中的任务。"
+  },
+  {
+    "source": "The RM explained the benefits of laddered bond investments to the client.",
+    "translation": "客户经理向客户解释了梯式债券投资的好处。"
+  },
+  {
+    "source": "The QA team executed end-to-end testing for the new FX platform.",
+    "translation": "QA团队为新的外汇平台执行了端到端测试。"
+  },
+  {
+    "source": "The BA created a process flow diagram for the bond trading module.",
+    "translation": "BA为债券交易模块创建了流程图。"
+  },
+  {
+    "source": "The Spring Boot service now supports OAuth2 authentication.",
+    "translation": "Spring Boot服务现在支持OAuth2认证。"
+  },
+  {
+    "source": "The system was designed to handle a high volume of concurrent FX trades.",
+    "translation": "系统被设计为能够处理大量并发外汇交易。"
+  },
+  {
+    "source": "The developer added unit tests for the new API endpoints.",
+    "translation": "开发人员为新的API端点添加了单元测试。"
+  },
+  {
+    "source": "The RM shared a presentation on the bond's credit rating with the client.",
+    "translation": "客户经理向客户分享了一份关于债券信用评级的报告。"
+  },
+  {
+    "source": "The team conducted a retrospective to improve the next sprint.",
+    "translation": "团队举行了回顾会议以改进下一次冲刺。"
+  },
+  {
+    "source": "The structured deposit's payout is linked to the performance of an index.",
+    "translation": "结构性存款的收益与某一指数的表现挂钩。"
+  },
+  {
+    "source": "The QA team reported critical issues in the regression testing phase.",
+    "translation": "QA团队在回归测试阶段报告了关键问题。"
+  },
+  {
+    "source": "The BA gathered requirements for the new cross-currency settlement feature.",
+    "translation": "BA收集了关于新跨币种结算功能的需求。"
+  },
+  {
+    "source": "The developer implemented a caching layer for frequently accessed data.",
+    "translation": "开发人员为频繁访问的数据实现了缓存层。"
+  },
+  {
+    "source": "The RM reviewed the client's portfolio to assess its diversification.",
+    "translation": "客户经理审查了客户的投资组合以评估其多样性。"
+  },
+  {
+    "source": "The FX platform supports streaming quotes for real-time trading.",
+    "translation": "外汇平台支持实时交易的流式报价。"
+  },
+  {
+    "source": "The system architecture includes a load balancer for high availability.",
+    "translation": "系统架构包含一个负载均衡器以实现高可用性。"
+  },
+  {
+    "source": "The structured deposit has a cap on its maximum return.",
+    "translation": "结构性存款的最大回报有限制。"
+  },
+  {
+    "source": "The Agile team held a grooming session to refine the user stories.",
+    "translation": "敏捷团队举行了梳理会议以优化用户故事。"
+  },
+  {
+    "source": "The BA documented functional requirements for the FX trading app.",
+    "translation": "BA为外汇交易应用记录了功能需求。"
+  },
+  {
+    "source": "The QA team validated the performance of the bond module under stress.",
+    "translation": "QA团队验证了债券模块在压力下的性能。"
+  },
+  {
+    "source": "The Spring Boot application integrates with third-party APIs for FX rates.",
+    "translation": "Spring Boot应用与第三方API集成以获取外汇汇率。"
+  },
+  {
+    "source": "The RM explained callable and convertible bonds to the client.",
+    "translation": "客户经理向客户解释了可赎回和可转换债券。"
+  },
+  {
+    "source": "The developer used a RESTful approach for API design.",
+    "translation": "开发人员采用了RESTful方法设计API。"
+  },
+  {
+    "source": "The system's FX blotter provides detailed trade history and P&L reports.",
+    "translation": "系统的外汇交易簿提供详细的交易历史和损益报告。"
+  },
+  {
+    "source": "The structured deposit allows partial withdrawals with penalties.",
+    "translation": "结构性存款允许部分提款但会有罚金。"
+  },
+  {
+    "source": "The Agile team achieved its sprint goal ahead of schedule.",
+    "translation": "敏捷团队提前完成了冲刺目标。"
+  },
+  {
+    "source": "The BA created user journey maps for the bond trading interface.",
+    "translation": "BA为债券交易界面创建了用户旅程图。"
+  },
+  {
+    "source": "The QA team automated regression tests for the FX trading system.",
+    "translation": "QA团队为外汇交易系统自动化了回归测试。"
+  },
+  {
+    "source": "The Spring Boot project uses Maven for dependency management.",
+    "translation": "Spring Boot项目使用Maven进行依赖管理。"
+  },
+  {
+    "source": "The RM recommended diversifying with short-term bonds.",
+    "translation": "客户经理建议通过短期债券进行多样化投资。"
+  },
+  {
+    "source": "The FX platform now features advanced analytics for trading strategies.",
+    "translation": "外汇平台现在具有用于交易策略的高级分析功能。"
+  },
+  {
+    "source": "The developer used a message queue to handle asynchronous events.",
+    "translation": "开发人员使用消息队列处理异步事件。"
+  },
+  {
+    "source": "The structured deposit offers returns based on the underlying asset's performance.",
+    "translation": "结构性存款的回报基于基础资产的表现。"
+  },
+  {
+    "source": "The BA conducted stakeholder interviews to clarify business objectives.",
+    "translation": "BA进行了利益相关者访谈以明确业务目标。"
+  },
+  {
+    "source": "The QA team conducted load testing on the new FX module.",
+    "translation": "QA团队对新的外汇模块进行了负载测试。"
+  },
+  {
+    "source": "The Agile team adjusted its workflow after a retrospective discussion.",
+    "translation": "敏捷团队在回顾讨论后调整了工作流程。"
+  },
+  {
+    "source": "The RM provided a market update to the client regarding bond yields.",
+    "translation": "客户经理向客户提供了有关债券收益率的市场更新。"
+  },
+  {
+    "source": "The developer integrated security patches into the Spring Boot project.",
+    "translation": "开发人员为Spring Boot项目集成了安全补丁。"
+  },
+  {
+    "source": "The FX system generates real-time alerts for price fluctuations.",
+    "translation": "外汇系统为价格波动生成实时警报。"
+  },
+  {
+    "source": "The structured deposit includes a feature for early redemption.",
+    "translation": "结构性存款包括提前赎回功能。"
+  },
+  {
+    "source": "The BA mapped system requirements to user stories for better clarity.",
+    "translation": "BA将系统需求映射到用户故事以提高清晰度。"
+  },
+  {
+    "source": "The QA team ensured that the bond calculator worked as expected.",
+    "translation": "QA团队确保债券计算器按预期工作。"
+  },
+  {
+    "source": "The RM explained the impact of inflation on fixed-income securities.",
+    "translation": "客户经理解释了通胀对固定收益证券的影响。"
+  },
+  {
+    "source": "The developer added logging for better monitoring of FX trades.",
+    "translation": "开发人员添加了日志记录以更好地监控外汇交易。"
+  },
+  {
+    "source": "The Agile team used a Kanban board to visualize their workflow.",
+    "translation": "敏捷团队使用看板来可视化工作流程。"
+  },
+  {
+    "source": "The structured deposit's returns are capped by a predefined formula.",
+    "translation": "结构性存款的回报受预定公式限制。"
   }
 ]
