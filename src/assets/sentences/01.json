@@ -1,5 +1,1045 @@
 [
   {
+    "source": "How can I help unblock your current task?",
+    "translation": "如何帮你解决当前任务的阻碍？"
+  },
+  {
+    "source": "Let's refine the sprint backlog priorities together",
+    "translation": "一起优化迭代待办列表优先级"
+  },
+  {
+    "source": "The daily commit rate dropped this week - any blockers?",
+    "translation": "本周代码提交率下降，有阻碍吗？"
+  },
+  {
+    "source": "Can we timebox the FIX engine debugging to 2 hours?",
+    "translation": "FIX引擎调试限时2小时？"
+  },
+  {
+    "source": "Who needs pairing support for the SWIFT integration?",
+    "translation": "谁需要SWIFT集成结对支持？"
+  },
+  {
+    "source": "The retro action items are overdue - need reprioritization?",
+    "translation": "回顾行动项超期，需调整优先级吗？"
+  },
+  {
+    "source": "Let's schedule a parking lot session for tech debt discussions",
+    "translation": "安排技术债务停车场会议"
+  },
+  {
+    "source": "The WIP limit exceeded - which tasks can we defer?",
+    "translation": "在制品超限，哪些任务可延期？"
+  },
+  {
+    "source": "Need me to escalate the Kafka cluster issue to infra?",
+    "translation": "需要我向基础架构组升级Kafka集群问题吗？"
+  },
+  {
+    "source": "How's the MT940 parser spike progressing?",
+    "translation": "MT940解析器技术调研进展如何？"
+  },
+  {
+    "source": "Let's update the impediment log with new Redis issues",
+    "translation": "将Redis新问题加入障碍日志"
+  },
+  {
+    "source": "The CI pipeline failure pattern needs root cause analysis",
+    "translation": "需分析CI流水线失败的根本原因"
+  },
+  {
+    "source": "Can we swarm on the settlement batch job failure today?",
+    "translation": "今天能集体攻关结算批处理故障吗？"
+  },
+  {
+    "source": "The sprint review prep needs dry run volunteers",
+    "translation": "迭代评审准备需要预演志愿者"
+  },
+  {
+    "source": "Let's map dependencies between FIX and SWIFT tasks",
+    "translation": "梳理FIX与SWIFT任务间的依赖关系"
+  },
+  {
+    "source": "The Jira ticket descriptions lack acceptance criteria",
+    "translation": "Jira工单缺少验收标准"
+  },
+  {
+    "source": "Need help facilitating the three-amigos session?",
+    "translation": "需要协助主持三友会议吗？"
+  },
+  {
+    "source": "The defect escape rate requires process adjustments",
+    "translation": "缺陷逃逸率需流程调整"
+  },
+  {
+    "source": "Let's visualize the FX module dependencies on the board",
+    "translation": "在看板可视化外汇模块依赖"
+  },
+  {
+    "source": "The retro feedback mentioned communication gaps",
+    "translation": "回顾反馈提到沟通断层"
+  },
+  {
+    "source": "Can we normalize story point estimates for bond tasks?",
+    "translation": "能否规范债券任务的故事点估算？"
+  },
+  {
+    "source": "The DevOps metrics show deployment frequency drop",
+    "translation": "DevOps指标显示部署频率下降"
+  },
+  {
+    "source": "Need me to coordinate with quant team on pricing models?",
+    "translation": "需要我协调量化团队处理定价模型吗？"
+  },
+  {
+    "source": "Let's create an impediment ticket for the FIX certification",
+    "translation": "为FIX认证创建障碍工单"
+  },
+  {
+    "source": "The team velocity fluctuates - should we recalibrate?",
+    "translation": "团队速率波动，要重新校准吗？"
+  },
+  {
+    "source": "Can we limit SWIFT discussion to 15 mins in standup?",
+    "translation": "站会中SWIFT讨论限时15分钟？"
+  },
+  {
+    "source": "The MT535 reconciliation task needs BA involvement",
+    "translation": "MT535对账任务需业务分析师参与"
+  },
+  {
+    "source": "Let's document the FpML parsing lessons learned",
+    "translation": "记录FpML解析经验教训"
+  },
+  {
+    "source": "The sprint goal alignment needs revisiting",
+    "translation": "需重新确认迭代目标共识"
+  },
+  {
+    "source": "Can we pair a junior dev with the Kafka expert?",
+    "translation": "能否让初级开发与Kafka专家结对？"
+  },
+  {
+    "source": "The retro action items tracker needs updating",
+    "translation": "需更新回顾行动项追踪表"
+  },
+  {
+    "source": "Let's analyze cycle time for FX feature delivery",
+    "translation": "分析外汇功能的周期时间"
+  },
+  {
+    "source": "The Jira board columns don't reflect current workflow",
+    "translation": "Jira看板列未反映实际工作流"
+  },
+  {
+    "source": "Need help mediating the Lombok adoption debate?",
+    "translation": "需要协调Lombok采用争议吗？"
+  },
+  {
+    "source": "The CI/CD pipeline metrics require team review",
+    "translation": "持续交付流水线指标需团队评审"
+  },
+  {
+    "source": "Let's schedule a working agreement refresh session",
+    "translation": "安排工作协议更新会议"
+  },
+  {
+    "source": "The defect trend analysis shows test gaps",
+    "translation": "缺陷趋势分析显示测试缺口"
+  },
+  {
+    "source": "Can we limit WIP to 3 features during SWIFT migration?",
+    "translation": "SWIFT迁移期间限制在制品为3个功能？"
+  },
+  {
+    "source": "The FIX session recovery process needs documentation",
+    "translation": "需编写FIX会话恢复流程文档"
+  },
+  {
+    "source": "Let's map the trade confirmation value stream",
+    "translation": "绘制交易确认价值流图"
+  },
+  {
+    "source": "The sprint demo audience list needs finalization",
+    "translation": "需确定迭代演示参会名单"
+  },
+  {
+    "source": "Can we standardize the retro action item format?",
+    "translation": "能否统一回顾行动项格式？"
+  },
+  {
+    "source": "The team happiness metric dropped 20% this sprint",
+    "translation": "团队幸福度指标本期下降20%"
+  },
+  {
+    "source": "Let's create a knowledge transfer plan for FpML",
+    "translation": "制定FpML知识转移计划"
+  },
+  {
+    "source": "The Jira filter for tech debt needs refinement",
+    "translation": "技术债务Jira过滤器需优化"
+  },
+  {
+    "source": "Can we implement swarming for high-priority bugs?",
+    "translation": "能否对高优先级BUG实施集体攻关？"
+  },
+  {
+    "source": "The MT799 processing bottleneck requires RCA",
+    "translation": "MT799处理瓶颈需根本原因分析"
+  },
+  {
+    "source": "Let's visualize code review cycle time on the board",
+    "translation": "在看板可视化代码审查周期"
+  },
+  {
+    "source": "The sprint goal success criteria need clarification",
+    "translation": "需明确迭代目标成功标准"
+  },
+  {
+    "source": "Can we limit design discussions to dedicated slots?",
+    "translation": "能否将设计讨论限定在专门时段？"
+  },
+  {
+    "source": "The FIX dictionary upgrade risks need mitigation",
+    "translation": "需缓解FIX字典升级风险"
+  },
+  {
+    "source": "Let's schedule a cross-team sync for SWIFT dependencies",
+    "translation": "安排SWIFT依赖的跨团队同步会"
+  },
+  {
+    "source": "The CI test flakiness is impacting developer productivity",
+    "translation": "CI测试不稳定性影响开发效率"
+  },
+  {
+    "source": "The Kafka consumer group is lagging behind",
+    "translation": "Kafka消费者组出现延迟"
+  },
+  {
+    "source": "Can we pair on the interest rate swap logic?",
+    "translation": "能一起写利率互换逻辑吗？"
+  },
+  {
+    "source": "The Jira epic needs clearer acceptance criteria",
+    "translation": "Jira大需求需明确验收标准"
+  },
+  {
+    "source": "Prod alert: FX feed latency over threshold",
+    "translation": "生产告警：外汇数据源延迟超阈值"
+  },
+  {
+    "source": "Who's responsible for the FpML schema upgrade?",
+    "translation": "谁负责FpML模式升级？"
+  },
+  {
+    "source": "The bond yield calculation differs from Reuters data",
+    "translation": "债券收益计算与路透数据不一致"
+  },
+  {
+    "source": "Let's schedule a mob programming session tomorrow",
+    "translation": "明天安排集体编程会议"
+  },
+  {
+    "source": "The CI/CD pipeline needs better rollback support",
+    "translation": "持续交付流水线需增强回滚支持"
+  },
+  {
+    "source": "My PR failed SonarQube quality gate",
+    "translation": "我的合并请求未通过SonarQube质量门禁"
+  },
+  {
+    "source": "The MT798 parser isn't handling multi-currency",
+    "translation": "MT798解析器不支持多币种"
+  },
+  {
+    "source": "Can we spike on Grafana dashboard customization?",
+    "translation": "能调研Grafana看板定制吗？"
+  },
+  {
+    "source": "The scrum board needs WIP limit enforcement",
+    "translation": "看板需强制执行在制品限制"
+  },
+  {
+    "source": "Prod issue: SWIFT FIN messages stuck in queue",
+    "translation": "生产问题：SWIFT FIN报文滞留队列"
+  },
+  {
+    "source": "Let's refactor the legacy settlement service",
+    "translation": "重构旧版结算服务吧"
+  },
+  {
+    "source": "The FIX dictionary needs version alignment",
+    "translation": "FIX字典需版本对齐"
+  },
+  {
+    "source": "Who's covering the on-call shift this weekend?",
+    "translation": "本周末谁值技术班？"
+  },
+  {
+    "source": "The credit risk model needs recalibration",
+    "translation": "信用风险模型需重新校准"
+  },
+  {
+    "source": "My Docker container can't reach the mock FIX server",
+    "translation": "Docker容器连不上模拟FIX服务"
+  },
+  {
+    "source": "Let's add circuit breakers to the pricing API",
+    "translation": "给定价API添加熔断机制"
+  },
+  {
+    "source": "The MT535 reconciliation job is timing out",
+    "translation": "MT535对账任务超时"
+  },
+  {
+    "source": "Need PO sign-off on the FX business rule changes",
+    "translation": "需产品负责人签署外汇规则变更"
+  },
+  {
+    "source": "The load balancer isn't routing traffic properly",
+    "translation": "负载均衡器路由异常"
+  },
+  {
+    "source": "Let's document the repo collateral process",
+    "translation": "编写回购抵押流程文档"
+  },
+  {
+    "source": "The JVM heap dump shows memory leaks",
+    "translation": "JVM堆转储显示内存泄漏"
+  },
+  {
+    "source": "Can we automate SWIFT message validation?",
+    "translation": "能自动化SWIFT报文验证吗？"
+  },
+  {
+    "source": "The bond position report has data discrepancies",
+    "translation": "债券持仓报告数据不一致"
+  },
+  {
+    "source": "My feature toggle isn't working in UAT",
+    "translation": "功能开关在测试环境失效"
+  },
+  {
+    "source": "Let's triage the production incident first",
+    "translation": "先处理生产事故分级"
+  },
+  {
+    "source": "The FpML trade confirmation is missing fields",
+    "translation": "FpML交易确认缺少字段"
+  },
+  {
+    "source": "Need to update the runbook for the new FX service",
+    "translation": "需更新外汇新服务的运维手册"
+  },
+  {
+    "source": "The CI pipeline is flaky on integration tests",
+    "translation": "持续集成流水线集成测试不稳定"
+  },
+  {
+    "source": "Can we schedule load testing for the settlement engine?",
+    "translation": "安排结算引擎的负载测试？"
+  },
+  {
+    "source": "The trade capture service is missing audit logs",
+    "translation": "交易捕获服务缺少审计日志"
+  },
+  {
+    "source": "Let's implement distributed tracing for microservices",
+    "translation": "为微服务实现分布式追踪"
+  },
+  {
+    "source": "The MT940 file parser isn't handling timezones",
+    "translation": "MT940文件解析器未处理时区"
+  },
+  {
+    "source": "Need to validate the ISDA SIMM calculation",
+    "translation": "需验证ISDA SIMM计算"
+  },
+  {
+    "source": "The Redis cluster needs scaling before launch",
+    "translation": "上线前需扩展Redis集群"
+  },
+  {
+    "source": "Can we pair on the collateral optimization algo?",
+    "translation": "能结对开发抵押品优化算法吗？"
+  },
+  {
+    "source": "The FIX session configuration is mismatched",
+    "translation": "FIX会话配置不匹配"
+  },
+  {
+    "source": "Let's add more context to the incident postmortem",
+    "translation": "在事故报告中补充更多背景"
+  },
+  {
+    "source": "The yield curve bootstrapping needs fixing",
+    "translation": "收益率曲线自举算法需修正"
+  },
+  {
+    "source": "My IDE keeps freezing with Lombok annotations",
+    "translation": "IDE使用Lombok注解时卡顿"
+  },
+  {
+    "source": "The deployment failed due to config drift",
+    "translation": "配置漂移导致部署失败"
+  },
+  {
+    "source": "Can we implement canary releases for the FX service?",
+    "translation": "能为外汇服务实现金丝雀发布吗？"
+  },
+  {
+    "source": "The trade enrichment service is CPU-bound",
+    "translation": "交易增强服务受CPU限制"
+  },
+  {
+    "source": "Let's document the failover procedure",
+    "translation": "编写故障转移流程文档"
+  },
+  {
+    "source": "The MT548 handling corporate actions is delayed",
+    "translation": "MT548处理公司行为延迟"
+  },
+  {
+    "source": "Need to reconcile the EOD position reports",
+    "translation": "需核对日终持仓报告"
+  },
+  {
+    "source": "The API gateway is throttling legitimate requests",
+    "translation": "API网关误限流合法请求"
+  },
+  {
+    "source": "Let's schedule chaos engineering experiments",
+    "translation": "安排混沌工程实验"
+  },
+  {
+    "source": "The collateral management UI needs UX improvements",
+    "translation": "抵押品管理界面需UX优化"
+  },
+  {
+    "source": "Can you walk me through your Jira ticket?",
+    "translation": "能讲解下你的Jira任务详情吗？"
+  },
+  {
+    "source": "I'm blocked on the SWIFT message parsing",
+    "translation": "我在SWIFT报文解析上卡住了"
+  },
+  {
+    "source": "Let's pair on the bond pricing algorithm",
+    "translation": "我们一起写债券定价算法吧"
+  },
+  {
+    "source": "The FX rate API is timing out in prod",
+    "translation": "生产环境的外汇汇率API超时"
+  },
+  {
+    "source": "Who's taking the scrum master role this sprint?",
+    "translation": "本次迭代谁担任Scrum主管？"
+  },
+  {
+    "source": "Need help debugging the settlement batch job",
+    "translation": "需要协助调试结算批处理任务"
+  },
+  {
+    "source": "The PO wants to reprioritize the backlog",
+    "translation": "产品负责人要调整待办列表优先级"
+  },
+  {
+    "source": "My local env can't connect to the FIX simulator",
+    "translation": "本地环境连不上FIX模拟器"
+  },
+  {
+    "source": "Should we add this to the retrospective?",
+    "translation": "这个要加到回顾会议里吗？"
+  },
+  {
+    "source": "The MT940 validation failed in UAT",
+    "translation": "MT940验证在用户测试环境失败"
+  },
+  {
+    "source": "I'll spike on the containerization approach",
+    "translation": "我先调研容器化方案"
+  },
+  {
+    "source": "The CI pipeline broke after merging",
+    "translation": "合并后持续集成流水线中断"
+  },
+  {
+    "source": "Can we timebox this discussion to 15 mins?",
+    "translation": "限时15分钟讨论这个议题？"
+  },
+  {
+    "source": "The trade capture service is throwing NPEs",
+    "translation": "交易捕获服务抛出空指针异常"
+  },
+  {
+    "source": "Let's mob on the currency conversion bug",
+    "translation": "集体攻关货币转换的BUG"
+  },
+  {
+    "source": "The sprint demo got moved to Thursday",
+    "translation": "迭代演示改到周四了"
+  },
+  {
+    "source": "Need clarification on the ISIN mapping logic",
+    "translation": "需要明确ISIN映射逻辑"
+  },
+  {
+    "source": "Who's reviewing the pull request?",
+    "translation": "谁在审这个合并请求？"
+  },
+  {
+    "source": "The Kafka consumer lag is increasing",
+    "translation": "Kafka消费延迟在增加"
+  },
+  {
+    "source": "Let's add this tech debt to the parking lot",
+    "translation": "把这个技术债记入问题停车场"
+  },
+  {
+    "source": "The FpML schema changes broke our parser",
+    "translation": "FpML模式变更导致解析失败"
+  },
+  {
+    "source": "Can we swarm on the deployment issue?",
+    "translation": "大家集中解决部署问题？"
+  },
+  {
+    "source": "The bond accrual math doesn't match Bloomberg",
+    "translation": "债券应计利息计算与彭博数据不符"
+  },
+  {
+    "source": "My story points estimation was off",
+    "translation": "我的故事点估算有偏差"
+  },
+  {
+    "source": "The Redis cache isn't invalidating properly",
+    "translation": "Redis缓存未正确失效"
+  },
+  {
+    "source": "Need PO approval for the scope change",
+    "translation": "需要产品负责人批准范围变更"
+  },
+  {
+    "source": "The load test revealed thread pool exhaustion",
+    "translation": "压力测试显示线程池耗尽"
+  },
+  {
+    "source": "Let's do a quick smoke test after deploy",
+    "translation": "部署后快速冒烟测试"
+  },
+  {
+    "source": "The SWIFT BIC validation regex is too strict",
+    "translation": "SWIFT BIC验证正则表达式过于严格"
+  },
+  {
+    "source": "Can you pair with frontend on the API contract?",
+    "translation": "能和前端确认API契约吗？"
+  },
+  {
+    "source": "The yield curve simulation needs more compute",
+    "translation": "收益率曲线模拟需要更多计算资源"
+  },
+  {
+    "source": "My feature branch has merge conflicts",
+    "translation": "我的特性分支有合并冲突"
+  },
+  {
+    "source": "The JVM is GC thrashing in production",
+    "translation": "生产环境JVM频繁垃圾回收"
+  },
+  {
+    "source": "Let's split this epic into smaller stories",
+    "translation": "把这个大需求拆成小用户故事"
+  },
+  {
+    "source": "The trade confirmation flow is missing audit trails",
+    "translation": "交易确认流程缺少审计追踪"
+  },
+  {
+    "source": "Can we get a BA to clarify the FX business rule?",
+    "translation": "找业务分析师明确外汇业务规则？"
+  },
+  {
+    "source": "The SonarQube scan found 23 code smells",
+    "translation": "SonarQube扫描发现23个代码异味"
+  },
+  {
+    "source": "Need to update the runbook for the new microservice",
+    "translation": "需要更新新微服务的运维手册"
+  },
+  {
+    "source": "The deployment froze at 80% completion",
+    "translation": "部署卡在80%进度"
+  },
+  {
+    "source": "Let's schedule a brown bag session on VaR models",
+    "translation": "安排个风险价值模型的午餐学习会"
+  },
+  {
+    "source": "The acceptance criteria need refinement",
+    "translation": "验收标准需要细化"
+  },
+  {
+    "source": "My IDE isn't resolving Spring Boot dependencies",
+    "translation": "IDE无法解析Spring Boot依赖"
+  },
+  {
+    "source": "The MT103 parser needs timezone awareness",
+    "translation": "MT103解析器需支持时区处理"
+  },
+  {
+    "source": "Can we pair on the VaR model validation?",
+    "translation": "能结对验证风险价值模型吗？"
+  },
+  {
+    "source": "Prod issue: Trade confirmations delayed by 2 hours",
+    "translation": "生产问题：交易确认延迟2小时"
+  },
+  {
+    "source": "The FIX engine isn't decoding nested repeating groups",
+    "translation": "FIX引擎无法解码嵌套重复组"
+  },
+  {
+    "source": "Let's add circuit breakers to the SWIFT gateway",
+    "translation": "给SWIFT网关添加熔断机制"
+  },
+  {
+    "source": "The collateral optimization job is CPU-bound",
+    "translation": "抵押品优化任务受CPU限制"
+  },
+  {
+    "source": "Need BA input on the FX position limits",
+    "translation": "需要业务分析师说明外汇头寸限额"
+  },
+  {
+    "source": "The CI pipeline is failing code signing checks",
+    "translation": "持续集成流水线代码签名检查失败"
+  },
+  {
+    "source": "Let's mob debug the settlement date calculation",
+    "translation": "集体调试结算日计算逻辑"
+  },
+  {
+    "source": "The SWIFT FIN queue depth is critical",
+    "translation": "SWIFT FIN队列深度告急"
+  },
+  {
+    "source": "My PR needs approval from fixed income team",
+    "translation": "我的合并请求需固收团队批准"
+  },
+  {
+    "source": "The bond accrual logic mismatches Bloomberg",
+    "translation": "债券计息逻辑与彭博系统不符"
+  },
+  {
+    "source": "Let's document the failover steps for Kafka",
+    "translation": "编写Kafka故障转移步骤文档"
+  },
+  {
+    "source": "The FpML trade capture is missing party roles",
+    "translation": "FpML交易捕获缺少参与方角色"
+  },
+  {
+    "source": "Prod alert: FX spot rates stale",
+    "translation": "生产告警：外汇即期汇率数据陈旧"
+  },
+  {
+    "source": "Can we automate the MT940 reconciliation?",
+    "translation": "能自动化MT940对账吗？"
+  },
+  {
+    "source": "The Jira subtask dependencies are unclear",
+    "translation": "Jira子任务依赖关系不明确"
+  },
+  {
+    "source": "Let's add tracing to the payment workflow",
+    "translation": "为支付流程添加追踪"
+  },
+  {
+    "source": "The FIX log parser needs millisecond precision",
+    "translation": "FIX日志解析器需毫秒级精度"
+  },
+  {
+    "source": "Need compliance approval for the new SWIFT format",
+    "translation": "需合规部门批准新SWIFT格式"
+  },
+  {
+    "source": "The bond settlement instruction is malformed",
+    "translation": "债券结算指令格式错误"
+  },
+  {
+    "source": "Let's pair on the Lombok builder implementation",
+    "translation": "结对实现Lombok构建器"
+  },
+  {
+    "source": "The FX forward curve calibration is off",
+    "translation": "外汇远期曲线校准偏差"
+  },
+  {
+    "source": "Prod deployment blocked by config server issue",
+    "translation": "配置服务器问题阻碍生产部署"
+  },
+  {
+    "source": "Need to validate the ISDA CDM mappings",
+    "translation": "需验证ISDA通用领域模型映射"
+  },
+  {
+    "source": "The Redis cluster needs failover testing",
+    "translation": "Redis集群需故障转移测试"
+  },
+  {
+    "source": "Let's schedule a threat modeling session",
+    "translation": "安排威胁建模会议"
+  },
+  {
+    "source": "The MT798 payment advice is missing beneficiaries",
+    "translation": "MT798付款通知缺少受益人信息"
+  },
+  {
+    "source": "Can we implement dark mode for the trading UI?",
+    "translation": "能为交易界面实现深色模式吗？"
+  },
+  {
+    "source": "The collateral haircut model needs refinement",
+    "translation": "抵押品折价模型需优化"
+  },
+  {
+    "source": "Let's add circuit breakers to the FIX session",
+    "translation": "给FIX会话添加熔断机制"
+  },
+  {
+    "source": "The CI pipeline needs parallel test execution",
+    "translation": "持续集成流水线需并行测试"
+  },
+  {
+    "source": "Prod issue: Trade enrichment service OOM errors",
+    "translation": "生产问题：交易增强服务内存溢出"
+  },
+  {
+    "source": "Need to reconcile the repo margin calls",
+    "translation": "需核对回购保证金催缴"
+  },
+  {
+    "source": "The FpML validator is rejecting valid trades",
+    "translation": "FpML验证器拒绝有效交易"
+  },
+  {
+    "source": "Let's implement canary testing for the FX API",
+    "translation": "为外汇API实施金丝雀测试"
+  },
+  {
+    "source": "The JVM is throwing metaspace errors",
+    "translation": "JVM抛出元空间错误"
+  },
+  {
+    "source": "Need to update the SWIFT dictionary version",
+    "translation": "需升级SWIFT字典版本"
+  },
+  {
+    "source": "The bond redemption process is manual",
+    "translation": "债券赎回流程为手动操作"
+  },
+  {
+    "source": "Let's add chaos experiments for Redis",
+    "translation": "为Redis添加混沌实验"
+  },
+  {
+    "source": "The FIX session is rejecting logon attempts",
+    "translation": "FIX会话拒绝登录尝试"
+  },
+  {
+    "source": "Need to document the collateral substitution flow",
+    "translation": "需编写抵押品替换流程文档"
+  },
+  {
+    "source": "The MT535 holdings report has timestamp issues",
+    "translation": "MT535持仓报告时间戳问题"
+  },
+  {
+    "source": "Let's optimize the FX rate caching strategy",
+    "translation": "优化外汇汇率缓存策略"
+  },
+  {
+    "source": "The deployment pipeline needs artifact signing",
+    "translation": "部署流水线需制品签名"
+  },
+  {
+    "source": "Prod alert: Trade confirmation queue backlogged",
+    "translation": "生产告警：交易确认队列积压"
+  },
+  {
+    "source": "Need to implement FIX message checksums",
+    "translation": "需实现FIX报文校验和"
+  },
+  {
+    "source": "The credit limit check is bypassing validation",
+    "translation": "信用额度检查跳过验证"
+  },
+  {
+    "source": "Let's add distributed tracing to gRPC calls",
+    "translation": "为gRPC调用添加分布式追踪"
+  },
+  {
+    "source": "The bond coupon payment schedule is incorrect",
+    "translation": "债券票息支付计划错误"
+  },
+  {
+    "source": "Need to reconcile nostro account statements",
+    "translation": "需核对往来账户对账单"
+  },
+  {
+    "source": "The FIX session keeps disconnecting",
+    "translation": "FIX会话频繁断开"
+  },
+  {
+    "source": "We need to backfill tests for legacy code",
+    "translation": "需要为遗留代码补充测试"
+  },
+  {
+    "source": "The performance baseline needs re-establishing",
+    "translation": "需要重新建立性能基准"
+  },
+  {
+    "source": "Can you check the ELK logs for exceptions?",
+    "translation": "能查下ELK日志的异常吗？"
+  },
+  {
+    "source": "The MT103 parser isn't handling extended characters",
+    "translation": "MT103解析器不支持扩展字符"
+  },
+  {
+    "source": "Let's add circuit breakers to the rate API calls",
+    "translation": "给汇率API调用加熔断机制"
+  },
+  {
+    "source": "The deployment pipeline needs rollback scripts",
+    "translation": "部署流水线需要回滚脚本"
+  },
+  {
+    "source": "My Docker build is failing on ARM architecture",
+    "translation": "Docker构建在ARM架构失败"
+  },
+  {
+    "source": "The bond duration calculation needs decimal precision",
+    "translation": "债券久期计算需要更高小数精度"
+  },
+  {
+    "source": "The product roadmap needs reprioritization after client feedback",
+    "translation": "根据客户反馈需重新调整产品路线图优先级"
+  },
+  {
+    "source": "Who owns the end-to-end testing for the FX module?",
+    "translation": "外汇模块端到端测试由谁负责？"
+  },
+  {
+    "source": "Let's escalate the SWIFT certification delay to stakeholders",
+    "translation": "需向利益相关方上报SWIFT认证延迟问题"
+  },
+  {
+    "source": "The sprint review demo needs dry run practice",
+    "translation": "迭代评审演示需进行预演排练"
+  },
+  {
+    "source": "Our retro action items from last sprint are 80% complete",
+    "translation": "上轮回顾行动项完成度80%"
+  },
+  {
+    "source": "The Jira subtask estimation doesn't match parent story",
+    "translation": "子任务估算与父故事不匹配"
+  },
+  {
+    "source": "Can we validate the trade capture workflow with ops?",
+    "translation": "能否与运维团队验证交易捕获流程？"
+  },
+  {
+    "source": "The FIX message validation is missing in test cases",
+    "translation": "测试用例缺少FIX报文验证"
+  },
+  {
+    "source": "Let's capture the MT940 parsing lessons learned",
+    "translation": "记录MT940解析的经验教训"
+  },
+  {
+    "source": "Our CI pipeline needs better failure notifications",
+    "translation": "持续集成流水线需改进失败通知"
+  },
+  {
+    "source": "The sprint demo environment isn't provisioned yet",
+    "translation": "迭代演示环境尚未准备就绪"
+  },
+  {
+    "source": "Who can assist with the Bloomberg API integration?",
+    "translation": "谁能协助彭博API集成？"
+  },
+  {
+    "source": "The collateral management UI needs UX validation",
+    "translation": "抵押品管理界面需用户体验验证"
+  },
+  {
+    "source": "Let's add the Redis cluster scaling to the risk register",
+    "translation": "将Redis集群扩展加入风险登记册"
+  },
+  {
+    "source": "The SWIFT MT message numbering is inconsistent",
+    "translation": "SWIFT MT报文编号不一致"
+  },
+  {
+    "source": "Our velocity is impacted by production support",
+    "translation": "生产环境支持工作影响团队速率"
+  },
+  {
+    "source": "The FpML trade confirmation latency exceeds SLA",
+    "translation": "FpML交易确认延迟超出服务协议"
+  },
+  {
+    "source": "Can we get BA sign-off on the interest calculation?",
+    "translation": "能否获得业务分析师对利息计算的确认？"
+  },
+  {
+    "source": "The bond settlement cut-off time is approaching",
+    "translation": "债券结算截止时间临近"
+  },
+  {
+    "source": "Let's create a parking lot for the Lombok debate",
+    "translation": "将Lombok争议暂存问题停车场"
+  },
+  {
+    "source": "The Kafka consumer lag alert needs threshold tuning",
+    "translation": "需调整Kafka消费延迟告警阈值"
+  },
+  {
+    "source": "Our daily standup is exceeding 15 minutes regularly",
+    "translation": "每日站会经常超时15分钟"
+  },
+  {
+    "source": "The FX rate caching strategy requires performance testing",
+    "translation": "汇率缓存策略需性能测试"
+  },
+  {
+    "source": "Who can demo the new SWIFT interface tomorrow?",
+    "translation": "明天谁能演示新SWIFT接口？"
+  },
+  {
+    "source": "The Jira epic links to compliance requirements are missing",
+    "translation": "Jira史诗缺少合规要求链接"
+  },
+  {
+    "source": "Let's schedule a war room for the EOD batch failure",
+    "translation": "为日终批处理故障安排作战室会议"
+  },
+  {
+    "source": "The FIX session recovery mechanism isn't robust",
+    "translation": "FIX会话恢复机制不够健壮"
+  },
+  {
+    "source": "Our definition of done needs security review inclusion",
+    "translation": "完成的定义需包含安全审查"
+  },
+  {
+    "source": "The MT535 reconciliation discrepancies are critical",
+    "translation": "MT535对账差异属关键问题"
+  },
+  {
+    "source": "Can we pair a junior with the FpML expert?",
+    "translation": "能否让初级员工与FpML专家结对？"
+  },
+  {
+    "source": "The sprint goal achievement is at 65% currently",
+    "translation": "当前迭代目标完成度65%"
+  },
+  {
+    "source": "The Redis cluster failover test failed twice",
+    "translation": "Redis集群故障转移测试两次失败"
+  },
+  {
+    "source": "Let's update the RAID log with the new risk items",
+    "translation": "将新风险项加入RAID日志"
+  },
+  {
+    "source": "The FX option pricing model needs quant validation",
+    "translation": "外汇期权定价模型需量化团队验证"
+  },
+  {
+    "source": "Our retrospective action items lack ownership",
+    "translation": "回顾会议行动项缺少负责人"
+  },
+  {
+    "source": "The Jira board columns don't reflect current workflow",
+    "translation": "Jira看板列未反映当前工作流"
+  },
+  {
+    "source": "Can we automate the MT799 confirmation process?",
+    "translation": "能否自动化MT799确认流程？"
+  },
+  {
+    "source": "The CI pipeline needs parallel job execution",
+    "translation": "持续集成流水线需并行任务执行"
+  },
+  {
+    "source": "Let's create a spike for container security scanning",
+    "translation": "创建容器安全扫描技术调研"
+  },
+  {
+    "source": "The SWIFT FIN message queue depth is critical",
+    "translation": "SWIFT FIN消息队列深度告急"
+  },
+  {
+    "source": "Our burnup chart shows scope changes clearly",
+    "translation": "燃起图清晰显示范围变更"
+  },
+  {
+    "source": "The FIX dictionary upgrade needs regression testing",
+    "translation": "FIX字典升级需回归测试"
+  },
+  {
+    "source": "Can we validate the disaster recovery runbook?",
+    "translation": "能否验证灾难恢复手册？"
+  },
+  {
+    "source": "The bond redemption automation is behind schedule",
+    "translation": "债券赎回自动化进度滞后"
+  },
+  {
+    "source": "Let's add the infrastructure cost to the epic",
+    "translation": "将基础设施成本加入史诗"
+  },
+  {
+    "source": "The Kafka topic retention policy needs adjustment",
+    "translation": "需调整Kafka主题保留策略"
+  },
+  {
+    "source": "Our code review checklist is missing security items",
+    "translation": "代码审查清单缺少安全项"
+  },
+  {
+    "source": "The FX spot rate caching TTL is too short",
+    "translation": "即期汇率缓存有效期过短"
+  },
+  {
+    "source": "Let's schedule load testing during off-peak hours",
+    "translation": "安排在非高峰时段进行负载测试"
+  },
+  {
+    "source": "The MT548 corporate action processing is manual",
+    "translation": "MT548公司行为处理为人工操作"
+  },
+  {
+    "source": "Our defect leakage rate to production is increasing",
+    "translation": "缺陷逃逸到生产环境的比率上升"
+  },
+  {
+    "source": "The FpML validation errors need triaging",
+    "translation": "FpML验证错误需分级处理"
+  },
+  {
+    "source": "Can we implement dark launches for the SWIFT upgrade?",
+    "translation": "能否为SWIFT升级实施暗发布？"
+  },
+  {
+    "source": "The Jira filter for tech debt needs updating",
+    "translation": "技术债务的Jira过滤器需更新"
+  },
+  {
     "source": "Let's deploy the Spring Boot app",
     "translation": "让我们部署Spring Boot应用"
   },
@@ -222,6 +1262,202 @@
   {
     "source": "Let's implement a new monitoring dashboard",
     "translation": "让我们实现新的监控仪表板"
+  },
+  {
+    "source": "Who has dependencies on the SWIFT interface task?",
+    "translation": "谁的工作依赖SWIFT接口任务？"
+  },
+  {
+    "source": "Let's timebox this discussion to 7 minutes",
+    "translation": "限时7分钟讨论这个议题"
+  },
+  {
+    "source": "The sprint goal is at risk due to the FIX engine delay",
+    "translation": "FIX引擎延迟危及迭代目标"
+  },
+  {
+    "source": "Can we break this epic into smaller user stories?",
+    "translation": "能把大需求拆成更小的用户故事吗？"
+  },
+  {
+    "source": "I'll need a spike to research the MT940 parser",
+    "translation": "需要技术调研MT940解析器"
+  },
+  {
+    "source": "The Definition of Done needs clearer acceptance criteria",
+    "translation": "完成的定义需要更明确的验收标准"
+  },
+  {
+    "source": "Our velocity is 35 story points based on last sprint",
+    "translation": "根据上轮迭代团队速率是35故事点"
+  },
+  {
+    "source": "The bond pricing story carries high complexity",
+    "translation": "债券定价故事复杂度较高"
+  },
+  {
+    "source": "Let's move this technical debt to the parking lot",
+    "translation": "将此技术债移至问题停车场"
+  },
+  {
+    "source": "Who can pair with frontend on the FX rate display?",
+    "translation": "谁能协助前端开发汇率展示？"
+  },
+  {
+    "source": "The SWIFT certification is blocking our deployment",
+    "translation": "SWIFT认证阻碍部署进度"
+  },
+  {
+    "source": "We need PO clarification on the ISDA SIMM rules",
+    "translation": "需产品负责人明确ISDA SIMM规则"
+  },
+  {
+    "source": "The Redis cluster setup is stretching our capacity",
+    "translation": "Redis集群搭建超出当前人力"
+  },
+  {
+    "source": "Let's add a subtask for performance testing",
+    "translation": "添加性能测试子任务"
+  },
+  {
+    "source": "The MT103 validation should be a separate story",
+    "translation": "MT103验证应作为独立用户故事"
+  },
+  {
+    "source": "Our daily commits are below the team norm",
+    "translation": "代码提交频率低于团队基准"
+  },
+  {
+    "source": "The Jira ticket lacks error scenario coverage",
+    "translation": "Jira工单缺少异常场景覆盖"
+  },
+  {
+    "source": "Can we swarm on the settlement batch failure?",
+    "translation": "能否集体攻关结算批处理故障？"
+  },
+  {
+    "source": "The FpML schema changes require regression testing",
+    "translation": "FpML模式变更需回归测试"
+  },
+  {
+    "source": "Let's capture that risk in the RAID log",
+    "translation": "将此风险记入RAID日志"
+  },
+  {
+    "source": "The CI pipeline flakiness is impacting velocity",
+    "translation": "CI流水线不稳定影响开发效率"
+  },
+  {
+    "source": "We need cross-team alignment on the Kafka topics",
+    "translation": "需跨团队对齐Kafka主题规范"
+  },
+  {
+    "source": "The 3-amigos session uncovered missing edge cases",
+    "translation": "三友会议发现遗漏边界条件"
+  },
+  {
+    "source": "Our retro action item from last sprint is incomplete",
+    "translation": "上轮回顾行动项未完成"
+  },
+  {
+    "source": "The trade confirmation UX needs usability testing",
+    "translation": "交易确认界面需可用性测试"
+  },
+  {
+    "source": "Let's re-estimate this story considering the FIX complexity",
+    "translation": "结合FIX协议复杂度重新估算此故事"
+  },
+  {
+    "source": "The collateral calculation requires BA validation",
+    "translation": "抵押品计算需业务分析师确认"
+  },
+  {
+    "source": "Our WIP limit is exceeded due to SWIFT dependencies",
+    "translation": "因SWIFT依赖超出在制品限制"
+  },
+  {
+    "source": "The API contract needs sign-off from quant team",
+    "translation": "API契约需量化团队签署确认"
+  },
+  {
+    "source": "Let's create an impediment ticket for the JVM crash",
+    "translation": "为JVM崩溃创建障碍工单"
+  },
+  {
+    "source": "The MT799 confirmation process is manual now",
+    "translation": "MT799确认流程目前为手动"
+  },
+  {
+    "source": "Our sprint burndown shows scope creep",
+    "translation": "迭代燃尽图显示范围蔓延"
+  },
+  {
+    "source": "The FIX dictionary versioning needs alignment",
+    "translation": "FIX字典版本需统一"
+  },
+  {
+    "source": "Can we defer the Lombok migration to next sprint?",
+    "translation": "能否将Lombok迁移推迟到下轮迭代？"
+  },
+  {
+    "source": "The EOD reconciliation job is a critical path",
+    "translation": "日终对账任务是关键路径"
+  },
+  {
+    "source": "We need compliance approval for the new workflow",
+    "translation": "需合规部门批准新流程"
+  },
+  {
+    "source": "The bond settlement story has external dependencies",
+    "translation": "债券结算故事存在外部依赖"
+  },
+  {
+    "source": "Let's schedule a code walkthrough for the FpML parser",
+    "translation": "安排FpML解析器代码走查"
+  },
+  {
+    "source": "Our retrospective format needs more energy",
+    "translation": "回顾会议形式需要更活跃"
+  },
+  {
+    "source": "The Kafka consumer lag is becoming a bottleneck",
+    "translation": "Kafka消费延迟成为瓶颈"
+  },
+  {
+    "source": "We need to update the team working agreement",
+    "translation": "需更新团队工作协议"
+  },
+  {
+    "source": "The FX rate caching story requires ops support",
+    "translation": "汇率缓存故事需运维支持"
+  },
+  {
+    "source": "Let's capture that learning in the team wiki",
+    "translation": "将此经验记录到团队Wiki"
+  },
+  {
+    "source": "The MT535 reconciliation discrepancies need triage",
+    "translation": "MT535对账差异需分级处理"
+  },
+  {
+    "source": "Our definition of ready needs refinement",
+    "translation": "就绪定义需完善"
+  },
+  {
+    "source": "The FIX log analysis should be automated",
+    "translation": "FIX日志分析应自动化"
+  },
+  {
+    "source": "We're seeing scope creep in the SWIFT upgrade",
+    "translation": "SWIFT升级出现范围蔓延"
+  },
+  {
+    "source": "Let's create a spike for the yield curve model",
+    "translation": "为收益率曲线模型创建技术调研"
+  },
+  {
+    "source": "The Jira epic links are missing dependencies",
+    "translation": "Jira史诗链接缺少依赖关系"
   },
   {
     "source": "The foreign exchange reserves are decreasing",
@@ -1190,5 +2426,1989 @@
   {
     "source": "The bond yield curve is flattening",
     "translation": "债券收益率曲线正在变平"
+  },
+  {
+    "source": "Implement service mesh with Istio",
+    "translation": "使用Istio实现服务网格"
+  },
+  {
+    "source": "The FX forward curve shows future expectations",
+    "translation": "外汇远期曲线反映未来预期"
+  },
+  {
+    "source": "Use Cucumber for BDD testing",
+    "translation": "使用Cucumber进行行为驱动开发测试"
+  },
+  {
+    "source": "Credit-linked notes (CLN) transfer credit risk",
+    "translation": "信用联结票据(CLN)转移信用风险"
+  },
+  {
+    "source": "Configure distributed caching with Hazelcast",
+    "translation": "使用Hazelcast配置分布式缓存"
+  },
+  {
+    "source": "The MT103+ format extends payment details",
+    "translation": "MT103+格式扩展支付详情"
+  },
+  {
+    "source": "Implement dark pool order matching logic",
+    "translation": "实现暗池订单匹配逻辑"
+  },
+  {
+    "source": "Use Lombok's @NonNull for null checks",
+    "translation": "使用Lombok的@NonNull进行空值检查"
+  },
+  {
+    "source": "The volatility skew impacts option strategies",
+    "translation": "波动率偏斜影响期权策略"
+  },
+  {
+    "source": "Automate trade reconciliation processes",
+    "translation": "自动化交易对账流程"
+  },
+  {
+    "source": "Implement API gateway throttling",
+    "translation": "实现API网关流量控制"
+  },
+  {
+    "source": "The CTD bond affects futures pricing",
+    "translation": "最便宜交割债券(CTD)影响期货定价"
+  },
+  {
+    "source": "Use Spock framework for Groovy testing",
+    "translation": "使用Spock框架进行Groovy测试"
+  },
+  {
+    "source": "The scrum team uses planning poker",
+    "translation": "Scrum团队使用计划扑克估算"
+  },
+  {
+    "source": "FX swaps involve spot and forward legs",
+    "translation": "外汇互换包含即期和远期部分"
+  },
+  {
+    "source": "Let's debug this Java method",
+    "translation": "让我们调试这个Java方法"
+  },
+  {
+    "source": "The Spring Boot app is running",
+    "translation": "Spring Boot应用正在运行"
+  },
+  {
+    "source": "Push your code to Git",
+    "translation": "把你的代码推送到Git"
+  },
+  {
+    "source": "We need to fix this bug",
+    "translation": "我们需要修复这个bug"
+  },
+  {
+    "source": "The API response is slow",
+    "translation": "API响应很慢"
+  },
+  {
+    "source": "Let's review the pull request",
+    "translation": "让我们审查这个拉取请求"
+  },
+  {
+    "source": "The sprint backlog is full",
+    "translation": "迭代待办事项已满"
+  },
+  {
+    "source": "We need more unit tests",
+    "translation": "我们需要更多单元测试"
+  },
+  {
+    "source": "The currency pair is volatile",
+    "translation": "货币对波动很大"
+  },
+  {
+    "source": "Check the bond yield",
+    "translation": "检查债券收益率"
+  },
+  {
+    "source": "The deposit rate changed",
+    "translation": "存款利率变了"
+  },
+  {
+    "source": "Let's optimize this query",
+    "translation": "让我们优化这个查询"
+  },
+  {
+    "source": "The build failed again",
+    "translation": "构建又失败了"
+  },
+  {
+    "source": "We need to refactor this",
+    "translation": "我们需要重构这个"
+  },
+  {
+    "source": "The forex market is active",
+    "translation": "外汇市场很活跃"
+  },
+  {
+    "source": "Check the API docs",
+    "translation": "查看API文档"
+  },
+  {
+    "source": "The interest rate rose",
+    "translation": "利率上升了"
+  },
+  {
+    "source": "Let's deploy to staging",
+    "translation": "让我们部署到预发布环境"
+  },
+  {
+    "source": "The backlog needs grooming",
+    "translation": "待办事项需要梳理"
+  },
+  {
+    "source": "We need better logging",
+    "translation": "我们需要更好的日志"
+  },
+  {
+    "source": "The bond price dropped",
+    "translation": "债券价格下跌了"
+  },
+  {
+    "source": "Let's pair program this",
+    "translation": "让我们结对编程这个"
+  },
+  {
+    "source": "The API is down",
+    "translation": "API挂了"
+  },
+  {
+    "source": "We need more test coverage",
+    "translation": "我们需要更多测试覆盖率"
+  },
+  {
+    "source": "The currency is strengthening",
+    "translation": "货币正在走强"
+  },
+  {
+    "source": "Check the deposit terms",
+    "translation": "查看存款条款"
+  },
+  {
+    "source": "Let's write some docs",
+    "translation": "让我们写些文档"
+  },
+  {
+    "source": "The build passed",
+    "translation": "构建通过了"
+  },
+  {
+    "source": "We need to scale the app",
+    "translation": "我们需要扩展应用"
+  },
+  {
+    "source": "The bond yield is stable",
+    "translation": "债券收益率稳定"
+  },
+  {
+    "source": "Let's add some metrics",
+    "translation": "让我们添加一些指标"
+  },
+  {
+    "source": "The API needs throttling",
+    "translation": "API需要限流"
+  },
+  {
+    "source": "We need better error handling",
+    "translation": "我们需要更好的错误处理"
+  },
+  {
+    "source": "The forex rate changed",
+    "translation": "外汇汇率变了"
+  },
+  {
+    "source": "Let's fix this vulnerability",
+    "translation": "让我们修复这个漏洞"
+  },
+  {
+    "source": "The deposit matured",
+    "translation": "存款到期了"
+  },
+  {
+    "source": "We need to cache this",
+    "translation": "我们需要缓存这个"
+  },
+  {
+    "source": "The bond market is quiet",
+    "translation": "债券市场很平静"
+  },
+  {
+    "source": "Let's improve the UX",
+    "translation": "让我们改进用户体验"
+  },
+  {
+    "source": "The API needs authentication",
+    "translation": "API需要认证"
+  },
+  {
+    "source": "We need to monitor this",
+    "translation": "我们需要监控这个"
+  },
+  {
+    "source": "The currency is weakening",
+    "translation": "货币正在走弱"
+  },
+  {
+    "source": "Let's automate this test",
+    "translation": "让我们自动化这个测试"
+  },
+  {
+    "source": "The deposit rate is good",
+    "translation": "存款利率不错"
+  },
+  {
+    "source": "We need to secure this API",
+    "translation": "我们需要保护这个API"
+  },
+  {
+    "source": "The bond yield is attractive",
+    "translation": "债券收益率很有吸引力"
+  },
+  {
+    "source": "Let's document this endpoint",
+    "translation": "让我们记录这个端点"
+  },
+  {
+    "source": "The forex market is calm",
+    "translation": "外汇市场很平静"
+  },
+  {
+    "source": "We need to optimize this",
+    "translation": "我们需要优化这个"
+  },
+  {
+    "source": "The Java stack trace shows an NPE",
+    "translation": "Java堆栈跟踪显示空指针异常"
+  },
+  {
+    "source": "We should implement a circuit breaker",
+    "translation": "我们应该实现一个断路器"
+  },
+  {
+    "source": "The microservices need better observability",
+    "translation": "微服务需要更好的可观测性"
+  },
+  {
+    "source": "Let's create a feature branch",
+    "translation": "让我们创建一个特性分支"
+  },
+  {
+    "source": "The CI/CD pipeline needs improvement",
+    "translation": "CI/CD流水线需要改进"
+  },
+  {
+    "source": "We need to handle this edge case",
+    "translation": "我们需要处理这个边界情况"
+  },
+  {
+    "source": "The currency swap rate is favorable",
+    "translation": "货币互换汇率很有利"
+  },
+  {
+    "source": "Let's analyze the heap dump",
+    "translation": "让我们分析堆转储"
+  },
+  {
+    "source": "The bond duration is 5 years",
+    "translation": "债券久期是5年"
+  },
+  {
+    "source": "We need to implement rate limiting",
+    "translation": "我们需要实现速率限制"
+  },
+  {
+    "source": "The forex position needs hedging",
+    "translation": "外汇头寸需要对冲"
+  },
+  {
+    "source": "Let's create a technical design document",
+    "translation": "让我们创建一个技术设计文档"
+  },
+  {
+    "source": "The deposit account has been opened",
+    "translation": "存款账户已开通"
+  },
+  {
+    "source": "We need to improve the API contract",
+    "translation": "我们需要改进API契约"
+  },
+  {
+    "source": "The bond coupon payment is due",
+    "translation": "债券票息支付到期"
+  },
+  {
+    "source": "Let's implement a retry mechanism",
+    "translation": "让我们实现一个重试机制"
+  },
+  {
+    "source": "The currency peg is being maintained",
+    "translation": "货币挂钩正在维持"
+  },
+  {
+    "source": "We need to document the architecture",
+    "translation": "我们需要记录架构"
+  },
+  {
+    "source": "The deposit interest is compounding",
+    "translation": "存款利息正在复利"
+  },
+  {
+    "source": "Let's implement a caching strategy",
+    "translation": "让我们实现一个缓存策略"
+  },
+  {
+    "source": "The bond issuance was successful",
+    "translation": "债券发行成功"
+  },
+  {
+    "source": "We need to improve the error messages",
+    "translation": "我们需要改进错误信息"
+  },
+  {
+    "source": "The currency basket is being rebalanced",
+    "translation": "货币篮子正在重新平衡"
+  },
+  {
+    "source": "Let's create a deployment checklist",
+    "translation": "让我们创建一个部署清单"
+  },
+  {
+    "source": "The deposit maturity date is approaching",
+    "translation": "存款到期日临近"
+  },
+  {
+    "source": "We need to implement a fallback mechanism",
+    "translation": "我们需要实现一个回退机制"
+  },
+  {
+    "source": "The bond rating was upgraded",
+    "translation": "债券评级被提升"
+  },
+  {
+    "source": "Let's implement a feature toggle",
+    "translation": "让我们实现一个功能开关"
+  },
+  {
+    "source": "The currency volatility is increasing",
+    "translation": "货币波动性正在增加"
+  },
+  {
+    "source": "We need to document the API endpoints",
+    "translation": "我们需要记录API端点"
+  },
+  {
+    "source": "The deposit rollover was completed",
+    "translation": "存款展期已完成"
+  },
+  {
+    "source": "Let's implement a monitoring dashboard",
+    "translation": "让我们实现一个监控仪表板"
+  },
+  {
+    "source": "The bond yield curve is flattening",
+    "translation": "债券收益率曲线正在变平"
+  },
+  {
+    "source": "We need to improve the deployment process",
+    "translation": "我们需要改进部署流程"
+  },
+  {
+    "source": "The currency forward rate is favorable",
+    "translation": "货币远期汇率很有利"
+  },
+  {
+    "source": "Let's implement a canary release",
+    "translation": "让我们实现一个金丝雀发布"
+  },
+  {
+    "source": "The deposit interest rate is competitive",
+    "translation": "存款利率很有竞争力"
+  },
+  {
+    "source": "We need to document the data model",
+    "translation": "我们需要记录数据模型"
+  },
+  {
+    "source": "The bond auction was oversubscribed",
+    "translation": "债券拍卖超额认购"
+  },
+  {
+    "source": "Let's implement a blue-green deployment",
+    "translation": "让我们实现一个蓝绿部署"
+  },
+  {
+    "source": "The currency swap spread is widening",
+    "translation": "货币互换利差正在扩大"
+  },
+  {
+    "source": "We need to improve the logging format",
+    "translation": "我们需要改进日志格式"
+  },
+  {
+    "source": "The deposit account was closed",
+    "translation": "存款账户已关闭"
+  },
+  {
+    "source": "Let's implement a feature flag system",
+    "translation": "让我们实现一个功能标志系统"
+  },
+  {
+    "source": "The bond market is showing signs of recovery",
+    "translation": "债券市场显示出复苏迹象"
+  },
+  {
+    "source": "We need to document the security model",
+    "translation": "我们需要记录安全模型"
+  },
+  {
+    "source": "The currency futures are trading at a premium",
+    "translation": "货币期货正在溢价交易"
+  },
+  {
+    "source": "Let's implement a chaos engineering framework",
+    "translation": "让我们实现一个混沌工程框架"
+  },
+  {
+    "source": "The deposit interest is being calculated",
+    "translation": "存款利息正在计算"
+  },
+  {
+    "source": "We need to improve the API documentation",
+    "translation": "我们需要改进API文档"
+  },
+  {
+    "source": "The bond issuance was delayed",
+    "translation": "债券发行被推迟"
+  },
+  {
+    "source": "Let's implement a service mesh",
+    "translation": "让我们实现一个服务网格"
+  },
+  {
+    "source": "The currency options are expiring soon",
+    "translation": "货币期权即将到期"
+  },
+  {
+    "source": "We need to document the deployment process",
+    "translation": "我们需要记录部署流程"
+  },
+  {
+    "source": "The deposit account was frozen",
+    "translation": "存款账户被冻结"
+  },
+  {
+    "source": "Let's implement a distributed tracing system",
+    "translation": "让我们实现一个分布式追踪系统"
+  },
+  {
+    "source": "The bond market is experiencing volatility",
+    "translation": "债券市场正在经历波动"
+  },
+  {
+    "source": "We need to improve the error handling strategy",
+    "translation": "我们需要改进错误处理策略"
+  },
+  {
+    "source": "The currency swap was executed successfully",
+    "translation": "货币互换成功执行"
+  },
+  {
+    "source": "Let's implement a feature toggle dashboard",
+    "translation": "让我们实现一个功能开关仪表板"
+  },
+  {
+    "source": "The deposit interest rate was adjusted",
+    "translation": "存款利率已调整"
+  },
+  {
+    "source": "We need to document the monitoring setup",
+    "translation": "我们需要记录监控设置"
+  },
+  {
+    "source": "The bond yield spread is narrowing",
+    "translation": "债券收益率利差正在缩小"
+  },
+  {
+    "source": "Let's implement a canary analysis dashboard",
+    "translation": "让我们实现一个金丝雀分析仪表板"
+  },
+  {
+    "source": "The currency forward contract was settled",
+    "translation": "货币远期合约已结算"
+  },
+  {
+    "source": "We need to improve the API versioning strategy",
+    "translation": "我们需要改进API版本控制策略"
+  },
+  {
+    "source": "The deposit account was reopened",
+    "translation": "存款账户已重新开通"
+  },
+  {
+    "source": "Let's implement a feature flag management system",
+    "translation": "让我们实现一个功能标志管理系统"
+  },
+  {
+    "source": "The bond market is showing signs of stability",
+    "translation": "债券市场显示出稳定迹象"
+  },
+  {
+    "source": "We need to document the incident response process",
+    "translation": "我们需要记录事件响应流程"
+  },
+  {
+    "source": "The currency futures are trading at a discount",
+    "translation": "货币期货正在折价交易"
+  },
+  {
+    "source": "Let's implement a chaos engineering experiment",
+    "translation": "让我们实现一个混沌工程实验"
+  },
+  {
+    "source": "The deposit interest was credited",
+    "translation": "存款利息已入账"
+  },
+  {
+    "source": "We need to improve the API testing strategy",
+    "translation": "我们需要改进API测试策略"
+  },
+  {
+    "source": "The bond issuance was oversubscribed",
+    "translation": "债券发行超额认购"
+  },
+  {
+    "source": "Let's implement a service mesh dashboard",
+    "translation": "让我们实现一个服务网格仪表板"
+  },
+  {
+    "source": "The currency options are expiring tomorrow",
+    "translation": "货币期权明天到期"
+  },
+  {
+    "source": "We need to document the security incident process",
+    "translation": "我们需要记录安全事件流程"
+  },
+  {
+    "source": "The deposit account was unfrozen",
+    "translation": "存款账户已解冻"
+  },
+  {
+    "source": "Let's implement a distributed tracing dashboard",
+    "translation": "让我们实现一个分布式追踪仪表板"
+  },
+  {
+    "source": "The bond market is showing signs of recovery",
+    "translation": "债券市场显示出复苏迹象"
+  },
+  {
+    "source": "We need to improve the API documentation format",
+    "translation": "我们需要改进API文档格式"
+  },
+  {
+    "source": "The currency swap was executed at a favorable rate",
+    "translation": "货币互换以有利的汇率执行"
+  },
+  {
+    "source": "Let's implement a feature toggle management system",
+    "translation": "让我们实现一个功能开关管理系统"
+  },
+  {
+    "source": "The deposit interest rate was increased",
+    "translation": "存款利率已提高"
+  },
+  {
+    "source": "We need to document the monitoring alerts",
+    "translation": "我们需要记录监控警报"
+  },
+  {
+    "source": "The bond yield spread is widening",
+    "translation": "债券收益率利差正在扩大"
+  },
+  {
+    "source": "Let's implement a canary analysis framework",
+    "translation": "让我们实现一个金丝雀分析框架"
+  },
+  {
+    "source": "The currency forward contract was renewed",
+    "translation": "货币远期合约已续期"
+  },
+  {
+    "source": "We need to improve the API versioning process",
+    "translation": "我们需要改进API版本控制流程"
+  },
+  {
+    "source": "The deposit account was closed due to inactivity",
+    "translation": "存款账户因不活跃而被关闭"
+  },
+  {
+    "source": "Let's implement a feature flag dashboard",
+    "translation": "让我们实现一个功能标志仪表板"
+  },
+  {
+    "source": "The bond market is showing signs of growth",
+    "translation": "债券市场显示出增长迹象"
+  },
+  {
+    "source": "We need to document the incident response strategy",
+    "translation": "我们需要记录事件响应策略"
+  },
+  {
+    "source": "The currency futures are trading actively",
+    "translation": "货币期货交易活跃"
+  },
+  {
+    "source": "Implement zero-downtime database migrations",
+    "translation": "实现数据库零停机迁移"
+  },
+  {
+    "source": "Use Micrometer for application metrics",
+    "translation": "使用Micrometer收集应用指标"
+  },
+  {
+    "source": "The CDS spread indicates default risk",
+    "translation": "信用违约互换(CDS)利差反映违约风险"
+  },
+  {
+    "source": "Parallelize test execution with JUnit 5",
+    "translation": "使用JUnit 5并行执行测试"
+  },
+  {
+    "source": "The MT942 provides detailed account activity",
+    "translation": "MT942报文提供详细账户活动"
+  },
+  {
+    "source": "Implement reactive streams with Project Reactor",
+    "translation": "使用Project Reactor实现响应式流"
+  },
+  {
+    "source": "Tri-party repo automation reduces errors",
+    "translation": "三方回购自动化减少错误"
+  },
+  {
+    "source": "Use contract-first API design with OpenAPI",
+    "translation": "使用OpenAPI契约优先设计API"
+  },
+  {
+    "source": "The delta hedging strategy offsets risk",
+    "translation": "Delta对冲策略抵消风险"
+  },
+  {
+    "source": "Configure JVM native memory tracking",
+    "translation": "配置JVM本地内存跟踪"
+  },
+  {
+    "source": "The fixings process determines final payments",
+    "translation": "定价过程确定最终支付金额"
+  },
+  {
+    "source": "Implement shadow DOM for component isolation",
+    "translation": "使用Shadow DOM实现组件隔离"
+  },
+  {
+    "source": "Use AI/ML for trade anomaly detection",
+    "translation": "使用AI/ML检测交易异常"
+  },
+  {
+    "source": "The PV01 metric measures interest rate risk",
+    "translation": "PV01指标衡量利率风险"
+  },
+  {
+    "source": "Automate SWIFT message generation",
+    "translation": "自动化生成SWIFT报文"
+  },
+  {
+    "source": "Implement distributed sessions with Redis",
+    "translation": "使用Redis实现分布式会话"
+  },
+  {
+    "source": "The scrum board shows WIP limits",
+    "translation": "Scrum看板显示在制品限制"
+  },
+  {
+    "source": "Use Quarkus for cloud-native Java apps",
+    "translation": "使用Quarkus开发云原生Java应用"
+  },
+  {
+    "source": "Bond ladders reduce reinvestment risk",
+    "translation": "债券阶梯策略降低再投资风险"
+  },
+  {
+    "source": "Implement dark launch configuration",
+    "translation": "配置暗启动参数"
+  },
+  {
+    "source": "The MT798 handles corporate payments",
+    "translation": "MT798报文处理公司付款"
+  },
+  {
+    "source": "Use Chaos Blade for failure injection",
+    "translation": "使用Chaos Blade注入故障"
+  },
+  {
+    "source": "The FpML schema validates trade details",
+    "translation": "FpML模式验证交易详情"
+  },
+  {
+    "source": "Optimize JIT compiler settings",
+    "translation": "优化JIT编译器配置"
+  },
+  {
+    "source": "The cross-currency basis reflects market imbalances",
+    "translation": "交叉货币基差反映市场失衡"
+  },
+  {
+    "source": "Implement automated trade confirmation",
+    "translation": "实现自动化交易确认"
+  },
+  {
+    "source": "Use Envoy as API gateway proxy",
+    "translation": "使用Envoy作为API网关代理"
+  },
+  {
+    "source": "The fail-fast principle improves system resilience",
+    "translation": "快速失败原则提升系统韧性"
+  },
+  {
+    "source": "Calculate bond Z-spread accurately",
+    "translation": "精确计算债券Z利差"
+  },
+  {
+    "source": "Implement canary monitoring with Prometheus",
+    "translation": "使用Prometheus实现金丝雀监控"
+  },
+  {
+    "source": "The MT599 allows free-format messages",
+    "translation": "MT599支持自由格式报文"
+  },
+  {
+    "source": "Use GraalVM for native image compilation",
+    "translation": "使用GraalVM进行原生镜像编译"
+  },
+  {
+    "source": "The delivery versus payment (DVP) succeeded",
+    "translation": "券款对付(DVP)成功执行"
+  },
+  {
+    "source": "Implement automated rollback triggers",
+    "translation": "实现自动回滚触发器"
+  },
+  {
+    "source": "Use AI-driven code completion tools",
+    "translation": "使用AI驱动的代码补全工具"
+  },
+  {
+    "source": "Implement API circuit breaking with resilience4j",
+    "translation": "使用resilience4j实现API熔断"
+  },
+  {
+    "source": "The FX swap rollover adjusts forward points",
+    "translation": "外汇展期调整远期点差"
+  },
+  {
+    "source": "Use Testcontainers' Kafka module for integration tests",
+    "translation": "使用Testcontainers的Kafka模块进行集成测试"
+  },
+  {
+    "source": "The credit default swap spread widened",
+    "translation": "信用违约互换利差扩大"
+  },
+  {
+    "source": "Configure JVM thread dump analysis",
+    "translation": "配置JVM线程转储分析"
+  },
+  {
+    "source": "The MT535 confirms securities holdings",
+    "translation": "MT535确认证券持仓"
+  },
+  {
+    "source": "Implement dark mode persistence",
+    "translation": "实现深色模式持久化"
+  },
+  {
+    "source": "Use Lombok's @SneakyThrows for checked exceptions",
+    "translation": "使用Lombok的@SneakyThrows处理受检异常"
+  },
+  {
+    "source": "The volatility surface modeling requires calibration",
+    "translation": "波动率曲面建模需要校准"
+  },
+  {
+    "source": "Automate SWIFT message validation",
+    "translation": "自动化SWIFT报文验证"
+  },
+  {
+    "source": "Implement API request/response logging",
+    "translation": "实现API请求/响应日志记录"
+  },
+  {
+    "source": "The cheapest-to-deliver bond impacts futures",
+    "translation": "最便宜交割债券影响期货"
+  },
+  {
+    "source": "Use contract testing for microservices",
+    "translation": "为微服务实施契约测试"
+  },
+  {
+    "source": "The scrum team uses Fibonacci sequencing",
+    "translation": "Scrum团队使用斐波那契数列估算"
+  },
+  {
+    "source": "Cross-currency basis swap valuation",
+    "translation": "交叉货币基差互换估值"
+  },
+  {
+    "source": "Implement JVM crash diagnosis",
+    "translation": "实现JVM崩溃诊断"
+  },
+  {
+    "source": "The MT999 confirms message receipt",
+    "translation": "MT999确认报文接收"
+  },
+  {
+    "source": "Use AI-powered code reviews",
+    "translation": "使用AI驱动的代码审查"
+  },
+  {
+    "source": "Bond duration measures price sensitivity",
+    "translation": "债券久期衡量价格敏感性"
+  },
+  {
+    "source": "Implement automated rollback triggers",
+    "translation": "实现自动回滚触发器"
+  },
+  {
+    "source": "The FX spot rate fluctuates",
+    "translation": "外汇即期汇率波动"
+  },
+  {
+    "source": "Configure Kubernetes pod autoscaling",
+    "translation": "配置Kubernetes Pod自动扩展"
+  },
+  {
+    "source": "The repo rate impacts short-term funding",
+    "translation": "回购利率影响短期融资"
+  },
+  {
+    "source": "Use Java Flight Recorder for profiling",
+    "translation": "使用Java Flight Recorder进行性能分析"
+  },
+  {
+    "source": "Implement dark pool trade reporting",
+    "translation": "实现暗池交易报告"
+  },
+  {
+    "source": "The MT548 handles corporate actions",
+    "translation": "MT548处理公司行为"
+  },
+  {
+    "source": "Use chaos engineering for resilience testing",
+    "translation": "使用混沌工程测试系统韧性"
+  },
+  {
+    "source": "The yield curve normalization process",
+    "translation": "收益率曲线归一化处理"
+  },
+  {
+    "source": "Implement zero trust security model",
+    "translation": "实现零信任安全模型"
+  },
+  {
+    "source": "We need to refactor this Java class",
+    "translation": "我们需要重构这个Java类"
+  },
+  {
+    "source": "Spring Boot simplifies dependency injection",
+    "translation": "Spring Boot简化了依赖注入"
+  },
+  {
+    "source": "The sprint backlog needs prioritization",
+    "translation": "迭代待办事项需要优先级排序"
+  },
+  {
+    "source": "FX rates fluctuate constantly",
+    "translation": "外汇汇率持续波动"
+  },
+  {
+    "source": "Deploy the microservice to Kubernetes",
+    "translation": "将微服务部署到Kubernetes"
+  },
+  {
+    "source": "Structured deposits have embedded derivatives",
+    "translation": "结构性存款包含嵌入式衍生品"
+  },
+  {
+    "source": "Handle null pointers properly",
+    "translation": "妥善处理空指针"
+  },
+  {
+    "source": "The bond yield curve inverted",
+    "translation": "债券收益率曲线出现倒挂"
+  },
+  {
+    "source": "Implement OAuth2 security",
+    "translation": "实现OAuth2安全认证"
+  },
+  {
+    "source": "Daily standup at 10am sharp",
+    "translation": "每日站会上午10点整开始"
+  },
+  {
+    "source": "Currency hedging reduces FX risks",
+    "translation": "货币对冲降低外汇风险"
+  },
+  {
+    "source": "Debug the API timeout issue",
+    "translation": "调试API超时问题"
+  },
+  {
+    "source": "Use JPA for database operations",
+    "translation": "使用JPA进行数据库操作"
+  },
+  {
+    "source": "The PO approved the user stories",
+    "translation": "产品负责人通过了用户故事"
+  },
+  {
+    "source": "Calculate accrued interest daily",
+    "translation": "每日计算应计利息"
+  },
+  {
+    "source": "Containerize the legacy system",
+    "translation": "将遗留系统容器化"
+  },
+  {
+    "source": "Trade confirmation requires SWIFT messages",
+    "translation": "交易确认需要SWIFT报文"
+  },
+  {
+    "source": "Implement circuit breaker pattern",
+    "translation": "实现熔断器模式"
+  },
+  {
+    "source": "Update the burn-down chart",
+    "translation": "更新燃尽图"
+  },
+  {
+    "source": "Corporate bonds carry credit risks",
+    "translation": "公司债券存在信用风险"
+  },
+  {
+    "source": "The cache invalidation logic is flawed",
+    "translation": "缓存失效逻辑存在缺陷"
+  },
+  {
+    "source": "Set up CI/CD pipelines",
+    "translation": "建立持续集成/交付流水线"
+  },
+  {
+    "source": "Cross-currency swaps involve notional exchanges",
+    "translation": "交叉货币互换涉及名义本金交换"
+  },
+  {
+    "source": "Handle concurrency with locks",
+    "translation": "使用锁处理并发问题"
+  },
+  {
+    "source": "The product roadmap needs adjustment",
+    "translation": "产品路线图需要调整"
+  },
+  {
+    "source": "Validate SWIFT BIC codes",
+    "translation": "验证SWIFT银行识别码"
+  },
+  {
+    "source": "Memory leak detected in production",
+    "translation": "生产环境发现内存泄漏"
+  },
+  {
+    "source": "Repo rate affects bond pricing",
+    "translation": "回购利率影响债券定价"
+  },
+  {
+    "source": "Implement rate limiting for APIs",
+    "translation": "为API实施限流"
+  },
+  {
+    "source": "Sprint retrospective meeting tomorrow",
+    "translation": "迭代回顾会议明天召开"
+  },
+  {
+    "source": "Trade settlement takes T+2 days",
+    "translation": "交易结算采用T+2日模式"
+  },
+  {
+    "source": "Fix the broken unit tests",
+    "translation": "修复失败的单元测试"
+  },
+  {
+    "source": "Use Lombok to reduce boilerplate",
+    "translation": "使用Lombok减少样板代码"
+  },
+  {
+    "source": "The scrum master unblocked impediments",
+    "translation": "敏捷教练消除了障碍"
+  },
+  {
+    "source": "Calculate mark-to-market values",
+    "translation": "计算盯市价值"
+  },
+  {
+    "source": "Deploy with blue-green strategy",
+    "translation": "使用蓝绿策略部署"
+  },
+  {
+    "source": "Interest accrual uses ACT/365",
+    "translation": "利息计算采用ACT/365方法"
+  },
+  {
+    "source": "The JVM parameters need tuning",
+    "translation": "需要调整JVM参数"
+  },
+  {
+    "source": "Rebalance the sprint tasks",
+    "translation": "重新平衡迭代任务"
+  },
+  {
+    "source": "Validate ISIN codes format",
+    "translation": "验证ISIN编码格式"
+  },
+  {
+    "source": "Implement idempotent APIs",
+    "translation": "实现幂等API"
+  },
+  {
+    "source": "The yield spread widened significantly",
+    "translation": "收益率利差显著扩大"
+  },
+  {
+    "source": "Add circuit breaker to FeignClient",
+    "translation": "为FeignClient添加熔断器"
+  },
+  {
+    "source": "Backlog grooming session needed",
+    "translation": "需要召开待办列表梳理会"
+  },
+  {
+    "source": "Handle currency conversion fees",
+    "translation": "处理货币转换费用"
+  },
+  {
+    "source": "Fix the N+1 query issue",
+    "translation": "修复N+1查询问题"
+  },
+  {
+    "source": "The FpML schema is complex",
+    "translation": "FpML模式非常复杂"
+  },
+  {
+    "source": "Implement JWT authentication",
+    "translation": "实现JWT认证"
+  },
+  {
+    "source": "Calculate duration for bonds",
+    "translation": "计算债券久期"
+  },
+  {
+    "source": "Performance testing reveals bottlenecks",
+    "translation": "性能测试发现瓶颈"
+  },
+  {
+    "source": "Optimize SQL queries with proper indexing",
+    "translation": "通过正确索引优化SQL查询"
+  },
+  {
+    "source": "Payment gateways require PCI-DSS compliance",
+    "translation": "支付网关需符合PCI-DSS标准"
+  },
+  {
+    "source": "KYC checks prevent financial fraud",
+    "translation": "KYC审查防范金融欺诈"
+  },
+  {
+    "source": "Service discovery is crucial in microservices",
+    "translation": "服务发现在微服务中至关重要"
+  },
+  {
+    "source": "Implement circuit breaking in Feign clients",
+    "translation": "在Feign客户端实现熔断机制"
+  },
+  {
+    "source": "The SWIFT network handles cross-border payments",
+    "translation": "SWIFT网络处理跨境支付"
+  },
+  {
+    "source": "Use Hystrix for fault tolerance",
+    "translation": "使用Hystrix实现容错"
+  },
+  {
+    "source": "Zero-coupon bonds don't pay periodic interest",
+    "translation": "零息债券不支付定期利息"
+  },
+  {
+    "source": "Automated tests reduce regression risks",
+    "translation": "自动化测试降低回归风险"
+  },
+  {
+    "source": "The team adopted test-driven development",
+    "translation": "团队采用了测试驱动开发"
+  },
+  {
+    "source": "Configure CORS policies in Spring Security",
+    "translation": "在Spring Security中配置CORS策略"
+  },
+  {
+    "source": "Credit default swaps transfer risk",
+    "translation": "信用违约互换转移风险"
+  },
+  {
+    "source": "Sharding improves database scalability",
+    "translation": "分片提升数据库可扩展性"
+  },
+  {
+    "source": "The MT103 message type is for single payments",
+    "translation": "MT103报文类型用于单笔支付"
+  },
+  {
+    "source": "Implement retry logic with exponential backoff",
+    "translation": "用指数退避实现重试逻辑"
+  },
+  {
+    "source": "The team uses Jira for issue tracking",
+    "translation": "团队使用Jira进行问题追踪"
+  },
+  {
+    "source": "Hedge funds use complex derivatives",
+    "translation": "对冲基金使用复杂衍生品"
+  },
+  {
+    "source": "Enable GZIP compression on the API gateway",
+    "translation": "在API网管启用GZIP压缩"
+  },
+  {
+    "source": "The trade capture system needs upgrading",
+    "translation": "交易捕获系统需要升级"
+  },
+  {
+    "source": "Basel III impacts banking regulations",
+    "translation": "巴塞尔III影响银行监管"
+  },
+  {
+    "source": "Use Redis for caching session data",
+    "translation": "使用Redis缓存会话数据"
+  },
+  {
+    "source": "Forward contracts lock in exchange rates",
+    "translation": "远期合约锁定汇率"
+  },
+  {
+    "source": "The dev team adopted Scrum framework",
+    "translation": "开发团队采用了Scrum框架"
+  },
+  {
+    "source": "Validate IBAN numbers during transactions",
+    "translation": "交易时验证IBAN号码"
+  },
+  {
+    "source": "Implement dark mode in the UI",
+    "translation": "在用户界面实现深色模式"
+  },
+  {
+    "source": "Securities settlement uses DvP model",
+    "translation": "证券结算采用DvP模式"
+  },
+  {
+    "source": "The API rate limit is 1000 requests/minute",
+    "translation": "API限速为每分钟1000次请求"
+  },
+  {
+    "source": "Credit ratings affect bond pricing",
+    "translation": "信用评级影响债券定价"
+  },
+  {
+    "source": "Use Grafana for monitoring metrics",
+    "translation": "使用Grafana监控指标"
+  },
+  {
+    "source": "The FIX protocol handles trade execution",
+    "translation": "FIX协议处理交易执行"
+  },
+  {
+    "source": "Refactor legacy code with design patterns",
+    "translation": "用设计模式重构遗留代码"
+  },
+  {
+    "source": "Sovereign bonds have lower default risks",
+    "translation": "主权债券违约风险较低"
+  },
+  {
+    "source": "Implement canary releases for testing",
+    "translation": "实施金丝雀发布进行测试"
+  },
+  {
+    "source": "The EOD batch process failed",
+    "translation": "日终批量处理失败"
+  },
+  {
+    "source": "Use WebSocket for real-time updates",
+    "translation": "使用WebSocket实现实时更新"
+  },
+  {
+    "source": "Stress testing reveals system limits",
+    "translation": "压力测试揭示系统极限"
+  },
+  {
+    "source": "Mortgage-backed securities pool loans",
+    "translation": "抵押贷款证券汇集贷款"
+  },
+  {
+    "source": "Upgrade to Java 17 for new features",
+    "translation": "升级到Java 17以获取新特性"
+  },
+  {
+    "source": "The trading desk uses Bloomberg Terminal",
+    "translation": "交易台使用彭博终端"
+  },
+  {
+    "source": "Implement two-factor authentication",
+    "translation": "实现双因素认证"
+  },
+  {
+    "source": "The yield-to-maturity calculation is complex",
+    "translation": "到期收益率计算复杂"
+  },
+  {
+    "source": "Use Kubernetes for auto-scaling",
+    "translation": "使用Kubernetes实现自动扩展"
+  },
+  {
+    "source": "AML regulations require transaction monitoring",
+    "translation": "反洗钱法规要求交易监控"
+  },
+  {
+    "source": "The continuous integration server is down",
+    "translation": "持续集成服务器宕机"
+  },
+  {
+    "source": "Floating rate notes reset periodically",
+    "translation": "浮动利率票据定期重置"
+  },
+  {
+    "source": "Implement distributed tracing with Zipkin",
+    "translation": "使用Zipkin实现分布式追踪"
+  },
+  {
+    "source": "The trade repository stores all deals",
+    "translation": "交易存储库保存所有交易"
+  },
+  {
+    "source": "Use Terraform for infrastructure as code",
+    "translation": "使用Terraform实现基础设施即代码"
+  },
+  {
+    "source": "The variance swap payoff depends on volatility",
+    "translation": "方差互换收益取决于波动率"
+  },
+  {
+    "source": "Implement dark launching for features",
+    "translation": "为功能实现暗启动"
+  },
+  {
+    "source": "Modified duration measures price sensitivity",
+    "translation": "修正久期衡量价格敏感性"
+  },
+  {
+    "source": "The clearing house guarantees trade settlement",
+    "translation": "清算所保障交易结算"
+  },
+  {
+    "source": "Visualize workflow with Kanban boards",
+    "translation": "使用看板可视化工作流程"
+  },
+  {
+    "source": "Monitor metrics with Prometheus alerts",
+    "translation": "使用Prometheus警报监控指标"
+  },
+  {
+    "source": "Encrypt sensitive data at rest",
+    "translation": "对静态敏感数据进行加密"
+  },
+  {
+    "source": "Run integration tests before deployment",
+    "translation": "部署前运行集成测试"
+  },
+  {
+    "source": "The rate increased by 50 basis points",
+    "translation": "利率上调50个基点"
+  },
+  {
+    "source": "Implement event sourcing for audit trails",
+    "translation": "通过事件溯源实现审计追踪"
+  },
+  {
+    "source": "Ensure GDPR compliance for EU users",
+    "translation": "确保对欧盟用户的GDPR合规"
+  },
+  {
+    "source": "Use Docker to containerize applications",
+    "translation": "使用Docker容器化应用"
+  },
+  {
+    "source": "The spot rate reflects current FX prices",
+    "translation": "即期汇率反映当前外汇价格"
+  },
+  {
+    "source": "Fix the race condition in multithreading",
+    "translation": "修复多线程中的竞态条件"
+  },
+  {
+    "source": "Collateral management reduces counterparty risk",
+    "translation": "抵押品管理降低交易对手风险"
+  },
+  {
+    "source": "Configure load balancers for high availability",
+    "translation": "配置负载均衡器实现高可用性"
+  },
+  {
+    "source": "The black-scholes model prices options",
+    "translation": "Black-Scholes模型为期权定价"
+  },
+  {
+    "source": "Implement CQRS pattern in microservices",
+    "translation": "在微服务中实现CQRS模式"
+  },
+  {
+    "source": "SOX compliance requires strict controls",
+    "translation": "SOX合规要求严格管控"
+  },
+  {
+    "source": "Use Mockito for unit test mocking",
+    "translation": "使用Mockito进行单元测试模拟"
+  },
+  {
+    "source": "The delivery vs payment system ensures safety",
+    "translation": "券款对付系统保障安全性"
+  },
+  {
+    "source": "Parallelize CI pipelines for faster builds",
+    "translation": "并行化CI流水线加速构建"
+  },
+  {
+    "source": "Credit-linked notes depend on reference entities",
+    "translation": "信用联结票据依赖参考实体"
+  },
+  {
+    "source": "Handle deadlocks in database transactions",
+    "translation": "处理数据库事务中的死锁"
+  },
+  {
+    "source": "The value-at-risk model quantifies potential loss",
+    "translation": "风险价值模型量化潜在损失"
+  },
+  {
+    "source": "Adopt feature toggles for gradual rollouts",
+    "translation": "采用功能开关逐步发布"
+  },
+  {
+    "source": "Triparty repos involve a third-party agent",
+    "translation": "三方回购涉及第三方代理"
+  },
+  {
+    "source": "Optimize garbage collection settings",
+    "translation": "优化垃圾回收配置"
+  },
+  {
+    "source": "The MT940 format provides bank statements",
+    "translation": "MT940格式提供银行对账单"
+  },
+  {
+    "source": "Implement dark pool trading logic",
+    "translation": "实现暗池交易逻辑"
+  },
+  {
+    "source": "Use SonarQube for code quality checks",
+    "translation": "使用SonarQube进行代码质量检查"
+  },
+  {
+    "source": "Cross-margining offsets portfolio risks",
+    "translation": "跨保证金抵消组合风险"
+  },
+  {
+    "source": "The team adopted pair programming practices",
+    "translation": "团队采用结对编程实践"
+  },
+  {
+    "source": "Calculate convexity for bond portfolios",
+    "translation": "计算债券组合的凸性"
+  },
+  {
+    "source": "Implement RBAC in the admin portal",
+    "translation": "在管理门户实现基于角色的访问控制"
+  },
+  {
+    "source": "The FpML standardizes derivatives messaging",
+    "translation": "FpML标准化衍生品报文"
+  },
+  {
+    "source": "Use Apache Kafka for event streaming",
+    "translation": "使用Apache Kafka进行事件流处理"
+  },
+  {
+    "source": "The netting process reduces settlement volumes",
+    "translation": "净额结算减少清算量"
+  },
+  {
+    "source": "Fix the memory fragmentation issue",
+    "translation": "修复内存碎片问题"
+  },
+  {
+    "source": "The LIBOR transition to SOFR is ongoing",
+    "translation": "LIBOR向SOFR的过渡正在进行"
+  },
+  {
+    "source": "Implement chaos engineering practices",
+    "translation": "实施混沌工程实践"
+  },
+  {
+    "source": "Validate digital signatures in transactions",
+    "translation": "验证交易中的数字签名"
+  },
+  {
+    "source": "The repo market provides short-term liquidity",
+    "translation": "回购市场提供短期流动性"
+  },
+  {
+    "source": "Use Jaeger for distributed tracing",
+    "translation": "使用Jaeger进行分布式追踪"
+  },
+  {
+    "source": "The product owner prioritizes the roadmap",
+    "translation": "产品负责人确定路线图优先级"
+  },
+  {
+    "source": "Calculate the net present value accurately",
+    "translation": "准确计算净现值"
+  },
+  {
+    "source": "Implement rate shapping for APIs",
+    "translation": "为API实施流量整形"
+  },
+  {
+    "source": "The confirmation matching system is down",
+    "translation": "交易确认匹配系统宕机"
+  },
+  {
+    "source": "Use feature flags for A/B testing",
+    "translation": "使用功能标志进行A/B测试"
+  },
+  {
+    "source": "The volatility smile affects option pricing",
+    "translation": "波动率微笑影响期权定价"
+  },
+  {
+    "source": "Implement automatic failover mechanisms",
+    "translation": "实现自动故障转移机制"
+  },
+  {
+    "source": "The SWIFT FIN message type is MT799",
+    "translation": "SWIFT FIN报文类型MT799"
+  },
+  {
+    "source": "Implement bulkhead pattern for fault isolation",
+    "translation": "实现舱壁模式进行故障隔离"
+  },
+  {
+    "source": "The forward points indicate currency premium/discount",
+    "translation": "远期点显示货币升水/贴水"
+  },
+  {
+    "source": "Refactor monolithic architecture to microservices",
+    "translation": "将单体架构重构为微服务"
+  },
+  {
+    "source": "Use Lombok's @Builder for object creation",
+    "translation": "使用Lombok的@Builder创建对象"
+  },
+  {
+    "source": "Triangular arbitrage exploits FX pricing discrepancies",
+    "translation": "三角套利利用外汇定价差异"
+  },
+  {
+    "source": "The DevOps pipeline includes security scanning",
+    "translation": "DevOps流水线包含安全扫描"
+  },
+  {
+    "source": "Cash settlement avoids physical delivery",
+    "translation": "现金结算避免实物交割"
+  },
+  {
+    "source": "Implement blue-green deployment strategy",
+    "translation": "实施蓝绿部署策略"
+  },
+  {
+    "source": "The risk-free rate underpins option pricing models",
+    "translation": "无风险利率是期权定价模型基础"
+  },
+  {
+    "source": "Configure HikariCP connection pooling",
+    "translation": "配置HikariCP连接池"
+  },
+  {
+    "source": "Credit enhancement improves bond ratings",
+    "translation": "信用增级提升债券评级"
+  },
+  {
+    "source": "Use WireMock for API contract testing",
+    "translation": "使用WireMock进行API契约测试"
+  },
+  {
+    "source": "The delivery versus payment (DVP) minimizes risk",
+    "translation": "券款对付(DVP)机制降低风险"
+  },
+  {
+    "source": "Parallel streams improve processing speed",
+    "translation": "并行流提升处理速度"
+  },
+  {
+    "source": "Currency pegging stabilizes exchange rates",
+    "translation": "货币挂钩稳定汇率"
+  },
+  {
+    "source": "Implement circuit breaker fallback methods",
+    "translation": "实现熔断器回退方法"
+  },
+  {
+    "source": "The scrum team velocity increased by 20%",
+    "translation": "Scrum团队速率提升20%"
+  },
+  {
+    "source": "Markov chain models predict credit transitions",
+    "translation": "马尔可夫链模型预测信用迁移"
+  },
+  {
+    "source": "Use Testcontainers for integration testing",
+    "translation": "使用Testcontainers进行集成测试"
+  },
+  {
+    "source": "The confirmation system generates MT300 messages",
+    "translation": "确认系统生成MT300报文"
+  },
+  {
+    "source": "Optimize JVM garbage collection settings",
+    "translation": "优化JVM垃圾回收配置"
+  },
+  {
+    "source": "Cross-currency basis swaps manage funding costs",
+    "translation": "交叉货币基差互换管理融资成本"
+  },
+  {
+    "source": "Implement feature flags using Togglz",
+    "translation": "使用Togglz实现功能开关"
+  },
+  {
+    "source": "The matching engine uses FIX protocol",
+    "translation": "撮合引擎使用FIX协议"
+  },
+  {
+    "source": "Calculate bond convexity with duration",
+    "translation": "结合久期计算债券凸性"
+  },
+  {
+    "source": "Use Git hooks for pre-commit checks",
+    "translation": "使用Git钩子进行提交前检查"
+  },
+  {
+    "source": "The variance-covariance method measures VaR",
+    "translation": "方差-协方差法计算风险价值"
+  },
+  {
+    "source": "Container orchestration ensures scalability",
+    "translation": "容器编排保障可扩展性"
+  },
+  {
+    "source": "Implement JWT token refresh mechanism",
+    "translation": "实现JWT令牌刷新机制"
+  },
+  {
+    "source": "The product backlog contains 50 user stories",
+    "translation": "产品待办列表包含50个用户故事"
+  },
+  {
+    "source": "Non-deliverable forwards (NDFs) settle in cash",
+    "translation": "无本金交割远期(NDF)现金结算"
+  },
+  {
+    "source": "Use AspectJ for cross-cutting concerns",
+    "translation": "使用AspectJ处理横切关注点"
+  },
+  {
+    "source": "The failover cluster ensures high availability",
+    "translation": "故障转移集群保障高可用性"
+  },
+  {
+    "source": "Calculate modified duration for bond portfolios",
+    "translation": "计算债券组合的修正久期"
+  },
+  {
+    "source": "Implement dark launch for new features",
+    "translation": "新功能采用暗启动发布"
+  },
+  {
+    "source": "The trade repository archives all transactions",
+    "translation": "交易存储库归档所有交易"
+  },
+  {
+    "source": "Use Redis Sentinel for failover protection",
+    "translation": "使用Redis Sentinel实现故障转移保护"
+  },
+  {
+    "source": "The scrum master facilitates sprint planning",
+    "translation": "Scrum主管引导迭代计划会议"
+  },
+  {
+    "source": "Currency overlay hedges FX exposures",
+    "translation": "货币覆盖对冲外汇风险敞口"
+  },
+  {
+    "source": "Implement retryable transactions with Spring",
+    "translation": "使用Spring实现可重试事务"
+  },
+  {
+    "source": "The continuous delivery pipeline is automated",
+    "translation": "持续交付流水线已自动化"
+  },
+  {
+    "source": "Use Lombok's @Slf4j for logging",
+    "translation": "使用Lombok的@Slf4j进行日志记录"
+  },
+  {
+    "source": "Credit default swaps (CDS) transfer risk",
+    "translation": "信用违约互换(CDS)转移风险"
+  },
+  {
+    "source": "Configure rate limiting in API Gateway",
+    "translation": "在API网关配置限流"
+  },
+  {
+    "source": "The yield curve steepened yesterday",
+    "translation": "收益率曲线昨日变陡峭"
+  },
+  {
+    "source": "Use TestNG for parameterized testing",
+    "translation": "使用TestNG进行参数化测试"
+  },
+  {
+    "source": "Repo transactions provide short-term funding",
+    "translation": "回购交易提供短期融资"
+  },
+  {
+    "source": "Implement distributed locking with Redis",
+    "translation": "使用Redis实现分布式锁"
+  },
+  {
+    "source": "The MT202 message handles bank transfers",
+    "translation": "MT202报文处理银行转账"
+  },
+  {
+    "source": "Use JaCoCo for code coverage reports",
+    "translation": "使用JaCoCo生成代码覆盖率报告"
+  },
+  {
+    "source": "Implement shadow testing for production traffic",
+    "translation": "实施影子测试模拟生产流量"
+  },
+  {
+    "source": "The fixing date determines FX forward rates",
+    "translation": "定价日决定外汇远期汇率"
+  },
+  {
+    "source": "Use circuit breakers in distributed systems",
+    "translation": "在分布式系统中使用熔断器"
+  },
+  {
+    "source": "Repo haircuts affect collateral valuation",
+    "translation": "回购折价影响抵押品估值"
+  },
+  {
+    "source": "Configure Spring Actuator for health checks",
+    "translation": "配置Spring Actuator进行健康检查"
+  },
+  {
+    "source": "The delivery versus payment failed",
+    "translation": "券款对付失败"
+  },
+  {
+    "source": "Use OpenAPI for API documentation",
+    "translation": "使用OpenAPI生成API文档"
+  },
+  {
+    "source": "Credit spreads reflect default probabilities",
+    "translation": "信用利差反映违约概率"
+  },
+  {
+    "source": "Implement dark mode with CSS variables",
+    "translation": "使用CSS变量实现深色模式"
+  },
+  {
+    "source": "The matching engine processes FIX messages",
+    "translation": "撮合引擎处理FIX消息"
+  },
+  {
+    "source": "Calculate yield to worst for bonds",
+    "translation": "计算债券最差收益率"
+  },
+  {
+    "source": "Use Flyway for database migrations",
+    "translation": "使用Flyway进行数据库迁移"
+  },
+  {
+    "source": "The volatility surface affects pricing",
+    "translation": "波动率曲面影响定价"
+  },
+  {
+    "source": "Implement canary analysis in deployment",
+    "translation": "在部署中实施金丝雀分析"
+  },
+  {
+    "source": "Triparty collateral management reduces risk",
+    "translation": "三方抵押品管理降低风险"
+  },
+  {
+    "source": "The scrum team achieved 95% sprint goal",
+    "translation": "Scrum团队完成95%迭代目标"
+  },
+  {
+    "source": "Use Lombok's @Data for POJOs",
+    "translation": "使用Lombok的@Data生成POJO"
+  },
+  {
+    "source": "Cross-currency basis affects swap pricing",
+    "translation": "交叉货币基差影响互换定价"
+  },
+  {
+    "source": "Implement JWT blacklisting mechanism",
+    "translation": "实现JWT令牌黑名单机制"
+  },
+  {
+    "source": "The MT535 message reports securities positions",
+    "translation": "MT535报文报告证券持仓"
+  },
+  {
+    "source": "Use chaos monkey to test resilience",
+    "translation": "使用混沌猴子测试系统韧性"
+  },
+  {
+    "source": "Forward rate agreements hedge interest risk",
+    "translation": "远期利率协议对冲利率风险"
+  },
+  {
+    "source": "Optimize Docker image layer caching",
+    "translation": "优化Docker镜像层缓存"
+  },
+  {
+    "source": "The confirmation system sends MT306 messages",
+    "translation": "确认系统发送MT306报文"
+  },
+  {
+    "source": "Implement blue-green database migration",
+    "translation": "实施蓝绿数据库迁移"
+  },
+  {
+    "source": "Use contract testing with Pact",
+    "translation": "使用Pact进行契约测试"
+  },
+  {
+    "source": "The credit support annex defines collateral terms",
+    "translation": "信用支持附件定义抵押条款"
+  },
+  {
+    "source": "Parallel testing reduces execution time",
+    "translation": "并行测试减少执行时间"
+  },
+  {
+    "source": "Configure dead letter queues in Kafka",
+    "translation": "配置Kafka死信队列"
+  },
+  {
+    "source": "The volatility clustering affects risk models",
+    "translation": "波动率聚集影响风险模型"
+  },
+  {
+    "source": "Implement automated rollback strategies",
+    "translation": "实现自动回滚策略"
+  },
+  {
+    "source": "Use Java Records for immutable data",
+    "translation": "使用Java Record处理不可变数据"
+  },
+  {
+    "source": "The MT950 provides end-of-day statements",
+    "translation": "MT950提供日终对账单"
+  },
+  {
+    "source": "Stress testing validates system limits",
+    "translation": "压力测试验证系统极限"
+  },
+  {
+    "source": "Implement circuit breaker dashboard",
+    "translation": "实现熔断器监控面板"
+  },
+  {
+    "source": "Cross-currency swaps require notional exchange",
+    "translation": "交叉货币互换需要名义本金交换"
+  },
+  {
+    "source": "Use TestContainers for database testing",
+    "translation": "使用TestContainers进行数据库测试"
+  },
+  {
+    "source": "The trade lifecycle includes affirmation",
+    "translation": "交易生命周期包含确认环节"
+  },
+  {
+    "source": "Configure JVM memory allocation properly",
+    "translation": "正确配置JVM内存分配"
+  },
+  {
+    "source": "The volatility index (VIX) measures fear",
+    "translation": "波动率指数(VIX)衡量市场恐慌"
+  },
+  {
+    "source": "Implement feature toggles with Unleash",
+    "translation": "使用Unleash实现功能开关"
+  },
+  {
+    "source": "Use Lombok's @Value for immutable classes",
+    "translation": "使用Lombok的@Value创建不可变类"
+  },
+  {
+    "source": "The confirmation matching process is automated",
+    "translation": "交易确认匹配流程已自动化"
+  },
+  {
+    "source": "Calculate bond price using dirty price",
+    "translation": "使用全价计算债券价格"
+  },
+  {
+    "source": "Implement API versioning with headers",
+    "translation": "通过请求头实现API版本控制"
+  },
+  {
+    "source": "The team adopted shift-left testing",
+    "translation": "团队采用左移测试策略"
+  },
+  {
+    "source": "Use circuit breaker with resilience4j",
+    "translation": "使用resilience4j实现熔断器"
+  },
+  {
+    "source": "The FX spot trade settles in T+2",
+    "translation": "外汇即期交易T+2日结算"
+  },
+  {
+    "source": "Configure thread pools for async processing",
+    "translation": "为异步处理配置线程池"
+  },
+  {
+    "source": "The product owner prioritizes technical debt",
+    "translation": "产品负责人优先处理技术债务"
+  },
+  {
+    "source": "Use OpenFeign for declarative REST clients",
+    "translation": "使用OpenFeign创建声明式REST客户端"
+  },
+  {
+    "source": "The credit valuation adjustment (CVA)",
+    "translation": "信用估值调整(CVA)"
+  },
+  {
+    "source": "Automate MT940 reconciliation",
+    "translation": "自动化MT940对账"
+  },
+  {
+    "source": "Implement circuit breaker monitoring",
+    "translation": "实现熔断器监控"
+  },
+  {
+    "source": "The scrum retrospective action items",
+    "translation": "Scrum回顾会议行动项"
+  },
+  {
+    "source": "Use Java Modules (JPMS) for encapsulation",
+    "translation": "使用Java模块系统(JPMS)进行封装"
+  },
+  {
+    "source": "The FX forward pip value calculation",
+    "translation": "外汇远期点值计算"
+  },
+  {
+    "source": "Implement automated trade settlement",
+    "translation": "实现自动化交易结算"
+  },
+  {
+    "source": "Configure JDBC connection pooling",
+    "translation": "配置JDBC连接池"
+  },
+  {
+    "source": "The volatility cone analysis",
+    "translation": "波动率锥分析"
+  },
+  {
+    "source": "Use contract-first development approach",
+    "translation": "采用契约优先开发方法"
+  },
+  {
+    "source": "The MT543 confirms securities movements",
+    "translation": "MT543确认证券变动"
+  },
+  {
+    "source": "Implement JVM memory leak detection",
+    "translation": "实现JVM内存泄漏检测"
+  },
+  {
+    "source": "Use AI for log anomaly detection",
+    "translation": "使用AI检测日志异常"
+  },
+  {
+    "source": "The credit default swap auction process",
+    "translation": "信用违约互换拍卖流程"
+  },
+  {
+    "source": "Automate FIX message parsing",
+    "translation": "自动化解析FIX报文"
+  },
+  {
+    "source": "Implement API schema versioning",
+    "translation": "实现API模式版本控制"
+  },
+  {
+    "source": "The bond sinking fund provisions",
+    "translation": "债券偿债基金条款"
+  },
+  {
+    "source": "Use Java Vector API for SIMD operations",
+    "translation": "使用Java Vector API进行SIMD操作"
+  },
+  {
+    "source": "The FX option delta hedging strategy",
+    "translation": "外汇期权Delta对冲策略"
+  },
+  {
+    "source": "Implement automated trade enrichment",
+    "translation": "实现交易数据自动增强"
+  },
+  {
+    "source": "Configure TLS mutual authentication",
+    "translation": "配置TLS双向认证"
+  },
+  {
+    "source": "The scrum poker estimation technique",
+    "translation": "Scrum扑克估算技术"
   }
 ]
