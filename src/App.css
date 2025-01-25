@@ -63,17 +63,22 @@
 }
 
 .stats-container {
-  margin-top: 30px;
-  padding: 20px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px;
   background: rgba(255, 255, 255, 0.05);
   border-radius: 8px;
+  width: 220px;
+  backdrop-filter: blur(4px);
+  z-index: 100;
 }
 
 .stat-item {
   display: flex;
   justify-content: space-between;
-  margin: 10px 0;
-  font-size: 1.1rem;
+  margin: 6px 0;
+  font-size: 0.9rem;
 }
 
 .stat-label {
@@ -86,16 +91,17 @@
 }
 
 .timer-button {
-  margin-top: 20px;
-  padding: 12px 24px;
+  margin-top: 12px;
+  padding: 8px 16px;
   border: none;
   border-radius: 4px;
   background-color: #4caf50;
   color: white;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: bold;
   cursor: pointer;
   transition: all 0.2s ease;
+  width: 100%;
 }
 
 .timer-button:hover {
@@ -127,15 +133,19 @@
   }
 
   .stats-container {
-    padding: 15px;
+    padding: 10px;
+    bottom: 10px;
+    right: 10px;
+    width: 180px;
   }
 
   .stat-item {
-    font-size: 1rem;
+    font-size: 0.8rem;
+    margin: 4px 0;
   }
 
   .timer-button {
-    padding: 10px 20px;
-    font-size: 0.9rem;
+    padding: 6px 12px;
+    font-size: 0.8rem;
   }
 }
