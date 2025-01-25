@@ -1,4 +1,5 @@
 import { useEffect, useCallback, useState } from 'react';
+import { FaVolumeUp } from 'react-icons/fa';
 import { useAtomValue, useSetAtom } from 'jotai';
 import { isRunningAtom } from '../store';
 import useTypingSound from '../hooks/useTypingSound';
@@ -113,6 +114,21 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
             {char}
           </span>
         ))}
+        <div 
+          className="sound-icon"
+          onClick={playWordSound}
+          style={{
+            display: 'inline-block',
+            marginLeft: '10px',
+            cursor: 'pointer',
+            color: '#666',
+            transition: 'color 0.2s',
+          }}
+          onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
+          onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
+        >
+          <FaVolumeUp size={20} />
+        </div>
       </div>
     </div>
   );
