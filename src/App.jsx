@@ -31,8 +31,6 @@ function App() {
     }
   }, [currentSentence?.source, playSentence, isRunning]);
 
-  console.log("currentSentence?.source", currentSentence?.source)
-
   return (
     <>
       <div className="typing-container">
@@ -40,7 +38,7 @@ function App() {
           {isLoading ? 'Loading...' : `Total: ${totalSentences}`}
         </div>
         <TypingEffect 
-          text={currentSentence.source}
+          text={currentSentence.source?.replace(/\.$/, '') ?? ''}
           onType={playSound}
           onComplete={handleComplete}
         />

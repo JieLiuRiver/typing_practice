@@ -68,25 +68,24 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         
         if (e.key.toLowerCase() === currentChar.toLowerCase()) {
           playSound('correct');
-          console.log("cursorPos", cursorPos)
           if (cursorPos === text.length - 1) {
             playWordSound();
           }
         } else {
           playSound('wrong');
           setWrongCount(prev => prev + 1);
-          
-          if (wrongCount >= 2) {
-            setCursorPos(0);
-            setCharStates(Array(text?.length || 0).fill('normal'));
-            setWrongCount(0);
-            playSound('reset');
-            return;
-          }
+          setCursorPos(cursorPos - 1 < 0 ? 0 : cursorPos - 1);
+          // if (wrongCount >= 2) {
+          //   setCursorPos(0);
+          //   setCharStates(Array(text?.length || 0).fill('normal'));
+          //   setWrongCount(0);
+          //   playSound('reset');
+          //   return;
+          // }
         }
       }
     }
-  }, [cursorPos, text?.length, playSound, isRunning]);
+  }, [cursorPos, text, wrongCount, playSound, isRunning]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
