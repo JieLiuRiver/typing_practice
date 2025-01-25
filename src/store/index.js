@@ -9,13 +9,17 @@ import deSentences01Data from '../assets/sentences/de01.json';
 import deSentences02Data from '../assets/sentences/de02.json';
 
 // Store for sentences loaded from JSON
-export const sentencesAtom = atom((get) => {
-  const lang = get(pronunciationTypeAtom);
-  if (lang === 'de') {
-    return [...deSentences02Data, ...deSentences01Data];
-  }
-  return [...sentences02Data, ...sentences01Data];
-});
+// Get initial language from URL
+const getInitialLanguage = () => {
+  const url = window.location.href;
+  return url.includes('/de') ? 'de' : 'us';
+};
+
+export const sentencesAtom = atom(
+  getInitialLanguage() === 'de' 
+    ? [...deSentences02Data, ...deSentences01Data]
+    : [...sentences02Data, ...sentences01Data]
+);
 
 const lastTimeIndex = Number(localStorage.getItem(`lastTimeIndex`) || 0);
 
@@ -29,7 +33,7 @@ export const currentSentenceAtom = atom(
   (get) => {
     const sentences = get(sentencesAtom);
     const index = get(currentIndexAtom);
-    return sentences[index % sentences.length];
+    return sentences[index >= sentences.length ? 0 : index];
   }
 );
 
@@ -41,14 +45,14 @@ export const nextSentenceAtom = atom(
     const currentIndex = get(currentIndexAtom);
     const newIndex = (currentIndex + 1) % sentences.length;
     localStorage.setItem(`lastTimeIndex`, newIndex);
+    console.log("nextSentenceAtom", currentIndex, newIndex)
     set(currentIndexAtom, newIndex);
   }
 );
 
-
 // Base config without type
 const basePronunciationConfigAtom = atom({
-  speed: 1.0,
+  speed: 1.2,
   volume: 1.0,
   rate: 1.0,
   isLoop: false

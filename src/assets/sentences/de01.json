@@ -4,11 +4,11 @@
     "translation": "你好，你怎么样？"
   },
   {
-    "text": "Ich lerne Deutsch.",
+    "source": "Ich lerne Deutsch.",
     "translation": "我正在学习德语"
   },
   {
-    "text": "Das Wetter ist schön heute.",
+    "source": "Das Wetter ist schön heute.",
     "translation": "今天天气很好"
   },
   {
@@ -16,7 +16,7 @@
     "translation": "我想点一杯咖啡"
   },
   {
-    "text": "Wo ist die nächste U-Bahn Station?",
+    "source": "Wo ist die nächste U-Bahn Station?",
     "translation": "最近的地铁站在哪里？"
   }
 ]
