@@ -5,8 +5,17 @@ import sentences02Data from '../assets/sentences/02.json';
 // Typing state management
 export const isRunningAtom = atom(false);
 
+import deSentences01Data from '../assets/sentences/de01.json';
+import deSentences02Data from '../assets/sentences/de02.json';
+
 // Store for sentences loaded from JSON
-export const sentencesAtom = atom([...sentences02Data, ...sentences01Data]);
+export const sentencesAtom = atom((get) => {
+  const lang = get(pronunciationTypeAtom);
+  if (lang === 'de') {
+    return [...deSentences02Data, ...deSentences01Data];
+  }
+  return [...sentences02Data, ...sentences01Data];
+});
 
 const lastTimeIndex = Number(localStorage.getItem(`lastTimeIndex`) || 0);
 

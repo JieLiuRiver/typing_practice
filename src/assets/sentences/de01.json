@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Hallo, wie geht es dir?",
+    "translation": "你好，你怎么样？"
+  },
+  {
+    "text": "Ich lerne Deutsch.",
+    "translation": "我正在学习德语"
+  },
+  {
+    "text": "Das Wetter ist schön heute.",
+    "translation": "今天天气很好"
+  },
+  {
+    "text": "Ich möchte einen Kaffee bestellen.",
+    "translation": "我想点一杯咖啡"
+  },
+  {
+    "text": "Wo ist die nächste U-Bahn Station?",
+    "translation": "最近的地铁站在哪里？"
+  }
+]

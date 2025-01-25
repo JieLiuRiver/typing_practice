@@ -1,13 +1,24 @@
-import { useAtom, useAtomValue } from 'jotai';
+import { useAtom, useAtomValue, useSetAtom } from 'jotai';
+import PropTypes from 'prop-types';
 import TypingEffect from './TypingEffect';
 import StatsDisplay from './StatsDisplay';
 import useTypingSound from '../hooks/useTypingSound';
 import useSentenceCount from '../hooks/useSentenceCount';
-import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, currentIndexAtom } from '../store';
+import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, currentIndexAtom, pronunciationTypeAtom } from '../store';
 import usePronunciationSound from '../hooks/useWordSound';
 import { useEffect } from 'react';
 
-export default function TypingContainer() {
+export default function TypingContainer({ lang }) {
+  TypingContainer.propTypes = {
+    lang: PropTypes.string
+  };
+  const setPronunciationType = useSetAtom(pronunciationTypeAtom);
+  
+  useEffect(() => {
+    if (lang) {
+      setPronunciationType(lang);
+    }
+  }, [lang, setPronunciationType]);
   const { playSound } = useTypingSound();
   const [currentSentence] = useAtom(currentSentenceAtom);
   const [, nextSentence] = useAtom(nextSentenceAtom);
