@@ -1,8 +1,47 @@
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --correct-color: #4caf50;
+  --incorrect-color: #f44336;
+  --container-bg: #2d2d2d;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  min-height: 100vh;
+}
+
+.typing-container {
+  background: var(--container-bg);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.text-display {
+  font-family: monospace;
+  font-size: 1.5rem;
+  line-height: 2;
+  white-space: pre-wrap;
+  color: var(--text-color);
+}
+
+.correct {
+  color: var(--correct-color);
+  background-color: rgba(76, 175, 80, 0.1);
+}
+
+.incorrect {
+  color: var(--incorrect-color);
+  background-color: rgba(244, 67, 54, 0.1);
+  text-decoration: line-through;
 }
 
 .logo {
