@@ -89,7 +89,10 @@ const StatsDisplay = () => {
       </div>
       <button 
         className={`timer-button ${isRunning ? 'running' : ''}`}
-        onClick={toggleTimer}
+        onClick={(e) => {
+          toggleTimer();
+          e.currentTarget.blur();
+        }}
       >
         {isRunning ? 'Pause' : 'Start'}
       </button>
