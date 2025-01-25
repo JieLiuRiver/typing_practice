@@ -37,8 +37,17 @@ export default function usePronunciationSound(word, isLoop) {
     },
     onplayerror: () => {
       console.error('Failed to play pronunciation audio');
-    }
+    },
+    dependencies: [word]
   })
+
+  // Clean up sound when word changes
+  useEffect(() => {
+    if (!sound) return
+    return () => {
+      sound.unload()
+    }
+  }, [word, sound])
 
   useEffect(() => {
     if (!sound) return

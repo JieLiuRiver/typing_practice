@@ -7,12 +7,12 @@ import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text, onComplete, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
-  const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
+  const [charStates, setCharStates] = useState(Array(text?.length || 0).fill('normal'));
   const [wrongCount, setWrongCount] = useState(0);
   const isRunning = useAtomValue(isRunningAtom);
   const setIsRunning = useSetAtom(isRunningAtom);
   const { playSound } = useTypingSound();
-  const { play: playWordSound } = usePronunciationSound(text);
+  const { play: playWordSound } = usePronunciationSound(text || '');
 
   const isPunctuation = (char) => {
     return /[^a-zA-Z0-9\s]/.test(char);
@@ -23,7 +23,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     
     if (e.key === 'Enter') {
       setCursorPos(0);
-      setCharStates(Array(text.length).fill('normal'));
+      setCharStates(Array(text?.length || 0).fill('normal'));
       setWrongCount(0);
       onComplete?.();
       return;
@@ -68,7 +68,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         
         if (e.key.toLowerCase() === currentChar.toLowerCase()) {
           playSound('correct');
-          
+          console.log("cursorPos", cursorPos)
           if (cursorPos === text.length - 1) {
             playWordSound();
           }
@@ -78,7 +78,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           
           if (wrongCount >= 2) {
             setCursorPos(0);
-            setCharStates(Array(text.length).fill('normal'));
+            setCharStates(Array(text?.length || 0).fill('normal'));
             setWrongCount(0);
             playSound('reset');
             return;
@@ -86,7 +86,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         }
       }
     }
-  }, [cursorPos, text.length, playSound, isRunning]);
+  }, [cursorPos, text?.length, playSound, isRunning]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
@@ -98,7 +98,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   }, []);
 
   const renderText = () => {
-    return text.split('').map((char, index) => {
+    return text?.split('').map((char, index) => {
       let className = 'letter';
       if (index < cursorPos) {
         if (charStates[index] === 'normal') {

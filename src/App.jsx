@@ -14,7 +14,7 @@ function App() {
   const [, nextSentence] = useAtom(nextSentenceAtom);
   const isRunning = useAtomValue(isRunningAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
-
+ 
   const { totalSentences, isLoading } = useSentenceCount();
 
   const handleComplete = () => {
@@ -30,6 +30,8 @@ function App() {
       playSentence();
     }
   }, [currentSentence?.source, playSentence, isRunning]);
+
+  console.log("currentSentence?.source", currentSentence?.source)
 
   return (
     <>
