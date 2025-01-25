@@ -2,7 +2,7 @@ import { atom } from 'jotai';
 import sentencesData from './sentences.json';
 
 // Store for sentences loaded from JSON
-export const sentencesAtom = atom(sentencesData.sentences);
+export const sentencesAtom = atom(sentencesData);
 
 // Current sentence index
 export const currentIndexAtom = atom(0);
