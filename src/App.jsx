@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="typing-container">
-        <TypingEffect text="Hello! Let's practice typing. The quick brown fox jumps over the lazy dog." />
+        <TypingEffect text="The quick brown fox jumps over the lazy dog" />
       </div>
     </>
   );
