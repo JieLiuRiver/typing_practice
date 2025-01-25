@@ -72,7 +72,20 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           }
         } else {
           playSound('wrong');
-          setCursorPos(cursorPos - 1 < 0 ? 0 : cursorPos - 1);
+          // Find start of current word
+          let wordStart = cursorPos;
+          while (wordStart > 0 && !/\s/.test(text[wordStart - 1])) {
+            wordStart--;
+          }
+          setCursorPos(wordStart);
+          // Reset states for current word
+          setCharStates(prev => {
+            const newStates = [...prev];
+            for (let i = wordStart; i < cursorPos; i++) {
+              newStates[i] = 'normal';
+            }
+            return newStates;
+          });
         }
       }
     }
