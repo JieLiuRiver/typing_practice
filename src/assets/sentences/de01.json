@@ -12,11 +12,455 @@
     "translation": "今天天气很好"
   },
   {
-    "text": "Ich möchte einen Kaffee bestellen.",
+    "source": "Ich möchte einen Kaffee bestellen.",
     "translation": "我想点一杯咖啡"
   },
   {
     "source": "Wo ist die nächste U-Bahn Station?",
     "translation": "最近的地铁站在哪里？"
+  },
+  {
+    "source": "Können Sie mir bitte helfen?",
+    "translation": "你能帮我吗？"
+  },
+  {
+    "source": "Ich habe eine Frage zu diesem Projekt.",
+    "translation": "我有个关于这个项目的问题"
+  },
+  {
+    "source": "Wann beginnt die Besprechung?",
+    "translation": "会议什么时候开始？"
+  },
+  {
+    "source": "Ich brauche einen neuen Laptop für die Arbeit.",
+    "translation": "我需要一台新的工作笔记本电脑"
+  },
+  {
+    "source": "Können wir morgen darüber sprechen?",
+    "translation": "我们明天能讨论这个吗？"
+  },
+  {
+    "source": "Ich habe den Bericht fertiggestellt.",
+    "translation": "我已经完成了报告"
+  },
+  {
+    "source": "Wo kann ich hier parken?",
+    "translation": "我可以在哪里停车？"
+  },
+  {
+    "source": "Das Essen schmeckt ausgezeichnet!",
+    "translation": "这食物非常美味！"
+  },
+  {
+    "source": "Ich habe morgen einen wichtigen Termin.",
+    "translation": "我明天有个重要的约会"
+  },
+  {
+    "source": "Könnten Sie das bitte wiederholen?",
+    "translation": "你能重复一下吗？"
+  },
+  {
+    "source": "Ich bin mit dem Zug zur Arbeit gefahren.",
+    "translation": "我坐火车去上班"
+  },
+  {
+    "source": "Haben Sie schon Pläne für das Wochenende?",
+    "translation": "你周末有什么计划吗？"
+  },
+  {
+    "source": "Ich muss noch einige E-Mails beantworten.",
+    "translation": "我还需要回复一些邮件"
+  },
+  {
+    "source": "Könnten Sie mir den Weg zum Bahnhof erklären?",
+    "translation": "你能告诉我去火车站的路吗？"
+  },
+  {
+    "source": "Ich habe meinen Schlüssel verloren.",
+    "translation": "我丢了钥匙"
+  },
+  {
+    "source": "Das Meeting wurde auf nächste Woche verschoben.",
+    "translation": "会议被推迟到下周了"
+  },
+  {
+    "source": "Ich brauche eine Pause.",
+    "translation": "我需要休息一下"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Rechnung bringen?",
+    "translation": "请把账单给我好吗？"
+  },
+  {
+    "source": "Ich habe Probleme mit meinem Computer.",
+    "translation": "我的电脑出了问题"
+  },
+  {
+    "source": "Wann kommt der nächste Bus?",
+    "translation": "下一班公交车什么时候来？"
+  },
+  {
+    "source": "Ich muss noch einkaufen gehen.",
+    "translation": "我还得去买东西"
+  },
+  {
+    "source": "Könnten Sie mir bitte das Passwort zurücksetzen?",
+    "translation": "你能帮我重置密码吗？"
+  },
+  {
+    "source": "Ich habe den Zug verpasst.",
+    "translation": "我错过了火车"
+  },
+  {
+    "source": "Das ist eine gute Idee!",
+    "translation": "这是个好主意！"
+  },
+  {
+    "source": "Ich brauche Hilfe bei dieser Aufgabe.",
+    "translation": "我需要帮助完成这个任务"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Präsentation schicken?",
+    "translation": "你能把演示文稿发给我吗？"
+  },
+  {
+    "source": "Ich habe den Bericht noch nicht gelesen.",
+    "translation": "我还没看报告"
+  },
+  {
+    "source": "Wo ist die nächste Apotheke?",
+    "translation": "最近的药店在哪里？"
+  },
+  {
+    "source": "Ich muss noch meine Steuererklärung machen.",
+    "translation": "我还得报税"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Dokumente faxen?",
+    "translation": "你能把文件传真给我吗？"
+  },
+  {
+    "source": "Ich habe meinen Reisepass verloren.",
+    "translation": "我丢了护照"
+  },
+  {
+    "source": "Das ist mir zu teuer.",
+    "translation": "这对我来说太贵了"
+  },
+  {
+    "source": "Ich brauche eine Quittung für die Rechnung.",
+    "translation": "我需要发票的收据"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Adresse geben?",
+    "translation": "你能给我地址吗？"
+  },
+  {
+    "source": "Ich habe den Bus verpasst.",
+    "translation": "我错过了公交车"
+  },
+  {
+    "source": "Das ist nicht mein Fehler.",
+    "translation": "这不是我的错"
+  },
+  {
+    "source": "Ich brauche eine neue Versicherungskarte.",
+    "translation": "我需要一张新的保险卡"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Telefonnummer geben?",
+    "translation": "你能给我电话号码吗？"
+  },
+  {
+    "source": "Ich habe den Termin vergessen.",
+    "translation": "我忘记了约会"
+  },
+  {
+    "source": "Das ist mir zu kompliziert.",
+    "translation": "这对我来说太复杂了"
+  },
+  {
+    "source": "Ich brauche eine neue Kreditkarte.",
+    "translation": "我需要一张新的信用卡"
+  },
+  {
+    "source": "Könnten Sie mir bitte die E-Mail-Adresse geben?",
+    "translation": "你能给我电子邮件地址吗？"
+  },
+  {
+    "source": "Ich möchte ein Hotelzimmer buchen.",
+    "translation": "我想预订一间酒店房间"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Speisekarte zeigen?",
+    "translation": "你能给我看看菜单吗？"
+  },
+  {
+    "source": "Ich habe Kopfschmerzen.",
+    "translation": "我头疼"
+  },
+  {
+    "source": "Wo ist die nächste Bank?",
+    "translation": "最近的银行在哪里？"
+  },
+  {
+    "source": "Ich möchte Geld abheben.",
+    "translation": "我想取钱"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Wegbeschreibung geben?",
+    "translation": "你能给我指路吗？"
+  },
+  {
+    "source": "Ich habe meinen Flug verpasst.",
+    "translation": "我错过了航班"
+  },
+  {
+    "source": "Das ist mir zu kalt.",
+    "translation": "这对我来说太冷了"
+  },
+  {
+    "source": "Ich brauche eine neue Brille.",
+    "translation": "我需要一副新眼镜"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Öffnungszeiten sagen?",
+    "translation": "你能告诉我营业时间吗？"
+  },
+  {
+    "source": "Ich habe meinen Koffer verloren.",
+    "translation": "我丢了行李箱"
+  },
+  {
+    "source": "Das ist mir zu heiß.",
+    "translation": "这对我来说太热了"
+  },
+  {
+    "source": "Ich brauche eine neue Jacke.",
+    "translation": "我需要一件新夹克"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Preise zeigen?",
+    "translation": "你能给我看看价格吗？"
+  },
+  {
+    "source": "Ich habe meinen Geldbeutel verloren.",
+    "translation": "我丢了钱包"
+  },
+  {
+    "source": "Das ist mir zu laut.",
+    "translation": "这对我来说太吵了"
+  },
+  {
+    "source": "Ich brauche eine neue Uhr.",
+    "translation": "我需要一块新手表"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Zutatenliste zeigen?",
+    "translation": "你能给我看看配料表吗？"
+  },
+  {
+    "source": "Ich habe meinen Regenschirm vergessen.",
+    "translation": "我忘了带伞"
+  },
+  {
+    "source": "Das ist mir zu schwer.",
+    "translation": "这对我来说太重了"
+  },
+  {
+    "source": "Ich brauche eine neue Tasche.",
+    "translation": "我需要一个新包"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Anleitung zeigen?",
+    "translation": "你能给我看看说明书吗？"
+  },
+  {
+    "source": "Ich habe meinen Ausweis vergessen.",
+    "translation": "我忘了带身份证"
+  },
+  {
+    "source": "Das ist mir zu dunkel.",
+    "translation": "这对我来说太暗了"
+  },
+  {
+    "source": "Ich brauche eine neue Lampe.",
+    "translation": "我需要一盏新灯"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Bedienungsanleitung geben?",
+    "translation": "你能给我使用手册吗？"
+  },
+  {
+    "source": "Ich habe meinen Schal verloren.",
+    "translation": "我丢了围巾"
+  },
+  {
+    "source": "Das ist mir zu hell.",
+    "translation": "这对我来说太亮了"
+  },
+  {
+    "source": "Ich brauche eine neue Sonnenbrille.",
+    "translation": "我需要一副新太阳镜"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Rückgabebedingungen erklären?",
+    "translation": "你能解释一下退货政策吗？"
+  },
+  {
+    "source": "Ich habe meinen Handschuh verloren.",
+    "translation": "我丢了一只手套"
+  },
+  {
+    "source": "Das ist mir zu eng.",
+    "translation": "这对我来说太紧了"
+  },
+  {
+    "source": "Ich brauche eine neue Hose.",
+    "translation": "我需要一条新裤子"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Garantiebedingungen erklären?",
+    "translation": "你能解释一下保修条款吗？"
+  },
+  {
+    "source": "Ich habe meinen Hut verloren.",
+    "translation": "我丢了帽子"
+  },
+  {
+    "source": "Das ist mir zu weit.",
+    "translation": "这对我来说太松了"
+  },
+  {
+    "source": "Ich brauche ein neues Hemd.",
+    "translation": "我需要一件新衬衫"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Zahlungsmöglichkeiten erklären?",
+    "translation": "你能解释一下付款方式吗？"
+  },
+  {
+    "source": "Ich habe meinen Schirm verloren.",
+    "translation": "我丢了伞"
+  },
+  {
+    "source": "Das ist mir zu kurz.",
+    "translation": "这对我来说太短了"
+  },
+  {
+    "source": "Ich brauche ein neues Kleid.",
+    "translation": "我需要一件新连衣裙"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Lieferzeiten sagen?",
+    "translation": "你能告诉我交货时间吗？"
+  },
+  {
+    "source": "Ich habe meinen Schal vergessen.",
+    "translation": "我忘了带围巾"
+  },
+  {
+    "source": "Das ist mir zu lang.",
+    "translation": "这对我来说太长了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Schuhe.",
+    "translation": "我需要一双新鞋"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Rabatte erklären?",
+    "translation": "你能解释一下折扣吗？"
+  },
+  {
+    "source": "Ich habe meinen Handschuh vergessen.",
+    "translation": "我忘了带手套"
+  },
+  {
+    "source": "Das ist mir zu schmal.",
+    "translation": "这对我来说太窄了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Socken.",
+    "translation": "我需要一双新袜子"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Versandkosten erklären?",
+    "translation": "你能解释一下运费吗？"
+  },
+  {
+    "source": "Ich habe meinen Hut vergessen.",
+    "translation": "我忘了带帽子"
+  },
+  {
+    "source": "Das ist mir zu breit.",
+    "translation": "这对我来说太宽了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Handschuhe.",
+    "translation": "我需要一副新手套"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Rückgabefrist erklären?",
+    "translation": "你能解释一下退货期限吗？"
+  },
+  {
+    "source": "Ich habe meinen Schirm vergessen.",
+    "translation": "我忘了带伞"
+  },
+  {
+    "source": "Das ist mir zu schwer zu verstehen.",
+    "translation": "这对我来说太难理解了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Ohrringe.",
+    "translation": "我需要一副新耳环"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Zahlungsfrist erklären?",
+    "translation": "你能解释一下付款期限吗？"
+  },
+  {
+    "source": "Ich habe meinen Schal verloren.",
+    "translation": "我丢了围巾"
+  },
+  {
+    "source": "Das ist mir zu einfach.",
+    "translation": "这对我来说太简单了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Armbanduhren.",
+    "translation": "我需要一副新腕表"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Versanddauer erklären?",
+    "translation": "你能解释一下运输时间吗？"
+  },
+  {
+    "source": "Ich habe meinen Handschuh verloren.",
+    "translation": "我丢了一只手套"
+  },
+  {
+    "source": "Das ist mir zu schwer zu tragen.",
+    "translation": "这对我来说太重了，拿不动"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Ringe.",
+    "translation": "我需要一副新戒指"
+  },
+  {
+    "source": "Könnten Sie mir bitte die Lieferbedingungen erklären?",
+    "translation": "你能解释一下交货条件吗？"
+  },
+  {
+    "source": "Ich habe meinen Hut verloren.",
+    "translation": "我丢了帽子"
+  },
+  {
+    "source": "Das ist mir zu leicht.",
+    "translation": "这对我来说太轻了"
+  },
+  {
+    "source": "Ich brauche ein neues Paar Ketten.",
+    "translation": "我需要一条新项链"
   }
 ]
