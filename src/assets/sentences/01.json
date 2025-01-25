@@ -555,6 +555,7 @@
     "source": "The trade confirmation flow is missing audit trails",
     "translation": "交易确认流程缺少审计追踪"
   },
+  
   {
     "source": "Can we get a BA to clarify the FX business rule?",
     "translation": "找业务分析师明确外汇业务规则？"
@@ -1166,6 +1167,210 @@
   {
     "source": "Implement new risk management system",
     "translation": "实现新的风险管理系统"
+  },
+  {
+    "source": "How are we tracking against the sprint commitment?",
+    "translation": "当前迭代承诺的完成进度如何？"
+  },
+  {
+    "source": "Let's break down this SWIFT certification blocker",
+    "translation": "我们拆解这个SWIFT认证阻碍"
+  },
+  {
+    "source": "The FIX session timeouts need immediate swarm focus",
+    "translation": "需立即集体攻关FIX会话超时问题"
+  },
+  {
+    "source": "Can we visualize the FX module dependencies?",
+    "translation": "能否可视化外汇模块的依赖关系？"
+  },
+  {
+    "source": "The retro feedback suggests improving MT940 test coverage",
+    "translation": "回顾反馈建议提升MT940测试覆盖率"
+  },
+  {
+    "source": "Who can mentor juniors on FpML schema validation?",
+    "translation": "谁能指导新人进行FpML模式验证？"
+  },
+  {
+    "source": "Let's limit design debates to three 25-minute timeboxes",
+    "translation": "将设计讨论限制在3个25分钟时间盒"
+  },
+  {
+    "source": "The CI pipeline instability requires root cause analysis",
+    "translation": "需分析CI流水线不稳定的根本原因"
+  },
+  {
+    "source": "Can we pair QA with devs for test automation?",
+    "translation": "能否让测试与开发结对实现自动化？"
+  },
+  {
+    "source": "The Jira aging tickets need triage before sprint end",
+    "translation": "需在迭代结束前清理积压工单"
+  },
+  {
+    "source": "Let's map the bond settlement value stream",
+    "translation": "绘制债券结算价值流图"
+  },
+  {
+    "source": "The defect trend shows gaps in FX edge case testing",
+    "translation": "缺陷趋势反映外汇边界条件测试不足"
+  },
+  {
+    "source": "Can we implement swarming for the Kafka lag issue?",
+    "translation": "能否集体解决Kafka延迟问题？"
+  },
+  {
+    "source": "The WIP limit breach requires task reprioritization",
+    "translation": "在制品超限需任务重定优先级"
+  },
+  {
+    "source": "Let's schedule a blameless RCA for the MT799 outage",
+    "translation": "安排MT799故障无责任根本原因分析"
+  },
+  {
+    "source": "The team happiness index dropped 15% this sprint",
+    "translation": "团队幸福指数本期下降15%"
+  },
+  {
+    "source": "Can we prototype the FIX recovery process tomorrow?",
+    "translation": "明天能否原型设计FIX恢复流程？"
+  },
+  {
+    "source": "The DevOps metrics indicate deployment bottlenecks",
+    "translation": "DevOps指标显示部署瓶颈"
+  },
+  {
+    "source": "Let's refine the Definition of Ready with security checks",
+    "translation": "完善就绪定义加入安全检查"
+  },
+  {
+    "source": "The Redis cluster failover drill needs volunteers",
+    "translation": "Redis集群故障转移演练需志愿者"
+  },
+  {
+    "source": "Can we limit SWIFT discussions to designated slots?",
+    "translation": "能否将SWIFT讨论限定在特定时段？"
+  },
+  {
+    "source": "The cycle time for FX features exceeds team average",
+    "translation": "外汇功能周期时间超出团队均值"
+  },
+  {
+    "source": "Let's document the FpML exception handling patterns",
+    "translation": "记录FpML异常处理模式"
+  },
+  {
+    "source": "The sprint demo should include rollback procedures",
+    "translation": "迭代演示需包含回滚流程"
+  },
+  {
+    "source": "Can we pair ops with devs for runbook updates?",
+    "translation": "能否让运维与开发结对更新手册？"
+  },
+  {
+    "source": "The MT535 backlog requires BA prioritization",
+    "translation": "MT535积压需业务分析师排优先级"
+  },
+  {
+    "source": "Let's implement swarming for high-severity bugs",
+    "translation": "对高严重性BUG实施集体攻关"
+  },
+  {
+    "source": "The retro action items need measurable success criteria",
+    "translation": "回顾行动项需可衡量的成功标准"
+  },
+  {
+    "source": "Can we visualize code review latency on the board?",
+    "translation": "能否在看板展示代码审查延迟？"
+  },
+  {
+    "source": "The FIX dictionary upgrade requires regression testing",
+    "translation": "FIX字典升级需回归测试"
+  },
+  {
+    "source": "Let's schedule cross-training on SWIFT FIN messages",
+    "translation": "安排SWIFT FIN报文交叉培训"
+  },
+  {
+    "source": "The defect leakage rate correlates with WIP limits",
+    "translation": "缺陷逃逸率与在制品限制相关"
+  },
+  {
+    "source": "Can we timebox the Lombok debate to 15 minutes?",
+    "translation": "Lombok讨论限时15分钟？"
+  },
+  {
+    "source": "The CI pipeline needs failure pattern analysis",
+    "translation": "需分析CI流水线失败模式"
+  },
+  {
+    "source": "Let's create an escalation matrix for FIX issues",
+    "translation": "制定FIX问题升级矩阵"
+  },
+  {
+    "source": "The sprint review prep requires dry-run signoffs",
+    "translation": "迭代评审准备需要预演确认"
+  },
+  {
+    "source": "Can we pair frontend with BA for UX validation?",
+    "translation": "能否让前端与业务分析师结对验证体验？"
+  },
+  {
+    "source": "The MT548 automation backlog needs estimation",
+    "translation": "MT548自动化积压需估算"
+  },
+  {
+    "source": "Let's implement swarming for the settlement latency",
+    "translation": "集体解决结算延迟问题"
+  },
+  {
+    "source": "The retro feedback suggests improving async communication",
+    "translation": "回顾反馈建议改进异步沟通"
+  },
+  {
+    "source": "Can we limit design discussions to visual aids?",
+    "translation": "能否将设计讨论限定在可视化辅助？"
+  },
+  {
+    "source": "The FX caching strategy needs performance metrics",
+    "translation": "外汇缓存策略需性能指标"
+  },
+  {
+    "source": "Let's document the SWIFT certification lessons learned",
+    "translation": "记录SWIFT认证经验教训"
+  },
+  {
+    "source": "The team velocity variance requires root cause analysis",
+    "translation": "团队速率波动需根本原因分析"
+  },
+  {
+    "source": "Can we implement a parking lot for architecture debates?",
+    "translation": "能否为架构讨论设置停车场？"
+  },
+  {
+    "source": "The CI test flakiness impacts developer confidence",
+    "translation": "CI测试不稳定影响开发者信心"
+  },
+  {
+    "source": "Let's map dependencies between bond and FX modules",
+    "translation": "梳理债券与外汇模块间依赖"
+  },
+  {
+    "source": "The Jira aging tickets need WIP limit enforcement",
+    "translation": "积压工单需执行在制品限制"
+  },
+  {
+    "source": "Can we prototype the disaster recovery runbook?",
+    "translation": "能否原型设计灾难恢复手册？"
+  },
+  {
+    "source": "The sprint demo should showcase rollback capability",
+    "translation": "迭代演示需展示回滚能力"
+  },
+  {
+    "source": "Let's implement a swarming protocol for P1 incidents",
+    "translation": "为P1级事件制定集体攻关协议"
   },
   {
     "source": "Structural deposit maturity approaching",
@@ -4410,5 +4615,425 @@
   {
     "source": "The scrum poker estimation technique",
     "translation": "Scrum扑克估算技术"
+  },
+  {
+    "source": "How can we improve cross-team collaboration on SWIFT dependencies?",
+    "translation": "如何改善跨团队在SWIFT依赖上的协作？"
+  },
+  {
+    "source": "Let's analyze why sprint commitments are consistently missed",
+    "translation": "分析迭代承诺持续未达成的根本原因"
+  },
+  {
+    "source": "The FIX message backlog needs triage - can we swarm?",
+    "translation": "FIX报文积压需分级处理，能否集体攻关？"
+  },
+  {
+    "source": "Who can act as a proxy between devs and compliance?",
+    "translation": "谁能担任开发与合规团队的桥梁？"
+  },
+  {
+    "source": "The retro feedback mentions unclear acceptance criteria",
+    "translation": "回顾反馈指出验收标准不清晰"
+  },
+  {
+    "source": "Let's map impediments to cycle time bottlenecks",
+    "translation": "将障碍映射到周期时间瓶颈"
+  },
+  {
+    "source": "Can we limit MT535 discussions to dedicated Slack threads?",
+    "translation": "能否将MT535讨论限定在指定Slack主题？"
+  },
+  {
+    "source": "The CI/CD pipeline needs failure pattern visualization",
+    "translation": "需可视化持续交付流水线失败模式"
+  },
+  {
+    "source": "How to balance tech debt vs new features this sprint?",
+    "translation": "本迭代如何平衡技术债务与新功能？"
+  },
+  {
+    "source": "Let's implement a 'stop the line' protocol for P0 issues",
+    "translation": "为P0级问题实施'停线'协议"
+  },
+  {
+    "source": "The Jira aging tickets indicate prioritization issues",
+    "translation": "积压工单显示优先级划分问题"
+  },
+  {
+    "source": "Can we quantify the impact of SWIFT delays?",
+    "translation": "能否量化SWIFT延迟的影响？"
+  },
+  {
+    "source": "Let's prototype a FIX session monitoring dashboard",
+    "translation": "原型设计FIX会话监控看板"
+  },
+  {
+    "source": "The defect trend correlates with WIP limit breaches",
+    "translation": "缺陷趋势与在制品超限相关"
+  },
+  {
+    "source": "Who can champion the test automation initiative?",
+    "translation": "谁能主导测试自动化计划？"
+  },
+  {
+    "source": "Let's implement swarming hours twice weekly",
+    "translation": "每周实施两次集体攻关时段"
+  },
+  {
+    "source": "The retro action items lack clear ownership",
+    "translation": "回顾行动项缺乏明确负责人"
+  },
+  {
+    "source": "Can we gamify the code review process?",
+    "translation": "能否游戏化代码审查流程？"
+  },
+  {
+    "source": "The FX module cycle time exceeds team average by 40%",
+    "translation": "外汇模块周期时间超团队均值40%"
+  },
+  {
+    "source": "Let's create an impediment heatmap for leadership",
+    "translation": "为管理层创建障碍热力图"
+  },
+  {
+    "source": "How to handle external dependencies in sprint planning?",
+    "translation": "迭代计划中如何处理外部依赖？"
+  },
+  {
+    "source": "The DevOps metrics show deployment rollback frequency",
+    "translation": "DevOps指标显示部署回滚频率"
+  },
+  {
+    "source": "Let's implement a 'question parking lot' for standups",
+    "translation": "站会中实施'问题停车场'机制"
+  },
+  {
+    "source": "Can we correlate team happiness with WIP limits?",
+    "translation": "能否关联团队幸福度与在制品限制？"
+  },
+  {
+    "source": "The FpML validation errors need root cause categorization",
+    "translation": "需对FpML验证错误进行根因分类"
+  },
+  {
+    "source": "Let's visualize code quality trends on the team dashboard",
+    "translation": "在团队看板可视化代码质量趋势"
+  },
+  {
+    "source": "How to improve psychological safety during retros?",
+    "translation": "如何提升回顾会议中的心理安全感？"
+  },
+  {
+    "source": "The MT799 processing bottleneck requires capacity analysis",
+    "translation": "MT799处理瓶颈需容量分析"
+  },
+  {
+    "source": "Let's implement a 'no-meeting Wednesday' experiment",
+    "translation": "试行'无会议星期三'实验"
+  },
+  {
+    "source": "Can we automate Jira ticket dependency mapping?",
+    "translation": "能否自动化Jira工单依赖关系映射？"
+  },
+  {
+    "source": "The CI flakiness index needs tracking",
+    "translation": "需跟踪CI不稳定指数"
+  },
+  {
+    "source": "Let's create a cross-team dependency matrix",
+    "translation": "创建跨团队依赖关系矩阵"
+  },
+  {
+    "source": "How to handle urgent compliance requests mid-sprint?",
+    "translation": "迭代中途如何处理紧急合规需求？"
+  },
+  {
+    "source": "The FIX session recovery time exceeds SLA",
+    "translation": "FIX会话恢复时间超出服务协议"
+  },
+  {
+    "source": "Let's benchmark our cycle time against industry standards",
+    "translation": "对照行业标准评估周期时间"
+  },
+  {
+    "source": "Can we implement mob programming for legacy code?",
+    "translation": "能否对遗留代码实施集体编程？"
+  },
+  {
+    "source": "The retro feedback suggests improving async standups",
+    "translation": "回顾反馈建议改进异步站会"
+  },
+  {
+    "source": "Let's quantify the cost of context switching",
+    "translation": "量化上下文切换的成本"
+  },
+  {
+    "source": "How to maintain focus during SWIFT migration?",
+    "translation": "SWIFT迁移期间如何保持专注？"
+  },
+  {
+    "source": "The defect escape rate requires test pyramid analysis",
+    "translation": "缺陷逃逸率需测试金字塔分析"
+  },
+  {
+    "source": "Let's implement 'focus hours' with Do Not Disturb signs",
+    "translation": "实施'专注时段'并放置勿扰标识"
+  },
+  {
+    "source": "Can we correlate CI failures with story points?",
+    "translation": "能否关联CI失败与故事点？"
+  },
+  {
+    "source": "The Kafka lag pattern matches deployment times",
+    "translation": "Kafka延迟模式与部署时间吻合"
+  },
+  {
+    "source": "Let's create a visual workflow for FpML exceptions",
+    "translation": "创建FpML异常可视化工作流"
+  },
+  {
+    "source": "How to handle knowledge silos in the FX team?",
+    "translation": "如何处理外汇团队的知识孤岛？"
+  },
+  {
+    "source": "The MT535 reconciliation effort is underestimated",
+    "translation": "MT535对账工作量被低估"
+  },
+  {
+    "source": "Let's implement a 'bug jail' for recurring issues",
+    "translation": "为重复问题设立'BUG监狱'机制"
+  },
+  {
+    "source": "Can we automate sprint health reports?",
+    "translation": "能否自动化迭代健康报告？"
+  },
+  {
+    "source": "The WIP limit violations correlate with defect spikes",
+    "translation": "在制品超限与缺陷激增相关"
+  },
+  {
+    "source": "Let's prototype a team sentiment dashboard",
+    "translation": "原型设计团队情绪看板"
+  },
+  {
+    "source": "How to balance BA availability with dev needs?",
+    "translation": "如何平衡业务分析师时间与开发需求？"
+  },
+  {
+    "source": "The FIX dictionary upgrade requires risk modeling",
+    "translation": "FIX字典升级需风险建模"
+  },
+  {
+    "source": "Let's implement 'learning Fridays' for tech spikes",
+    "translation": "设立'学习星期五'进行技术调研"
+  },
+  {
+    "source": "Can we gamify the tech debt reduction process?",
+    "translation": "能否游戏化技术债务清理流程？"
+  },
+  {
+    "source": "The CI pipeline needs automated flakiness detection",
+    "translation": "持续集成流水线需自动检测不稳定性"
+  },
+  {
+    "source": "Can we reprioritize the FIX engine task over the SWIFT upgrade?",
+    "translation": "能否将FIX引擎任务优先级提到SWIFT升级之前？"
+  },
+  {
+    "source": "The BA spec contradicts the Bloomberg data feed - how to proceed?",
+    "translation": "业务需求文档与彭博数据源冲突，如何处理？"
+  },
+  {
+    "source": "We need extended access to the UAT environment for MT940 testing",
+    "translation": "MT940测试需要延长UAT环境访问权限"
+  },
+  {
+    "source": "The acceptance criteria for bond settlement are ambiguous",
+    "translation": "债券结算的验收标准不明确"
+  },
+  {
+    "source": "Can the Scrum Master escalate the FIX certification delay?",
+    "translation": "Scrum Master能否升级FIX认证延迟问题？"
+  },
+  {
+    "source": "The FX rate API documentation lacks error code details",
+    "translation": "汇率API文档缺少错误码说明"
+  },
+  {
+    "source": "We're blocked waiting for compliance approval on SWIFT changes",
+    "translation": "因等待SWIFT变更的合规审批而受阻"
+  },
+  {
+    "source": "The user story about MT535 reconciliation needs splitting",
+    "translation": "MT535对账用户故事需要拆分"
+  },
+  {
+    "source": "Can we get the quant team's input on the pricing model?",
+    "translation": "能否获得量化团队对定价模型的意见？"
+  },
+  {
+    "source": "The Jira ticket doesn't reflect the actual FX business rules",
+    "translation": "Jira工单未体现实际外汇业务规则"
+  },
+  {
+    "source": "The BA needs to clarify the ISIN mapping exceptions",
+    "translation": "需业务分析师明确ISIN映射例外情况"
+  },
+  {
+    "source": "We require Bloomberg Terminal access for bond yield validation",
+    "translation": "债券收益率验证需要彭博终端访问权限"
+  },
+  {
+    "source": "The SWIFT test environment isn't replicating production issues",
+    "translation": "SWIFT测试环境无法复现生产问题"
+  },
+  {
+    "source": "Can the retro action items be tracked more transparently?",
+    "translation": "能否更透明地追踪回顾行动项？"
+  },
+  {
+    "source": "The FpML schema changes broke our staging environment",
+    "translation": "FpML模式变更导致预发环境故障"
+  },
+  {
+    "source": "We need BA confirmation on the corporate action workflow",
+    "translation": "需业务分析师确认公司行为处理流程"
+  },
+  {
+    "source": "The Kafka cluster permissions are blocking integration tests",
+    "translation": "Kafka集群权限阻碍集成测试"
+  },
+  {
+    "source": "Can we schedule a three-amigos session for the FX option story?",
+    "translation": "能否为外汇期权用户故事安排三友会议？"
+  },
+  {
+    "source": "The performance SLA for trade confirmation isn't achievable",
+    "translation": "交易确认的性能SLA无法达成"
+  },
+  {
+    "source": "We need compliance's written approval for the new workflow",
+    "translation": "新流程需要合规部门的书面批准"
+  },
+  {
+    "source": "The Jira subtask dependencies aren't correctly linked",
+    "translation": "Jira子任务依赖关系链接错误"
+  },
+  {
+    "source": "Can the Scrum Master mediate the Lombok vs manual code debate?",
+    "translation": "Scrum Master能否协调Lombok与手写代码的争议？"
+  },
+  {
+    "source": "The BA's mock data doesn't cover edge cases in MT799 processing",
+    "translation": "业务分析师的模拟数据未覆盖MT799处理的边界情况"
+  },
+  {
+    "source": "We need ops support for the Redis cluster failover test",
+    "translation": "Redis集群故障转移测试需运维支持"
+  },
+  {
+    "source": "The FIX session recovery documentation is outdated",
+    "translation": "FIX会话恢复文档已过时"
+  },
+  {
+    "source": "Can we get extended sprint planning for the SWIFT migration?",
+    "translation": "能否为SWIFT迁移延长迭代计划时间？"
+  },
+  {
+    "source": "The acceptance tests don't match the FX regulatory requirements",
+    "translation": "验收测试不符合外汇监管要求"
+  },
+  {
+    "source": "We need BA sign-off on the revised collateral haircut logic",
+    "translation": "需业务分析师签署修订后的抵押品折价逻辑"
+  },
+  {
+    "source": "The performance baseline for bond pricing is unrealistic",
+    "translation": "债券定价的性能基准不切实际"
+  },
+  {
+    "source": "Can the Scrum Master help coordinate cross-team testing?",
+    "translation": "Scrum Master能否协调跨团队测试？"
+  },
+  {
+    "source": "The MT548 automation story lacks clear success metrics",
+    "translation": "MT548自动化用户故事缺少明确成功指标"
+  },
+  {
+    "source": "We need quant team's validation on the VaR calculation",
+    "translation": "需量化团队验证风险价值计算"
+  },
+  {
+    "source": "The BA's user story about SWIFT FIN messages needs tech input",
+    "translation": "业务分析师的SWIFT FIN报文用户故事需技术意见"
+  },
+  {
+    "source": "Can we formalize the process for emergency hotfixes?",
+    "translation": "能否规范紧急热修复流程？"
+  },
+  {
+    "source": "The FpML validation errors require BA-business alignment",
+    "translation": "FpML验证错误需业务分析师与业务部门对齐"
+  },
+  {
+    "source": "We need clearer guidelines for Jira ticket prioritization",
+    "translation": "需要更清晰的Jira工单优先级指南"
+  },
+  {
+    "source": "The disaster recovery runbook lacks bond settlement scenarios",
+    "translation": "灾难恢复手册缺少债券结算场景"
+  },
+  {
+    "source": "Can the Scrum Master facilitate a risk assessment session?",
+    "translation": "Scrum Master能否主持风险评估会议？"
+  },
+  {
+    "source": "The FX rate caching strategy conflicts with compliance rules",
+    "translation": "汇率缓存策略与合规规则冲突"
+  },
+  {
+    "source": "We need BA clarification on the corporate action cutoff times",
+    "translation": "需业务分析师明确公司行为截止时间"
+  },
+  {
+    "source": "The Jira board isn't reflecting the actual SWIMP progress",
+    "translation": "Jira看板未真实反映SWIFT接口改进进度"
+  },
+  {
+    "source": "Can we implement automated Jira dependency mapping?",
+    "translation": "能否实现Jira依赖关系自动映射？"
+  },
+  {
+    "source": "The FIX dictionary version mismatch is causing test failures",
+    "translation": "FIX字典版本不匹配导致测试失败"
+  },
+  {
+    "source": "We need quant approval on the interest accrual algorithm",
+    "translation": "需量化团队批准利息计算算法"
+  },
+  {
+    "source": "The BA's user stories lack technical feasibility analysis",
+    "translation": "业务分析师的用户故事缺少技术可行性分析"
+  },
+  {
+    "source": "Can the Scrum Master help reduce context switching?",
+    "translation": "Scrum Master能否帮助减少上下文切换？"
+  },
+  {
+    "source": "The MT535 reconciliation discrepancies need BA interpretation",
+    "translation": "MT535对账差异需业务分析师解释"
+  },
+  {
+    "source": "We require access to production logs for the FIX timeout issue",
+    "translation": "排查FIX超时问题需要访问生产日志"
+  },
+  {
+    "source": "The BA's acceptance criteria don't cover EOD batch scenarios",
+    "translation": "业务分析师的验收标准未涵盖日终批处理场景"
+  },
+  {
+    "source": "Can we formalize the process for schema change requests?",
+    "translation": "能否规范模式变更请求流程？"
   }
 ]

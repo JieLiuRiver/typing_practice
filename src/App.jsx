@@ -3,6 +3,7 @@ import TypingEffect from './components/TypingEffect';
 import StatsDisplay from './components/StatsDisplay';
 import useTypingSound from './hooks/useTypingSound';
 import usePronunciationSound from './hooks/useWordSound';
+import useSentenceCount from './hooks/useSentenceCount';
 import { useEffect } from 'react';
 import { useAtom } from 'jotai';
 import { currentSentenceAtom, nextSentenceAtom } from './store';
@@ -12,6 +13,8 @@ function App() {
   const [currentSentence] = useAtom(currentSentenceAtom);
   const [, nextSentence] = useAtom(nextSentenceAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
+
+  const { totalSentences, isLoading } = useSentenceCount();
 
   const handleComplete = () => {
     nextSentence();
@@ -30,6 +33,9 @@ function App() {
   return (
     <>
       <div className="typing-container">
+        <div className={`total-sentences ${isLoading ? 'loading' : ''}`}>
+          {isLoading ? 'Loading...' : `Total: ${totalSentences}`}
+        </div>
         <TypingEffect 
           text={currentSentence.source}
           onType={playSound}
