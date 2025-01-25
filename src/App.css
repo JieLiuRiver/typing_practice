@@ -50,6 +50,17 @@
   text-decoration: line-through;
 }
 
+.translation {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #a0a0a0;
+  text-align: center;
+  padding: 10px;
+  border-top: 1px solid #333;
+  width: 80%;
+}
+
 @media (max-width: 768px) {
   .text-display {
     font-size: 1.2rem;
@@ -58,5 +69,11 @@
   
   .typing-container {
     padding: 20px;
+  }
+
+  .translation {
+    font-size: 1rem;
+    margin-top: 15px;
+    width: 90%;
   }
 }
