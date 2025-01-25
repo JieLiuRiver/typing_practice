@@ -1,13 +1,13 @@
 {
   "sentences": [
     {
-      "source": "The quick brown fox jumps over the lazy dog",
-      "translation": "敏捷的棕色狐狸跳过了懒惰的狗",
+      "source": "the lazy dog",
+      "translation": "懒惰的狗",
       "language": "english"
     },
     {
-      "source": "Pack my box with five dozen liquor jugs",
-      "translation": "用五打酒壶装满我的箱子",
+      "source": "Pack my box",
+      "translation": "装满我的箱子",
       "language": "english"
     },
     {

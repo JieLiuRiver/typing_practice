@@ -3,7 +3,7 @@ import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
 import PropTypes from 'prop-types';
 
-const TypingEffect = ({ text }) => {
+const TypingEffect = ({ text, onComplete }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
   const { playSound } = useTypingSound();
@@ -14,6 +14,13 @@ const TypingEffect = ({ text }) => {
   };
 
   const handleKeyDown = useCallback((e) => {
+    if (e.key === 'Enter') {
+      setCursorPos(0);
+      setCharStates(Array(text.length).fill('normal'));
+      onComplete?.();
+      return;
+    }
+
     if (e.key === 'Backspace') {
       setCursorPos(prev => Math.max(0, prev - 1));
       setCharStates(prev => {
@@ -104,6 +111,7 @@ const TypingEffect = ({ text }) => {
 
 TypingEffect.propTypes = {
   text: PropTypes.string.isRequired,
+  onComplete: PropTypes.func,
 };
 
 export default TypingEffect;

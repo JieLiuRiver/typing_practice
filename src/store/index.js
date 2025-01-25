@@ -4,11 +4,27 @@ import sentencesData from './sentences.json';
 // Store for sentences loaded from JSON
 export const sentencesAtom = atom(sentencesData.sentences);
 
-// Derived atom to get a random sentence with translation
-export const currentSentenceAtom = atom((get) => {
-  const sentences = get(sentencesAtom);
-  return sentences[Math.floor(Math.random() * sentences.length)];
-});
+// Current sentence index
+export const currentIndexAtom = atom(0);
+
+// Derived atom to get current sentence
+export const currentSentenceAtom = atom(
+  (get) => {
+    const sentences = get(sentencesAtom);
+    const index = get(currentIndexAtom);
+    return sentences[index % sentences.length];
+  }
+);
+
+// Action atom to advance to next sentence
+export const nextSentenceAtom = atom(
+  null,
+  (get, set) => {
+    const sentences = get(sentencesAtom);
+    const currentIndex = get(currentIndexAtom);
+    set(currentIndexAtom, (currentIndex + 1) % sentences.length);
+  }
+);
 
 export const pronunciationConfigAtom = atom({
   speed: 1.0,
