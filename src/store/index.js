@@ -1,14 +1,19 @@
 import { atom } from 'jotai';
 import sentences01Data from '../assets/sentences/01.json';
+import sentences02Data from '../assets/sentences/02.json';
 
 // Typing state management
 export const isRunningAtom = atom(false);
 
 // Store for sentences loaded from JSON
-export const sentencesAtom = atom(sentences01Data);
+export const sentencesAtom = atom([...sentences02Data, ...sentences01Data]);
+
+const lastTimeIndex = Number(localStorage.getItem(`lastTimeIndex`) || 0);
 
 // Current sentence index with random initial value
-export const currentIndexAtom = atom(Math.floor(Math.random() * sentences01Data.length));
+export const currentIndexAtom = atom(
+  lastTimeIndex
+);
 
 // Derived atom to get current sentence
 export const currentSentenceAtom = atom(
@@ -25,7 +30,9 @@ export const nextSentenceAtom = atom(
   (get, set) => {
     const sentences = get(sentencesAtom);
     const currentIndex = get(currentIndexAtom);
-    set(currentIndexAtom, (currentIndex + 1) % sentences.length);
+    const newIndex = (currentIndex + 1) % sentences.length;
+    localStorage.setItem(`lastTimeIndex`, newIndex);
+    set(currentIndexAtom, newIndex);
   }
 );
 

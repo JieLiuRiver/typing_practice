@@ -3,7 +3,7 @@ import TypingEffect from './TypingEffect';
 import StatsDisplay from './StatsDisplay';
 import useTypingSound from '../hooks/useTypingSound';
 import useSentenceCount from '../hooks/useSentenceCount';
-import { currentSentenceAtom, isRunningAtom, nextSentenceAtom } from '../store';
+import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, currentIndexAtom } from '../store';
 import usePronunciationSound from '../hooks/useWordSound';
 import { useEffect } from 'react';
 
@@ -14,6 +14,7 @@ export default function TypingContainer() {
   const isRunning = useAtomValue(isRunningAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences } = useSentenceCount();
+  const currentIndex = useAtomValue(currentIndexAtom);
 
   const handleComplete = () => {
     nextSentence();
@@ -31,10 +32,10 @@ export default function TypingContainer() {
   return (
     <div className="typing-container">
       <div className={`total-sentences`}>
-        {`Total: ${totalSentences}`}
+        {`${currentIndex + 1}/${totalSentences}`}
       </div>
-      <TypingEffect 
-        text={currentSentence.source?.replace(/\.$/, '') ?? ''}
+      <TypingEffect
+        text={currentSentence.source?.replace(/[.?!]$/, '') ?? ''}
         onType={playSound}
         onComplete={handleComplete}
       />

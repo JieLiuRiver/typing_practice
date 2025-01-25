@@ -142,8 +142,8 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   };
 
   useEffect(() => {
-    // Check if we're at the start of a word
-    const isWordStart = cursorPos === 0 || text[cursorPos - 1] === ' ';
+    // Check if we're at the start of a word but not at the start of the sentence
+    const isWordStart = (cursorPos > 0 && text[cursorPos - 1] === ' ');
     
     if (isWordStart && cursorPos < text.length) {
       const wordIndex = text.slice(0, cursorPos).split(' ').length - 1;
