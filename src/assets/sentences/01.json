@@ -1,5 +1,329 @@
 [
   {
+    "source": "The integration test failed due to a missing configuration.",
+    "translation": "集成测试因缺少配置而失败。"
+  },
+  {
+    "source": "The FX system needs to support spot and forward trades.",
+    "translation": "外汇系统需要支持即期和远期交易。"
+  },
+  {
+    "source": "We need to prioritize bug fixes in the current sprint.",
+    "translation": "我们需要在当前冲刺中优先修复Bug。"
+  },
+  {
+    "source": "The Java class should implement the Serializable interface.",
+    "translation": "这个Java类应该实现Serializable接口。"
+  },
+  {
+    "source": "The bank offers structured deposits with capital protection.",
+    "translation": "银行提供带本金保障的结构性存款。"
+  },
+  {
+    "source": "The project manager updated the Gantt chart.",
+    "translation": "项目经理更新了甘特图。"
+  },
+  {
+    "source": "We deployed a patch to fix the production issue.",
+    "translation": "我们部署了补丁以修复生产问题。"
+  },
+  {
+    "source": "The bond yield is calculated based on the current market price.",
+    "translation": "债券收益率基于当前市场价格计算。"
+  },
+  {
+    "source": "The Spring Boot service relies on a PostgreSQL database.",
+    "translation": "Spring Boot服务依赖于PostgreSQL数据库。"
+  },
+  {
+    "source": "The Agile coach introduced a new retrospective format.",
+    "translation": "敏捷教练介绍了一种新的回顾会议格式。"
+  },
+  {
+    "source": "The FX trader executed a large-scale currency swap.",
+    "translation": "外汇交易员执行了一笔大规模的货币掉期交易。"
+  },
+  {
+    "source": "The team is working on automating the regression tests.",
+    "translation": "团队正在致力于自动化回归测试。"
+  },
+  {
+    "source": "The bond trader submitted a price inquiry for a corporate bond.",
+    "translation": "债券交易员提交了一份公司债券的价格询问。"
+  },
+  {
+    "source": "The microservice needs to handle high concurrency.",
+    "translation": "微服务需要处理高并发。"
+  },
+  {
+    "source": "The client portal will include a feature for bond redemption.",
+    "translation": "客户门户将包含债券赎回功能。"
+  },
+  {
+    "source": "The development team uses JIRA to track sprint progress.",
+    "translation": "开发团队使用JIRA跟踪冲刺进度。"
+  },
+  {
+    "source": "The FX system generates daily reports for compliance review.",
+    "translation": "外汇系统生成供合规审查的每日报告。"
+  },
+  {
+    "source": "The structured note is linked to the performance of a stock index.",
+    "translation": "结构性票据与股票指数的表现挂钩。"
+  },
+  {
+    "source": "The CI/CD pipeline was configured to deploy automatically.",
+    "translation": "CI/CD流水线已配置为自动部署。"
+  },
+  {
+    "source": "The BA gathered user feedback to refine the requirements.",
+    "translation": "BA收集了用户反馈以优化需求。"
+  },
+  {
+    "source": "We need to increase the test coverage for critical modules.",
+    "translation": "我们需要增加关键模块的测试覆盖率。"
+  },
+  {
+    "source": "The system logs should include detailed error messages.",
+    "translation": "系统日志应包含详细的错误信息。"
+  },
+  {
+    "source": "The RM discussed the FX hedging strategy with the client.",
+    "translation": "客户经理与客户讨论了外汇对冲策略。"
+  },
+  {
+    "source": "The Spring Boot app uses RESTful APIs for communication.",
+    "translation": "Spring Boot应用程序使用RESTful API进行通信。"
+  },
+  {
+    "source": "The bond offering has a minimum subscription amount.",
+    "translation": "债券发行设有最低认购金额。"
+  },
+  {
+    "source": "The development team completed the sprint review yesterday.",
+    "translation": "开发团队昨天完成了冲刺评审。"
+  },
+  {
+    "source": "The frontend application was optimized for mobile devices.",
+    "translation": "前端应用程序已针对移动设备进行优化。"
+  },
+  {
+    "source": "The structured deposit offers a floating interest rate.",
+    "translation": "结构性存款提供浮动利率。"
+  },
+  {
+    "source": "The product owner updated the backlog with new items.",
+    "translation": "产品负责人将新条目添加到了待办事项中。"
+  },
+  {
+    "source": "The Java application threw an out-of-memory exception.",
+    "translation": "Java应用程序抛出了内存不足异常。"
+  },
+  {
+    "source": "The compliance team reviewed the FX trade for regulatory risks.",
+    "translation": "合规团队审查了外汇交易的监管风险。"
+  },
+  {
+    "source": "The Agile sprint cycle is set to two weeks.",
+    "translation": "敏捷冲刺周期设置为两周。"
+  },
+  {
+    "source": "The FX blotter includes a filter for trade status.",
+    "translation": "外汇交易记录包含交易状态过滤器。"
+  },
+  {
+    "source": "The backend service uses Redis for caching data.",
+    "translation": "后端服务使用Redis缓存数据。"
+  },
+  {
+    "source": "The RM explained the bond coupon payment schedule.",
+    "translation": "客户经理解释了债券利息支付计划。"
+  },
+  {
+    "source": "The sprint retrospective focused on process improvements.",
+    "translation": "冲刺回顾专注于流程改进。"
+  },
+  {
+    "source": "The developer implemented a new feature in the API.",
+    "translation": "开发人员在API中实现了新功能。"
+  },
+  {
+    "source": "The trading system must comply with global FX regulations.",
+    "translation": "交易系统必须符合全球外汇法规。"
+  },
+  {
+    "source": "The Spring Boot application handles real-time data processing.",
+    "translation": "Spring Boot应用程序处理实时数据。"
+  },
+  {
+    "source": "The BA created a flowchart to explain the user journey.",
+    "translation": "BA创建了一个流程图来解释用户旅程。"
+  },
+  {
+    "source": "The structured product includes a risk disclaimer.",
+    "translation": "结构性产品包含风险声明。"
+  },
+  {
+    "source": "The frontend team implemented lazy loading for faster performance.",
+    "translation": "前端团队实现了懒加载以提高性能。"
+  },
+  {
+    "source": "The FX system requires user authentication with two-factor security.",
+    "translation": "外汇系统要求使用双重安全认证。"
+  },
+  {
+    "source": "The bond issuance details were updated in the CRM system.",
+    "translation": "债券发行详情已更新至CRM系统中。"
+  },
+  {
+    "source": "The team decided to use Scrum for project management.",
+    "translation": "团队决定使用Scrum进行项目管理。"
+  },
+  {
+    "source": "The RM advised the client to diversify their investment portfolio.",
+    "translation": "客户经理建议客户分散投资组合。"
+  },
+  {
+    "source": "The system's uptime is critical for FX trading operations.",
+    "translation": "系统的正常运行时间对外汇交易运营至关重要。"
+  },
+  {
+    "source": "The API endpoint returned a 404 error.",
+    "translation": "API端点返回了404错误。"
+  },
+  {
+    "source": "The structured note's payout depends on market conditions.",
+    "translation": "结构性票据的收益取决于市场状况。"
+  },
+  {
+    "source": "The backend team deployed a hotfix for a production bug.",
+    "translation": "后端团队为生产Bug部署了热修复。"
+  },
+  {
+    "source": "The client portal needs a dashboard for portfolio management.",
+    "translation": "客户门户需要一个投资组合管理仪表板。"
+  },
+  {
+    "source": "The developer pushed the latest code to the Git repository.",
+    "translation": "开发人员将最新代码推送到了Git仓库。"
+  },
+  {
+    "source": "The project manager discussed the resource allocation with stakeholders.",
+    "translation": "项目经理与利益相关者讨论了资源分配。"
+  },
+  {
+    "source": "The FX blotter aggregates trades by currency pair.",
+    "translation": "外汇交易记录按货币对汇总交易。"
+  },
+  {
+    "source": "The compliance team flagged the trade for further review.",
+    "translation": "合规团队标记了该交易以供进一步审查。"
+  },
+  {
+    "source": "The structured deposit matures in three years.",
+    "translation": "结构性存款三年后到期。"
+  },
+  {
+    "source": "The Scrum Master facilitated the sprint planning session.",
+    "translation": "Scrum Master主持了冲刺规划会议。"
+  },
+  {
+    "source": "The bond prices dropped sharply after the market opened.",
+    "translation": "市场开盘后，债券价格大幅下跌。"
+  },
+  {
+    "source": "The FX trading app uses WebSocket for live updates.",
+    "translation": "外汇交易应用使用WebSocket进行实时更新。"
+  },
+  {
+    "source": "The BA prepared a user story for the new feature.",
+    "translation": "BA为新功能准备了用户故事。"
+  },
+  {
+    "source": "The Java application uses Maven for dependency management.",
+    "translation": "Java应用程序使用Maven进行依赖管理。"
+  },
+  {
+    "source": "The bond coupon rate is fixed for the first five years.",
+    "translation": "债券票面利率在前五年是固定的。"
+  },
+  {
+    "source": "The sprint backlog includes tasks for UI testing.",
+    "translation": "冲刺待办事项中包括UI测试任务。"
+  },
+  {
+    "source": "The structured product's risk level was assessed by the team.",
+    "translation": "团队评估了结构性产品的风险等级。"
+  },
+  {
+    "source": "The frontend team implemented responsive design for the platform.",
+    "translation": "前端团队为平台实现了响应式设计。"
+  },
+  {
+    "source": "The FX blotter shows real-time profit and loss updates.",
+    "translation": "外汇交易记录显示实时盈亏更新。"
+  },
+  {
+    "source": "The backend service supports batch processing for large data files.",
+    "translation": "后端服务支持大数据文件的批量处理。"
+  },
+  {
+    "source": "The RM provided the client with an FX market analysis report.",
+    "translation": "客户经理向客户提供了一份外汇市场分析报告。"
+  },
+  {
+    "source": "The Agile coach encouraged the team to adopt pair programming.",
+    "translation": "敏捷教练鼓励团队采用结对编程。"
+  },
+  {
+    "source": "The system architecture was designed for scalability.",
+    "translation": "系统架构为可扩展性而设计。"
+  },
+  {
+    "source": "The compliance review flagged several issues in the trade logs.",
+    "translation": "合规审查在交易日志中标记了几个问题。"
+  },
+  {
+    "source": "The Java service connects to a third-party API for market data.",
+    "translation": "Java服务连接第三方API获取市场数据。"
+  },
+  {
+    "source": "The structured deposit's performance is tied to an equity index.",
+    "translation": "结构性存款的表现与股票指数挂钩。"
+  },
+  {
+    "source": "The bond trade was settled through the clearinghouse.",
+    "translation": "债券交易通过清算所结算。"
+  },
+  {
+    "source": "The development team implemented a caching layer for the API.",
+    "translation": "开发团队为API实现了缓存层。"
+  },
+  {
+    "source": "The product owner prioritized the backlog based on business value.",
+    "translation": "产品负责人根据业务价值为待办事项排优先级。"
+  },
+  {
+    "source": "The system needs to handle FX trade cancellations seamlessly.",
+    "translation": "系统需要无缝处理外汇交易取消。"
+  },
+  {
+    "source": "The database query was optimized for faster execution.",
+    "translation": "数据库查询已优化以加快执行速度。"
+  },
+  {
+    "source": "The RM set up a meeting to discuss investment options.",
+    "translation": "客户经理安排了一次会议讨论投资选项。"
+  },
+  {
+    "source": "The Spring Boot app integrates with Kafka for message streaming.",
+    "translation": "Spring Boot应用集成了Kafka进行消息流处理。"
+  },
+  {
+    "source": "The BA conducted a workshop to gather requirements from stakeholders.",
+    "translation": "BA举办了一个工作坊以收集利益相关者的需求。"
+  },  
+  {
     "source": "How can I help unblock your current task?",
     "translation": "如何帮你解决当前任务的阻碍？"
   },
@@ -5235,5 +5559,285 @@
   {
     "source": "Can we standardize the schema change approval process?",
     "translation": "能否规范模式变更审批流程？"
+  },
+  {
+    "source": "Can we adjust the sprint scope to accommodate the FIX certification delay?",
+    "translation": "能否调整迭代范围以适应FIX认证延迟？"
+  },
+  {
+    "source": "The BA's mock data for SWIFT MT798 doesn't include multi-currency scenarios",
+    "translation": "业务分析师提供的SWIFT MT798模拟数据缺少多币种场景"
+  },
+  {
+    "source": "We need DevOps to increase the Kafka cluster's retention period",
+    "translation": "需DevOps团队延长Kafka集群数据保留期"
+  },
+  {
+    "source": "The acceptance criteria for bond coupon payments lack tax considerations",
+    "translation": "债券票息支付的验收标准未考虑税务因素"
+  },
+  {
+    "source": "Can the Scrum Master help resolve the environment parity issues?",
+    "translation": "Scrum Master能否协助解决环境一致性问题？"
+  },
+  {
+    "source": "The FX spot rate caching mechanism violates GDPR data residency rules",
+    "translation": "即期汇率缓存机制违反GDPR数据属地原则"
+  },
+  {
+    "source": "We're blocked by missing SWIFT BIC validation logic in the spec",
+    "translation": "因需求文档缺少SWIFT BIC验证逻辑而受阻"
+  },
+  {
+    "source": "The user story about corporate actions needs breakdown into sub-tasks",
+    "translation": "公司行为相关用户故事需拆分子任务"
+  },
+  {
+    "source": "Can we get quant team's sign-off on the volatility surface model?",
+    "translation": "能否获得量化团队对波动率曲面模型的确认？"
+  },
+  {
+    "source": "The Jira epic for collateral management lacks tech debt considerations",
+    "translation": "抵押品管理史诗未考虑技术债务"
+  },
+  {
+    "source": "The BA needs to specify allowable tolerance for FX rate discrepancies",
+    "translation": "需业务分析师明确汇率差异的允许容差"
+  },
+  {
+    "source": "We require Bloomberg API credentials for yield curve validation",
+    "translation": "收益率曲线验证需要彭博API凭证"
+  },
+  {
+    "source": "The UAT environment's FIX version doesn't match production",
+    "translation": "UAT环境的FIX版本与生产环境不一致"
+  },
+  {
+    "source": "Can we track retro action items in Jira instead of Confluence?",
+    "translation": "能否用Jira而非Confluence追踪回顾行动项？"
+  },
+  {
+    "source": "The FpML schema update caused unexpected settlement failures",
+    "translation": "FpML模式更新导致意外结算失败"
+  },
+  {
+    "source": "We need BA confirmation on holiday calendar exceptions",
+    "translation": "需业务分析师确认节假日历例外情况"
+  },
+  {
+    "source": "The Redis ACL permissions are blocking cache invalidation",
+    "translation": "Redis访问控制列表权限阻碍缓存失效"
+  },
+  {
+    "source": "Can we schedule a three-amigos session for the MT535 reconciliation?",
+    "translation": "能否为MT535对账安排三友会议？"
+  },
+  {
+    "source": "The latency SLA for FX trades is conflicting with encryption overhead",
+    "translation": "外汇交易的延迟SLA与加密开销冲突"
+  },
+  {
+    "source": "We need compliance's exception approval for the legacy system",
+    "translation": "需合规部门对遗留系统给予例外批准"
+  },
+  {
+    "source": "The Jira subtask links to the wrong SWIFT message type",
+    "translation": "Jira子任务链接到错误的SWIFT报文类型"
+  },
+  {
+    "source": "Can the Scrum Master mediate the Hibernate vs JPA debate?",
+    "translation": "Scrum Master能否协调Hibernate与JPA的技术争论？"
+  },
+  {
+    "source": "The BA's test cases don't cover failed FIX session recovery",
+    "translation": "业务分析师的测试用例未覆盖FIX会话恢复失败场景"
+  },
+  {
+    "source": "We need SRE support for the chaos engineering experiments",
+    "translation": "混沌工程实验需要站点可靠性工程师支持"
+  },
+  {
+    "source": "The disaster recovery plan lacks SWIFT FIN message replay steps",
+    "translation": "灾难恢复计划缺少SWIFT FIN报文重放步骤"
+  },
+  {
+    "source": "Can we extend the sprint for the SWIFT 2023 migration?",
+    "translation": "能否延长迭代以完成SWIFT 2023迁移？"
+  },
+  {
+    "source": "The performance tests don't account for peak trade volumes",
+    "translation": "性能测试未考虑峰值交易量"
+  },
+  {
+    "source": "We need BA approval on the revised margin call logic",
+    "translation": "需业务分析师批准修订后的保证金催缴逻辑"
+  },
+  {
+    "source": "The load balancing strategy for FX API is suboptimal",
+    "translation": "外汇API的负载均衡策略未达最优"
+  },
+  {
+    "source": "Can the Scrum Master coordinate cross-region testing?",
+    "translation": "Scrum Master能否协调跨地域测试？"
+  },
+  {
+    "source": "The MT548 automation metrics need alignment with BA",
+    "translation": "MT548自动化指标需与业务分析师对齐"
+  },
+  {
+    "source": "We need quant validation on the convexity adjustment model",
+    "translation": "需量化团队验证凸性调整模型"
+  },
+  {
+    "source": "The BA's workflow diagram omits EOD batch processing",
+    "translation": "业务分析师的工作流程图遗漏日终批处理"
+  },
+  {
+    "source": "Can we formalize the hotfix deployment checklist?",
+    "translation": "能否规范热修复部署检查表？"
+  },
+  {
+    "source": "The FpML namespace conflicts require schema realignment",
+    "translation": "FpML命名空间冲突需重新校准模式"
+  },
+  {
+    "source": "We need clearer definitions for 'Done' in bond settlements",
+    "translation": "需要更清晰的债券结算'完成'定义"
+  },
+  {
+    "source": "The disaster recovery runbook's RTO targets are unrealistic",
+    "translation": "灾难恢复手册的RTO目标不现实"
+  },
+  {
+    "source": "Can the Scrum Master facilitate a threat modeling session?",
+    "translation": "Scrum Master能否主持威胁建模会议？"
+  },
+  {
+    "source": "The FX option pricing model conflicts with market data",
+    "translation": "外汇期权定价模型与市场数据冲突"
+  },
+  {
+    "source": "We need BA clarification on corporate action effective dates",
+    "translation": "需业务分析师明确公司行为生效日期"
+  },
+  {
+    "source": "The Jira board isn't reflecting actual progress on MT799",
+    "translation": "Jira看板未真实反映MT799处理进度"
+  },
+  {
+    "source": "Can we implement automated dependency tracking?",
+    "translation": "能否实现依赖关系自动追踪？"
+  },
+  {
+    "source": "The FIX dictionary mismatch is causing settlement failures",
+    "translation": "FIX字典不匹配导致结算失败"
+  },
+  {
+    "source": "We need quant sign-off on the day count convention logic",
+    "translation": "需量化团队签署计息天数惯例逻辑"
+  },
+  {
+    "source": "The BA's user stories lack non-functional requirements",
+    "translation": "业务分析师的用户故事缺少非功能性需求"
+  },
+  {
+    "source": "Can the Scrum Master help reduce meeting fatigue?",
+    "translation": "Scrum Master能否帮助减少会议疲劳？"
+  },
+  {
+    "source": "The MT535 timestamp discrepancies need BA interpretation",
+    "translation": "MT535时间戳差异需业务分析师解释"
+  },
+  {
+    "source": "We require production access to diagnose FIX session drops",
+    "translation": "诊断FIX会话中断需要生产环境访问权限"
+  },
+  {
+    "source": "The BA's test scenarios don't cover DvP settlement failures",
+    "translation": "业务分析师的测试场景未覆盖券款对付失败情况"
+  },
+  {
+    "source": "Can we standardize the schema change approval process?",
+    "translation": "能否规范模式变更审批流程？"
+  },
+  {
+    "source": "The deposit interest rate was adjusted.",
+    "translation": "存款利率已调整。"
+  },
+  {
+    "source": "The FX trading platform needs to support multi-currency accounts.",
+    "translation": "外汇交易平台需要支持多币种账户。"
+  },
+  {
+    "source": "Please review the API documentation for the new feature.",
+    "translation": "请查看新功能的API文档。"
+  },
+  {
+    "source": "Our Spring Boot application uses microservices architecture.",
+    "translation": "我们的Spring Boot应用程序使用微服务架构。"
+  },
+  {
+    "source": "The structured deposit product has a higher risk level.",
+    "translation": "结构性存款产品风险等级较高。"
+  },
+  {
+    "source": "The bond price fluctuated due to market conditions.",
+    "translation": "债券价格因市场状况波动。"
+  },
+  {
+    "source": "The Scrum Master scheduled a daily stand-up at 9 a.m.",
+    "translation": "Scrum Master安排了每天上午9点的站会。"
+  },
+  {
+    "source": "We need to refactor the Java code to improve performance.",
+    "translation": "我们需要重构Java代码以提高性能。"
+  },
+  {
+    "source": "The relationship manager is handling a high-value FX trade.",
+    "translation": "客户经理正在处理一笔高额外汇交易。"
+  },
+  {
+    "source": "Agile development requires close collaboration among team members.",
+    "translation": "敏捷开发需要团队成员之间密切合作。"
+  },
+  {
+    "source": "The backend service threw a null pointer exception.",
+    "translation": "后端服务抛出了空指针异常。"
+  },
+  {
+    "source": "Please submit the project timeline by Friday.",
+    "translation": "请在周五前提交项目时间表。"
+  },
+  {
+    "source": "The client requested a custom report on FX trends.",
+    "translation": "客户要求提供外汇趋势的自定义报告。"
+  },
+  {
+    "source": "We deployed the Spring Boot application to the production server.",
+    "translation": "我们将Spring Boot应用程序部署到了生产服务器。"
+  },
+  {
+    "source": "The compliance team is reviewing the bond offering documents.",
+    "translation": "合规团队正在审查债券发行文件。"
+  },
+  {
+    "source": "The frontend team is optimizing the UI for better usability.",
+    "translation": "前端团队正在优化UI以提高可用性。"
+  },
+  {
+    "source": "The FX blotter needs to display live exchange rates.",
+    "translation": "外汇交易记录需要显示实时汇率。"
+  },
+  {
+    "source": "The structured investment product includes equity-linked options.",
+    "translation": "结构性投资产品包含股权挂钩期权。"
+  },
+  {
+    "source": "The database migration is scheduled for this weekend.",
+    "translation": "数据库迁移定在本周末进行。"
+  },
+  {
+    "source": "The BA clarified the user requirements during the meeting.",
+    "translation": "BA在会议中澄清了用户需求。"
   }
 ]

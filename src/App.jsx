@@ -5,13 +5,14 @@ import useTypingSound from './hooks/useTypingSound';
 import usePronunciationSound from './hooks/useWordSound';
 import useSentenceCount from './hooks/useSentenceCount';
 import { useEffect } from 'react';
-import { useAtom } from 'jotai';
-import { currentSentenceAtom, nextSentenceAtom } from './store';
+import { useAtom, useAtomValue } from 'jotai';
+import { currentSentenceAtom, isRunningAtom, nextSentenceAtom } from './store';
 
 function App() {
   const { playSound } = useTypingSound();
   const [currentSentence] = useAtom(currentSentenceAtom);
   const [, nextSentence] = useAtom(nextSentenceAtom);
+  const isRunning = useAtomValue(isRunningAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
 
   const { totalSentences, isLoading } = useSentenceCount();
@@ -25,10 +26,10 @@ function App() {
 
   useEffect(() => {
     // Play sentence when component loads
-    if (currentSentence?.source) {
+    if (currentSentence?.source && isRunning) {
       playSentence();
     }
-  }, [currentSentence?.source, playSentence]);
+  }, [currentSentence?.source, playSentence, isRunning]);
 
   return (
     <>
