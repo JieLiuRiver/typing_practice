@@ -9,6 +9,11 @@ const TypingEffect = ({ text }) => {
 
   const handleKeyDown = useCallback((e) => {
     if (e.key === 'Backspace') {
+      setInput(prev => {
+        const newInput = prev.split('');
+        newInput[cursorPos - 1] = '';
+        return newInput.join('');
+      });
       setCursorPos(prev => Math.max(0, prev - 1));
       playSound('key');
       return;
@@ -38,7 +43,7 @@ const TypingEffect = ({ text }) => {
   const renderText = () => {
     return text.split('').map((char, index) => {
       let className = '';
-      if (index < input.length) {
+      if (index < cursorPos) {
         className = char === input[index] ? 'correct' : 'incorrect';
       }
       return {
