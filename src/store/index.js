@@ -1,8 +1,8 @@
 import { atom } from 'jotai';
-import sentencesData from './sentences.json';
+import sentences01Data from '../assets/sentences/01.json';
 
 // Store for sentences loaded from JSON
-export const sentencesAtom = atom(sentencesData);
+export const sentencesAtom = atom(sentences01Data);
 
 // Current sentence index
 export const currentIndexAtom = atom(0);
@@ -25,6 +25,7 @@ export const nextSentenceAtom = atom(
     set(currentIndexAtom, (currentIndex + 1) % sentences.length);
   }
 );
+
 
 export const pronunciationConfigAtom = atom({
   speed: 1.0,
