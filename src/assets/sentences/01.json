@@ -5035,5 +5035,205 @@
   {
     "source": "Can we formalize the process for schema change requests?",
     "translation": "能否规范模式变更请求流程？"
+  },
+  {
+    "source": "Can we adjust the sprint scope to accommodate the FIX certification delay?",
+    "translation": "能否调整迭代范围以适应FIX认证延迟？"
+  },
+  {
+    "source": "The BA's mock data for SWIFT MT798 doesn't include multi-currency scenarios",
+    "translation": "业务分析师提供的SWIFT MT798模拟数据缺少多币种场景"
+  },
+  {
+    "source": "We need DevOps to increase the Kafka cluster's retention period",
+    "translation": "需DevOps团队延长Kafka集群数据保留期"
+  },
+  {
+    "source": "The acceptance criteria for bond coupon payments lack tax considerations",
+    "translation": "债券票息支付的验收标准未考虑税务因素"
+  },
+  {
+    "source": "Can the Scrum Master help resolve the environment parity issues?",
+    "translation": "Scrum Master能否协助解决环境一致性问题？"
+  },
+  {
+    "source": "The FX spot rate caching mechanism violates GDPR data residency rules",
+    "translation": "即期汇率缓存机制违反GDPR数据属地原则"
+  },
+  {
+    "source": "We're blocked by missing SWIFT BIC validation logic in the spec",
+    "translation": "因需求文档缺少SWIFT BIC验证逻辑而受阻"
+  },
+  {
+    "source": "The user story about corporate actions needs breakdown into sub-tasks",
+    "translation": "公司行为相关用户故事需拆分子任务"
+  },
+  {
+    "source": "Can we get quant team's sign-off on the volatility surface model?",
+    "translation": "能否获得量化团队对波动率曲面模型的确认？"
+  },
+  {
+    "source": "The Jira epic for collateral management lacks tech debt considerations",
+    "translation": "抵押品管理史诗未考虑技术债务"
+  },
+  {
+    "source": "The BA needs to specify allowable tolerance for FX rate discrepancies",
+    "translation": "需业务分析师明确汇率差异的允许容差"
+  },
+  {
+    "source": "We require Bloomberg API credentials for yield curve validation",
+    "translation": "收益率曲线验证需要彭博API凭证"
+  },
+  {
+    "source": "The UAT environment's FIX version doesn't match production",
+    "translation": "UAT环境的FIX版本与生产环境不一致"
+  },
+  {
+    "source": "Can we track retro action items in Jira instead of Confluence?",
+    "translation": "能否用Jira而非Confluence追踪回顾行动项？"
+  },
+  {
+    "source": "The FpML schema update caused unexpected settlement failures",
+    "translation": "FpML模式更新导致意外结算失败"
+  },
+  {
+    "source": "We need BA confirmation on holiday calendar exceptions",
+    "translation": "需业务分析师确认节假日历例外情况"
+  },
+  {
+    "source": "The Redis ACL permissions are blocking cache invalidation",
+    "translation": "Redis访问控制列表权限阻碍缓存失效"
+  },
+  {
+    "source": "Can we schedule a three-amigos session for the MT535 reconciliation?",
+    "translation": "能否为MT535对账安排三友会议？"
+  },
+  {
+    "source": "The latency SLA for FX trades is conflicting with encryption overhead",
+    "translation": "外汇交易的延迟SLA与加密开销冲突"
+  },
+  {
+    "source": "We need compliance's exception approval for the legacy system",
+    "translation": "需合规部门对遗留系统给予例外批准"
+  },
+  {
+    "source": "The Jira subtask links to the wrong SWIFT message type",
+    "translation": "Jira子任务链接到错误的SWIFT报文类型"
+  },
+  {
+    "source": "Can the Scrum Master mediate the Hibernate vs JPA debate?",
+    "translation": "Scrum Master能否协调Hibernate与JPA的技术争论？"
+  },
+  {
+    "source": "The BA's test cases don't cover failed FIX session recovery",
+    "translation": "业务分析师的测试用例未覆盖FIX会话恢复失败场景"
+  },
+  {
+    "source": "We need SRE support for the chaos engineering experiments",
+    "translation": "混沌工程实验需要站点可靠性工程师支持"
+  },
+  {
+    "source": "The disaster recovery plan lacks SWIFT FIN message replay steps",
+    "translation": "灾难恢复计划缺少SWIFT FIN报文重放步骤"
+  },
+  {
+    "source": "Can we extend the sprint for the SWIFT 2023 migration?",
+    "translation": "能否延长迭代以完成SWIFT 2023迁移？"
+  },
+  {
+    "source": "The performance tests don't account for peak trade volumes",
+    "translation": "性能测试未考虑峰值交易量"
+  },
+  {
+    "source": "We need BA approval on the revised margin call logic",
+    "translation": "需业务分析师批准修订后的保证金催缴逻辑"
+  },
+  {
+    "source": "The load balancing strategy for FX API is suboptimal",
+    "translation": "外汇API的负载均衡策略未达最优"
+  },
+  {
+    "source": "Can the Scrum Master coordinate cross-region testing?",
+    "translation": "Scrum Master能否协调跨地域测试？"
+  },
+  {
+    "source": "The MT548 automation metrics need alignment with BA",
+    "translation": "MT548自动化指标需与业务分析师对齐"
+  },
+  {
+    "source": "We need quant validation on the convexity adjustment model",
+    "translation": "需量化团队验证凸性调整模型"
+  },
+  {
+    "source": "The BA's workflow diagram omits EOD batch processing",
+    "translation": "业务分析师的工作流程图遗漏日终批处理"
+  },
+  {
+    "source": "Can we formalize the hotfix deployment checklist?",
+    "translation": "能否规范热修复部署检查表？"
+  },
+  {
+    "source": "The FpML namespace conflicts require schema realignment",
+    "translation": "FpML命名空间冲突需重新校准模式"
+  },
+  {
+    "source": "We need clearer definitions for 'Done' in bond settlements",
+    "translation": "需要更清晰的债券结算'完成'定义"
+  },
+  {
+    "source": "The disaster recovery runbook's RTO targets are unrealistic",
+    "translation": "灾难恢复手册的RTO目标不现实"
+  },
+  {
+    "source": "Can the Scrum Master facilitate a threat modeling session?",
+    "translation": "Scrum Master能否主持威胁建模会议？"
+  },
+  {
+    "source": "The FX option pricing model conflicts with market data",
+    "translation": "外汇期权定价模型与市场数据冲突"
+  },
+  {
+    "source": "We need BA clarification on corporate action effective dates",
+    "translation": "需业务分析师明确公司行为生效日期"
+  },
+  {
+    "source": "The Jira board isn't reflecting actual progress on MT799",
+    "translation": "Jira看板未真实反映MT799处理进度"
+  },
+  {
+    "source": "Can we implement automated dependency tracking?",
+    "translation": "能否实现依赖关系自动追踪？"
+  },
+  {
+    "source": "The FIX dictionary mismatch is causing settlement failures",
+    "translation": "FIX字典不匹配导致结算失败"
+  },
+  {
+    "source": "We need quant sign-off on the day count convention logic",
+    "translation": "需量化团队签署计息天数惯例逻辑"
+  },
+  {
+    "source": "The BA's user stories lack non-functional requirements",
+    "translation": "业务分析师的用户故事缺少非功能性需求"
+  },
+  {
+    "source": "Can the Scrum Master help reduce meeting fatigue?",
+    "translation": "Scrum Master能否帮助减少会议疲劳？"
+  },
+  {
+    "source": "The MT535 timestamp discrepancies need BA interpretation",
+    "translation": "MT535时间戳差异需业务分析师解释"
+  },
+  {
+    "source": "We require production access to diagnose FIX session drops",
+    "translation": "诊断FIX会话中断需要生产环境访问权限"
+  },
+  {
+    "source": "The BA's test scenarios don't cover DvP settlement failures",
+    "translation": "业务分析师的测试场景未覆盖券款对付失败情况"
+  },
+  {
+    "source": "Can we standardize the schema change approval process?",
+    "translation": "能否规范模式变更审批流程？"
   }
 ]

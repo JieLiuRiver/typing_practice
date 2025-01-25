@@ -1,4 +1,6 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useEffect, useCallback, useState } from 'react';
+import { useAtomValue, useSetAtom } from 'jotai';
+import { isRunningAtom } from '../store';
 import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
 import PropTypes from 'prop-types';
@@ -7,6 +9,8 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
   const [wrongCount, setWrongCount] = useState(0);
+  const isRunning = useAtomValue(isRunningAtom);
+  const setIsRunning = useSetAtom(isRunningAtom);
   const { playSound } = useTypingSound();
   const { play: playWordSound } = usePronunciationSound(text);
 
@@ -15,10 +19,12 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   };
 
   const handleKeyDown = useCallback((e) => {
+    if (!isRunning) return;
+    
     if (e.key === 'Enter') {
       setCursorPos(0);
       setCharStates(Array(text.length).fill('normal'));
-      setWrongCount(0); // Reset error counter
+      setWrongCount(0);
       onComplete?.();
       return;
     }
@@ -37,7 +43,6 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     if (cursorPos < text.length) {
       const currentChar = text[cursorPos];
       
-      // Automatically advance for punctuation
       if (isPunctuation(currentChar)) {
         setCharStates(prev => {
           const newStates = [...prev];
@@ -64,7 +69,6 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         if (e.key.toLowerCase() === currentChar.toLowerCase()) {
           playSound('correct');
           
-          // Check if word is completed
           if (cursorPos === text.length - 1) {
             playWordSound();
           }
@@ -72,8 +76,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           playSound('wrong');
           setWrongCount(prev => prev + 1);
           
-          // Reset if wrong count exceeds threshold
-          if (wrongCount >= 2) { // Using 2 because we're about to increment
+          if (wrongCount >= 2) {
             setCursorPos(0);
             setCharStates(Array(text.length).fill('normal'));
             setWrongCount(0);
@@ -83,7 +86,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         }
       }
     }
-  }, [cursorPos, text.length, playSound]);
+  }, [cursorPos, text.length, playSound, isRunning]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
@@ -91,8 +94,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   }, [handleKeyDown]);
 
   useEffect(() => {
-    // 组件加载时调用onStart
-    onStart?.();
+    onStart?.(() => setIsRunning(true));
   }, []);
 
   const renderText = () => {
@@ -115,6 +117,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
 
   return (
     <div className="typing-container">
+      {!isRunning && <div className="overlay"></div>}
       <div className="text-display">
         {renderText().map(({ char, className, key }) => (
           <span key={key} className={className}>

@@ -1,6 +1,9 @@
 import { atom } from 'jotai';
 import sentences01Data from '../assets/sentences/01.json';
 
+// Typing state management
+export const isRunningAtom = atom(false);
+
 // Store for sentences loaded from JSON
 export const sentencesAtom = atom(sentences01Data);
 

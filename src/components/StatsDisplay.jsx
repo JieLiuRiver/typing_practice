@@ -1,4 +1,6 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import { useAtomValue, useSetAtom } from 'jotai';
+import { isRunningAtom } from '../store';
 import dayjs from 'dayjs';
 import duration from 'dayjs/plugin/duration';
 dayjs.extend(duration);
@@ -6,7 +8,8 @@ dayjs.extend(duration);
 const StatsDisplay = () => {
   const [todayPracticeTime, setTodayPracticeTime] = useState(0);
   const [totalPracticeCount, setTotalPracticeCount] = useState(0);
-  const [isRunning, setIsRunning] = useState(false);
+  const isRunning = useAtomValue(isRunningAtom);
+  const setIsRunning = useSetAtom(isRunningAtom);
   const timerRef = useRef(null);
 
   const formatTime = (seconds) => {
