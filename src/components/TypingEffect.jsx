@@ -6,6 +6,7 @@ import PropTypes from 'prop-types';
 const TypingEffect = ({ text, onComplete }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
+  const [wrongCount, setWrongCount] = useState(0);
   const { playSound } = useTypingSound();
   const { play: playWordSound } = usePronunciationSound(text);
 
@@ -17,6 +18,7 @@ const TypingEffect = ({ text, onComplete }) => {
     if (e.key === 'Enter') {
       setCursorPos(0);
       setCharStates(Array(text.length).fill('normal'));
+      setWrongCount(0); // Reset error counter
       onComplete?.();
       return;
     }
@@ -68,6 +70,16 @@ const TypingEffect = ({ text, onComplete }) => {
           }
         } else {
           playSound('wrong');
+          setWrongCount(prev => prev + 1);
+          
+          // Reset if wrong count exceeds threshold
+          if (wrongCount >= 2) { // Using 2 because we're about to increment
+            setCursorPos(0);
+            setCharStates(Array(text.length).fill('normal'));
+            setWrongCount(0);
+            playSound('reset');
+            return;
+          }
         }
       }
     }
