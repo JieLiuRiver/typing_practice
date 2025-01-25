@@ -85,7 +85,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         }
       }
     }
-  }, [cursorPos, text, wrongCount, playSound, isRunning]);
+  }, [cursorPos, text, playSound, isRunning, playWordSound, onComplete]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);

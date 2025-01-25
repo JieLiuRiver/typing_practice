@@ -1,18 +1,16 @@
-import { useEffect } from 'react';
-import { useAtom, useAtomValue } from 'jotai';
+import { useAtom } from 'jotai';
 import TypingEffect from './TypingEffect';
 import StatsDisplay from './StatsDisplay';
 import useTypingSound from '../hooks/useTypingSound';
-import usePronunciationSound from '../hooks/useWordSound';
 import useSentenceCount from '../hooks/useSentenceCount';
-import { currentSentenceAtom, isRunningAtom, nextSentenceAtom } from '../store';
+import { currentSentenceAtom, nextSentenceAtom } from '../store';
 
 export default function TypingContainer() {
   const { playSound } = useTypingSound();
   const [currentSentence] = useAtom(currentSentenceAtom);
   const [, nextSentence] = useAtom(nextSentenceAtom);
-  const isRunning = useAtomValue(isRunningAtom);
-  const { play: playSentence } = usePronunciationSound(currentSentence?.source);
+  // const isRunning = useAtomValue(isRunningAtom);
+  // const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences, isLoading } = useSentenceCount();
 
   const handleComplete = () => {
@@ -22,11 +20,11 @@ export default function TypingContainer() {
     window.dispatchEvent(new Event('storage'));
   };
 
-  useEffect(() => {
-    if (currentSentence?.source && isRunning) {
-      playSentence();
-    }
-  }, [currentSentence?.source, playSentence, isRunning]);
+  // useEffect(() => {
+  //   if (currentSentence?.source && isRunning) {
+  //     playSentence();
+  //   }
+  // }, [currentSentence?.source, playSentence, isRunning]);
 
   return (
     <div className="typing-container">
