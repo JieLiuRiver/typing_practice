@@ -462,5 +462,493 @@
   {
     "source": "Ich brauche ein neues Paar Ketten.",
     "translation": "我需要一条新项链"
+  },
+    {
+      "source": "Kannst du mir beim Einkaufen helfen?",
+      "translation": "能帮我一起购物吗？"
+    },
+    {
+      "source": "Wie spät ist der letzte Zug nach Berlin?",
+      "translation": "去柏林的末班车是几点？"
+    },
+    {
+      "source": "Darf ich hier parken?",
+      "translation": "这里可以停车吗？"
+    },
+    {
+      "source": "Der Drucker funktioniert nicht, hast du eine Idee?",
+      "translation": "打印机坏了，你有办法吗？"
+    },
+    {
+      "source": "Könnten Sie lauter sprechen?",
+      "translation": "您能大点声说话吗？"
+    },
+    {
+      "source": "Wo finde ich die Bedienungsanleitung?",
+      "translation": "说明书在哪里能找到？"
+    },
+    {
+      "source": "Haben Sie vegetarische Optionen?",
+      "translation": "有素食选择吗？"
+    },
+    {
+      "source": "Kann ich mit Kreditkarte zahlen?",
+      "translation": "可以用信用卡支付吗？"
+    },
+    {
+      "source": "Wann bekommen wir das Gehalt?",
+      "translation": "我们什么时候发工资？"
+    },
+    {
+      "source": "Können Sie mir den Weg zum Bahnhof zeigen?",
+      "translation": "能告诉我去火车站的路吗？"
+    },
+    {
+      "source": "Was bedeutet dieser Fachbegriff?",
+      "translation": "这个专业术语是什么意思？"
+    },
+    {
+      "source": "Könnten Sie die Rechnung teilen?",
+      "translation": "可以分开结账吗？"
+    },
+    {
+      "source": "Wo ist der Notausgang?",
+      "translation": "紧急出口在哪里？"
+    },
+    {
+      "source": "Kann ich diesen Pullover umtauschen?",
+      "translation": "这件毛衣可以退换吗？"
+    },
+    {
+      "source": "Wie komme ich zum Flughafen?",
+      "translation": "去机场怎么走？"
+    },
+    {
+      "source": "Könnten Sie das nochmal erklären?",
+      "translation": "能再解释一遍吗？"
+    },
+    {
+      "source": "Hast du die E-Mail vom Kunden gesehen?",
+      "translation": "你看到客户的邮件了吗？"
+    },
+    {
+      "source": "Wann öffnet die Apotheke?",
+      "translation": "药房几点开门？"
+    },
+    {
+      "source": "Kann ich deinen Stift ausleihen?",
+      "translation": "能借你的笔用用吗？"
+    },
+    {
+      "source": "Wie lange dauert die Mittagspause?",
+      "translation": "午休时间多长？"
+    },
+    {
+      "source": "Wo kann ich Gepäck aufbewahren?",
+      "translation": "哪里可以寄存行李？"
+    },
+    {
+      "source": "Haben Sie einen Allergiker-Tisch?",
+      "translation": "有过敏人士专用餐桌吗？"
+    },
+    {
+      "source": "Können wir die Deadline verlängern?",
+      "translation": "能延长截止日期吗？"
+    },
+    {
+      "source": "Wo ist die Toilette?",
+      "translation": "洗手间在哪里？"
+    },
+    {
+      "source": "Kannst du mir das aufschreiben?",
+      "translation": "能写下来给我吗？"
+    },
+    {
+      "source": "Wie aktualisiere ich die Software?",
+      "translation": "软件怎么更新？"
+    },
+    {
+      "source": "Hast du das Meeting protokolliert?",
+      "translation": "你做好会议记录了吗？"
+    },
+    {
+      "source": "Könnten Sie langsamer fahren?",
+      "translation": "能开慢点吗？"
+    },
+    {
+      "source": "Wo bekomme ich eine SIM-Karte?",
+      "translation": "哪里能买到电话卡？"
+    },
+    {
+      "source": "Kann ich hier kostenlos WLAN nutzen?",
+      "translation": "这里有免费WiFi吗？"
+    },
+  {
+    "source": "Hast du heute Abend Zeit für einen Kaffee?",
+    "translation": "今晚有空一起喝咖啡吗？"
+  },
+  {
+    "source": "Wann müssen wir die Präsentation fertigstellen?",
+    "translation": "我们什么时候必须完成演示文稿？"
+  },
+  {
+    "source": "Entschuldigung, wo ist die nächste U-Bahn Station?",
+    "translation": "请问最近的地铁站在哪里？"
+  },
+  {
+    "source": "Kann ich morgen einen Tag frei nehmen?",
+    "translation": "我明天可以请一天假吗？"
+  },
+  {
+    "source": "Was empfiehlst du zum Abendessen?",
+    "translation": "晚餐有什么推荐吗？"
+  },
+  {
+    "source": "Können wir die Besprechung auf 14 Uhr verschieben?",
+    "translation": "可以把会议推迟到下午两点吗？"
+  },
+  {
+    "source": "Wie viel kostet der Versand?",
+    "translation": "运费多少钱？"
+  },
+  {
+    "source": "Haben Sie diese Hose in Größe 38?",
+    "translation": "这条裤子有38码的吗？"
+  },
+  {
+    "source": "Könnten Sie das bitte per E-Mail bestätigen?",
+    "translation": "您能通过邮件确认这个吗？"
+  },
+  {
+    "source": "Wann kommt der nächste Bus?",
+    "translation": "下一班公交车什么时候到？"
+  },
+  {
+    "source": "Kannst du mir bei der Übersetzung helfen?",
+    "translation": "你能帮我翻译一下吗？"
+  },
+  {
+    "source": "Hast du schon die neuen Kollegen kennengelernt?",
+    "translation": "你见过新同事了吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Hotel erklären?",
+    "translation": "您能告诉我去酒店的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsbuch?",
+    "translation": "你最喜欢的书是什么？"
+  },
+  {
+    "source": "Kann ich bitte die Speisekarte sehen?",
+    "translation": "我能看看菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach München?",
+    "translation": "去慕尼黑的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch für zwei Personen frei?",
+    "translation": "有两个人的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Museum zeigen?",
+    "translation": "您能告诉我去博物馆的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsfilm?",
+    "translation": "你最喜欢的电影是什么？"
+  },
+  {
+    "source": "Kann ich bitte die Getränkekarte sehen?",
+    "translation": "我能看看饮料菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Hamburg?",
+    "translation": "去汉堡的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch mit Aussicht frei?",
+    "translation": "有窗户的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Bahnhof zeigen?",
+    "translation": "您能告诉我去火车站的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsessen?",
+    "translation": "你最喜欢的食物是什么？"
+  },
+  {
+    "source": "Kann ich bitte die Dessertkarte sehen?",
+    "translation": "我能看看甜点菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Köln?",
+    "translation": "去科隆的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch draußen frei?",
+    "translation": "有户外的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Supermarkt zeigen?",
+    "translation": "您能告诉我去超市的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsgetränk?",
+    "translation": "你最喜欢的饮料是什么？"
+  },
+  {
+    "source": "Kann ich bitte die Weinkarte sehen?",
+    "translation": "我能看看酒单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Frankfurt?",
+    "translation": "去法兰克福的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch im Raucherbereich frei?",
+    "translation": "有吸烟区的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Park erklären?",
+    "translation": "您能告诉我去公园的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsrestaurant?",
+    "translation": "你最喜欢的餐厅是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Tagesgerichte sehen?",
+    "translation": "我能看看今日特色菜单吗？" 
+  },  
+  {
+    "source": "Wie viel kostet das Ticket nach Stuttgart?",
+    "translation": "去斯图加特的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch im Innenbereich frei?",
+    "translation": "有室内的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Strand zeigen?",
+    "translation": "您能告诉我去海滩的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingscafé?",
+    "translation": "你最喜欢的咖啡馆是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Wochenangebote sehen?",
+    "translation": "我能看看本周特价菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Düsseldorf?",
+    "translation": "去杜塞尔多夫的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch am Fenster frei?",
+    "translation": "有靠窗的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Schloss zeigen?",
+    "translation": "您能告诉我去城堡的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsgeschäft?",
+    "translation": "你最喜欢的商店是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Mittagsgerichte sehen?",
+    "translation": "我能看看午餐菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Leipzig?",
+    "translation": "去莱比锡的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch im Garten frei?",
+    "translation": "有花园的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Zoo zeigen?",
+    "translation": "您能告诉我去动物园的路吗？" 
+  },
+  {
+    "source": "Was ist dein Lieblingsmuseum?",
+    "translation": "你最喜欢的博物馆是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Abendgerichte sehen?",
+    "translation": "我能看看晚餐菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Nürnberg?",
+    "translation": "去纽伦堡的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch im Nichtraucherbereich frei?",
+    "translation": "有非吸烟区的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Parkplatz zeigen?",
+    "translation": "您能告诉我去停车场的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingskino?",
+    "translation": "你最喜欢的电影院是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Getränke sehen?",
+    "translation": "我能看看饮料菜单吗？"
+  },
+  {
+    "source": "Wie viel kostet das Ticket nach Bremen?",
+    "translation": "去不来梅的票价多少？"
+  },
+  {
+    "source": "Haben Sie einen Tisch im Raucherbereich frei?",
+    "translation": "有吸烟区的空桌吗？"
+  },
+  {
+    "source": "Könnten Sie mir bitte den Weg zum Stadion zeigen?",
+    "translation": "您能告诉我去体育场的路吗？"
+  },
+  {
+    "source": "Was ist dein Lieblingsrestaurant?",
+    "translation": "你最喜欢的餐厅是哪家？"
+  },
+  {
+    "source": "Kann ich bitte die Karte für die Tagesgerichte sehen?",
+    "translation": "我能看看今日特色菜单吗？" 
+  },
+  {
+    "source": "Kann ich diese Datei per Cloud teilen?",
+    "translation": "这个文件能用云盘分享吗？"
+  },
+  {
+    "source": "Wie viel Urlaubstage habe ich noch?",
+    "translation": "我还有多少天年假？"
+  },
+  {
+    "source": "Könnten Sie die Tür schließen? Es zieht.",
+    "translation": "能关一下门吗？有穿堂风。"
+  },
+  {
+    "source": "Wo ist der nächste Geldautomat?",
+    "translation": "最近的ATM机在哪里？"
+  },
+  {
+    "source": "Kannst du mir das Passwort wiederholen?",
+    "translation": "能再说一遍密码吗？"
+  },
+  {
+    "source": "Warum ist die Lieferung verspätet?",
+    "translation": "为什么送货延迟了？"
+  },
+  {
+    "source": "Hast du den Projektbericht gelesen?",
+    "translation": "你看过项目报告了吗？"
+  },
+  {
+    "source": "Können wir die Sitzung verkürzen?",
+    "translation": "能缩短会议时间吗？"
+  },
+  {
+    "source": "Wie funktioniert dieser Kopierer?",
+    "translation": "这台复印机怎么用？"
+  },
+  {
+    "source": "Darf ich hier mein Handy aufladen?",
+    "translation": "可以在这里给手机充电吗？"
+  },
+  {
+    "source": "Wo ist die Quittung für diese Rechnung?",
+    "translation": "这张发票的收据在哪里？"
+  },
+  {
+    "source": "Könnten Sie mir einen Rabatt geben?",
+    "translation": "能给我打个折吗？"
+  },
+  {
+    "source": "Haben Sie Erfahrung mit diesem Softwaretool?",
+    "translation": "您会用这个软件工具吗？"
+  },
+  {
+    "source": "Wie oft fährt der Shuttlebus zum Hotel?",
+    "translation": "去酒店的接驳车多久一班？"
+  },
+  {
+    "source": "Kann ich den Vertrag vor Unterzeichnung durchsehen?",
+    "translation": "签约前我能看一下合同吗？"
+  },
+  {
+    "source": "Wo kann ich meine Koffer abgeben?",
+    "translation": "哪里可以寄存行李箱？"
+  },
+  {
+    "source": "Warum ist das WLAN so langsam?",
+    "translation": "为什么网络这么慢？"
+  },
+  {
+    "source": "Können wir morgen früher anfangen?",
+    "translation": "明天能早点开始吗？"
+  },
+  {
+    "source": "Hast du die Präsentationsfolien überarbeitet?",
+    "translation": "你修改过PPT了吗？"
+  },
+  {
+    "source": "Wie komme ich zur Touristeninformation?",
+    "translation": "游客中心怎么走？"
+  },
+  {
+    "source": "Kann ich einen Ersatzschlüssel bekommen?",
+    "translation": "能给我备用钥匙吗？"
+  },
+  {
+    "source": "Wo ist die Packstation für DHL?",
+    "translation": "DHL的自提柜在哪里？"
+  },
+  {
+    "source": "Könnten Sie mir einen Arzt empfehlen?",
+    "translation": "能推荐一位医生吗？"
+  },
+  {
+    "source": "Haben Sie den Fehler im System gefunden?",
+    "translation": "找到系统里的错误了吗？"
+  },
+  {
+    "source": "Wie viel Trinkgeld ist angemessen?",
+    "translation": "给多少小费合适？"
+  },
+  {
+    "source": "Kann ich den Termin auf nächste Woche verschieben?",
+    "translation": "能把预约改到下周吗？"
+  },
+  {
+    "source": "Wo ist die Bedienung? Ich möchte bestellen.",
+    "translation": "服务员在哪？我想点餐。"
+  },
+  {
+    "source": "Können Sie die Lieferadresse bestätigen?",
+    "translation": "能确认送货地址吗？"
+  },
+  {
+    "source": "Warum ist der Aufzug außer Betrieb?",
+    "translation": "电梯为什么停用了？"
+  },
+  {
+    "source": "Hast du die Besprechungsnotizen?",
+    "translation": "你有会议笔记吗？"
+  },
+  {
+    "source": "Wie tief ist der Swimmingpool?",
+    "translation": "游泳池有多深？"
+  },
+  {
+    "source": "Kann ich hier Fahrrad mieten?",
+    "translation": "这里能租自行车吗？"
   }
 ]
