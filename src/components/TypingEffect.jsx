@@ -1,13 +1,16 @@
 import { useState, useEffect, useCallback } from 'react';
+import useTypingSound from '../hooks/useTypingSound';
 import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text }) => {
   const [input, setInput] = useState('');
   const [cursorPos, setCursorPos] = useState(0);
+  const { playSound } = useTypingSound();
 
   const handleKeyDown = useCallback((e) => {
     if (e.key === 'Backspace') {
       setCursorPos(prev => Math.max(0, prev - 1));
+      playSound('key');
       return;
     }
 
@@ -18,8 +21,14 @@ const TypingEffect = ({ text }) => {
         return newInput.join('');
       });
       setCursorPos(prev => prev + 1);
+      
+      if (e.key === text[cursorPos]) {
+        playSound('correct');
+      } else {
+        playSound('wrong');
+      }
     }
-  }, [cursorPos, text.length]);
+  }, [cursorPos, text.length, playSound]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
