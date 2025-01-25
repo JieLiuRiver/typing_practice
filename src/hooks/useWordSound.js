@@ -31,7 +31,13 @@ export default function usePronunciationSound(word, isLoop) {
     format: ['mp3'],
     loop,
     volume: pronunciationConfig.volume,
-    rate: pronunciationConfig.rate
+    rate: pronunciationConfig.rate,
+    onloaderror: () => {
+      console.error('Failed to load pronunciation audio');
+    },
+    onplayerror: () => {
+      console.error('Failed to play pronunciation audio');
+    }
   })
 
   useEffect(() => {
@@ -44,10 +50,22 @@ export default function usePronunciationSound(word, isLoop) {
     if (!sound) return
     const unListens = []
 
-    unListens.push(addHowlListener(sound, 'play', () => setIsPlaying(true)))
-    unListens.push(addHowlListener(sound, 'end', () => setIsPlaying(false)))
-    unListens.push(addHowlListener(sound, 'pause', () => setIsPlaying(false)))
-    unListens.push(addHowlListener(sound, 'playerror', () => setIsPlaying(false)))
+    unListens.push(addHowlListener(sound, 'play', () => {
+      setIsPlaying(true)
+      console.log('Pronunciation started playing')
+    }))
+    unListens.push(addHowlListener(sound, 'end', () => {
+      setIsPlaying(false)
+      console.log('Pronunciation finished playing')
+    }))
+    unListens.push(addHowlListener(sound, 'pause', () => {
+      setIsPlaying(false)
+      console.log('Pronunciation paused')
+    }))
+    unListens.push(addHowlListener(sound, 'playerror', () => {
+      setIsPlaying(false)
+      console.error('Pronunciation playback error')
+    }))
 
     return () => {
       setIsPlaying(false)

@@ -1,11 +1,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import useTypingSound from '../hooks/useTypingSound';
+import usePronunciationSound from '../hooks/useWordSound';
 import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
   const { playSound } = useTypingSound();
+  const { play: playWordSound } = usePronunciationSound(text);
 
   const handleKeyDown = useCallback((e) => {
     if (e.key === 'Backspace') {
@@ -33,6 +35,11 @@ const TypingEffect = ({ text }) => {
       
       if (e.key.toLowerCase() === text[cursorPos].toLowerCase()) {
         playSound('correct');
+        
+        // Check if word is completed
+        if (cursorPos === text.length - 1) {
+          playWordSound();
+        }
       } else {
         playSound('wrong');
       }
