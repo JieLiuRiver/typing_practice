@@ -248,5 +248,250 @@
     "source": "Implement new API gateway solution",
     "translation": "实现新的API网关方案",
     "language": "english"
+  },
+  {
+    "source": "The container orchestration needs optimization",
+    "translation": "容器编排需要优化",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new feature toggle system",
+    "translation": "让我们实现新的功能开关系统",
+    "language": "english"
+  },
+  {
+    "source": "The currency volatility is increasing",
+    "translation": "货币波动性正在增加",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new logging strategy",
+    "translation": "我们需要实现新的日志策略",
+    "language": "english"
+  },
+  {
+    "source": "The bond issuance was oversubscribed",
+    "translation": "债券发行超额认购",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new monitoring dashboard",
+    "translation": "让我们实现新的监控仪表板",
+    "language": "english"
+  },
+  {
+    "source": "The foreign exchange reserves are decreasing",
+    "translation": "外汇储备正在减少",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new CI/CD pipeline",
+    "translation": "我们需要实现新的CI/CD流水线",
+    "language": "english"
+  },
+  {
+    "source": "The interest rate swap needs to be finalized",
+    "translation": "需要完成利率互换协议",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new caching layer",
+    "translation": "让我们实现新的缓存层",
+    "language": "english"
+  },
+  {
+    "source": "The currency forward contract is expiring",
+    "translation": "货币远期合约即将到期",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new security framework",
+    "translation": "我们需要实现新的安全框架",
+    "language": "english"
+  },
+  {
+    "source": "The bond yield spread is widening",
+    "translation": "债券收益率利差正在扩大",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API versioning strategy",
+    "translation": "让我们实现新的API版本控制策略",
+    "language": "english"
+  },
+  {
+    "source": "The currency swap rate is favorable",
+    "translation": "货币互换利率有利",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new error handling system",
+    "translation": "我们需要实现新的错误处理系统",
+    "language": "english"
+  },
+  {
+    "source": "The bond market is showing signs of recovery",
+    "translation": "债券市场显示出复苏迹象",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new distributed tracing system",
+    "translation": "让我们实现新的分布式追踪系统",
+    "language": "english"
+  },
+  {
+    "source": "The foreign exchange position needs rebalancing",
+    "translation": "外汇头寸需要重新平衡",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new rate limiting mechanism",
+    "translation": "我们需要实现新的速率限制机制",
+    "language": "english"
+  },
+  {
+    "source": "The interest rate futures are trading at a premium",
+    "translation": "利率期货以溢价交易",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API documentation system",
+    "translation": "让我们实现新的API文档系统",
+    "language": "english"
+  },
+  {
+    "source": "The currency options market is becoming more liquid",
+    "translation": "货币期权市场流动性正在增强",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new performance monitoring system",
+    "translation": "我们需要实现新的性能监控系统",
+    "language": "english"
+  },
+  {
+    "source": "The bond issuance was well received by investors",
+    "translation": "债券发行受到投资者欢迎",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new feature flag system",
+    "translation": "让我们实现新的功能标志系统",
+    "language": "english"
+  },
+  {
+    "source": "The foreign exchange market is experiencing high volatility",
+    "translation": "外汇市场波动性很高",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new authentication mechanism",
+    "translation": "我们需要实现新的认证机制",
+    "language": "english"
+  },
+  {
+    "source": "The interest rate derivatives market is growing",
+    "translation": "利率衍生品市场正在增长",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API gateway configuration",
+    "translation": "让我们实现新的API网关配置",
+    "language": "english"
+  },
+  {
+    "source": "The currency swap market is becoming more active",
+    "translation": "货币互换市场变得更加活跃",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new logging aggregation system",
+    "translation": "我们需要实现新的日志聚合系统",
+    "language": "english"
+  },
+  {
+    "source": "The bond yield curve is steepening",
+    "translation": "债券收益率曲线正在变陡",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API security layer",
+    "translation": "让我们实现新的API安全层",
+    "language": "english"
+  },
+  {
+    "source": "The foreign exchange reserves are stabilizing",
+    "translation": "外汇储备正在稳定",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new rate limiting strategy",
+    "translation": "我们需要实现新的速率限制策略",
+    "language": "english"
+  },
+  {
+    "source": "The interest rate swap market is expanding",
+    "translation": "利率互换市场正在扩大",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API version control system",
+    "translation": "让我们实现新的API版本控制系统",
+    "language": "english"
+  },
+  {
+    "source": "The currency futures market is becoming more efficient",
+    "translation": "货币期货市场效率正在提高",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new performance optimization strategy",
+    "translation": "我们需要实现新的性能优化策略",
+    "language": "english"
+  },
+  {
+    "source": "The bond issuance was successfully completed",
+    "translation": "债券发行顺利完成",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new feature toggle management system",
+    "translation": "让我们实现新的功能开关管理系统",
+    "language": "english"
+  },
+  {
+    "source": "The foreign exchange market is showing signs of stabilization",
+    "translation": "外汇市场显示出稳定迹象",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new authentication protocol",
+    "translation": "我们需要实现新的认证协议",
+    "language": "english"
+  },
+  {
+    "source": "The interest rate derivatives market is becoming more sophisticated",
+    "translation": "利率衍生品市场变得更加复杂",
+    "language": "english"
+  },
+  {
+    "source": "Let's implement a new API monitoring system",
+    "translation": "让我们实现新的API监控系统",
+    "language": "english"
+  },
+  {
+    "source": "The currency swap market is experiencing increased liquidity",
+    "translation": "货币互换市场流动性增加",
+    "language": "english"
+  },
+  {
+    "source": "We need to implement a new logging management system",
+    "translation": "我们需要实现新的日志管理系统",
+    "language": "english"
+  },
+  {
+    "source": "The bond yield curve is flattening",
+    "translation": "债券收益率曲线正在变平",
+    "language": "english"
   }
 ]
