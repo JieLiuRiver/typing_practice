@@ -34,11 +34,12 @@
 
 .text-display {
   font-family: 'Fira Code', monospace;
-  font-size: 1.8rem;
+  font-size: 2rem;
   line-height: 2.2;
   white-space: pre-wrap;
   color: var(--text-color);
   letter-spacing: 1px;
+  font-weight: 700;
 }
 
 .correct {
