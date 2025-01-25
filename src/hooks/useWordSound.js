@@ -3,7 +3,6 @@ import useSound from 'use-sound';
 import { useAtomValue } from 'jotai';
 import { pronunciationConfigAtom } from '@/store';
 import { addHowlListener } from '@/utils/sound';
-import { noop } from '@/utils';
 
 const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio=';
 export function generateWordSoundSrc(word, pronunciation) {
@@ -24,7 +23,9 @@ export function generateWordSoundSrc(word, pronunciation) {
 export default function usePronunciationSound(word, isLoop) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
   const loop = useMemo(() => (typeof isLoop === 'boolean' ? isLoop : pronunciationConfig.isLoop), [isLoop, pronunciationConfig.isLoop])
-  const [isPlaying, setIsPlaying] = useState(false)
+  const  [isPlaying, setIsPlaying] = useState(false)
+
+  console.log("== usePronunciationSound", word)
 
   const [play, { stop, sound }] = useSound(generateWordSoundSrc(word, pronunciationConfig.type), {
     html5: true,
@@ -38,7 +39,6 @@ export default function usePronunciationSound(word, isLoop) {
     onplayerror: () => {
       console.error('Failed to play pronunciation audio');
     },
-    dependencies: [word]
   })
 
   // Clean up sound when word changes
@@ -48,13 +48,7 @@ export default function usePronunciationSound(word, isLoop) {
       sound.unload()
     }
   }, [word, sound])
-
-  useEffect(() => {
-    if (!sound) return
-    sound.loop(loop)
-    return noop
-  }, [loop, sound])
-
+  
   useEffect(() => {
     if (!sound) return
     const unListens = []

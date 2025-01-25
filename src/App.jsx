@@ -43,7 +43,7 @@ function App() {
           onComplete={handleComplete}
         />
         <div className="translation">
-          Translation: {currentSentence.translation}
+          {currentSentence.translation}
         </div>
         <StatsDisplay />
       </div>
