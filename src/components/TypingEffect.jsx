@@ -3,7 +3,7 @@ import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
 import PropTypes from 'prop-types';
 
-const TypingEffect = ({ text, onComplete }) => {
+const TypingEffect = ({ text, onComplete, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
   const [wrongCount, setWrongCount] = useState(0);
@@ -90,6 +90,11 @@ const TypingEffect = ({ text, onComplete }) => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [handleKeyDown]);
 
+  useEffect(() => {
+    // 组件加载时调用onStart
+    onStart?.();
+  }, []);
+
   const renderText = () => {
     return text.split('').map((char, index) => {
       let className = 'letter';
@@ -124,6 +129,7 @@ const TypingEffect = ({ text, onComplete }) => {
 TypingEffect.propTypes = {
   text: PropTypes.string.isRequired,
   onComplete: PropTypes.func,
+  onStart: PropTypes.func,
 };
 
 export default TypingEffect;
