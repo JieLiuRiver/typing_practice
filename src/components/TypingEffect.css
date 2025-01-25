@@ -1,11 +1,39 @@
-.typing-effect {
+.typing-container {
   font-family: monospace;
   font-size: 24px;
   padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: #f5f5f5;
+  border-radius: 8px;
+  background-color: #faf9ff;
   min-height: 100px;
+  box-shadow: 0px 100px 80px rgba(50, 46, 129, 0.07),
+              0px 41.7776px 33.4221px rgba(50, 46, 129, 0.0503198),
+              0px 22.3363px 17.869px rgba(50, 46, 129, 0.0417275),
+              0px 12.5216px 10.0172px rgba(50, 46, 129, 0.035),
+              0px 6.6501px 5.32008px rgba(50, 46, 129, 0.0282725),
+              0px 2.76726px 2.21381px rgba(50, 46, 129, 0.0196802);
+}
+
+.text-display {
+  display: inline-block;
+  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.16),
+               0 2px 4px rgba(0, 0, 0, 0.12),
+               0 4px 8px rgba(0, 0, 0, 0.08),
+               0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.text-display span {
+  transition: all 0.2s ease;
+}
+
+.text-display .correct {
+  color: #4caf50;
+  text-shadow: 0 2px 4px rgba(76, 175, 80, 0.3);
+}
+
+.text-display .wrong {
+  color: #f44336;
+  animation: shake 0.5s;
+  text-shadow: 0 2px 4px rgba(244, 67, 54, 0.3);
 }
 
 .cursor {
@@ -16,4 +44,28 @@
   0% { opacity: 1; }
   50% { opacity: 0; }
   100% { opacity: 1; }
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
+
+html.dark .typing-container {
+  background-color: #1a1a1a;
+}
+
+html.dark .text-display span {
+  color: #e0e0e0;
+}
+
+html.dark .text-display .correct {
+  color: #81c784;
+}
+
+html.dark .text-display .wrong {
+  color: #e57373;
 }

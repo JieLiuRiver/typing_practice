@@ -3,27 +3,31 @@ import useTypingSound from '../hooks/useTypingSound';
 import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text }) => {
-  const [input, setInput] = useState('');
   const [cursorPos, setCursorPos] = useState(0);
+  const [charStates, setCharStates] = useState(Array(text.length).fill('normal'));
   const { playSound } = useTypingSound();
 
   const handleKeyDown = useCallback((e) => {
     if (e.key === 'Backspace') {
-      setInput(prev => {
-        const newInput = prev.split('');
-        newInput[cursorPos - 1] = '';
-        return newInput.join('');
-      });
       setCursorPos(prev => Math.max(0, prev - 1));
+      setCharStates(prev => {
+        const newStates = [...prev];
+        newStates[cursorPos - 1] = 'normal';
+        return newStates;
+      });
       playSound('key');
       return;
     }
 
     if (e.key.length === 1 && cursorPos < text.length) {
-      setInput(prev => {
-        const newInput = prev.split('');
-        newInput[cursorPos] = e.key;
-        return newInput.join('');
+      setCharStates(prev => {
+        const newStates = [...prev];
+        if (e.key.toLowerCase() === text[cursorPos].toLowerCase()) {
+          newStates[cursorPos] = 'correct';
+        } else {
+          newStates[cursorPos] = 'incorrect';
+        }
+        return newStates;
       });
       setCursorPos(prev => prev + 1);
       
@@ -42,9 +46,13 @@ const TypingEffect = ({ text }) => {
 
   const renderText = () => {
     return text.split('').map((char, index) => {
-      let className = '';
+      let className = 'letter';
       if (index < cursorPos) {
-        className = char.toLowerCase() === input[index].toLowerCase() ? 'correct' : 'incorrect';
+        if (charStates[index] === 'normal') {
+          className = 'letter';
+        } else {
+          className = charStates[index] === 'correct' ? 'letter correct' : 'letter wrong';
+        }
       }
       return {
         char: char,
