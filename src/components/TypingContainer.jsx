@@ -13,7 +13,7 @@ export default function TypingContainer() {
   const [, nextSentence] = useAtom(nextSentenceAtom);
   const isRunning = useAtomValue(isRunningAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
-  const { totalSentences, isLoading } = useSentenceCount();
+  const { totalSentences } = useSentenceCount();
 
   const handleComplete = () => {
     nextSentence();
@@ -30,8 +30,8 @@ export default function TypingContainer() {
 
   return (
     <div className="typing-container">
-      <div className={`total-sentences ${isLoading ? 'loading' : ''}`}>
-        {isLoading ? 'Loading...' : `Total: ${totalSentences}`}
+      <div className={`total-sentences`}>
+        {`Total: ${totalSentences}`}
       </div>
       <TypingEffect 
         text={currentSentence.source?.replace(/\.$/, '') ?? ''}
