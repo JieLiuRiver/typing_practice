@@ -1,4 +1,4 @@
-import { useEffect, useState, useMemo, useRef } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 import useSound from 'use-sound';
 import { useAtomValue } from 'jotai';
 import { pronunciationConfigAtom } from '@/store';

@@ -37,10 +37,30 @@ export const nextSentenceAtom = atom(
 );
 
 
-export const pronunciationConfigAtom = atom({
+// Base config without type
+const basePronunciationConfigAtom = atom({
   speed: 1.0,
   volume: 1.0,
   rate: 1.0,
-  type: 'us',
   isLoop: false
 });
+
+// Current language type atom
+export const pronunciationTypeAtom = atom('us');
+
+// Derived config atom that combines base config with current type
+export const pronunciationConfigAtom = atom(
+  (get) => ({
+    ...get(basePronunciationConfigAtom),
+    type: get(pronunciationTypeAtom)
+  }),
+  (get, set, update) => {
+    if (typeof update === 'string') {
+      // Only updating type
+      set(pronunciationTypeAtom, update);
+    } else {
+      // Updating other config values
+      set(basePronunciationConfigAtom, update);
+    }
+  }
+);
