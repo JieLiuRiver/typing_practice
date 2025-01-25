@@ -1,5 +1,6 @@
-import { useEffect, useCallback, useState } from 'react';
+import { useEffect, useCallback, useState, useRef } from 'react';
 import { FaVolumeUp } from 'react-icons/fa';
+import WordSpan from './WordSpan';
 import { useAtomValue, useSetAtom } from 'jotai';
 import { isRunningAtom } from '../store';
 import useTypingSound from '../hooks/useTypingSound';
@@ -100,33 +101,64 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     onStart?.(() => setIsRunning(true));
   }, []);
 
+  const charRefs = useRef([]);
+
   const renderText = () => {
-    return text?.split('').map((char, index) => {
-      let className = 'letter';
-      if (index < cursorPos) {
-        if (charStates[index] === 'normal') {
-          className = 'letter';
-        } else {
-          className = charStates[index] === 'correct' ? 'letter correct' : 'letter wrong';
+    const words = text?.split(' ') || [];
+    let charIndex = 0;
+    
+    return words.map((word, wordIndex) => {
+      const wordChars = word.split('').map((char, charOffset) => {
+        const index = charIndex + charOffset;
+        let className = 'letter';
+        if (index < cursorPos) {
+          if (charStates[index] === 'normal') {
+            className = 'letter';
+          } else {
+            className = charStates[index] === 'correct' ? 'letter correct' : 'letter wrong';
+          }
         }
-      }
-      return {
-        char: char,
-        className: className,
-        key: index
-      };
+        return (
+          <span key={`${char}_${index}`} className={className}>
+            {char}
+          </span>
+        );
+      });
+      
+      charIndex += word.length + 1; // +1 for space
+      
+      return [
+        <WordSpan
+          key={`word-${wordIndex}`}
+          ref={(el) => charRefs.current[wordIndex] = el}
+          word={word}
+          className="word"
+        >
+          {wordChars}
+        </WordSpan>,
+        wordIndex < words.length - 1 && ' '
+      ];
     });
   };
+
+  useEffect(() => {
+    // Check if we're at the start of a word
+    const isWordStart = cursorPos === 0 || text[cursorPos - 1] === ' ';
+    
+    if (isWordStart && cursorPos < text.length) {
+      const wordIndex = text.slice(0, cursorPos).split(' ').length - 1;
+      const wordRef = charRefs.current[wordIndex];
+      if (wordRef) {
+        wordRef.playSound();
+      }
+    }
+  }, [cursorPos, text]);
 
   return (
     <div className="typing-container">
       {!isRunning && <div className="overlay"></div>}
       <div className="text-display">
-        {renderText().map(({ char, className, key }) => (
-          <span key={key} className={className}>
-            {char}
-          </span>
-        ))}
+        {renderText()}
         <div 
           className="sound-icon"
           onClick={playWordSound}
