@@ -1,5 +1,4 @@
 import { atom } from 'jotai';
-import { atomWithStorage } from 'jotai/utils';
 import sentences01Data from '../assets/sentences/01.json';
 
 // Typing state management
@@ -8,8 +7,8 @@ export const isRunningAtom = atom(false);
 // Store for sentences loaded from JSON
 export const sentencesAtom = atom(sentences01Data);
 
-// Current sentence index with localStorage persistence
-export const currentIndexAtom = atomWithStorage('currentIndex', 0);
+// Current sentence index with random initial value
+export const currentIndexAtom = atom(Math.floor(Math.random() * sentences01Data.length));
 
 // Derived atom to get current sentence
 export const currentSentenceAtom = atom(

@@ -8,7 +8,6 @@ import PropTypes from 'prop-types';
 const TypingEffect = ({ text, onComplete, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text?.length || 0).fill('normal'));
-  const [wrongCount, setWrongCount] = useState(0);
   const isRunning = useAtomValue(isRunningAtom);
   const setIsRunning = useSetAtom(isRunningAtom);
   const { playSound } = useTypingSound();
@@ -24,7 +23,6 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     if (e.key === 'Enter') {
       setCursorPos(0);
       setCharStates(Array(text?.length || 0).fill('normal'));
-      setWrongCount(0);
       onComplete?.();
       return;
     }
@@ -73,15 +71,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           }
         } else {
           playSound('wrong');
-          setWrongCount(prev => prev + 1);
           setCursorPos(cursorPos - 1 < 0 ? 0 : cursorPos - 1);
-          // if (wrongCount >= 2) {
-          //   setCursorPos(0);
-          //   setCharStates(Array(text?.length || 0).fill('normal'));
-          //   setWrongCount(0);
-          //   playSound('reset');
-          //   return;
-          // }
         }
       }
     }

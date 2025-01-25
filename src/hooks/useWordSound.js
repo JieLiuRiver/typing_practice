@@ -1,4 +1,4 @@
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState, useMemo, useRef } from 'react';
 import useSound from 'use-sound';
 import { useAtomValue } from 'jotai';
 import { pronunciationConfigAtom } from '@/store';
@@ -23,9 +23,7 @@ export function generateWordSoundSrc(word, pronunciation) {
 export default function usePronunciationSound(word, isLoop) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
   const loop = useMemo(() => (typeof isLoop === 'boolean' ? isLoop : pronunciationConfig.isLoop), [isLoop, pronunciationConfig.isLoop])
-  const  [isPlaying, setIsPlaying] = useState(false)
-
-  console.log("== usePronunciationSound", word)
+  const [isPlaying, setIsPlaying] = useState(false)
 
   const [play, { stop, sound }] = useSound(generateWordSoundSrc(word, pronunciationConfig.type), {
     html5: true,
@@ -41,14 +39,6 @@ export default function usePronunciationSound(word, isLoop) {
     },
   })
 
-  // Clean up sound when word changes
-  useEffect(() => {
-    if (!sound) return
-    return () => {
-      sound.unload()
-    }
-  }, [word, sound])
-  
   useEffect(() => {
     if (!sound) return
     const unListens = []
