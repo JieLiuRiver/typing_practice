@@ -1,18 +1,18 @@
 import { forwardRef, useImperativeHandle } from 'react';
 import usePronunciationSound from '../hooks/useWordSound';
-import useGerman from '../hooks/useGerman';
+import useTTS from '../hooks/useTTS';
 import PropTypes from 'prop-types';
 import { useParams } from 'react-router-dom';
 
 const WordSpan = forwardRef(function WordSpan({ word, className, children }, ref) {
   const { play } = usePronunciationSound(word);
-  const { getAudioUrl, loadAudio, playAudio } = useGerman();
+  const { getAudioUrl, loadAudio, playAudio } = useTTS();
   const { lang } = useParams()
 
   const playSound = async () => {
     if (lang === 'de') {
       try {
-        const url = getAudioUrl('de', word);
+        const url = getAudioUrl(word);
         await loadAudio(url);
         playAudio(url);
       } catch (err) {

@@ -20,26 +20,27 @@ const cleanupCache = (cache) => {
 };
 
 /**
- * 自定义Hook：useGerman
+ * 自定义Hook：useTTS
  * @returns {{
- *   getEncodedDataRel: (lang: string, text: string) => string,
- *   getAudioUrl: (lang: string, text: string) => string,
+ *   getEncodedDataRel: (text: string) => string,
+ *   getAudioUrl: (text: string) => string,
  *   loadAudio: (url: string) => Promise<void>,
- *   playAudio: (url: string) => void
+ *   playAudio: (url: string) => void,
+ *   preloadNextAudio: (text: string) => void
  * }}
  */
-function useGerman() {
+function useTTS() {
   const audioRef = useRef(null);
   const urlCache = useRef(new Map());
   const audioCache = useRef(new Map());
 
   /**
    * 获取编码后的data-rel属性值
-   * @param {string} lang - 语言标识
    * @param {string} text - 要编码的文本
    * @returns {string} 编码后的data-rel值
    */
-  const getEncodedDataRel = useCallback((lang, text) => {
+  const getEncodedDataRel = useCallback((text) => {
+    const lang = 'de';
     const encodedText = fixedEncodeURIComponent(Base64.encode(text));
     return `langid=${lang}&txt=QYN${encodedText}`;
   }, []);
@@ -57,11 +58,11 @@ function useGerman() {
 
   /**
    * 获取音频URL
-   * @param {string} lang - 语言标识
    * @param {string} text - 要发音的文本
    * @returns {string} 音频URL
    */
-  const getAudioUrl = useCallback((lang, text) => {
+  const getAudioUrl = useCallback((text) => {
+    const lang = 'de';
     const cacheKey = `${lang}:${text}`;
     
     // 检查缓存
@@ -133,14 +134,10 @@ function useGerman() {
 
   /**
    * 预加载下一个音频
-   * @param {string} lang - 语言标识
    * @param {string} text - 要预加载的文本
    */
-  const preloadNextAudio = useCallback((lang, text) => {
-    // 仅处理德语
-    if (lang !== 'de') return;
-
-    const url = getAudioUrl(lang, text);
+  const preloadNextAudio = useCallback((text) => {
+    const url = getAudioUrl(text);
     
     // 如果已经在缓存中则跳过
     if (audioCache.current.has(url)) return;
@@ -166,4 +163,4 @@ function useGerman() {
   };
 }
 
-export default useGerman;
+export default useTTS;

@@ -6,7 +6,7 @@ import { useAtomValue, useSetAtom } from 'jotai';
 import { isRunningAtom } from '../store';
 import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
-import useGerman from '../hooks/useGerman';
+import useTTS from '../hooks/useTTS';
 import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text, onComplete, onStart }) => {
@@ -17,7 +17,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   const { lang } = useParams();
   const { playSound } = useTypingSound();
   const { play: playWordSound } = usePronunciationSound(text || '');
-  const { getAudioUrl, loadAudio, playAudio } = useGerman();
+  const { getAudioUrl, loadAudio, playAudio } = useTTS();
 
   const isPunctuation = (char) => {
     return /[^a-zA-Z0-9\s]/.test(char);
@@ -26,7 +26,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   const playCurrentWordSound = useCallback(async () => {
     if (lang === 'de') {
       try {
-        const url = getAudioUrl('de', text);
+        const url = getAudioUrl(text);
         await loadAudio(url);
         playAudio(url);
       } catch (err) {
