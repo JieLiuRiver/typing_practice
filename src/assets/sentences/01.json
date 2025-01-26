@@ -718,7 +718,7 @@
   {
     "source": "The BA conducted a workshop to gather requirements from stakeholders.",
     "translation": "BA举办了一个工作坊以收集利益相关者的需求。"
-  },  
+  },
   {
     "source": "How can I help unblock your current task?",
     "translation": "如何帮你解决当前任务的阻碍？"
@@ -1275,7 +1275,6 @@
     "source": "The trade confirmation flow is missing audit trails",
     "translation": "交易确认流程缺少审计追踪"
   },
-  
   {
     "source": "Can we get a BA to clarify the FX business rule?",
     "translation": "找业务分析师明确外汇业务规则？"
