@@ -77,7 +77,6 @@ function useGerman() {
       url,
       timestamp: Date.now()
     });
-    cleanupCache(urlCache.current);
     
     return url;
   }, [fixedEncodeURIComponent]);
@@ -107,7 +106,6 @@ function useGerman() {
           audio,
           timestamp: Date.now()
         });
-        cleanupCache(audioCache.current);
         resolve();
       });
       audio.addEventListener('error', (err) => reject(err));
@@ -125,19 +123,46 @@ function useGerman() {
     }
   }, []);
 
-  // 组件卸载时清理缓存
+  // 组件卸载时清理过期缓存
   useEffect(() => {
     return () => {
-      urlCache.current.clear();
-      audioCache.current.clear();
+      cleanupCache(urlCache.current);
+      cleanupCache(audioCache.current);
     };
   }, []);
+
+  /**
+   * 预加载下一个音频
+   * @param {string} lang - 语言标识
+   * @param {string} text - 要预加载的文本
+   */
+  const preloadNextAudio = useCallback((lang, text) => {
+    // 仅处理德语
+    if (lang !== 'de') return;
+
+    const url = getAudioUrl(lang, text);
+    
+    // 如果已经在缓存中则跳过
+    if (audioCache.current.has(url)) return;
+
+    // 后台静默加载
+    const audio = new Audio();
+    audio.src = url;
+    audio.preload = 'auto';
+    
+    // 更新缓存
+    audioCache.current.set(url, {
+      audio,
+      timestamp: Date.now()
+    });
+  }, [getAudioUrl]);
 
   return {
     getEncodedDataRel,
     getAudioUrl,
     loadAudio,
-    playAudio
+    playAudio,
+    preloadNextAudio
   };
 }
 

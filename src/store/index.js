@@ -45,7 +45,6 @@ export const nextSentenceAtom = atom(
     const currentIndex = get(currentIndexAtom);
     const newIndex = (currentIndex + 1) % sentences.length;
     localStorage.setItem(`lastTimeIndex`, newIndex);
-    console.log("nextSentenceAtom", currentIndex, newIndex)
     set(currentIndexAtom, newIndex);
   }
 );

@@ -28,7 +28,7 @@ export default function TypingContainer({ lang }) {
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences } = useSentenceCount();
   const currentIndex = useAtomValue(currentIndexAtom);
-  const { getAudioUrl, loadAudio, playAudio } = useGerman();
+  const { getAudioUrl, loadAudio, playAudio, preloadNextAudio } = useGerman();
 
   const handleComplete = () => {
     nextSentence();
@@ -42,7 +42,14 @@ export default function TypingContainer({ lang }) {
       if (lang === 'de') {
         const url = getAudioUrl('de', currentSentence.source);
         loadAudio(url)
-          .then(() => playAudio(url))
+          .then(() => {
+            playAudio(url);
+            // 预加载下一个句子
+            const nextSentenceText = currentSentence.next?.source;
+            if (nextSentenceText) {
+              preloadNextAudio('de', nextSentenceText);
+            }
+          })
           .catch(err => console.error('德语播放失败', err));
       } else {
         playSentence();

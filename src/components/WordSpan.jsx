@@ -10,7 +10,6 @@ const WordSpan = forwardRef(function WordSpan({ word, className, children }, ref
   const { lang } = useParams()
 
   const playSound = async () => {
-    console.log("WordSpan", lang)
     if (lang === 'de') {
       try {
         const url = getAudioUrl('de', word);
