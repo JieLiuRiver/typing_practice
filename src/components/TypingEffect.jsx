@@ -1,10 +1,12 @@
 import { useEffect, useCallback, useState, useRef } from 'react';
 import { FaVolumeUp } from 'react-icons/fa';
 import WordSpan from './WordSpan';
+import { useParams } from 'react-router-dom';
 import { useAtomValue, useSetAtom } from 'jotai';
 import { isRunningAtom } from '../store';
 import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
+import useGerman from '../hooks/useGerman';
 import PropTypes from 'prop-types';
 
 const TypingEffect = ({ text, onComplete, onStart }) => {
@@ -12,12 +14,29 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
   const [charStates, setCharStates] = useState(Array(text?.length || 0).fill('normal'));
   const isRunning = useAtomValue(isRunningAtom);
   const setIsRunning = useSetAtom(isRunningAtom);
+  const { lang } = useParams();
   const { playSound } = useTypingSound();
   const { play: playWordSound } = usePronunciationSound(text || '');
+  const { getAudioUrl, loadAudio, playAudio } = useGerman();
 
   const isPunctuation = (char) => {
     return /[^a-zA-Z0-9\s]/.test(char);
   };
+
+  const playCurrentWordSound = useCallback(async () => {
+    if (lang === 'de') {
+      try {
+        const url = getAudioUrl('de', text);
+        await loadAudio(url);
+        playAudio(url);
+      } catch (err) {
+        console.error('德语播放失败', err);
+        playWordSound();
+      }
+    } else {
+      playWordSound();
+    }
+  }, [lang, text, getAudioUrl, loadAudio, playAudio, playWordSound]);
 
   const handleKeyDown = useCallback((e) => {
     if (!isRunning) return;
@@ -69,7 +88,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         if (e.key.toLowerCase() === currentChar.toLowerCase()) {
           playSound('correct');
           if (cursorPos === text.length - 1) {
-            playWordSound();
+            playCurrentWordSound();
           }
         } else {
           playSound('wrong');
@@ -90,7 +109,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         }
       }
     }
-  }, [cursorPos, text, playSound, isRunning, playWordSound, onComplete]);
+  }, [cursorPos, text, playSound, isRunning, playCurrentWordSound, onComplete]);
 
   useEffect(() => {
     window.addEventListener('keydown', handleKeyDown);
@@ -161,7 +180,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         {renderText()}
         <div 
           className="sound-icon"
-          onClick={playWordSound}
+          onClick={playCurrentWordSound}
           style={{
             display: 'inline-block',
             marginLeft: '10px',
@@ -183,6 +202,7 @@ TypingEffect.propTypes = {
   text: PropTypes.string.isRequired,
   onComplete: PropTypes.func,
   onStart: PropTypes.func,
+  lang: PropTypes.string,
 };
 
 export default TypingEffect;

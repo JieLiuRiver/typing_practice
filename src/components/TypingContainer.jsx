@@ -6,6 +6,7 @@ import useTypingSound from '../hooks/useTypingSound';
 import useSentenceCount from '../hooks/useSentenceCount';
 import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, currentIndexAtom, pronunciationTypeAtom } from '../store';
 import usePronunciationSound from '../hooks/useWordSound';
+import useGerman from '../hooks/useGerman';
 import { useEffect } from 'react';
 
 export default function TypingContainer({ lang }) {
@@ -19,6 +20,7 @@ export default function TypingContainer({ lang }) {
       setPronunciationType(lang);
     }
   }, [lang, setPronunciationType]);
+
   const { playSound } = useTypingSound();
   const [currentSentence] = useAtom(currentSentenceAtom);
   const [, nextSentence] = useAtom(nextSentenceAtom);
@@ -26,6 +28,7 @@ export default function TypingContainer({ lang }) {
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences } = useSentenceCount();
   const currentIndex = useAtomValue(currentIndexAtom);
+  const { getAudioUrl, loadAudio, playAudio } = useGerman();
 
   const handleComplete = () => {
     nextSentence();
@@ -36,9 +39,16 @@ export default function TypingContainer({ lang }) {
 
   useEffect(() => {
     if (currentSentence?.source && isRunning) {
-      playSentence();
+      if (lang === 'de') {
+        const url = getAudioUrl('de', currentSentence.source);
+        loadAudio(url)
+          .then(() => playAudio(url))
+          .catch(err => console.error('德语播放失败', err));
+      } else {
+        playSentence();
+      }
     }
-  }, [currentSentence?.source, playSentence, isRunning]);
+  }, [currentSentence?.source, playSentence, isRunning, lang, getAudioUrl, loadAudio, playAudio]);
 
   return (
     <div className="typing-container">
