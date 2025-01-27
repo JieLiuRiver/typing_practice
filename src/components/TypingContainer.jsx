@@ -1,5 +1,6 @@
 import { useAtom, useAtomValue, useSetAtom } from 'jotai';
 import PropTypes from 'prop-types';
+import ContentTypeSelect from './ContentTypeSelect';
 import TypingEffect from './TypingEffect';
 import StatsDisplay from './StatsDisplay';
 import useTypingSound from '../hooks/useTypingSound';
@@ -59,6 +60,9 @@ export default function TypingContainer({ lang }) {
 
   return (
     <div className="typing-container">
+      <div className="content-type-selector">
+        <ContentTypeSelect />
+      </div>
       <div className={`total-sentences`}>
         {`${currentIndex + 1}/${totalSentences}`}
       </div>

@@ -1,7 +1,12 @@
 import { atom } from 'jotai';
 import enSentences from '../assets/sentences.json';
-// import enWords from '../assets/words.json';
+import enWords from '../assets/words.json';
 import deSentences from '../assets/de-sentences.json';
+import deWords from '../assets/de-words.json';
+
+const savedContentType = localStorage.getItem(`contentType`) || 'words';
+// Content type (sentences or words)
+export const contentTypeAtom = atom(savedContentType);
 
 // Typing state management
 export const isRunningAtom = atom(false);
@@ -14,9 +19,16 @@ const getInitialLanguage = () => {
 };
 
 export const sentencesAtom = atom(
-  getInitialLanguage() === 'de' 
-    ? deSentences
-    : enSentences
+  (get) => {
+    const contentType = get(contentTypeAtom);
+    const language = getInitialLanguage();
+    
+    if (language === 'de') {
+      return contentType === 'sentences' ? deSentences : deWords;;
+    }
+    
+    return contentType === 'sentences' ? enSentences : enWords;
+  }
 );
 
 const lastTimeIndex = Number(localStorage.getItem(`lastTimeIndex`) || 0);
