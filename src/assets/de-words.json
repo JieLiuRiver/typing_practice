@@ -1,1 +1,1214 @@
-[]
+[
+  {
+    "source": "sie",
+    "translation": "she; they; you (formal) - pronoun - Sie ist meine Schwester. (She is my sister.)"
+  },
+  {
+    "source": "das",
+    "translation": "this; that; the - article/pronoun - Das ist ein Buch. (This is a book.)"
+  },
+  {
+    "source": "du",
+    "translation": "you (singular informal) - pronoun - Du bist nett. (You are kind.)"
+  },
+  {
+    "source": "nicht",
+    "translation": "not - adverb - Ich kann das nicht machen. (I cannot do this.)"
+  },
+  {
+    "source": "und",
+    "translation": "and - conjunction - Peter und Maria sind Freunde. (Peter and Maria are friends.)"
+  },
+  {
+    "source": "es",
+    "translation": "it - pronoun - Es ist kalt. (It is cold.)"
+  },
+  {
+    "source": "was?",
+    "translation": "what? - interrogative pronoun - Was machst du? (What are you doing?)"
+  },
+  {
+    "source": "wir",
+    "translation": "we - pronoun - Wir gehen ins Kino. (We are going to the cinema.)"
+  },
+  {
+    "source": "er",
+    "translation": "he - pronoun - Er spielt Fußball. (He plays soccer.)"
+  },
+  {
+    "source": "zu",
+    "translation": "too; to; off - preposition/adverb - Ich gehe zu ihm. (I am going to him.)"
+  },
+  {
+    "source": "ein; eine",
+    "translation": "a; an - article - Das ist ein Hund. (This is a dog.)"
+  },
+  {
+    "source": "in",
+    "translation": "in; into - preposition - Sie sind in der Stadt. (They are in the city.)"
+  },
+  {
+    "source": "mit",
+    "translation": "with - preposition - Ich gehe mit dir. (I am going with you.)"
+  },
+  {
+    "source": "wie?",
+    "translation": "how? - interrogative adverb - Wie geht es dir? (How are you?)"
+  },
+  {
+    "source": "ja",
+    "translation": "yes - adverb - Ja, das stimmt. (Yes, that is correct.)"
+  },
+  {
+    "source": "auf",
+    "translation": "on - preposition - Das Buch liegt auf dem Tisch. (The book is on the table.)"
+  },
+  {
+    "source": "so",
+    "translation": "so; such; like this - adverb - Es ist so schön hier. (It is so beautiful here.)"
+  },
+  {
+    "source": "aber",
+    "translation": "but - conjunction - Ich mag Tee, aber keinen Kaffee. (I like tea but no coffee.)"
+  },
+  {
+    "source": "das hier",
+    "translation": "this one - pronoun - Ist das hier deins? (Is this one yours?)"
+  },
+  {
+    "source": "für",
+    "translation": "for - preposition - Das Geschenk ist für dich. (The gift is for you.)"
+  },
+  {
+    "source": "von",
+    "translation": "from; about; of - preposition - Ein Brief von meiner Mutter. (A letter from my mother.)"
+  },
+  {
+    "source": "haben",
+    "translation": "to have - verb - Ich habe einen Hund. (I have a dog.)"
+  },
+  {
+    "source": "dass",
+    "translation": "that - conjunction - Ich weiß, dass er kommt. (I know that he is coming.)"
+  },
+  {
+    "source": "wenn",
+    "translation": "if - conjunction - Wenn es regnet, bleiben wir zu Hause. (If it rains, we stay home.)"
+  },
+  {
+    "source": "an",
+    "translation": "at; upon; on - preposition - Er steht an der Tür. (He is standing at the door.)"
+  },
+  {
+    "source": "nein",
+    "translation": "no - adverb - Nein, ich möchte das nicht. (No, I don’t want that.)"
+  },
+  {
+    "source": "da",
+    "translation": "there; because - adverb/conjunction - Er ist da. (He is there.) / Ich bleibe zu Hause, da es regnet. (I stay home because it’s raining.)"
+  },
+  {
+    "source": "noch",
+    "translation": "still; yet - adverb - Ich bin noch nicht fertig. (I’m not done yet.)"
+  },
+  {
+    "source": "nur",
+    "translation": "only; just - adverb - Ich habe nur eine Frage. (I have only one question.)"
+  },
+  {
+    "source": "ihr",
+    "translation": "her; their - pronoun - Das ist ihr Hund. (That is her/their dog.)"
+  },
+  {
+    "source": "aus",
+    "translation": "out (of); from - preposition - Ich komme aus Deutschland. (I come from Germany.)"
+  },
+  {
+    "source": "out (of); from",
+    "translation": "out; from - preposition - I came out of the house."
+  },
+  {
+    "source": "gut",
+    "translation": "good - adjective - Das Essen war gut."
+  },
+  {
+    "source": "besser",
+    "translation": "better - comparative adjective - Dieses Buch ist besser als das andere."
+  },
+  {
+    "source": "am besten",
+    "translation": "best - superlative adjective - Er ist am besten in der Klasse."
+  },
+  {
+    "source": "das Gut",
+    "translation": "the estate; the commodity - noun - Das Gut wurde verkauft."
+  },
+  {
+    "source": "schon",
+    "translation": "already - adverb - Er ist schon da."
+  },
+  {
+    "source": "auch",
+    "translation": "too; also; as well - adverb - Ich komme auch."
+  },
+  {
+    "source": "sein",
+    "translation": "to be - verb - Ich bin müde."
+  },
+  {
+    "source": "sein; seine",
+    "translation": "his; its - possessive pronoun - Das ist sein Buch."
+  },
+  {
+    "source": "jetzt",
+    "translation": "now - adverb - Jetzt gehen wir."
+  },
+  {
+    "source": "dieses Mal",
+    "translation": "this time - phrase - Dieses Mal hat er gewonnen."
+  },
+  {
+    "source": "dann",
+    "translation": "then - adverb - Wir gehen essen, dann ins Kino."
+  },
+  {
+    "source": "als",
+    "translation": "when; than; as - conjunction - Als ich klein war, spielte ich viel."
+  },
+  {
+    "source": "um",
+    "translation": "at; around; by - preposition - Er kommt um 5 Uhr."
+  },
+  {
+    "source": "mein; meine",
+    "translation": "my - possessive pronoun - Das ist mein Auto."
+  },
+  {
+    "source": "doch!",
+    "translation": "on the contrary! - interjection - Nein, ich habe doch recht!"
+  },
+  {
+    "source": "nach",
+    "translation": "after - preposition - Nach der Arbeit gehen wir essen."
+  },
+  {
+    "source": "alles",
+    "translation": "everything - pronoun - Alles ist fertig."
+  },
+  {
+    "source": "man",
+    "translation": "you; one - pronoun - Man sollte höflich sein."
+  },
+  {
+    "source": "oder",
+    "translation": "or - conjunction - Möchtest du Kaffee oder Tee?"
+  },
+  {
+    "source": "nichts",
+    "translation": "nothing - pronoun - Ich habe nichts gemacht."
+  },
+  {
+    "source": "das Nichts",
+    "translation": "the nothingness - noun - Er starrte ins Nichts."
+  },
+  {
+    "source": "wo?",
+    "translation": "where? - adverb - Wo bist du?"
+  },
+  {
+    "source": "weiß",
+    "translation": "white - adjective - Die Wand ist weiß."
+  },
+  {
+    "source": "werden",
+    "translation": "to become; to get; will be - verb - Er wird Arzt."
+  },
+  {
+    "source": "mehr",
+    "translation": "more - adverb - Ich brauche mehr Zeit."
+  },
+  {
+    "source": "warum?",
+    "translation": "why? - adverb - Warum fragst du?"
+  },
+  {
+    "source": "etwas",
+    "translation": "some; something - pronoun - Ich habe etwas gefunden."
+  },
+  {
+    "source": "die Bitte",
+    "translation": "the request - noun - Ich habe eine Bitte an dich."
+  },
+  {
+    "source": "bitte",
+    "translation": "please - adverb - Kannst du mir bitte helfen?"
+  },
+  {
+    "source": "bei",
+    "translation": "at - preposition - Ich bin bei meinem Freund."
+  },
+  {
+    "source": "immer",
+    "translation": "always - adverb - Er ist immer pünktlich."
+  },
+  {
+    "source": "los",
+    "translation": "come on - interjection - Los, wir gehen!"
+  },
+  {
+    "source": "der Mann",
+    "translation": "the man; the husband - noun - Der Mann steht dort."
+  },
+  {
+    "source": "vor",
+    "translation": "in front; before; ago - preposition - Vor dem Haus steht ein Baum."
+  },
+  {
+    "source": "sehr",
+    "translation": "very - adverb - Er ist sehr freundlich."
+  },
+  {
+    "source": "sehen",
+    "translation": "to see; to look - verb - Kannst du das sehen?"
+  },
+  {
+    "source": "sagen",
+    "translation": "to say; to tell - verb - Was hast du gesagt?"
+  },
+  {
+    "source": "wieder",
+    "translation": "again - adverb - Ich möchte das wiederholen."
+  },
+  {
+    "source": "alle",
+    "translation": "all (countable) - pronoun - Alle sind hier."
+  },
+  {
+    "source": "gehen",
+    "translation": "to go; to walk - verb - Ich gehe nach Hause."
+  },
+  {
+    "source": "wer",
+    "translation": "who - pronoun - Wer ist da?"
+  },
+  {
+    "source": "also",
+    "translation": "so; therefore - adverb - Also, was machen wir jetzt?"
+  },
+  {
+    "source": "können",
+    "translation": "to be able to - verb - Ich kann schwimmen."
+  },
+  {
+    "source": "machen",
+    "translation": "to make; to do - verb - Was machst du?"
+  },
+  {
+    "source": "denn",
+    "translation": "because; since - conjunction - Ich komme nicht, denn ich bin müde."
+  },
+  {
+    "source": "tun",
+    "translation": "to do - verb - Was soll ich tun?"
+  },
+  {
+    "source": "nie",
+    "translation": "never - adverb - Ich mache das nie wieder."
+  },
+  {
+    "source": "über",
+    "translation": "over; above; about - preposition - Das Flugzeug fliegt über die Stadt."
+  },
+  {
+    "source": "kein; keine",
+    "translation": "no; none - pronoun - Ich habe keine Zeit."
+  },
+  {
+    "source": "vielleicht",
+    "translation": "maybe; perhaps - adverb - Vielleicht komme ich morgen."
+  },
+  {
+    "source": "weg",
+    "translation": "away; gone - adjective/adverb - Das Auto ist weg."
+  },
+  {
+    "source": "der Weg",
+    "translation": "the way - noun - Der Weg ist lang."
+  },
+  {
+    "source": "wissen",
+    "translation": "to know - verb - Ich weiß die Antwort."
+  },
+  {
+    "source": "am",
+    "translation": "at; on; in; by - preposition - Wir treffen uns am Bahnhof."
+  },
+  {
+    "source": "kommen",
+    "translation": "to come; to show up - verb - Wann kommst du?"
+  },
+  {
+    "source": "das Leben",
+    "translation": "the life - noun - Das Leben ist schön."
+  },
+  {
+    "source": "leben",
+    "translation": "to live - verb - Ich lebe in Deutschland."
+  },
+  {
+    "source": "müssen",
+    "translation": "to have to - verb - Ich muss arbeiten."
+  },
+  {
+    "source": "viel; mehr; am meisten",
+    "translation": "many; more; most - adjective - Ich habe viel zu tun."
+  },
+  {
+    "source": "wirklich",
+    "translation": "real; really - adverb - Ist das wirklich wahr?"
+  },
+  {
+    "source": "Frau",
+    "translation": "Ms. - noun - Frau Müller ist Lehrerin."
+  },
+  {
+    "source": "die Frau",
+    "translation": "the woman; the wife - noun - Die Frau ist freundlich."
+  },
+  {
+    "source": "heute",
+    "translation": "today - adverb - Heute ist ein schöner Tag."
+  },
+  {
+    "source": "die Zeit",
+    "translation": "the time - noun - Die Zeit vergeht schnell."
+  },
+  {
+    "source": "dein; deine",
+    "translation": "your - possessive pronoun - Ist das dein Auto?"
+  },
+  {
+    "source": "bis",
+    "translation": "until - preposition - Warte, bis ich zurückkomme."
+  },
+  {
+    "source": "ganz",
+    "translation": "quite; whole; entirely - adverb - Das ist ganz einfach."
+  },
+  {
+    "source": "wollen",
+    "translation": "to want - verb - Ich will ein Eis."
+  },
+  {
+    "source": "der Gott",
+    "translation": "the God - noun - Sie beteten zu Gott."
+  },
+  {
+    "source": "einfach",
+    "translation": "simple; easy; just - adjective - Das ist einfach zu verstehen."
+  },
+  {
+    "source": "zurück",
+    "translation": "back - adverb - Ich komme gleich zurück."
+  },
+  {
+    "source": "weil",
+    "translation": "because - conjunction - Ich bleibe hier, weil es regnet."
+  },
+  {
+    "source": "dieser; diese; dieses",
+    "translation": "this (masc.; fem.; neut.) - demonstrative pronoun - Dieser Hund gehört mir."
+  },
+  {
+    "source": "damit",
+    "translation": "in order to; therewith - conjunction - Ich lerne viel, damit ich bestehe."
+  },
+  {
+    "source": "zwei",
+    "translation": "two - numeral - Ich habe zwei Katzen."
+  },
+  {
+    "source": "meinen",
+    "translation": "to mean - verb - Was meinst du damit?"
+  },
+  {
+    "source": "sicher",
+    "translation": "sure - adjective - Bist du sicher?"
+  },
+  {
+    "source": "das Leid",
+    "translation": "the suffering - noun - Das Leid war groß."
+  },
+  {
+    "source": "der Schritt",
+    "translation": "the step - noun - Der erste Schritt ist immer schwer."
+  },
+  {
+    "source": "der Morgen",
+    "translation": "the morning - noun - Der Morgen war sonnig."
+  },
+  {
+    "source": "morgen",
+    "translation": "tomorrow; morning - adverb/noun - Morgen treffen wir uns."
+  },
+  {
+    "source": "lassen",
+    "translation": "to let; to allow - verb - Lass ihn gehen."
+  },
+  {
+    "source": "na ja",
+    "translation": "well - interjection - Na ja, was soll ich sagen?"
+  },
+  {
+    "source": "die Liebe",
+    "translation": "the love - noun - Die Liebe ist das Wichtigste."
+  },
+  {
+    "source": "die Leute",
+    "translation": "the people (persons) - noun - Viele Leute sind hier."
+  },
+  {
+    "source": "der Tag; die Tage",
+    "translation": "the day; the days - noun - Der Tag war schön."
+  },
+  {
+    "source": "genau!",
+    "translation": "exactly! - interjection - Genau! Das meine ich."
+  },
+  {
+    "source": "der Vater; die Väter",
+    "translation": "the father; the fathers - noun - Mein Vater ist Lehrer."
+  },
+  {
+    "source": "das Geld",
+    "translation": "the money - noun - Ich habe kein Geld."
+  },
+  {
+    "source": "durch",
+    "translation": "through - preposition - Wir gehen durch den Park."
+  },
+  {
+    "source": "wohl",
+    "translation": "well - adverb - Es wird wohl regnen."
+  },
+  {
+    "source": "schön",
+    "translation": "beautiful; nice - adjective - Der Sonnenuntergang war schön."
+  },
+  {
+    "source": "der Glaube",
+    "translation": "the faith - noun - Der Glaube gibt ihm Kraft."
+  },
+  {
+    "source": "klar",
+    "translation": "clear - adjective - Das Wasser ist klar."
+  },
+  {
+    "source": "die Mutter; die Mütter",
+    "translation": "the mother; the mothers - noun - Meine Mutter ist zu Hause."
+  },
+  {
+    "source": "die Nacht",
+    "translation": "the night - noun - Die Nacht war ruhig."
+  },
+  {
+    "source": "besser",
+    "translation": "better - comparative adjective - Es geht mir besser."
+  },
+  {
+    "source": "ohne",
+    "translation": "without - preposition - Ich gehe nicht ohne dich."
+  },
+  {
+    "source": "reden",
+    "translation": "to talk - verb - Wir müssen reden."
+  },
+  {
+    "source": "jemand",
+    "translation": "someone - pronoun - Jemand hat geklopft."
+  },
+  {
+    "source": "ob",
+    "translation": "whether - conjunction - Weißt du, ob er kommt?"
+  },
+  {
+    "source": "gerade",
+    "translation": "right now - adverb - Ich bin gerade beschäftigt."
+  },
+  {
+    "source": "selbst",
+    "translation": "self - pronoun/adverb - Ich mache es selbst."
+  },
+  {
+    "source": "dort",
+    "translation": "there - adverb - Dort steht ein Baum."
+  },
+  {
+    "source": "das Paar",
+    "translation": "the pair; the couple - noun - Das Paar tanzt zusammen."
+  },
+  {
+    "source": "weiter",
+    "translation": "further - adverb - Gehen wir weiter!"
+  },
+  {
+    "source": "die Ordnung",
+    "translation": "the order - noun - Die Ordnung im Zimmer ist wichtig."
+  },
+  {
+    "source": "geben",
+    "translation": "to give - verb - Kannst du mir das Buch geben?"
+  },
+  {
+    "source": "der Herr",
+    "translation": "the gentleman; the Lord - noun - Der Herr hat gefragt."
+  },
+  {
+    "source": "Herr",
+    "translation": "the gentleman; the Lord; Mr. - noun - Herr Müller ist angekommen."
+  },
+  {
+    "source": "hören",
+    "translation": "to hear; to listen - verb - Kannst du mich hören?"
+  },
+  {
+    "source": "ein Mädchen",
+    "translation": "a girl - noun - Ein Mädchen spielt im Garten."
+  },
+  {
+    "source": "gar",
+    "translation": "at all - adverb - Das ist gar nicht schlecht."
+  },
+  {
+    "source": "seit",
+    "translation": "since; ever since - preposition - Ich wohne hier seit einem Jahr."
+  },
+  {
+    "source": "die Welt",
+    "translation": "the world - noun - Die Welt ist groß."
+  },
+  {
+    "source": "gleich",
+    "translation": "same; even - adjective - Wir haben das gleiche Problem."
+  },
+  {
+    "source": "der Freund; die Freundin",
+    "translation": "the friend (also boyfriend; girlfriend) - noun - Mein Freund kommt heute zu Besuch."
+  },
+  {
+    "source": "der Abend",
+    "translation": "the evening - noun - Der Abend war schön."
+  },
+  {
+    "source": "natürlich",
+    "translation": "of course; naturally - adverb - Natürlich helfe ich dir."
+  },
+  {
+    "source": "drei",
+    "translation": "three - numeral - Ich habe drei Katzen."
+  },
+  {
+    "source": "die Angst",
+    "translation": "the fear - noun - Er hat Angst vor Hunden."
+  },
+  {
+    "source": "das Recht",
+    "translation": "the right - noun - Jeder hat das Recht auf Bildung."
+  },
+  {
+    "source": "rechts",
+    "translation": "right (direction) - adverb - Gehen Sie nach rechts."
+  },
+  {
+    "source": "viele",
+    "translation": "many; a lot of - adjective - Es gibt viele Bücher im Regal."
+  },
+  {
+    "source": "finden",
+    "translation": "to find; to think (opinion) - verb - Ich finde meinen Schlüssel nicht."
+  },
+  {
+    "source": "richtig",
+    "translation": "right; correct; really - adjective - Das ist die richtige Antwort."
+  },
+  {
+    "source": "unter",
+    "translation": "under; beneath - preposition - Die Katze ist unter dem Tisch."
+  },
+  {
+    "source": "der Junge",
+    "translation": "the boy - noun - Der Junge spielt im Park."
+  },
+  {
+    "source": "tot",
+    "translation": "dead - adjective - Die Pflanze ist tot."
+  },
+  {
+    "source": "der Kern",
+    "translation": "the core; the pip - noun - Der Apfel hat einen Kern."
+  },
+  {
+    "source": "bleiben",
+    "translation": "to stay; to remain - verb - Ich bleibe heute zu Hause."
+  },
+  {
+    "source": "das Haus",
+    "translation": "the house - noun - Das Haus ist groß."
+  },
+  {
+    "source": "nehmen",
+    "translation": "to take - verb - Er nimmt den Zug nach Berlin."
+  },
+  {
+    "source": "essen",
+    "translation": "to eat - verb - Wir essen Pizza zum Abendessen."
+  },
+  {
+    "source": "helfen",
+    "translation": "to help - verb - Kannst du mir helfen?"
+  },
+  {
+    "source": "sollen",
+    "translation": "should - verb - Du sollst mehr schlafen."
+  },
+  {
+    "source": "unser",
+    "translation": "our - possessive pronoun - Das ist unser Auto."
+  },
+  {
+    "source": "wegen",
+    "translation": "because - preposition - Wegen des Regens bleiben wir zu Hause."
+  },
+  {
+    "source": "andere",
+    "translation": "other - adjective - Ich mag die andere Farbe."
+  },
+  {
+    "source": "wieso?",
+    "translation": "how so?; why? - adverb - Wieso bist du zu spät?"
+  },
+  {
+    "source": "schnell",
+    "translation": "quick; quickly; fast - adjective/adverb - Der Zug ist sehr schnell."
+  },
+  {
+    "source": "erhältlich",
+    "translation": "available - adjective - Dieses Buch ist überall erhältlich."
+  },
+  {
+    "source": "genug",
+    "translation": "enough - adjective/adverb - Ich habe nicht genug Geld."
+  },
+  {
+    "source": "sonst",
+    "translation": "otherwise; else - adverb - Beeil dich, sonst verpassen wir den Zug."
+  },
+  {
+    "source": "gegen",
+    "translation": "against - preposition - Ich bin gegen diese Entscheidung."
+  },
+  {
+    "source": "zusammen",
+    "translation": "together - adverb - Wir arbeiten zusammen an diesem Projekt."
+  },
+  {
+    "source": "erst",
+    "translation": "first; only - adverb - Er kam erst um Mitternacht."
+  },
+  {
+    "source": "Scheiße",
+    "translation": "crap; shit - noun/interjection - Das ist doch Scheiße!"
+  },
+  {
+    "source": "der Moment",
+    "translation": "the moment - noun - Warte einen Moment, bitte."
+  },
+  {
+    "source": "glauben",
+    "translation": "to think; to believe - verb - Ich glaube, er hat recht."
+  },
+  {
+    "source": "bringen",
+    "translation": "to bring - verb - Kannst du mir ein Glas Wasser bringen?"
+  },
+  {
+    "source": "niemand",
+    "translation": "no one - pronoun - Niemand war zu Hause."
+  },
+  {
+    "source": "brauchen",
+    "translation": "to need - verb - Ich brauche deine Hilfe."
+  },
+  {
+    "source": "warten",
+    "translation": "to wait - verb - Wir müssen auf den Bus warten."
+  },
+  {
+    "source": "die Arbeit",
+    "translation": "the work; the labour - noun - Die Arbeit ist anstrengend."
+  },
+  {
+    "source": "sprechen",
+    "translation": "to speak - verb - Kannst du Deutsch sprechen?"
+  },
+  {
+    "source": "wann?",
+    "translation": "when? - adverb - Wann kommt der Zug?"
+  },
+  {
+    "source": "der Verbrecher; die Verbrecherin",
+    "translation": "the criminal - noun - Der Verbrecher wurde gefasst."
+  },
+  {
+    "source": "jeder",
+    "translation": "everyone - pronoun - Jeder ist willkommen."
+  },
+  {
+    "source": "kennen",
+    "translation": "to know; to recognize - verb - Kennst du diesen Mann?"
+  },
+  {
+    "source": "fertig",
+    "translation": "ready; finished - adjective - Bist du fertig mit deiner Arbeit?"
+  },
+  {
+    "source": "einmal",
+    "translation": "once - adverb - Ich war einmal in Paris."
+  },
+  {
+    "source": "halten",
+    "translation": "to hold - verb - Kannst du das kurz halten?"
+  },
+  {
+    "source": "sofort",
+    "translation": "immediately - adverb - Komm sofort hierher!"
+  },
+  {
+    "source": "der Sohn; die Söhne",
+    "translation": "the son; the sons - noun - Mein Sohn ist in der Schule."
+  },
+  {
+    "source": "bevor",
+    "translation": "before - conjunction - Bevor wir gehen, rufe ich an."
+  },
+  {
+    "source": "before",
+    "translation": "before - preposition - Ich war vor dir hier."
+  },
+  {
+    "source": "das Kind; die Kinder",
+    "translation": "the child; the children - noun - Das Kind spielt im Garten. Die Kinder sind fröhlich."
+  },
+  {
+    "source": "Uhr",
+    "translation": "o'clock - noun - Es ist 10 Uhr."
+  },
+  {
+    "source": "wahr",
+    "translation": "true - adjective - Die Geschichte ist wahr."
+  },
+  {
+    "source": "die Liebe",
+    "translation": "the love - noun - Die Liebe ist wunderschön."
+  },
+  {
+    "source": "lieber",
+    "translation": "rather - adverb - Ich würde lieber zu Hause bleiben."
+  },
+  {
+    "source": "allein",
+    "translation": "alone - adjective/adverb - Er lebt allein in einer Wohnung."
+  },
+  {
+    "source": "der Kopf",
+    "translation": "the head - noun - Mein Kopf tut weh."
+  },
+  {
+    "source": "denken",
+    "translation": "to think - verb - Ich muss darüber nachdenken."
+  },
+  {
+    "source": "die Sache",
+    "translation": "the thing - noun - Das ist eine komplizierte Sache."
+  },
+  {
+    "source": "der Bruder; die Brüder",
+    "translation": "the brother; the brothers - noun - Mein Bruder heißt Max."
+  },
+  {
+    "source": "gern; lieber; am liebsten",
+    "translation": "like to; prefer to; like the most - adverb - Ich trinke gern Tee, lieber Kaffee, aber am liebsten Wasser."
+  },
+  {
+    "source": "das Ende",
+    "translation": "the end - noun - Das Ende des Films war traurig."
+  },
+  {
+    "source": "später",
+    "translation": "later - adverb - Wir treffen uns später."
+  },
+  {
+    "source": "fahren",
+    "translation": "to drive; to go (by vehicle) - verb - Er fährt jeden Tag zur Arbeit."
+  },
+  {
+    "source": "vergessen",
+    "translation": "to forget - verb - Ich habe meine Schlüssel vergessen."
+  },
+  {
+    "source": "die Stadt",
+    "translation": "the city - noun - Die Stadt ist sehr groß."
+  },
+  {
+    "source": "das Problem",
+    "translation": "the problem; the issue - noun - Wir haben ein Problem gelöst."
+  },
+  {
+    "source": "der Dank",
+    "translation": "the gratitude - noun - Vielen Dank für deine Hilfe."
+  },
+  {
+    "source": "eins",
+    "translation": "one - number - Eins plus eins ist zwei."
+  },
+  {
+    "source": "Frage",
+    "translation": "question - noun - Ich habe eine Frage."
+  },
+  {
+    "source": "egal",
+    "translation": "not important; indifferent - adjective - Es ist mir egal."
+  },
+  {
+    "source": "die Familie",
+    "translation": "the family - noun - Meine Familie ist groß."
+  },
+  {
+    "source": "weit",
+    "translation": "far - adjective - Das Ziel ist noch weit entfernt."
+  },
+  {
+    "source": "die Musik",
+    "translation": "the music - noun - Ich liebe klassische Musik."
+  },
+  {
+    "source": "sterben",
+    "translation": "to die - verb - Er ist an einer Krankheit gestorben."
+  },
+  {
+    "source": "Hilfe!",
+    "translation": "help! - interjection - Hilfe! Ich brauche Unterstützung!"
+  },
+  {
+    "source": "beide",
+    "translation": "both - pronoun - Beide kommen zur Party."
+  },
+  {
+    "source": "bald",
+    "translation": "soon - adverb - Ich komme bald zurück."
+  },
+  {
+    "source": "das Land",
+    "translation": "the country - noun - Deutschland ist ein schönes Land."
+  },
+  {
+    "source": "das Glück",
+    "translation": "the luck - noun - Viel Glück bei der Prüfung!"
+  },
+  {
+    "source": "das Baby",
+    "translation": "the baby - noun - Das Baby schläft friedlich."
+  },
+  {
+    "source": "verrückt",
+    "translation": "crazy - adjective - Das ist eine verrückte Idee."
+  },
+  {
+    "source": "die Tür",
+    "translation": "the door - noun - Kannst du die Tür öffnen?"
+  },
+  {
+    "source": "ruhig",
+    "translation": "calm; quiet - adjective - Der See war ruhig."
+  },
+  {
+    "source": "das Auto",
+    "translation": "the car - noun - Mein Auto ist rot."
+  },
+  {
+    "source": "Wasser",
+    "translation": "water - noun - Ich trinke jeden Tag viel Wasser."
+  },
+  {
+    "source": "die Ruhe",
+    "translation": "the calm; the peace - noun - Die Ruhe am Morgen ist wunderbar."
+  },
+  {
+    "source": "je",
+    "translation": "ever; each; per - adverb - Hast du je so etwas gesehen?"
+  },
+  {
+    "source": "der Krieg",
+    "translation": "the war - noun - Der Krieg hat viele Leben gekostet."
+  },
+  {
+    "source": "stehen",
+    "translation": "to stand; to be (somewhere) - verb - Er steht vor der Tür."
+  },
+  {
+    "source": "der Fall",
+    "translation": "the case; the situation; the matter - noun - Das ist ein interessanter Fall."
+  },
+  {
+    "source": "die Hand",
+    "translation": "the hand - noun - Er hob die Hand."
+  },
+  {
+    "source": "die Hand",
+    "translation": "the hand - noun - Er hob die Hand."
+  },
+  {
+    "source": "lang",
+    "translation": "long - adjective - Der Fluss ist lang."
+  },
+  {
+    "source": "hoch",
+    "translation": "tall; high - adjective - Das Gebäude ist sehr hoch."
+  },
+  {
+    "source": "eigentlich",
+    "translation": "actually - adverb - Eigentlich habe ich keine Zeit."
+  },
+  {
+    "source": "töten",
+    "translation": "to kill - verb - Der Jäger tötet ein Tier."
+  },
+  {
+    "source": "fast",
+    "translation": "nearly; almost - adverb - Ich habe fast den Bus verpasst."
+  },
+  {
+    "source": "die Polizei",
+    "translation": "the police - noun - Die Polizei kam schnell an."
+  },
+  {
+    "source": "spielen",
+    "translation": "to play; to act - verb - Die Kinder spielen im Garten."
+  },
+  {
+    "source": "hinter",
+    "translation": "behind - preposition - Hinter dem Haus ist ein Garten."
+  },
+  {
+    "source": "sogar",
+    "translation": "even - adverb - Sogar er hat das geschafft."
+  },
+  {
+    "source": "der Teufel",
+    "translation": "the devil - noun - Er hat Angst vor dem Teufel."
+  },
+  {
+    "source": "der Name",
+    "translation": "the name - noun - Sein Name ist Peter."
+  },
+  {
+    "source": "oben",
+    "translation": "upstairs; at the top - adverb - Das Büro ist oben."
+  },
+  {
+    "source": "spät",
+    "translation": "late - adjective - Wir sind spät dran."
+  },
+  {
+    "source": "bekommen",
+    "translation": "to get; to receive - verb - Ich habe ein Geschenk bekommen."
+  },
+  {
+    "source": "bereit",
+    "translation": "ready - adjective - Ich bin bereit für die Prüfung."
+  },
+  {
+    "source": "die Mama",
+    "translation": "the mom - noun - Die Mama kocht das Essen."
+  },
+  {
+    "source": "woher?",
+    "translation": "from where? - adverb - Woher kommst du?"
+  },
+  {
+    "source": "arbeiten",
+    "translation": "to work - verb - Er arbeitet bei der Bank."
+  },
+  {
+    "source": "verstehen",
+    "translation": "to understand - verb - Kannst du mich verstehen?"
+  },
+  {
+    "source": "das Verstehen",
+    "translation": "the comprehension - noun - Das Verstehen des Textes war schwierig."
+  },
+  {
+    "source": "der Tod",
+    "translation": "the death - noun - Der Tod des Königs war eine Tragödie."
+  },
+  {
+    "source": "das Jahr; die Jahre",
+    "translation": "the year; the years - noun - Das Jahr 2025 ist hier."
+  },
+  {
+    "source": "der Wagen",
+    "translation": "the carriage; the cart; the car - noun - Der Wagen steht vor der Tür."
+  },
+  {
+    "source": "wagen",
+    "translation": "to dare; to venture - verb - Er wagt es, etwas Neues zu versuchen."
+  },
+  {
+    "source": "toll",
+    "translation": "terrific; great - adjective - Der Film war toll."
+  },
+  {
+    "source": "fünf",
+    "translation": "five - number - Ich habe fünf Äpfel."
+  },
+  {
+    "source": "etwa",
+    "translation": "approximately; about - adverb - Das kostet etwa zehn Euro."
+  },
+  {
+    "source": "die Geschichte",
+    "translation": "the story; the history - noun - Die Geschichte ist interessant."
+  },
+  {
+    "source": "draußen",
+    "translation": "outside - adverb - Es ist kalt draußen."
+  },
+  {
+    "source": "treffen",
+    "translation": "to meet; to hit; to strike - verb - Wir treffen uns um 3 Uhr."
+  },
+  {
+    "source": "der Job",
+    "translation": "the job - noun - Er hat einen neuen Job gefunden."
+  },
+  {
+    "source": "nett",
+    "translation": "nice - adjective - Der Mann ist sehr nett."
+  },
+  {
+    "source": "echt?",
+    "translation": "really? - interjection - Echt? Das wusste ich nicht."
+  },
+  {
+    "source": "vier",
+    "translation": "four - number - Sie hat vier Geschwister."
+  },
+  {
+    "source": "das Zimmer",
+    "translation": "the room - noun - Das Zimmer ist sauber."
+  },
+  {
+    "source": "anders",
+    "translation": "different - adjective - Die neue Methode ist anders."
+  },
+  {
+    "source": "die Art",
+    "translation": "a sort of; a way of - noun - Das ist eine Art Kunst."
+  },
+  {
+    "source": "die Woche; die Wochen",
+    "translation": "the week; the weeks - noun - Die Woche war stressig."
+  },
+  {
+    "source": "die Ahnung",
+    "translation": "the intuition; the idea - noun - Ich habe keine Ahnung."
+  },
+  {
+    "source": "der Kerl",
+    "translation": "the guy; the chap - noun - Der Kerl ist ziemlich laut."
+  },
+  {
+    "source": "der Typ",
+    "translation": "the guy; the type - noun - Er ist ein netter Typ."
+  },
+  {
+    "source": "schwer",
+    "translation": "heavy; hard - adjective - Der Koffer ist schwer."
+  },
+  {
+    "source": "kurz",
+    "translation": "short - adjective - Die Rede war kurz."
+  },
+  {
+    "source": "gestern",
+    "translation": "yesterday - adverb - Gestern war ein schöner Tag."
+  },
+  {
+    "source": "wenig",
+    "translation": "little; few - adjective - Ich habe wenig Zeit."
+  },
+  {
+    "source": "das Alter",
+    "translation": "the age - noun - Sein Alter ist 30 Jahre."
+  },
+  {
+    "source": "suchen",
+    "translation": "to seek - verb - Ich suche meine Brille."
+  },
+  {
+    "source": "die Schwester; die Schwestern",
+    "translation": "the sister; the sisters - noun - Meine Schwester lebt in Berlin."
+  },
+  {
+    "source": "bestimmt",
+    "translation": "surely; probably; definitely - adverb - Das wird bestimmt klappen."
+  },
+  {
+    "source": "die Tochter; die Töchter",
+    "translation": "the daughter; the daughters - noun - Ihre Tochter geht zur Schule."
+  },
+  {
+    "source": "der Grund",
+    "translation": "the reason; the cause - noun - Der Grund für die Absage ist unklar."
+  },
+  {
+    "source": "zeigen",
+    "translation": "to show - verb - Kannst du mir den Weg zeigen?"
+  },
+  {
+    "source": "das Herz",
+    "translation": "the heart - noun - Das Herz schlägt schnell."
+  },
+  {
+    "source": "das Bett; die Betten",
+    "translation": "the bed; the beds - noun - Ich gehe ins Bett."
+  },
+  {
+    "source": "überhaupt",
+    "translation": "at all; generally - adverb - Hast du das überhaupt verstanden?"
+  },
+  {
+    "source": "holen",
+    "translation": "to get; to bring - verb - Ich hole uns etwas zu trinken."
+  },
+  {
+    "source": "gefallen",
+    "translation": "to like; to appeal; to be nice - verb - Das Bild gefällt mir."
+  },
+  {
+    "source": "die Seite",
+    "translation": "the side; the page - noun - Auf welcher Seite ist der Text?"
+  },
+  {
+    "source": "unten",
+    "translation": "downstairs; at the bottom - adverb - Das Büro ist unten."
+  },
+  {
+    "source": "der Dollar",
+    "translation": "the dollar - noun - Ein Dollar ist weniger wert als ein Euro."
+  },
+  {
+    "source": "versuchen",
+    "translation": "to try - verb - Ich werde es versuchen."
+  }
+]
