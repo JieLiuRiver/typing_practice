@@ -1,6 +1,6 @@
 import { createHashRouter } from 'react-router-dom';
 import App from './App';
-import ConfigPage from './pages/ConfigPage';
+import LangApp from './pages/LangApp';
 
 const router = createHashRouter([
   {
@@ -9,7 +9,7 @@ const router = createHashRouter([
   },
   {
     path: '/:lang',
-    element: <ConfigPage />,
+    element: <LangApp />,
   },
 ]);
 

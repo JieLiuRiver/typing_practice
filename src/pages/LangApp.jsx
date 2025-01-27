@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom';
 import TypingContainer from '../components/TypingContainer';
 
-const ConfigPage = () => {
+const LangApp = () => {
   const { lang } = useParams();
 
   return (
@@ -9,4 +9,4 @@ const ConfigPage = () => {
   );
 };
 
-export default ConfigPage;
+export default LangApp;
