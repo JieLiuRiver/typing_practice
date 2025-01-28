@@ -1,7 +1,7 @@
 import { atom } from 'jotai';
 import enSentences from '../assets/sentences.json';
 import enWords from '../assets/words.json';
-import deSentences from '../assets/de-sentences.json';
+// import deSentences from '../assets/de-sentences.json';
 import deWords from '../assets/de-words.json';
 
 const savedContentType = localStorage.getItem(`contentType`) || 'words';
@@ -24,6 +24,13 @@ export const sentencesAtom = atom(
     const language = getInitialLanguage();
     
     if (language === 'de') {
+      const deSentences = deWords.map(word => {
+        const list = word.translation.split(' - ')
+        return {
+          source: list[list.length - 1],
+          translation: `${word.source} - ${list[0]} - ${list[1]}`
+        }
+      })
       return contentType === 'sentences' ? deSentences : deWords;;
     }
     
