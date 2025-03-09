@@ -15259,7 +15259,802 @@
     "source": "appointment",
     "translation": "预约 - n - I have a doctor's appointment tomorrow."
   },
-  
+  {
+    "source": "workshops",
+    "translation": "研讨会(workshop的复数) - n - The company organizes regular workshops for employee training."
+  },
+  {
+    "source": "hurricane",
+    "translation": "飓风 - n - The hurricane caused significant damage to coastal areas."
+  },
+  {
+    "source": "quiet",
+    "translation": "安静的 - adj - Please keep quiet during the performance."
+  },
+  {
+    "source": "luck",
+    "translation": "运气 - n - Good luck with your exam tomorrow."
+  },
+  {
+    "source": "postage",
+    "translation": "邮资 - n - The postage for international packages has increased."
+  },
+  {
+    "source": "producer",
+    "translation": "制作人 - n - He works as a music producer for a major record label."
+  },
+  {
+    "source": "represented",
+    "translation": "代表的(represent的过去式) - v - The lawyer represented her client in court."
+  },
+  {
+    "source": "mortgages",
+    "translation": "抵押贷款(mortgage的复数) - n - Banks are offering lower interest rates on mortgages."
+  },
+  {
+    "source": "dial",
+    "translation": "拨号 - v/n - Dial 911 in case of emergency./The dial on the watch is luminous."
+  },
+  {
+    "source": "responsibilities",
+    "translation": "责任(responsibility的复数) - n - The job comes with many responsibilities."
+  },
+  {
+    "source": "cheese",
+    "translation": "奶酪 - n - France is famous for its variety of cheese."
+  },
+  {
+    "source": "comic",
+    "translation": "漫画的 - adj/n - He collects comic books./She is a stand-up comic."
+  },
+  {
+    "source": "carefully",
+    "translation": "小心地 - adv - She carefully examined the document before signing it."
+  },
+  {
+    "source": "jet",
+    "translation": "喷气式飞机 - n - They traveled to Europe by private jet."
+  },
+  {
+    "source": "productivity",
+    "translation": "生产力 - n - The new software has increased employee productivity."
+  },
+  {
+    "source": "investors",
+    "translation": "投资者(investor的复数) - n - The company is seeking new investors for its expansion project."
+  },
+  {
+    "source": "crown",
+    "translation": "王冠 - n - The queen wore a diamond crown at the ceremony."
+  },
+  {
+    "source": "par",
+    "translation": "标准/平均水平 - n - His performance was below par today."
+  },
+  {
+    "source": "underground",
+    "translation": "地下的 - adj/n - The city has an extensive underground train system."
+  },
+  {
+    "source": "diagnosis",
+    "translation": "诊断 - n - The doctor made a diagnosis after examining the test results."
+  },
+  {
+    "source": "maker",
+    "translation": "制造商 - n - Apple is a leading maker of smartphones."
+  },
+  {
+    "source": "crack",
+    "translation": "裂缝/破解 - n/v - There's a crack in the wall./He managed to crack the code."
+  },
+  {
+    "source": "principle",
+    "translation": "原则 - n - She refuses to compromise her principles."
+  },
+  {
+    "source": "picks",
+    "translation": "选择(pick的第三人称单数或复数) - v/n - He picks the best players for the team./These are my top picks for the award."
+  },
+  {
+    "source": "vacations",
+    "translation": "假期(vacation的复数) - n - They take two vacations every year."
+  },
+  {
+    "source": "gang",
+    "translation": "帮派 - n - The police arrested several members of a criminal gang."
+  },
+  {
+    "source": "semester",
+    "translation": "学期 - n - The fall semester begins in September."
+  },
+  {
+    "source": "calculated",
+    "translation": "计算的(calculate的过去式) - v - He calculated the total cost of the project."
+  },
+  {
+    "source": "fetish",
+    "translation": "恋物癖 - n - He has a fetish for vintage watches."
+  },
+  {
+    "source": "applies",
+    "translation": "适用(apply的第三人称单数) - v - This rule applies to everyone without exception."
+  },
+  {
+    "source": "casinos",
+    "translation": "赌场(casino的复数) - n - Las Vegas is famous for its casinos."
+  },
+  {
+    "source": "appearance",
+    "translation": "外表/出现 - n - Appearances can be deceiving."
+  },
+  {
+    "source": "smoke",
+    "translation": "烟 - n/v - Smoke was rising from the chimney./It's illegal to smoke in public places."
+  },
+  {
+    "source": "apache",
+    "translation": "阿帕奇(印第安部落/软件名) - n - Apache is a widely used web server software."
+  },
+  {
+    "source": "filters",
+    "translation": "过滤器(filter的复数) - n - The air conditioning system has special filters to remove dust."
+  },
+  {
+    "source": "incorporated",
+    "translation": "公司/合并的 - adj - Microsoft is an incorporated company."
+  },
+  {
+    "source": "nv",
+    "translation": "内华达州(Nevada的缩写) - n - Las Vegas is located in NV."
+  },
+  {
+    "source": "craft",
+    "translation": "工艺/船只 - n - She teaches traditional craft techniques./The small craft sailed across the lake."
+  },
+  {
+    "source": "cake",
+    "translation": "蛋糕 - n - She baked a chocolate cake for his birthday."
+  },
+  {
+    "source": "notebooks",
+    "translation": "笔记本(notebook的复数) - n - Students should bring their notebooks to class."
+  },
+  {
+    "source": "apart",
+    "translation": "分开 - adv - The two buildings are only a few meters apart."
+  },
+  {
+    "source": "fellow",
+    "translation": "同伴/同事 - n - He's a fellow researcher at the university."
+  },
+  {
+    "source": "blind",
+    "translation": "盲的 - adj - The accident left him blind in one eye."
+  },
+  {
+    "source": "lounge",
+    "translation": "休息室 - n - Passengers can wait in the airport lounge."
+  },
+  {
+    "source": "mad",
+    "translation": "生气的/疯狂的 - adj - She was mad at him for being late./The scientist was considered mad for his unusual theories."
+  },
+  {
+    "source": "algorithm",
+    "translation": "算法 - n - The search engine uses a complex algorithm to rank websites."
+  },
+  {
+    "source": "semi",
+    "translation": "半/部分 - prefix - The company holds semi-annual meetings."
+  },
+  {
+    "source": "coins",
+    "translation": "硬币(coin的复数) - n - He collected rare coins as a hobby."
+  },
+  {
+    "source": "andy",
+    "translation": "安迪(人名) - n - Andy is a common nickname for Andrew."
+  },
+  {
+    "source": "gross",
+    "translation": "总的/恶心的 - adj - The company's gross income was $2 million./That joke was really gross."
+  },
+  {
+    "source": "strongly",
+    "translation": "强烈地 - adv - I strongly recommend this book."
+  },
+  {
+    "source": "cafe",
+    "translation": "咖啡馆 - n - Let's meet at the cafe on the corner."
+  },
+  {
+    "source": "valentine",
+    "translation": "情人节/瓦伦丁(人名) - n - He sent her flowers for Valentine's Day."
+  },
+  {
+    "source": "hilton",
+    "translation": "希尔顿(酒店名/人名) - n - We stayed at the Hilton hotel during our vacation."
+  },
+  {
+    "source": "ken",
+    "translation": "肯(人名) - n - Ken is a common male name."
+  },
+  {
+    "source": "proteins",
+    "translation": "蛋白质(protein的复数) - n - Eggs are a good source of proteins."
+  },
+  {
+    "source": "horror",
+    "translation": "恐怖 - n - She enjoys watching horror movies."
+  },
+  {
+    "source": "su",
+    "translation": "苏(人名/缩写) - n - Su is a common Chinese surname./SU can stand for 'Soviet Union'."
+  },
+  {
+    "source": "exp",
+    "translation": "经验(experience的缩写) - n - The job requires at least 5 years of exp in marketing."
+  },
+  {
+    "source": "familiar",
+    "translation": "熟悉的 - adj - His face looks familiar but I can't remember his name."
+  },
+  {
+    "source": "capable",
+    "translation": "有能力的 - adj - She is capable of handling the project on her own."
+  },
+  {
+    "source": "douglas",
+    "translation": "道格拉斯(人名) - n - Douglas is a common male name."
+  },
+  {
+    "source": "debian",
+    "translation": "德比安(Linux发行版) - n - Debian is a popular Linux distribution."
+  },
+  {
+    "source": "till",
+    "translation": "直到 - prep - The store is open till 9 PM."
+  },
+  {
+    "source": "involving",
+    "translation": "涉及(involve的现在分词) - v - He's working on a project involving artificial intelligence."
+  },
+  {
+    "source": "pen",
+    "translation": "钢笔 - n - She signed the contract with a blue pen."
+  },
+  {
+    "source": "investing",
+    "translation": "投资(invest的现在分词) - v - He's investing in the stock market."
+  },
+  {
+    "source": "christopher",
+    "translation": "克里斯托弗(人名) - n - Christopher Columbus discovered America."
+  },
+  {
+    "source": "admission",
+    "translation": "入场/承认 - n - The admission fee for the museum is $10./His admission of guilt surprised everyone."
+  },
+  {
+    "source": "epson",
+    "translation": "爱普生(公司名) - n - Epson is a Japanese electronics company known for printers."
+  },
+  {
+    "source": "shoe",
+    "translation": "鞋子 - n - She bought a new pair of shoes."
+  },
+  {
+    "source": "elected",
+    "translation": "当选的(elect的过去式) - v - He was elected president in 2020."
+  },
+  {
+    "source": "carrying",
+    "translation": "携带(carry的现在分词) - v - He was carrying a heavy suitcase."
+  },
+  {
+    "source": "victory",
+    "translation": "胜利 - n - The team celebrated their victory in the championship."
+  },
+  {
+    "source": "sand",
+    "translation": "沙子 - n - Children were playing in the sand at the beach."
+  },
+  {
+    "source": "madison",
+    "translation": "麦迪逊(人名/地名) - n - Madison is the capital of Wisconsin."
+  },
+  {
+    "source": "terrorism",
+    "translation": "恐怖主义 - n - The government has strict policies against terrorism."
+  },
+  {
+    "source": "joy",
+    "translation": "喜悦 - n - The birth of their child brought them great joy."
+  },
+  {
+    "source": "editions",
+    "translation": "版本(edition的复数) - n - The book is available in both hardcover and paperback editions."
+  },
+  {
+    "source": "cpu",
+    "translation": "中央处理器(Central Processing Unit的缩写) - n - The CPU is the brain of a computer."
+  },
+  {
+    "source": "mainly",
+    "translation": "主要地 - adv - The company mainly focuses on software development."
+  },
+  {
+    "source": "ethnic",
+    "translation": "民族的 - adj - The city is known for its ethnic diversity."
+  },
+  {
+    "source": "ran",
+    "translation": "跑(run的过去式) - v - She ran a marathon last year."
+  },
+  {
+    "source": "parliament",
+    "translation": "议会 - n - The bill was passed by parliament yesterday."
+  },
+  {
+    "source": "actor",
+    "translation": "演员 - n - He is a famous Hollywood actor."
+  },
+  {
+    "source": "finds",
+    "translation": "发现(find的第三人称单数) - v - He always finds a way to solve problems."
+  },
+  {
+    "source": "seal",
+    "translation": "海豹/密封 - n/v - Seals are marine mammals./Please seal the envelope before sending it."
+  },
+  {
+    "source": "situations",
+    "translation": "情况(situation的复数) - n - Managers must be able to handle difficult situations."
+  },
+  {
+    "source": "fifth",
+    "translation": "第五 - adj/n - This is the fifth time I've explained this./He drank a fifth of whiskey."
+  },
+  {
+    "source": "allocated",
+    "translation": "分配的(allocate的过去式) - v - Resources were allocated to different departments."
+  },
+  {
+    "source": "citizen",
+    "translation": "公民 - n - He became a U.S. citizen last year."
+  },
+  {
+    "source": "vertical",
+    "translation": "垂直的 - adj - The painting has vertical stripes."
+  },
+  {
+    "source": "corrections",
+    "translation": "更正(correction的复数) - n - The editor made several corrections to the manuscript."
+  },
+  {
+    "source": "structural",
+    "translation": "结构的 - adj - The building has some structural problems."
+  },
+  {
+    "source": "municipal",
+    "translation": "市政的 - adj - The municipal government is responsible for local services."
+  },
+  {
+    "source": "describes",
+    "translation": "描述(describe的第三人称单数) - v - This book describes life in ancient Rome."
+  },
+  {
+    "source": "prize",
+    "translation": "奖品 - n - She won first prize in the competition."
+  },
+  {
+    "source": "sr",
+    "translation": "高级(Senior的缩写) - n - John Smith Sr. is the father of John Smith Jr."
+  },
+  {
+    "source": "occurs",
+    "translation": "发生(occur的第三人称单数) - v - This phenomenon occurs rarely in nature."
+  },
+  {
+    "source": "jon",
+    "translation": "乔恩(人名) - n - Jon is a common nickname for Jonathan."
+  },
+  {
+    "source": "absolute",
+    "translation": "绝对的 - adj - This is an absolute necessity for the project."
+  },
+  {
+    "source": "disabilities",
+    "translation": "残疾(disability的复数) - n - The school provides support for students with disabilities."
+  },
+  {
+    "source": "consists",
+    "translation": "包含(consist的第三人称单数) - v - The team consists of five members."
+  },
+  {
+    "source": "anytime",
+    "translation": "随时 - adv - Feel free to call me anytime."
+  },
+  {
+    "source": "substance",
+    "translation": "物质 - n - The researchers identified an unknown substance in the sample."
+  },
+  {
+    "source": "prohibited",
+    "translation": "禁止的(prohibit的过去式) - v - Smoking is prohibited in this building."
+  },
+  {
+    "source": "addressed",
+    "translation": "解决的/寄给的(address的过去式) - v - The issue was addressed in the meeting./The letter was addressed to the manager."
+  },
+  {
+    "source": "lies",
+    "translation": "谎言(lie的复数)/位于(lie的第三人称单数) - n/v - He told several lies./The city lies on the coast."
+  },
+  {
+    "source": "pipe",
+    "translation": "管道 - n - The water flows through this pipe."
+  },
+  {
+    "source": "soldiers",
+    "translation": "士兵(soldier的复数) - n - The soldiers were training in the field."
+  },
+  {
+    "source": "nr",
+    "translation": "编号(number的缩写) - n - The invoice nr is 12345."
+  },
+  {
+    "source": "guardian",
+    "translation": "监护人 - n - The child's legal guardian must sign the form."
+  },
+  {
+    "source": "lecture",
+    "translation": "讲座 - n - The professor gave an interesting lecture on quantum physics."
+  },
+  {
+    "source": "simulation",
+    "translation": "模拟 - n - The computer simulation showed how the building would respond to an earthquake."
+  },
+  {
+    "source": "layout",
+    "translation": "布局 - n - The layout of the office has been redesigned."
+  },
+  {
+    "source": "initiatives",
+    "translation": "倡议(initiative的复数) - n - The company has launched several environmental initiatives."
+  },
+  {
+    "source": "ill",
+    "translation": "生病的 - adj - She was too ill to go to work."
+  },
+  {
+    "source": "concentration",
+    "translation": "浓度/专注 - n - The concentration of pollutants in the air is decreasing./Good concentration is essential for studying."
+  },
+  {
+    "source": "classics",
+    "translation": "经典作品(classic的复数) - n - She studies classics at university."
+  },
+  {
+    "source": "lbs",
+    "translation": "磅(pounds的缩写) - n - The package weighs 10 lbs."
+  },
+  {
+    "source": "lay",
+    "translation": "放置(lie的过去式) - v - She lay the book on the table."
+  },
+  {
+    "source": "interpretation",
+    "translation": "解释 - n - There are different interpretations of this poem."
+  },
+  {
+    "source": "horses",
+    "translation": "马(horse的复数) - n - The horses were grazing in the field."
+  },
+  {
+    "source": "lol",
+    "translation": "大声笑(laughing out loud的缩写) - abbr - That joke was funny, lol."
+  },
+  {
+    "source": "dirty",
+    "translation": "脏的 - adj - His hands were dirty after gardening."
+  },
+  {
+    "source": "deck",
+    "translation": "甲板 - n - They relaxed on the deck of the cruise ship."
+  },
+  {
+    "source": "wayne",
+    "translation": "韦恩(人名) - n - Wayne is a common male name."
+  },
+  {
+    "source": "donate",
+    "translation": "捐赠 - v - She decided to donate money to charity."
+  },
+  {
+    "source": "taught",
+    "translation": "教导(teach的过去式) - v - He taught mathematics for twenty years."
+  },
+  {
+    "source": "bankruptcy",
+    "translation": "破产 - n - The company filed for bankruptcy last year."
+  },
+  {
+    "source": "mp",
+    "translation": "国会议员(Member of Parliament的缩写) - n - The MP represents our constituency in Parliament."
+  },
+  {
+    "source": "worker",
+    "translation": "工人 - n - He is a construction worker."
+  },
+  {
+    "source": "optimization",
+    "translation": "优化 - n - The software needs optimization to run faster."
+  },
+  {
+    "source": "alive",
+    "translation": "活着的 - adj - The missing hiker was found alive after three days."
+  },
+  {
+    "source": "temple",
+    "translation": "寺庙 - n - We visited an ancient Buddhist temple."
+  },
+  {
+    "source": "substances",
+    "translation": "物质(substance的复数) - n - The lab tests various substances for toxicity."
+  },
+  {
+    "source": "prove",
+    "translation": "证明 - v - The evidence will prove his innocence."
+  },
+  {
+    "source": "discovered",
+    "translation": "发现的(discover的过去式) - v - Scientists discovered a new species of frog."
+  },
+  {
+    "source": "wings",
+    "translation": "翅膀(wing的复数) - n - The bird spread its wings and flew away."
+  },
+  {
+    "source": "breaks",
+    "translation": "休息(break的第三人称单数或复数) - v/n - She breaks the rules sometimes./We get two breaks during the workday."
+  },
+  {
+    "source": "genetic",
+    "translation": "遗传的 - adj - Genetic factors play a role in many diseases."
+  },
+  {
+    "source": "restrictions",
+    "translation": "限制(restriction的复数) - n - There are travel restrictions in place due to the pandemic."
+  },
+  {
+    "source": "participating",
+    "translation": "参与的(participate的现在分词) - v - Students participating in the program will receive a certificate."
+  },
+  {
+    "source": "waters",
+    "translation": "水域(water的复数) - n - The ship sailed in international waters."
+  },
+  {
+    "source": "promise",
+    "translation": "承诺 - n/v - He made a promise to help./I promise to be there on time."
+  },
+  {
+    "source": "thin",
+    "translation": "薄的 - adj - The walls of the house are very thin."
+  },
+  {
+    "source": "exhibition",
+    "translation": "展览 - n - The art exhibition opens next week."
+  },
+  {
+    "source": "prefer",
+    "translation": "更喜欢 - v - I prefer tea to coffee."
+  },
+  {
+    "source": "ridge",
+    "translation": "山脊 - n - They hiked along the mountain ridge."
+  },
+  {
+    "source": "cabinet",
+    "translation": "内阁/橱柜 - n - The cabinet will meet to discuss the crisis./She stored the dishes in the kitchen cabinet."
+  },
+  {
+    "source": "modem",
+    "translation": "调制解调器 - n - You need a modem to connect to the internet."
+  },
+  {
+    "source": "harris",
+    "translation": "哈里斯(人名) - n - Harris is a common surname."
+  },
+  {
+    "source": "mph",
+    "translation": "英里每小时(miles per hour的缩写) - n - The speed limit is 55 mph."
+  },
+  {
+    "source": "bringing",
+    "translation": "带来(bring的现在分词) - v - She is bringing her friend to the party."
+  },
+  {
+    "source": "sick",
+    "translation": "生病的 - adj - He stayed home because he was sick."
+  },
+  {
+    "source": "dose",
+    "translation": "剂量 - n - The doctor prescribed a small dose of medication."
+  },
+  {
+    "source": "evaluate",
+    "translation": "评估 - v - We need to evaluate the results of the experiment."
+  },
+  {
+    "source": "tiffany",
+    "translation": "蒂芙尼(人名/品牌名) - n - Tiffany is a popular female name./Tiffany & Co. is a luxury jewelry brand."
+  },
+  {
+    "source": "tropical",
+    "translation": "热带的 - adj - They went on vacation to a tropical island."
+  },
+  {
+    "source": "collect",
+    "translation": "收集 - v - He likes to collect stamps from different countries."
+  },
+  {
+    "source": "bet",
+    "translation": "打赌 - v/n - I bet he will be late./She placed a bet on the horse race."
+  },
+  {
+    "source": "composition",
+    "translation": "作文/组成 - n - She wrote a composition about her summer vacation./The chemical composition of the substance is complex."
+  },
+  {
+    "source": "toyota",
+    "translation": "丰田(公司名) - n - Toyota is a Japanese car manufacturer."
+  },
+  {
+    "source": "streets",
+    "translation": "街道(street的复数) - n - The streets of the city were crowded."
+  },
+  {
+    "source": "nationwide",
+    "translation": "全国性的 - adj - The company launched a nationwide advertising campaign."
+  },
+  {
+    "source": "vector",
+    "translation": "向量 - n - In physics, force is represented as a vector."
+  },
+  {
+    "source": "definitely",
+    "translation": "肯定地 - adv - I will definitely attend the meeting tomorrow."
+  },
+  {
+    "source": "shaved",
+    "translation": "剃光的(shave的过去式) - v - He shaved his beard off yesterday."
+  },
+  {
+    "source": "turning",
+    "translation": "转向(turn的现在分词) - v - The car was turning left at the intersection."
+  },
+  {
+    "source": "buffer",
+    "translation": "缓冲区 - n - The software uses a buffer to store temporary data."
+  },
+  {
+    "source": "purple",
+    "translation": "紫色的 - adj - She wore a purple dress to the party."
+  },
+  {
+    "source": "existence",
+    "translation": "存在 - n - Scientists debate the existence of life on other planets."
+  },
+  {
+    "source": "commentary",
+    "translation": "评论 - n - The sports commentator provided excellent commentary during the game."
+  },
+  {
+    "source": "larry",
+    "translation": "拉里(人名) - n - Larry is a common male name."
+  },
+  {
+    "source": "limousines",
+    "translation": "豪华轿车(limousine的复数) - n - Celebrities often arrive at events in limousines."
+  },
+  {
+    "source": "developments",
+    "translation": "发展(development的复数) - n - There have been significant developments in the case."
+  },
+  {
+    "source": "def",
+    "translation": "定义(definition的缩写) - n - The def of this word is in the dictionary."
+  },
+  {
+    "source": "immigration",
+    "translation": "移民 - n - The country has strict immigration policies."
+  },
+  {
+    "source": "destinations",
+    "translation": "目的地(destination的复数) - n - Thailand and Bali are popular tourist destinations."
+  },
+  {
+    "source": "lets",
+    "translation": "让(let的第三人称单数) - v - He lets his children stay up late on weekends."
+  },
+  {
+    "source": "mutual",
+    "translation": "相互的 - adj - They have a mutual friend who introduced them."
+  },
+  {
+    "source": "pipeline",
+    "translation": "管道 - n - The oil flows through a pipeline to the refinery."
+  },
+  {
+    "source": "necessarily",
+    "translation": "必然地 - adv - Higher price doesn't necessarily mean better quality."
+  },
+  {
+    "source": "syntax",
+    "translation": "语法 - n - The syntax of this programming language is easy to learn."
+  },
+  {
+    "source": "li",
+    "translation": "李(姓氏) - n - Li is a common Chinese surname."
+  },
+  {
+    "source": "attribute",
+    "translation": "属性/归因于 - n/v - Flexibility is an important attribute for an athlete./They attribute their success to hard work."
+  },
+  {
+    "source": "prison",
+    "translation": "监狱 - n - He was sentenced to five years in prison."
+  },
+  {
+    "source": "skill",
+    "translation": "技能 - n - Playing the piano requires skill and practice."
+  },
+  {
+    "source": "chairs",
+    "translation": "椅子(chair的复数) - n - We need more chairs for the meeting."
+  },
+  {
+    "source": "nl",
+    "translation": "荷兰(Netherlands的缩写) - n - NL is the country code for the Netherlands."
+  },
+  {
+    "source": "everyday",
+    "translation": "每天的 - adj - These are everyday problems that many people face."
+  },
+  {
+    "source": "apparently",
+    "translation": "显然地 - adv - Apparently, the meeting has been canceled."
+  },
+  {
+    "source": "surrounding",
+    "translation": "周围的(surround的现在分词) - adj - The surrounding area is mostly farmland."
+  },
+  {
+    "source": "mountains",
+    "translation": "山脉(mountain的复数) - n - The mountains are covered with snow in winter."
+  },
+  {
+    "source": "moves",
+    "translation": "移动(move的第三人称单数或复数) - v/n - He moves quickly./She learned some new dance moves."
+  },
+  {
+    "source": "popularity",
+    "translation": "受欢迎 - n - The popularity of online shopping continues to grow."
+  },
+  {
+    "source": "inquiry",
+    "translation": "询问 - n - Please direct your inquiry to the customer service department."
+  },
+  {
+    "source": "ethernet",
+    "translation": "以太网 - n - The computer is connected to the internet via Ethernet."
+  },
+  {
+    "source": "checked",
+    "translation": "检查过的(check的过去式) - v - I checked my email this morning."
+  },
   {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
