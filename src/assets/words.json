@@ -1199,6 +1199,407 @@
     "source": "still",
     "translation": "仍然 - adv - I am still waiting for you."
   },
+    {
+    "source": "money",
+    "translation": "钱 - n - I need to save money."
+  },
+  {
+    "source": "quality",
+    "translation": "质量 - n - This product has high quality."
+  },
+  {
+    "source": "every",
+    "translation": "每个 - adj - I go for a walk every day."
+  },
+  {
+    "source": "listing",
+    "translation": "列表 - n - I am looking at the property listings."
+  },
+  {
+    "source": "content",
+    "translation": "内容 - n - The content of this book is very interesting."
+  },
+  {
+    "source": "country",
+    "translation": "国家 - n - I want to travel to different countries."
+  },
+  {
+    "source": "private",
+    "translation": "私人的 - adj - I need some private time."
+  },
+  {
+    "source": "little",
+    "translation": "一点 - adj - There is a little milk left."
+  },
+  {
+    "source": "visit",
+    "translation": "访问 - v - I want to visit my grandparents."
+  },
+  {
+    "source": "save",
+    "translation": "保存/存钱 - v - I need to save money for a new car."
+  },
+  {
+    "source": "tools",
+    "translation": "工具 - n - I need some tools to fix this."
+  },
+  {
+    "source": "low",
+    "translation": "低的 - adj - The price is very low."
+  },
+  {
+    "source": "reply",
+    "translation": "回复 - v/n - Please reply to my email."
+  },
+  {
+    "source": "customer",
+    "translation": "顾客 - n - The customer is always right."
+  },
+  {
+    "source": "december",
+    "translation": "十二月 - n - December is a cold month."
+  },
+  {
+    "source": "compare",
+    "translation": "比较 - v - Let's compare these two products."
+  },
+  {
+    "source": "movies",
+    "translation": "电影 - n - I like watching movies."
+  },
+  {
+    "source": "include",
+    "translation": "包括 - v - The price includes tax."
+  },
+  {
+    "source": "college",
+    "translation": "大学 - n - I am a college student."
+  },
+  {
+    "source": "value",
+    "translation": "价值 - n - This has great value."
+  },
+  {
+    "source": "article",
+    "translation": "文章 - n - I read an interesting article."
+  },
+  {
+    "source": "york",
+    "translation": "约克 - n - I want to visit New York."
+  },
+  {
+    "source": "man",
+    "translation": "男人 - n - The man is wearing a suit."
+  },
+  {
+    "source": "card",
+    "translation": "卡 - n - I need to pay with my credit card."
+  },
+  {
+    "source": "jobs",
+    "translation": "工作 - n - I am looking for a new job."
+  },
+  {
+    "source": "provide",
+    "translation": "提供 - v - The company provides good service."
+  },
+  {
+    "source": "food",
+    "translation": "食物 - n - I love eating delicious food."
+  },
+  {
+    "source": "source",
+    "translation": "来源 - n - What's the source of this information?"
+  },
+  {
+    "source": "author",
+    "translation": "作者 - n - The author of this book is very famous."
+  },
+  {
+    "source": "different",
+    "translation": "不同的 - adj - These two things are different."
+  },
+  {
+    "source": "press",
+    "translation": "按 - v - Press the button to start."
+  },
+  {
+    "source": "learn",
+    "translation": "学习 - v - I want to learn a new language."
+  },
+  {
+    "source": "sale",
+    "translation": "销售 - n - There is a big sale at the store."
+  },
+  {
+    "source": "around",
+    "translation": "周围 - prep - I like to walk around the park."
+  },
+  {
+    "source": "print",
+    "translation": "打印 - v - I need to print this document."
+  },
+  {
+    "source": "course",
+    "translation": "课程 - n - I am taking an online course."
+  },
+  {
+    "source": "job",
+    "translation": "工作 - n - I need to find a good job."
+  },
+  {
+    "source": "canada",
+    "translation": "加拿大 - n - I want to visit Canada."
+  },
+  {
+    "source": "process",
+    "translation": "过程 - n - The process is very complicated."
+  },
+  {
+    "source": "teen",
+    "translation": "青少年 - n - Teenagers like to listen to pop music."
+  },
+  {
+    "source": "room",
+    "translation": "房间 - n - This room is very spacious."
+  },
+  {
+    "source": "stock",
+    "translation": "股票 - n - The stock market is volatile."
+  },
+  {
+    "source": "training",
+    "translation": "培训 - n - I need some training to improve my skills."
+  },
+  {
+    "source": "too",
+    "translation": "太 - adv - I am too tired to go out."
+  },
+  {
+    "source": "credit",
+    "translation": "信用 - n - I have good credit."
+  },
+  {
+    "source": "point",
+    "translation": "观点 - n - What's your point?"
+  },
+  {
+    "source": "join",
+    "translation": "加入 - v - I want to join a club."
+  },
+  {
+    "source": "science",
+    "translation": "科学 - n - I am interested in science."
+  },
+  {
+    "source": "men",
+    "translation": "男人们 - n - Men and women are equal."
+  },
+  {
+    "source": "categories",
+    "translation": "类别 - n - There are many categories of books."
+  },
+  {
+    "source": "advanced",
+    "translation": "高级的 - adj - I am taking an advanced course."
+  },
+  {
+    "source": "west",
+    "translation": "西方 - n - I want to travel to the west."
+  },
+  {
+    "source": "sales",
+    "translation": "销售 - n - The sales of this product are very good."
+  },
+  {
+    "source": "look",
+    "translation": "看起来 - v - You look beautiful today."
+  },
+  {
+    "source": "english",
+    "translation": "英语 - n - I am learning English."
+  },
+  {
+    "source": "left",
+    "translation": "左边 - n/adj - Turn left at the corner."
+  },
+  {
+    "source": "team",
+    "translation": "团队 - n - I am a member of a basketball team."
+  },
+  {
+    "source": "estate",
+    "translation": "地产 - n - He owns a large estate."
+  },
+  {
+    "source": "box",
+    "translation": "盒子 - n - There is a gift box on the table."
+  },
+  {
+    "source": "conditions",
+    "translation": "条件 - n - The working conditions here are good."
+  },
+  {
+    "source": "select",
+    "translation": "选择 - v - Please select your answer."
+  },
+  {
+    "source": "windows",
+    "translation": "窗户 - n - I am looking out of the window."
+  },
+  {
+    "source": "photos",
+    "translation": "照片 - n - I took some beautiful photos."
+  },
+  {
+    "source": "gay",
+    "translation": "同性恋 - adj - He is gay and proud of it."
+  },
+  {
+    "source": "thread",
+    "translation": "线程/话题 - n - I am following this thread on the forum."
+  },
+  {
+    "source": "week",
+    "translation": "周 - n - There are seven days in a week."
+  },
+  {
+    "source": "category",
+    "translation": "类别 - n - This book belongs to the fiction category."
+  },
+  {
+    "source": "note",
+    "translation": "笔记 - n - Take notes during the lecture."
+  },
+  {
+    "source": "live",
+    "translation": "生活/居住 - v - I want to live a happy life."
+  },
+  {
+    "source": "large",
+    "translation": "大的 - adj - This is a large city."
+  },
+  {
+    "source": "gallery",
+    "translation": "画廊 - n - I visited an art gallery yesterday."
+  },
+  {
+    "source": "table",
+    "translation": "桌子 - n - There is a vase on the table."
+  },
+  {
+    "source": "register",
+    "translation": "注册 - v - Please register for the event."
+  },
+  {
+    "source": "however",
+    "translation": "然而 - adv - However, I have a different opinion."
+  },
+  {
+    "source": "june",
+    "translation": "六月 - n - June is a beautiful month."
+  },
+  {
+    "source": "october",
+    "translation": "十月 - n - October is my favorite month."
+  },
+  {
+    "source": "november",
+    "translation": "十一月 - n - November is a bit cold."
+  },
+  {
+    "source": "market",
+    "translation": "市场 - n - I went to the farmers' market."
+  },
+  {
+    "source": "library",
+    "translation": "图书馆 - n - I often go to the library to read books."
+  },
+  {
+    "source": "really",
+    "translation": "真的 - adv - This movie is really good."
+  },
+  {
+    "source": "action",
+    "translation": "行动 - n - We need to take action to solve the problem."
+  },
+  {
+    "source": "start",
+    "translation": "开始 - v - Let's start the meeting."
+  },
+  {
+    "source": "series",
+    "translation": "系列 - n - I am watching a TV series."
+  },
+  {
+    "source": "model",
+    "translation": "模特/模型 - n - She is a fashion model."
+  },
+  {
+    "source": "features",
+    "translation": "特点 - n - This phone has many useful features."
+  },
+  {
+    "source": "air",
+    "translation": "空气 - n - The air is fresh in the countryside."
+  },
+  {
+    "source": "industry",
+    "translation": "行业 - n - The automotive industry is very competitive."
+  },
+  {
+    "source": "plan",
+    "translation": "计划 - n - I have a travel plan for the summer."
+  },
+  {
+    "source": "human",
+    "translation": "人类 - n - Human beings are intelligent creatures."
+  },
+  {
+    "source": "provided",
+    "translation": "提供 - v - The hotel provides free breakfast."
+  },
+  {
+    "source": "tv",
+    "translation": "电视 - n - I am watching TV."
+  },
+  {
+    "source": "yes",
+    "translation": "是的 - adv - Yes, I agree with you."
+  },
+  {
+    "source": "required",
+    "translation": "必需的 - adj - This course is required for graduation."
+  },
+  {
+    "source": "second",
+    "translation": "第二/秒 - adj/n - I will be there in a second."
+  },
+  {
+    "source": "hot",
+    "translation": "热的 - adj - It's very hot today."
+  },
+  {
+    "source": "accessories",
+    "translation": "配件 - n - I bought some phone accessories."
+  },
+  {
+    "source": "cost",
+    "translation": "成本 - n - The cost of living is high in this city."
+  },
+  {
+    "source": "movie",
+    "translation": "电影 - n - I watched a great movie last night."
+  },
+  {
+    "source": "forums",
+    "translation": "论坛 - n - I often participate in online forums."
+  },
+  {
+    "source": "march",
+    "translation": "三月 - n - March is a windy month."
+  },
+  
   {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
