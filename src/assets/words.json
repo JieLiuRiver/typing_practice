@@ -1999,6 +1999,411 @@
     "source": "hard",
     "translation": "困难的 - adj - Studying is hard work."
   },
+  {
+    "source": "positive",
+    "translation": "积极的 - adj. - The study's findings were positive."
+  },
+  
+  {
+    "source": "texas",
+    "translation": "德克萨斯州 - n - I want to visit Texas."
+  },
+  {
+    "source": "oct",
+    "translation": "十月 - n - October is a beautiful month."
+  },
+  {
+    "source": "pay",
+    "translation": "支付 - v - I need to pay my bills."
+  },
+  {
+    "source": "four",
+    "translation": "四 - num - There are four seasons in a year."
+  },
+  {
+    "source": "poker",
+    "translation": "扑克 - n - I like playing poker."
+  },
+  {
+    "source": "status",
+    "translation": "状态/身份 - n - What's your marital status?"
+  },
+  {
+    "source": "browse",
+    "translation": "浏览 - v - I like to browse the internet."
+  },
+  {
+    "source": "issue",
+    "translation": "问题 - n - There is an issue with my computer."
+  },
+  {
+    "source": "range",
+    "translation": "范围 - n - The price range of this product is wide."
+  },
+  {
+    "source": "building",
+    "translation": "建筑 - n - This is a tall building."
+  },
+  {
+    "source": "seller",
+    "translation": "卖家 - n - The seller is very friendly."
+  },
+  {
+    "source": "court",
+    "translation": "法庭 - n - The court is in session."
+  },
+  {
+    "source": "february",
+    "translation": "二月 - n - February is a short month."
+  },
+  {
+    "source": "always",
+    "translation": "总是 - adv - I always wake up early."
+  },
+  {
+    "source": "result",
+    "translation": "结果 - n - The result of the exam is good."
+  },
+  {
+    "source": "audio",
+    "translation": "音频 - n - The audio quality is excellent."
+  },
+  {
+    "source": "light",
+    "translation": "光 - n - The room is filled with light."
+  },
+  {
+    "source": "write",
+    "translation": "写 - v - I like to write stories."
+  },
+  {
+    "source": "war",
+    "translation": "战争 - n - War is a terrible thing."
+  },
+  {
+    "source": "nov",
+    "translation": "十一月 - n - November is a cold month."
+  },
+  {
+    "source": "offer",
+    "translation": "提供/给予 - v - They offered me a job."
+  },
+  {
+    "source": "blue",
+    "translation": "蓝色的 - adj - The sky is blue."
+  },
+  {
+    "source": "groups",
+    "translation": "小组 - n - I am a member of several groups."
+  },
+  {
+    "source": "al",
+    "translation": "艾尔(人名缩写) - n - Al is short for Albert or Alfred."
+  },
+  {
+    "source": "easy",
+    "translation": "容易的 - adj - This task is easy."
+  },
+  {
+    "source": "given",
+    "translation": "鉴于 - prep - Given the circumstances, we need to act quickly."
+  },
+  {
+    "source": "files",
+    "translation": "文件 - n - I need to organize my files."
+  },
+  {
+    "source": "event",
+    "translation": "活动 - n - There is a big event happening this weekend."
+  },
+  {
+    "source": "release",
+    "translation": "发布 - v - The new movie will be released soon."
+  },
+  {
+    "source": "analysis",
+    "translation": "分析 - n - I need to do an analysis of this data."
+  },
+  {
+    "source": "request",
+    "translation": "请求 - n - I made a request for a new book."
+  },
+  {
+    "source": "fax",
+    "translation": "传真 - n - I need to send a fax."
+  },
+  {
+    "source": "china",
+    "translation": "中国 - n - China is a great country."
+  },
+  {
+    "source": "making",
+    "translation": "制作 - v - I am making a cake."
+  },
+  {
+    "source": "picture",
+    "translation": "图片 - n - This is a beautiful picture."
+  },
+  {
+    "source": "needs",
+    "translation": "需要 - n - He needs some help."
+  },
+  {
+    "source": "possible",
+    "translation": "可能的 - adj - It is possible to achieve your dreams."
+  },
+  {
+    "source": "might",
+    "translation": "可能 - aux - It might rain later."
+  },
+  {
+    "source": "professional",
+    "translation": "专业的 - adj - She is a professional athlete."
+  },
+  {
+    "source": "yet",
+    "translation": "还 - adv - I haven't finished my work yet."
+  },
+  {
+    "source": "month",
+    "translation": "月份 - n - There are twelve months in a year."
+  },
+  {
+    "source": "major",
+    "translation": "主修 - v/adj - He is majoring in computer science."
+  },
+  {
+    "source": "star",
+    "translation": "星星 - n - The stars are shining brightly."
+  },
+  {
+    "source": "areas",
+    "translation": "区域 - n - There are different areas of study."
+  },
+  {
+    "source": "future",
+    "translation": "未来 - n - I am looking forward to the future."
+  },
+  {
+    "source": "space",
+    "translation": "空间 - n - The universe is full of space."
+  },
+  {
+    "source": "committee",
+    "translation": "委员会 - n - I am on a committee."
+  },
+  {
+    "source": "hand",
+    "translation": "手 - n - Give me a hand."
+  },
+  {
+    "source": "sun",
+    "translation": "太阳 - n - The sun is shining."
+  },
+  {
+    "source": "cards",
+    "translation": "卡片/纸牌 - n - I like playing cards."
+  },
+  {
+    "source": "problems",
+    "translation": "问题 - n - I have some problems to solve."
+  },
+  {
+    "source": "london",
+    "translation": "伦敦 - n - I want to visit London."
+  },
+  {
+    "source": "washington",
+    "translation": "华盛顿 - n - Washington is the capital of the United States."
+  },
+  {
+    "source": "meeting",
+    "translation": "会议 - n - I have a meeting this afternoon."
+  },
+  {
+    "source": "rss",
+    "translation": "RSS订阅 - n - I subscribe to RSS feeds."
+  },
+  {
+    "source": "become",
+    "translation": "成为 - v - I want to become a doctor."
+  },
+  {
+    "source": "interest",
+    "translation": "兴趣 - n - I have an interest in music."
+  },
+  {
+    "source": "id",
+    "translation": "身份证 - n - What's your ID number?"
+  },
+  {
+    "source": "child",
+    "translation": "孩子 - n - The child is playing in the park."
+  },
+  {
+    "source": "keep",
+    "translation": "保持 - v - Keep quiet, please."
+  },
+  {
+    "source": "enter",
+    "translation": "进入 - v - Enter the room."
+  },
+  {
+    "source": "california",
+    "translation": "加利福尼亚 - n - California is a beautiful state."
+  },
+  {
+    "source": "porn",
+    "translation": "色情内容 - n - Pornography is not suitable for public viewing."
+  },
+  {
+    "source": "share",
+    "translation": "分享 - v - Let's share this cake."
+  },
+  {
+    "source": "similar",
+    "translation": "相似的 - adj - These two books are similar."
+  },
+  {
+    "source": "garden",
+    "translation": "花园 - n - I like to walk in the garden."
+  },
+  {
+    "source": "schools",
+    "translation": "学校 - n - There are many good schools in this area."
+  },
+  {
+    "source": "million",
+    "translation": "百万 - num - There are millions of stars in the sky."
+  },
+  {
+    "source": "added",
+    "translation": "添加 - v - Some new features have been added to the software."
+  },
+  {
+    "source": "reference",
+    "translation": "参考 - n - I need a reference book for my research."
+  },
+  {
+    "source": "companies",
+    "translation": "公司 - n - There are many companies in this city."
+  },
+  {
+    "source": "listed",
+    "translation": "上市的 - adj - The company is listed on the stock exchange."
+  },
+  {
+    "source": "baby",
+    "translation": "婴儿 - n - The baby is crying."
+  },
+  {
+    "source": "learning",
+    "translation": "学习 - v - I am learning French."
+  },
+  {
+    "source": "energy",
+    "translation": "能源 - n - We need to save energy."
+  },
+  {
+    "source": "run",
+    "translation": "跑步 - v - I like to run in the morning."
+  },
+  {
+    "source": "delivery",
+    "translation": "递送 - n - The package will be delivered tomorrow."
+  },
+  {
+    "source": "net",
+    "translation": "网络 - n - I use the internet every day."
+  },
+  {
+    "source": "popular",
+    "translation": "流行的 - adj - This song is very popular."
+  },
+  {
+    "source": "term",
+    "translation": "术语 - n - What does this term mean?"
+  },
+  {
+    "source": "film",
+    "translation": "电影 - n - I watched a great film last night."
+  },
+  {
+    "source": "stories",
+    "translation": "故事 - n - I like reading short stories."
+  },
+  {
+    "source": "put",
+    "translation": "放 - v - Put the book on the table."
+  },
+  {
+    "source": "computers",
+    "translation": "电脑 - n - I use computers for work."
+  },
+  {
+    "source": "journal",
+    "translation": "日记/期刊 - n - I keep a journal."
+  },
+  {
+    "source": "reports",
+    "translation": "报告 - n - I need to write reports for my job."
+  },
+  {
+    "source": "co",
+    "translation": "公司(缩写) - n - He works for a tech co."
+  },
+  {
+    "source": "try",
+    "translation": "尝试 - v - Try your best."
+  },
+  {
+    "source": "welcome",
+    "translation": "欢迎 - v/n - Welcome to our city."
+  },
+  {
+    "source": "central",
+    "translation": "中央的 - adj - The central park is very beautiful."
+  },
+  {
+    "source": "images",
+    "translation": "图像 - n - I took some beautiful images."
+  },
+  {
+    "source": "president",
+    "translation": "总统 - n - The president of the country is very important."
+  },
+  {
+    "source": "notice",
+    "translation": "注意 - v - I noticed a change in his behavior."
+  },
+  {
+    "source": "god",
+    "translation": "上帝 - n - Some people believe in God."
+  },
+  {
+    "source": "original",
+    "translation": "原始的 - adj - This is the original version of the book."
+  },
+  {
+    "source": "head",
+    "translation": "头 - n - I have a headache."
+  },
+  {
+    "source": "radio",
+    "translation": "收音机 - n - I listen to the radio in the morning."
+  },
+  {
+    "source": "until",
+    "translation": "直到 - prep - Wait until I come back."
+  },
+  {
+    "source": "cell",
+    "translation": "电池/细胞 - n - My phone has a good battery cell."
+  },
+  {
+    "source": "color",
+    "translation": "颜色 - n - What's your favorite color?"
+  },
   
   {
     "source": "social",
