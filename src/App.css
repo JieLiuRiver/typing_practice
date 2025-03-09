@@ -28,6 +28,7 @@
   padding: 40px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
   width: 100%;
+  box-sizing: border-box;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');

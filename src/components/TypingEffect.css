@@ -1,4 +1,4 @@
-.typing-container {
+/* .typing-container {
   font-family: monospace;
   font-size: 24px;
   padding: 20px;
@@ -72,4 +72,12 @@ html.dark .text-display .wrong {
 }
 html.dark .overlay {
   background: rgba(0, 0, 0, 0.9);
+} */
+
+.prev-button {
+  margin-right: 100px !important;
+}
+
+.next-button {
+  margin-left: 100px !important;
 }

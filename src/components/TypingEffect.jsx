@@ -1,5 +1,5 @@
 import { useEffect, useCallback, useState, useRef } from 'react';
-import { FaVolumeUp } from 'react-icons/fa';
+import { FaVolumeUp, FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import WordSpan from './WordSpan';
 import { useParams } from 'react-router-dom';
 import { useAtomValue, useSetAtom } from 'jotai';
@@ -8,6 +8,8 @@ import useTypingSound from '../hooks/useTypingSound';
 import usePronunciationSound from '../hooks/useWordSound';
 import useTTS from '../hooks/useTTS';
 import PropTypes from 'prop-types';
+
+import "./TypingEffect.css"
 
 const TypingEffect = ({ text, onComplete, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
@@ -38,13 +40,21 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     }
   }, [lang, text, getAudioUrl, loadAudio, playAudio, playWordSound]);
 
+  const handlePrev = useCallback(() => {
+    onComplete?.('prev');
+  }, [onComplete]);
+
+  const handleNext = useCallback(() => {
+    onComplete?.('next');
+  }, [onComplete]);
+
   const handleKeyDown = useCallback((e) => {
     if (!isRunning) return;
     
     if (e.key === 'Enter') {
       setCursorPos(0);
       setCharStates(Array(text?.length || 0).fill('normal'));
-      onComplete?.();
+      onComplete?.('next');
       return;
     }
 
@@ -173,25 +183,46 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     }
   }, [cursorPos, text]);
 
+  // 定义共享按钮样式
+  const buttonStyle = {
+    display: 'inline-block',
+    marginLeft: '10px',
+    cursor: 'pointer',
+    color: '#666',
+    transition: 'color 0.2s',
+  };
+
   return (
     <div className="typing-container">
       {!isRunning && <div className="overlay"></div>}
       <div className="text-display">
+        <div 
+          className="prev-button"
+          onClick={handlePrev}
+          style={buttonStyle}
+          onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
+          onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
+        >
+          <FaArrowLeft size={20} />
+        </div>
         {renderText()}
         <div 
           className="sound-icon"
           onClick={playCurrentWordSound}
-          style={{
-            display: 'inline-block',
-            marginLeft: '10px',
-            cursor: 'pointer',
-            color: '#666',
-            transition: 'color 0.2s',
-          }}
+          style={buttonStyle}
           onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
           onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
         >
           <FaVolumeUp size={20} />
+        </div>
+        <div 
+          className="next-button"
+          onClick={handleNext}
+          style={buttonStyle}
+          onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
+          onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
+        >
+          <FaArrowRight size={20} />
         </div>
       </div>
     </div>
