@@ -1,5 +1,405 @@
 [
   {
+    "source": "business",
+    "translation": "商业 - n - I am engaged in business activities."
+  },
+  {
+    "source": "who",
+    "translation": "谁 - pron - Who is that person?"
+  },
+  {
+    "source": "web",
+    "translation": "网页 - n - I often browse the web."
+  },
+  {
+    "source": "also",
+    "translation": "也 - adv - I also like reading books."
+  },
+  {
+    "source": "now",
+    "translation": "现在 - adv - Now I am very busy."
+  },
+  {
+    "source": "help",
+    "translation": "帮助 - v/n - I need your help."
+  },
+  {
+    "source": "get",
+    "translation": "得到 - v - I get a new book."
+  },
+  {
+    "source": "pm",
+    "translation": "下午 - n - I will meet you at 2 pm."
+  },
+  {
+    "source": "view",
+    "translation": "景色 - n - The view here is very beautiful."
+  },
+  {
+    "source": "online",
+    "translation": "在线的 - adj - I often shop online."
+  },
+  {
+    "source": "first",
+    "translation": "第一 - adj - This is my first time to do this."
+  },
+  {
+    "source": "am",
+    "translation": "是 - v - I am a student."
+  },
+  {
+    "source": "been",
+    "translation": "去过 - v - I have been to many places."
+  },
+  {
+    "source": "would",
+    "translation": "将会 - v - I would like to go there."
+  },
+  {
+    "source": "how",
+    "translation": "怎样 - adv - How are you?"
+  },
+  {
+    "source": "were",
+    "translation": "是 - v - You were very kind yesterday."
+  },
+  {
+    "source": "me",
+    "translation": "我 - pron - Please give it to me."
+  },
+  {
+    "source": "services",
+    "translation": "服务 - n - The company provides excellent services."
+  },
+  {
+    "source": "some",
+    "translation": "一些 - adj - I have some books."
+  },
+  {
+    "source": "these",
+    "translation": "这些 - pron - These are my friends."
+  },
+  {
+    "source": "click",
+    "translation": "点击 - v - Click the button."
+  },
+  {
+    "source": "its",
+    "translation": "它的 - pron - Its color is very beautiful."
+  },
+  {
+    "source": "like",
+    "translation": "喜欢 - v - I like apples."
+  },
+  {
+    "source": "service",
+    "translation": "服务 - n - The service here is very good."
+  },
+  {
+    "source": "than",
+    "translation": "比 - conj - This one is better than that one."
+  },
+  {
+    "source": "find",
+    "translation": "找到 - v - I can't find my keys."
+  },
+  {
+    "source": "price",
+    "translation": "价格 - n - The price of this product is reasonable."
+  },
+  {
+    "source": "date",
+    "translation": "日期 - n - What's the date today?"
+  },
+  {
+    "source": "back",
+    "translation": "回来 - adv - Come back soon."
+  },
+  {
+    "source": "top",
+    "translation": "顶部 - n - This is the top of the mountain."
+  },
+  {
+    "source": "people",
+    "translation": "人们 - n - There are many people here."
+  },
+  {
+    "source": "had",
+    "translation": "有 - v - I had a great time yesterday."
+  },
+  {
+    "source": "list",
+    "translation": "列表 - n - Make a list of things to do."
+  },
+  {
+    "source": "name",
+    "translation": "名字 - n - What's your name?"
+  },
+  {
+    "source": "just",
+    "translation": "刚刚 - adv - I just finished my homework."
+  },
+  {
+    "source": "over",
+    "translation": "结束 - adv - The game is over."
+  },
+  {
+    "source": "state",
+    "translation": "状态 - n - He is in a good state."
+  },
+  {
+    "source": "year",
+    "translation": "年 - n - This year is very special."
+  },
+  {
+    "source": "day",
+    "translation": "天 - n - What a beautiful day!"
+  },
+  {
+    "source": "into",
+    "translation": "进入 - prep - He walked into the room."
+  },
+  {
+    "source": "email",
+    "translation": "电子邮件 - n - Send me an email."
+  },
+  {
+    "source": "two",
+    "translation": "两个 - num - I have two sisters."
+  },
+  {
+    "source": "health",
+    "translation": "健康 - n - We should pay attention to our health."
+  },
+  {
+    "source": "world",
+    "translation": "世界 - n - The world is so big."
+  },
+  {
+    "source": "re",
+    "translation": "重新 - prefix - I am re-reading this book."
+  },
+  {
+    "source": "next",
+    "translation": "下一个 - adj - What's next?"
+  },
+  {
+    "source": "used",
+    "translation": "曾经 - v - I used to live here."
+  },
+  {
+    "source": "go",
+    "translation": "去 - v - Let's go shopping."
+  },
+  {
+    "source": "work",
+    "translation": "工作 - n/v - I go to work every day."
+  },
+  {
+    "source": "last",
+    "translation": "上一个 - adj - Last week, I went to the park."
+  },
+  {
+    "source": "most",
+    "translation": "大多数 - adj - Most people like music."
+  },
+  {
+    "source": "products",
+    "translation": "产品 - n - These products are of high quality."
+  },
+  {
+    "source": "music",
+    "translation": "音乐 - n - I love listening to music."
+  },
+  {
+    "source": "buy",
+    "translation": "购买 - v - I want to buy a new phone."
+  },
+  {
+    "source": "data",
+    "translation": "数据 - n - The data is very important."
+  },
+  {
+    "source": "make",
+    "translation": "制作 - v - I can make a cake."
+  },
+  {
+    "source": "them",
+    "translation": "他们 - pron - I like them very much."
+  },
+  {
+    "source": "should",
+    "translation": "应该 - v - You should study hard."
+  },
+  {
+    "source": "product",
+    "translation": "产品 - n - This product is very useful."
+  },
+  {
+    "source": "system",
+    "translation": "系统 - n - The computer system is running smoothly."
+  },
+  {
+    "source": "post",
+    "translation": "邮寄 - v - I will post this letter tomorrow."
+  },
+  {
+    "source": "her",
+    "translation": "她的 - pron - Her book is on the table."
+  },
+  {
+    "source": "city",
+    "translation": "城市 - n - I live in a beautiful city."
+  },
+  {
+    "source": "add",
+    "translation": "添加 - v - Add some salt to the dish."
+  },
+  {
+    "source": "policy",
+    "translation": "政策 - n - The company has a new policy."
+  },
+  {
+    "source": "number",
+    "translation": "数字 - n - What's your phone number?"
+  },
+  {
+    "source": "such",
+    "translation": "如此 - adj - I have never seen such a beautiful place."
+  },
+  {
+    "source": "please",
+    "translation": "请 - v - Please come in."
+  },
+  {
+    "source": "available",
+    "translation": "可用的 - adj - This book is available in the library."
+  },
+  {
+    "source": "copyright",
+    "translation": "版权 - n - We should respect copyright."
+  },
+  {
+    "source": "support",
+    "translation": "支持 - v/n - I need your support."
+  },
+  {
+    "source": "message",
+    "translation": "消息 - n - I received a message from him."
+  },
+  {
+    "source": "after",
+    "translation": "之后 - prep - After school, I will go home."
+  },
+  {
+    "source": "best",
+    "translation": "最好的 - adj - This is the best book I have ever read."
+  },
+  {
+    "source": "software",
+    "translation": "软件 - n - I use this software to edit pictures."
+  },
+  {
+    "source": "then",
+    "translation": "然后 - adv - Then, what should we do?"
+  },
+  {
+    "source": "jan",
+    "translation": "一月 - n - January is the first month of the year."
+  },
+  {
+    "source": "good",
+    "translation": "好的 - adj - She is a good student."
+  },
+  {
+    "source": "video",
+    "translation": "视频 - n - I watched a funny video yesterday."
+  },
+  {
+    "source": "well",
+    "translation": "好 - adv - I can play basketball well."
+  },
+  {
+    "source": "where",
+    "translation": "哪里 - adv - Where are you from?"
+  },
+  {
+    "source": "info",
+    "translation": "信息 - n - I need more info about this product."
+  },
+  {
+    "source": "rights",
+    "translation": "权利 - n - We should protect our rights."
+  },
+  {
+    "source": "public",
+    "translation": "公共的 - adj - The park is open to the public."
+  },
+  {
+    "source": "books",
+    "translation": "书籍 - n - I like reading books."
+  },
+  {
+    "source": "high",
+    "translation": "高的 - adj - The mountain is very high."
+  },
+  {
+    "source": "school",
+    "translation": "学校 - n - I go to school by bike."
+  },
+  {
+    "source": "through",
+    "translation": "通过 - prep - I go through the park every day."
+  },
+  {
+    "source": "each",
+    "translation": "每个 - adj - Each student has a book."
+  },
+  {
+    "source": "links",
+    "translation": "链接 - n - Click on the links to learn more."
+  },
+  {
+    "source": "she",
+    "translation": "她 - pron - She is singing a song."
+  },
+  {
+    "source": "review",
+    "translation": "复习 - v/n - I will review my lessons tonight."
+  },
+  {
+    "source": "years",
+    "translation": "年 - n - I have known him for many years."
+  },
+  {
+    "source": "order",
+    "translation": "订单 - n - I placed an order for a new dress."
+  },
+  {
+    "source": "very",
+    "translation": "非常 - adv - This movie is very interesting."
+  },
+  {
+    "source": "privacy",
+    "translation": "隐私 - n - We should protect our privacy."
+  },
+  {
+    "source": "book",
+    "translation": "书 - n - I am reading a book."
+  },
+  {
+    "source": "items",
+    "translation": "项目 - n - There are many items on the list."
+  },
+  {
+    "source": "company",
+    "translation": "公司 - n - I work for a big company."
+  },
+  {
+    "source": "read",
+    "translation": "阅读 - v - I like to read novels."
+  },
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
