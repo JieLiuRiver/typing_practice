@@ -22,17 +22,21 @@ export const sentencesAtom = atom(
   (get) => {
     const contentType = get(contentTypeAtom);
     const language = getInitialLanguage();
+
+    const words = language === 'de' ? deWords : enWords;
+    // const sentences = language === 'de'? deSentences : enSentences;
+
     
-    if (language === 'de') {
-      const deSentences = deWords.map(word => {
+    // if (language === 'de') {
+      const newSentences = words.map(word => {
         const list = word.translation.split(' - ')
         return {
           source: list[list.length - 1],
           translation: `${word.source} - ${list[0]} - ${list[1]}`
         }
       })
-      return contentType === 'sentences' ? deSentences : deWords;;
-    }
+      return contentType === 'sentences' ? newSentences : words;
+    // }
     
     return contentType === 'sentences' ? enSentences : enWords;
   }
