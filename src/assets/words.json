@@ -3605,6 +3605,807 @@
     "translation": "做 - v - What are you doing?"
   },
   {
+    "source": "loans",
+    "translation": "贷款 - n - I need to pay off my loans."
+  },
+  {
+    "source": "shoes",
+    "translation": "鞋子 - n - I bought a new pair of shoes."
+  },
+  {
+    "source": "entry",
+    "translation": "入口 - n - This is the entry to the museum."
+  },
+  {
+    "source": "stay",
+    "translation": "停留 - v - I want to stay at home and read a book."
+  },
+  {
+    "source": "nature",
+    "translation": "自然 - n - I love nature."
+  },
+  {
+    "source": "orders",
+    "translation": "订单 - n - We received a lot of orders today."
+  },
+  {
+    "source": "availability",
+    "translation": "可用性 - n - The availability of this product is limited."
+  },
+  {
+    "source": "africa",
+    "translation": "非洲 - n - Africa is a continent full of wonders."
+  },
+  {
+    "source": "summary",
+    "translation": "摘要 - n - Can you give me a summary of the article?"
+  },
+  {
+    "source": "turn",
+    "translation": "转弯 - v - Turn left at the corner."
+  },
+  {
+    "source": "mean",
+    "translation": "意思是 - v - What does this word mean?"
+  },
+  {
+    "source": "growth",
+    "translation": "增长 - n - The economy is showing signs of growth."
+  },
+  {
+    "source": "notes",
+    "translation": "笔记 - n - Take notes during the lecture."
+  },
+  {
+    "source": "agency",
+    "translation": "机构 - n - I work for a travel agency."
+  },
+  {
+    "source": "king",
+    "translation": "国王 - n - The king is very powerful."
+  },
+  {
+    "source": "monday",
+    "translation": "星期一 - n - Monday is the first day of the week."
+  },
+  {
+    "source": "european",
+    "translation": "欧洲的 - adj - European culture is very diverse."
+  },
+  {
+    "source": "activity",
+    "translation": "活动 - n - There are many activities to do in summer."
+  },
+  {
+    "source": "copy",
+    "translation": "复印 - v/n - I need to make a copy of this document."
+  },
+  {
+    "source": "although",
+    "translation": "虽然 - conj - Although it was raining, we still went out."
+  },
+  {
+    "source": "drug",
+    "translation": "药物/毒品 - n - We should stay away from drugs."
+  },
+  {
+    "source": "pics",
+    "translation": "照片 - n - I took some beautiful pics on my trip."
+  },
+  {
+    "source": "western",
+    "translation": "西方的 - adj - Western movies are very popular."
+  },
+  {
+    "source": "income",
+    "translation": "收入 - n - I need to increase my income."
+  },
+  {
+    "source": "force",
+    "translation": "力量 - n - The force of gravity is strong."
+  },
+  {
+    "source": "cash",
+    "translation": "现金 - n - I need to withdraw some cash."
+  },
+  {
+    "source": "employment",
+    "translation": "就业 - n - Finding employment is not easy."
+  },
+  {
+    "source": "overall",
+    "translation": "总体的 - adj - Overall, the project was a success."
+  },
+  {
+    "source": "bay",
+    "translation": "海湾 - n - The bay is very beautiful."
+  },
+  {
+    "source": "river",
+    "translation": "河流 - n - The river is flowing gently."
+  },
+  {
+    "source": "commission",
+    "translation": "佣金 - n - The salesperson gets a commission on every sale."
+  },
+  {
+    "source": "ad",
+    "translation": "广告 - n - I saw an interesting ad on TV."
+  },
+  {
+    "source": "package",
+    "translation": "包裹 - n - I received a package in the mail."
+  },
+  {
+    "source": "contents",
+    "translation": "内容 - n - What are the contents of this box?"
+  },
+  {
+    "source": "seen",
+    "translation": "看过的 - adj - I have seen this movie before."
+  },
+  {
+    "source": "players",
+    "translation": "玩家/运动员 - n - The basketball players are very tall."
+  },
+  {
+    "source": "engine",
+    "translation": "发动机 - n - The car engine is making a strange noise."
+  },
+  {
+    "source": "port",
+    "translation": "港口 - n - The ship is docked at the port."
+  },
+  {
+    "source": "album",
+    "translation": "专辑 - n - I bought a new music album."
+  },
+  {
+    "source": "regional",
+    "translation": "地区的 - adj - There are regional differences in culture."
+  },
+  {
+    "source": "stop",
+    "translation": "停止 - v - Stop at the red light."
+  },
+  {
+    "source": "supplies",
+    "translation": "用品 - n - We need to replenish our office supplies."
+  },
+  {
+    "source": "started",
+    "translation": "开始的 - adj - I started learning a new language."
+  },
+  {
+    "source": "administration",
+    "translation": "管理 - n - The school administration is very efficient."
+  },
+  {
+    "source": "bar",
+    "translation": "酒吧 - n - Let's go to the bar and have a drink."
+  },
+  {
+    "source": "institute",
+    "translation": "学院/研究所 - n - I am studying at an art institute."
+  },
+  {
+    "source": "views",
+    "translation": "观点 - n - What are your views on this matter?"
+  },
+  {
+    "source": "plans",
+    "translation": "计划 - n - I have made some travel plans."
+  },
+  {
+    "source": "double",
+    "translation": "双倍的 - adj/v - Double the recipe if you want to make more."
+  },
+  {
+    "source": "dog",
+    "translation": "狗 - n - I have a cute dog."
+  },
+  {
+    "source": "build",
+    "translation": "建造 - v - We need to build a strong foundation."
+  },
+  {
+    "source": "screen",
+    "translation": "屏幕 - n - The screen of my phone is cracked."
+  },
+  {
+    "source": "exchange",
+    "translation": "交换 - v/n - I want to exchange this item."
+  },
+  {
+    "source": "types",
+    "translation": "类型 - n - There are different types of flowers."
+  },
+  {
+    "source": "soon",
+    "translation": "很快 - adv - I will see you soon."
+  },
+  {
+    "source": "sponsored",
+    "translation": "赞助的 - adj - This event is sponsored by a big company."
+  },
+  {
+    "source": "lines",
+    "translation": "线条 - n - The lines on the paper are very straight."
+  },
+  {
+    "source": "electronic",
+    "translation": "电子的 - adj - I like listening to electronic music."
+  },
+  {
+    "source": "continue",
+    "translation": "继续 - v - Let's continue our discussion."
+  },
+  {
+    "source": "across",
+    "translation": "横跨 - prep - The bridge goes across the river."
+  },
+  {
+    "source": "benefits",
+    "translation": "好处 - n - There are many benefits of exercise."
+  },
+  {
+    "source": "needed",
+    "translation": "需要的 - adj - This book is needed for my research."
+  },
+  {
+    "source": "season",
+    "translation": "季节 - n - Spring is my favorite season."
+  },
+  {
+    "source": "apply",
+    "translation": "申请 - v - I want to apply for this job."
+  },
+  {
+    "source": "someone",
+    "translation": "某人 - pron - Someone is knocking at the door."
+  },
+  {
+    "source": "held",
+    "translation": "举行的 - adj - The meeting was held in a big hall."
+  },
+  {
+    "source": "ny",
+    "translation": "纽约(缩写) - n - I want to visit New York."
+  },
+  {
+    "source": "anything",
+    "translation": "任何事物 - pron - Is there anything I can do for you?"
+  },
+  {
+    "source": "printer",
+    "translation": "打印机 - n - My printer is not working."
+  },
+  {
+    "source": "condition",
+    "translation": "状况 - n - The condition of this book is very good."
+  },
+  {
+    "source": "effective",
+    "translation": "有效的 - adj - This method is very effective."
+  },
+  {
+    "source": "believe",
+    "translation": "相信 - v - I believe in myself."
+  },
+  {
+    "source": "organization",
+    "translation": "组织 - n - This is a well-organized event."
+  },
+  {
+    "source": "effect",
+    "translation": "影响 - n - The new policy has a positive effect."
+  },
+  {
+    "source": "asked",
+    "translation": "问过的 - adj - I asked him a question."
+  },
+  {
+    "source": "eur",
+    "translation": "欧元(缩写) - n - The price is 50 EUR."
+  },
+  {
+    "source": "mind",
+    "translation": "思想/介意 - n/v - Keep an open mind."
+  },
+  {
+    "source": "sunday",
+    "translation": "星期日 - n - Sunday is a day of rest."
+  },
+  {
+    "source": "selection",
+    "translation": "选择 - n - There is a wide selection of books in the library."
+  },
+  {
+    "source": "casino",
+    "translation": "赌场 - n - I have never been to a casino."
+  },
+  {
+    "source": "pdf",
+    "translation": "PDF - n - I need to open this PDF file."
+  },
+  {
+    "source": "lost",
+    "translation": "丢失的 - adj - I lost my keys."
+  },
+  {
+    "source": "tour",
+    "translation": "旅行 - n - I went on a city tour."
+  },
+  {
+    "source": "menu",
+    "translation": "菜单 - n - The menu has many delicious options."
+  },
+  {
+    "source": "volume",
+    "translation": "音量/体积 - n - Turn up the volume."
+  },
+  {
+    "source": "cross",
+    "translation": "穿过 - v - Cross the street carefully."
+  },
+  {
+    "source": "anyone",
+    "translation": "任何人 - pron - Anyone can join this club."
+  },
+  {
+    "source": "mortgage",
+    "translation": "抵押贷款 - n - I need to pay off my mortgage."
+  },
+  {
+    "source": "hope",
+    "translation": "希望 - n/v - I hope everything will be okay."
+  },
+  {
+    "source": "silver",
+    "translation": "银 - n - The necklace is made of silver."
+  },
+  {
+    "source": "corporation",
+    "translation": "公司 - n - She works for a large corporation."
+  },
+  {
+    "source": "wish",
+    "translation": "希望 - v/n - I wish I could fly."
+  },
+  {
+    "source": "inside",
+    "translation": "里面 - prep/adv - There is a beautiful garden inside the park."
+  },
+  {
+    "source": "solution",
+    "translation": "解决方案 - n - We need to find a solution to this problem."
+  },
+  {
+    "source": "mature",
+    "translation": "成熟的 - adj - He is a very mature person."
+  },
+  {
+    "source": "role",
+    "translation": "角色 - n - What is your role in this project?"
+  },
+  {
+    "source": "rather",
+    "translation": "宁愿 - adv - I would rather stay at home."
+  },
+  {
+    "source": "weeks",
+    "translation": "周 - n - There are seven days in a week."
+  },
+  {
+    "source": "addition",
+    "translation": "添加/此外 - n - In addition to English, I also study French."
+  },
+    {
+    "source": "came",
+    "translation": "来 - v - She came to visit me yesterday."
+  },
+  {
+    "source": "supply",
+    "translation": "供应 - n/v - We need to ensure a steady supply of water."
+  },
+  {
+    "source": "nothing",
+    "translation": "没有东西 - pron - There is nothing in the box."
+  },
+  {
+    "source": "certain",
+    "translation": "确定的 - adj - I am certain that he will come."
+  },
+  {
+    "source": "usr",
+    "translation": "用户(计算机术语) - n - The usr directory contains user programs."
+  },
+  {
+    "source": "executive",
+    "translation": "高管 - n - He is an executive in a big company."
+  },
+  {
+    "source": "running",
+    "translation": "跑步 - n/v - I like running in the morning."
+  },
+  {
+    "source": "lower",
+    "translation": "更低的 - adj - The price is lower than I expected."
+  },
+  {
+    "source": "necessary",
+    "translation": "必要的 - adj - It is necessary to wear a seatbelt."
+  },
+  {
+    "source": "union",
+    "translation": "工会 - n - The labor union is fighting for better working conditions."
+  },
+  {
+    "source": "jewelry",
+    "translation": "珠宝 - n - She loves wearing jewelry."
+  },
+  {
+    "source": "according",
+    "translation": "根据 - prep - According to the schedule, we will have a meeting tomorrow."
+  },
+  {
+    "source": "dc",
+    "translation": "华盛顿特区(缩写) - n - I want to visit Washington, DC."
+  },
+  {
+    "source": "clothing",
+    "translation": "衣服 - n - I need to buy some new clothing."
+  },
+  {
+    "source": "mon",
+    "translation": "星期一(缩写) - n - Mon is short for Monday."
+  },
+  {
+    "source": "com",
+    "translation": "商业网站域名后缀 - n - Most company websites end with .com."
+  },
+  {
+    "source": "particular",
+    "translation": "特定的/挑剔的 - adj - I am particular about my coffee."
+  },
+  {
+    "source": "fine",
+    "translation": "好的/罚款 - adj/n - The weather is fine today."
+  },
+  {
+    "source": "names",
+    "translation": "名字 - n - What are your favorite names?"
+  },
+  {
+    "source": "robert",
+    "translation": "罗伯特 - n - Robert is my neighbor."
+  },
+  {
+    "source": "homepage",
+    "translation": "主页 - n - I visited the company's homepage."
+  },
+  {
+    "source": "hour",
+    "translation": "小时 - n - There are twenty-four hours in a day."
+  },
+  {
+    "source": "gas",
+    "translation": "汽油/气体 - n - I need to fill up my car with gas."
+  },
+  {
+    "source": "skills",
+    "translation": "技能 - n - We need to improve our skills."
+  },
+  {
+    "source": "six",
+    "translation": "六 - num - I have six apples."
+  },
+  {
+    "source": "bush",
+    "translation": "灌木丛 - n - The bushes in the garden are very beautiful."
+  },
+  {
+    "source": "islands",
+    "translation": "岛屿 - n - There are many beautiful islands in the world."
+  },
+  {
+    "source": "advice",
+    "translation": "建议 - n - Can you give me some advice?"
+  },
+  {
+    "source": "career",
+    "translation": "职业 - n - I am thinking about my career choices."
+  },
+  {
+    "source": "military",
+    "translation": "军队 - n - He joined the military."
+  },
+  {
+    "source": "rental",
+    "translation": "租赁 - n - I am looking for a rental apartment."
+  },
+  {
+    "source": "decision",
+    "translation": "决定 - n - I need to make a difficult decision."
+  },
+  {
+    "source": "leave",
+    "translation": "离开 - v - I will leave early today."
+  },
+  {
+    "source": "british",
+    "translation": "英国的 - adj - British culture is very interesting."
+  },
+  {
+    "source": "teens",
+    "translation": "青少年 - n - Teenagers like to listen to pop music."
+  },
+  {
+    "source": "pre",
+    "translation": "前/预先(前缀) - prefix - Preschool is before regular school."
+  },
+  {
+    "source": "huge",
+    "translation": "巨大的 - adj - The elephant is huge."
+  },
+  {
+    "source": "sat",
+    "translation": "坐/星期六/SAT考试 - v/n - I took the SAT test."
+  },
+  {
+    "source": "woman",
+    "translation": "女人 - n - The woman is wearing a red dress."
+  },
+  {
+    "source": "facilities",
+    "translation": "设施 - n - The hotel has good facilities."
+  },
+  {
+    "source": "zip",
+    "translation": "邮政编码/拉链 - n - What's your zip code?"
+  },
+  {
+    "source": "bid",
+    "translation": "出价 - n/v - I placed a bid on this item."
+  },
+  {
+    "source": "kind",
+    "translation": "善良的/种类 - adj/n - She is a very kind person."
+  },
+  {
+    "source": "sellers",
+    "translation": "卖家 - n - There are many sellers on this platform."
+  },
+  {
+    "source": "middle",
+    "translation": "中间 - n/adj - I am in the middle of reading a book."
+  },
+  {
+    "source": "move",
+    "translation": "移动 - v - I need to move to a new house."
+  },
+  {
+    "source": "cable",
+    "translation": "电缆 - n - The TV is connected to the cable."
+  },
+  {
+    "source": "opportunities",
+    "translation": "机会 - n - There are many opportunities for growth."
+  },
+  {
+    "source": "taking",
+    "translation": "拿/采取 - v - I am taking a break."
+  },
+  {
+    "source": "values",
+    "translation": "价值观 - n - We should have good values."
+  },
+  {
+    "source": "division",
+    "translation": "部门/除法 - n - The company has several divisions."
+  },
+  {
+    "source": "coming",
+    "translation": "来临 - v - I am looking forward to your coming."
+  },
+  {
+    "source": "tuesday",
+    "translation": "星期二 - n - Tuesday is a busy day."
+  },
+  {
+    "source": "object",
+    "translation": "物体/反对 - n/v - The object on the table is a book."
+  },
+  {
+    "source": "lesbian",
+    "translation": "女同性恋者 - n - Lesbian relationships are just as valid as any other."
+  },
+  {
+    "source": "appropriate",
+    "translation": "适当的 - adj - This behavior is not appropriate."
+  },
+  {
+    "source": "machine",
+    "translation": "机器 - n - The machine is making a loud noise."
+  },
+  {
+    "source": "logo",
+    "translation": "标志 - n - The company's logo is very recognizable."
+  },
+  {
+    "source": "length",
+    "translation": "长度 - n - What is the length of this rope?"
+  },
+  {
+    "source": "actually",
+    "translation": "实际上 - adv - Actually, I didn't mean to do that."
+  },
+  {
+    "source": "nice",
+    "translation": "好的/友好的 - adj - You are very nice."
+  },
+  {
+    "source": "score",
+    "translation": "分数 - n - What's your score on the test?"
+  },
+  {
+    "source": "statistics",
+    "translation": "统计学 - n - Statistics can be very useful in research."
+  },
+  {
+    "source": "client",
+    "translation": "客户 - n - The client is very satisfied with our service."
+  },
+  {
+    "source": "ok",
+    "translation": "好的 - adj/adv - Is everything ok?"
+  },
+  {
+    "source": "returns",
+    "translation": "回报/退货 - n - The returns on this investment are not very high."
+  },
+  {
+    "source": "capital",
+    "translation": "首都/资本 - n - The capital city of this country is beautiful."
+  },
+  {
+    "source": "follow",
+    "translation": "跟随 - v - Please follow the instructions."
+  },
+  {
+    "source": "sample",
+    "translation": "样品 - n - Can I have a sample?"
+  },
+  {
+    "source": "investment",
+    "translation": "投资 - n - Making wise investments is important."
+  },
+  {
+    "source": "sent",
+    "translation": "发送的 - adj - I sent an email to my friend."
+  },
+  {
+    "source": "shown",
+    "translation": "显示的 - adj - The movie was shown in theaters last week."
+  },
+  {
+    "source": "saturday",
+    "translation": "星期六 - n - Saturday is a great day to relax."
+  },
+  {
+    "source": "christmas",
+    "translation": "圣诞节 - n - Christmas is a time for family."
+  },
+  {
+    "source": "england",
+    "translation": "英格兰 - n - I want to visit England."
+  },
+  {
+    "source": "culture",
+    "translation": "文化 - n - Different cultures have different traditions."
+  },
+  {
+    "source": "band",
+    "translation": "乐队/带子 - n - I like listening to this band."
+  },
+  {
+    "source": "flash",
+    "translation": "闪光 - n/v - The flash on my camera is not working."
+  },
+  {
+    "source": "ms",
+    "translation": "女士(缩写) - n - Ms. Smith is our new teacher."
+  },
+  {
+    "source": "lead",
+    "translation": "领导/铅 - v/n - He is a good leader."
+  },
+  {
+    "source": "george",
+    "translation": "乔治 - n - George is my colleague."
+  },
+  {
+    "source": "choice",
+    "translation": "选择 - n - You have many choices."
+  },
+  {
+    "source": "went",
+    "translation": "去了 - v - I went to the park yesterday."
+  },
+  {
+    "source": "starting",
+    "translation": "开始 - v - We are starting a new project."
+  },
+  {
+    "source": "registration",
+    "translation": "注册 - n - Please complete the registration form."
+  },
+  {
+    "source": "fri",
+    "translation": "星期五(缩写) - n - Fri is short for Friday."
+  },
+  {
+    "source": "thursday",
+    "translation": "星期四 - n - Thursday is almost the weekend."
+  },
+  {
+    "source": "courses",
+    "translation": "课程 - n - I am taking some online courses."
+  },
+  {
+    "source": "consumer",
+    "translation": "消费者 - n - The consumer has the right to choose."
+  },
+  {
+    "source": "hi",
+    "translation": "嗨 - interj - Hi! Nice to see you."
+  },
+  {
+    "source": "airport",
+    "translation": "机场 - n - The airport is very busy."
+  },
+  {
+    "source": "foreign",
+    "translation": "外国的 - adj - I am interested in foreign cultures."
+  },
+  {
+    "source": "artist",
+    "translation": "艺术家 - n - She is a talented artist."
+  },
+  {
+    "source": "outside",
+    "translation": "外面 - adv/n - It's nice to sit outside on a sunny day."
+  },
+  {
+    "source": "furniture",
+    "translation": "家具 - n - I need to buy some new furniture."
+  },
+  {
+    "source": "levels",
+    "translation": "水平 - n - There are different levels of difficulty."
+  },
+  {
+    "source": "channel",
+    "translation": "频道 - n - I like watching this TV channel."
+  },
+  {
+    "source": "letter",
+    "translation": "信件 - n - I received a letter from my friend."
+  },
+  {
+    "source": "mode",
+    "translation": "模式 - n - What mode are you in?"
+  },
+  {
+    "source": "phones",
+    "translation": "电话 - n - Smartphones are very popular."
+  },
+  {
+    "source": "ideas",
+    "translation": "想法 - n - I have some great ideas."
+  },
+  
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
