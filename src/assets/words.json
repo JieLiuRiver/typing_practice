@@ -1599,6 +1599,406 @@
     "source": "march",
     "translation": "三月 - n - March is a windy month."
   },
+  {
+    "source": "september",
+    "translation": "九月 - n - September is a great month."
+  },
+  {
+    "source": "better",
+    "translation": "更好的 - adj/adv - You can do better."
+  },
+  {
+    "source": "say",
+    "translation": "说 - v - What did you say?"
+  },
+  {
+    "source": "questions",
+    "translation": "问题 - n - I have some questions."
+  },
+  {
+    "source": "july",
+    "translation": "七月 - n - July is very hot."
+  },
+  {
+    "source": "yahoo",
+    "translation": "雅虎 - n - I used to use Yahoo a lot."
+  },
+  {
+    "source": "going",
+    "translation": "去 - v - I am going to the park."
+  },
+  {
+    "source": "medical",
+    "translation": "医疗的 - adj - I need to go for a medical check-up."
+  },
+  {
+    "source": "test",
+    "translation": "测试/考试 - n - I have a test tomorrow."
+  },
+  {
+    "source": "friend",
+    "translation": "朋友 - n - My friend is very kind."
+  },
+  {
+    "source": "come",
+    "translation": "来 - v - Come here."
+  },
+  {
+    "source": "dec",
+    "translation": "十二月 - n - December is the last month of the year."
+  },
+  {
+    "source": "server",
+    "translation": "服务器 - n - The server is down."
+  },
+  {
+    "source": "pc",
+    "translation": "电脑 - n - I use my PC to work."
+  },
+  {
+    "source": "study",
+    "translation": "学习 - v/n - I need to study hard."
+  },
+  {
+    "source": "application",
+    "translation": "申请 - n - I am filling out an application form."
+  },
+  {
+    "source": "cart",
+    "translation": "购物车 - n - I put the items in the shopping cart."
+  },
+  {
+    "source": "staff",
+    "translation": "员工 - n - The staff in this store are very helpful."
+  },
+  {
+    "source": "articles",
+    "translation": "文章 - n - I read many interesting articles."
+  },
+  {
+    "source": "san",
+    "translation": "圣 - prefix - San Francisco is a beautiful city."
+  },
+  {
+    "source": "feedback",
+    "translation": "反馈 - n - Please give me some feedback."
+  },
+  {
+    "source": "again",
+    "translation": "再次 - adv - I want to try it again."
+  },
+  {
+    "source": "play",
+    "translation": "玩/打 - v - I like to play basketball."
+  },
+  {
+    "source": "looking",
+    "translation": "寻找 - v - I am looking for my keys."
+  },
+  {
+    "source": "issues",
+    "translation": "问题 - n - There are some issues that need to be addressed."
+  },
+  {
+    "source": "april",
+    "translation": "四月 - n - April is a beautiful month."
+  },
+  {
+    "source": "never",
+    "translation": "从不 - adv - I will never forget this experience."
+  },
+  {
+    "source": "users",
+    "translation": "用户 - n - There are many users on this platform."
+  },
+  {
+    "source": "complete",
+    "translation": "完成 - v - I need to complete this task."
+  },
+  {
+    "source": "street",
+    "translation": "街道 - n - There are many shops on this street."
+  },
+  {
+    "source": "topic",
+    "translation": "话题 - n - What's the topic of your speech?"
+  },
+  {
+    "source": "comment",
+    "translation": "评论 - n/v - Please leave a comment."
+  },
+  {
+    "source": "financial",
+    "translation": "财务的 - adj - I need some financial advice."
+  },
+  {
+    "source": "things",
+    "translation": "事情 - n - There are many things to do."
+  },
+  {
+    "source": "working",
+    "translation": "工作 - v - I am working on a project."
+  },
+  {
+    "source": "against",
+    "translation": "反对 - prep - I am against this decision."
+  },
+  {
+    "source": "standard",
+    "translation": "标准 - n - The quality standard is very high."
+  },
+  {
+    "source": "tax",
+    "translation": "税 - n - We need to pay tax."
+  },
+  {
+    "source": "person",
+    "translation": "人 - n - He is a nice person."
+  },
+  {
+    "source": "below",
+    "translation": "以下 - prep/adv - The temperature is below zero."
+  },
+  {
+    "source": "mobile",
+    "translation": "移动的/手机 - adj/n - I use my mobile phone to call my friends."
+  },
+  {
+    "source": "less",
+    "translation": "更少 - adj/adv - I have less time than before."
+  },
+  {
+    "source": "got",
+    "translation": "得到 - v - I got a new book."
+  },
+  {
+    "source": "blog",
+    "translation": "博客 - n - I like reading blogs."
+  },
+  {
+    "source": "party",
+    "translation": "聚会 - n - I went to a party last night."
+  },
+  {
+    "source": "payment",
+    "translation": "支付 - n - I made a payment online."
+  },
+  {
+    "source": "equipment",
+    "translation": "设备 - n - We need some new equipment."
+  },
+  {
+    "source": "login",
+    "translation": "登录 - v/n - Please login to your account."
+  },
+  {
+    "source": "student",
+    "translation": "学生 - n - I am a student."
+  },
+  {
+    "source": "let",
+    "translation": "让 - v - Let's go for a walk."
+  },
+  {
+    "source": "programs",
+    "translation": "节目/程序 - n - I am watching interesting programs on TV."
+  },
+  {
+    "source": "offers",
+    "translation": "提供 - v - The store offers many discounts."
+  },
+  {
+    "source": "legal",
+    "translation": "合法的 - adj - This action is legal."
+  },
+  {
+    "source": "above",
+    "translation": "以上 - prep/adv - The temperature is above average."
+  },
+  {
+    "source": "recent",
+    "translation": "最近的 - adj - I read a recent news article."
+  },
+  {
+    "source": "park",
+    "translation": "公园 - n - I like to go to the park on weekends."
+  },
+  {
+    "source": "stores",
+    "translation": "商店 - n - There are many stores in the shopping center."
+  },
+  {
+    "source": "side",
+    "translation": "边 - n - There is a beautiful flower on the side of the road."
+  },
+  {
+    "source": "act",
+    "translation": "行动 - v - We need to act quickly."
+  },
+  {
+    "source": "problem",
+    "translation": "问题 - n - I have a problem with my computer."
+  },
+  {
+    "source": "red",
+    "translation": "红色的 - adj - She is wearing a red dress."
+  },
+  {
+    "source": "give",
+    "translation": "给 - v - Please give me a hand."
+  },
+  {
+    "source": "memory",
+    "translation": "记忆 - n - My memory of that day is still vivid."
+  },
+  {
+    "source": "performance",
+    "translation": "表现 - n - The performance of the team was excellent."
+  },
+  {
+    "source": "social",
+    "translation": "社交的 - adj - Social media has changed our lives."
+  },
+  {
+    "source": "august",
+    "translation": "八月 - n - August is a hot month."
+  },
+  {
+    "source": "quote",
+    "translation": "引用 - n/v - I like this quote."
+  },
+  {
+    "source": "language",
+    "translation": "语言 - n - I am learning a new language."
+  },
+  {
+    "source": "story",
+    "translation": "故事 - n - She told me a funny story."
+  },
+  {
+    "source": "sell",
+    "translation": "卖 - v - They sell delicious cakes."
+  },
+  {
+    "source": "options",
+    "translation": "选项 - n - You have several options to choose from."
+  },
+  {
+    "source": "experience",
+    "translation": "经历 - n - I had a great experience on my trip."
+  },
+  {
+    "source": "rates",
+    "translation": "费率/比率 - n - The exchange rates are fluctuating."
+  },
+  {
+    "source": "create",
+    "translation": "创造 - v - I want to create something beautiful."
+  },
+  {
+    "source": "key",
+    "translation": "钥匙/关键 - n - The key to success is hard work."
+  },
+  {
+    "source": "body",
+    "translation": "身体 - n - We need to take care of our body."
+  },
+  {
+    "source": "young",
+    "translation": "年轻的 - adj - The young man is very talented."
+  },
+  {
+    "source": "america",
+    "translation": "美国 - n - America is a big country."
+  },
+  {
+    "source": "important",
+    "translation": "重要的 - adj - This is an important meeting."
+  },
+  {
+    "source": "field",
+    "translation": "领域 - n - He is an expert in this field."
+  },
+  {
+    "source": "few",
+    "translation": "很少 - adj - There are few people in the park today."
+  },
+  {
+    "source": "east",
+    "translation": "东方 - n - The sun rises in the east."
+  },
+  {
+    "source": "paper",
+    "translation": "纸/论文 - n - I need to write a paper for school."
+  },
+  {
+    "source": "single",
+    "translation": "单身的 - adj - She is still single."
+  },
+  {
+    "source": "ii",
+    "translation": "二世/第二 - n/adj - King Henry II ruled England."
+  },
+  {
+    "source": "age",
+    "translation": "年龄 - n - What's your age?"
+  },
+  {
+    "source": "activities",
+    "translation": "活动 - n - There are many activities to do in summer."
+  },
+  {
+    "source": "club",
+    "translation": "俱乐部 - n - I am a member of a fitness club."
+  },
+  {
+    "source": "example",
+    "translation": "例子 - n - Can you give me an example?"
+  },
+  {
+    "source": "girls",
+    "translation": "女孩们 - n - The girls are playing games."
+  },
+  {
+    "source": "additional",
+    "translation": "额外的 - adj - I need some additional information."
+  },
+  {
+    "source": "password",
+    "translation": "密码 - n - I forgot my password."
+  },
+  {
+    "source": "latest",
+    "translation": "最新的 - adj - This is the latest model."
+  },
+  {
+    "source": "something",
+    "translation": "某事 - pron - I want something to eat."
+  },
+  {
+    "source": "road",
+    "translation": "路 - n - There is a long road ahead."
+  },
+  {
+    "source": "gift",
+    "translation": "礼物 - n - I received a nice gift."
+  },
+  {
+    "source": "question",
+    "translation": "问题 - n - I have a question."
+  },
+  {
+    "source": "changes",
+    "translation": "变化 - n - There are many changes in my life."
+  },
+  {
+    "source": "night",
+    "translation": "夜晚 - n - I like to walk at night."
+  },
+  {
+    "source": "hard",
+    "translation": "困难的 - adj - Studying is hard work."
+  },
   
   {
     "source": "social",
