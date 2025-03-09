@@ -11716,6 +11716,403 @@
     "translation": "商标(Trademark的缩写) - n - The logo has a TM symbol, indicating it's a trademark."
   },
   {
+    "source": "husband",
+    "translation": "丈夫 - n - Her husband works as an engineer."
+  },
+  {
+    "source": "disabled",
+    "translation": "残疾的 - adj - The building has facilities for disabled people."
+  },
+  {
+    "source": "authorized",
+    "translation": "授权的 - adj - Only authorized personnel can enter this area."
+  },
+  {
+    "source": "crazy",
+    "translation": "疯狂的 - adj - That was a crazy adventure we had last summer."
+  },
+  {
+    "source": "upcoming",
+    "translation": "即将到来的 - adj - The company announced its upcoming products."
+  },
+  {
+    "source": "britain",
+    "translation": "英国 - n - Britain has a rich history and culture."
+  },
+  {
+    "source": "concert",
+    "translation": "音乐会 - n - We attended a classical music concert last night."
+  },
+  {
+    "source": "retirement",
+    "translation": "退休 - n - He's looking forward to his retirement next year."
+  },
+  {
+    "source": "scores",
+    "translation": "分数 - n - The students' test scores have improved significantly."
+  },
+  {
+    "source": "financing",
+    "translation": "融资 - n - The company is seeking financing for its new project."
+  },
+  {
+    "source": "efficiency",
+    "translation": "效率 - n - The new system has improved the company's efficiency."
+  },
+  {
+    "source": "sp",
+    "translation": "标准普尔(Standard & Poor's的缩写) - n - SP 500 is a stock market index."
+  },
+  {
+    "source": "comedy",
+    "translation": "喜剧 - n - I enjoy watching comedy films."
+  },
+  {
+    "source": "adopted",
+    "translation": "采用的/收养的 - adj - The company has adopted a new policy./They adopted a child from overseas."
+  },
+  {
+    "source": "efficient",
+    "translation": "高效的 - adj - This is a very efficient way to solve the problem."
+  },
+  {
+    "source": "weblog",
+    "translation": "网络日志/博客 - n - She writes a popular weblog about travel."
+  },
+  {
+    "source": "linear",
+    "translation": "线性的 - adj - The graph shows a linear relationship between the variables."
+  },
+  {
+    "source": "commitment",
+    "translation": "承诺 - n - He has shown a strong commitment to the project."
+  },
+  {
+    "source": "specialty",
+    "translation": "专长 - n - Italian cuisine is the restaurant's specialty."
+  },
+  {
+    "source": "bears",
+    "translation": "熊(bear的复数) - n - Bears hibernate during the winter."
+  },
+  {
+    "source": "jean",
+    "translation": "牛仔裤/琼(人名) - n - She was wearing blue jeans./Jean is my neighbor."
+  },
+  {
+    "source": "hop",
+    "translation": "跳跃 - v - The rabbit can hop very quickly."
+  },
+  {
+    "source": "carrier",
+    "translation": "运输公司/载体 - n - The package was delivered by a local carrier."
+  },
+  {
+    "source": "edited",
+    "translation": "编辑过的 - adj - The edited version of the document is much clearer."
+  },
+  {
+    "source": "constant",
+    "translation": "持续的/常数 - adj/n - The noise was a constant distraction./In physics, gravity is a constant."
+  },
+  {
+    "source": "visa",
+    "translation": "签证 - n - You need a visa to visit some countries."
+  },
+  {
+    "source": "mouth",
+    "translation": "嘴 - n - She covered her mouth when she coughed."
+  },
+  {
+    "source": "jewish",
+    "translation": "犹太人的 - adj - They celebrate Jewish holidays."
+  },
+  {
+    "source": "meter",
+    "translation": "米/仪表 - n - The room is five meters long./The parking meter needs more coins."
+  },
+  {
+    "source": "linked",
+    "translation": "连接的 - adj - The two cases are linked in some way."
+  },
+  {
+    "source": "portland",
+    "translation": "波特兰 - n - Portland is a city in Oregon, USA."
+  },
+  {
+    "source": "interviews",
+    "translation": "面试(interview的复数) - n - He has three job interviews next week."
+  },
+  {
+    "source": "concepts",
+    "translation": "概念(concept的复数) - n - These are difficult concepts to understand."
+  },
+  {
+    "source": "nh",
+    "translation": "新罕布什尔州(New Hampshire的缩写) - n - NH is located in the northeastern United States."
+  },
+  {
+    "source": "gun",
+    "translation": "枪 - n - The police officer carried a gun."
+  },
+  {
+    "source": "reflect",
+    "translation": "反映/反射 - v - The mirror reflects light./His work reflects his personality."
+  },
+  {
+    "source": "pure",
+    "translation": "纯净的 - adj - The water is pure and safe to drink."
+  },
+  {
+    "source": "deliver",
+    "translation": "递送 - v - The mail carrier will deliver the package tomorrow."
+  },
+  {
+    "source": "wonder",
+    "translation": "想知道/惊奇 - v/n - I wonder what time it is./The Grand Canyon is a natural wonder."
+  },
+  {
+    "source": "hell",
+    "translation": "地狱 - n - In many religions, hell is a place of punishment."
+  },
+  {
+    "source": "lessons",
+    "translation": "课程(lesson的复数) - n - She takes piano lessons twice a week."
+  },
+  {
+    "source": "fruit",
+    "translation": "水果 - n - Eating fruit is good for your health."
+  },
+  {
+    "source": "begins",
+    "translation": "开始(begin的第三人称单数) - v - The movie begins at 8 PM."
+  },
+  {
+    "source": "qualified",
+    "translation": "合格的 - adj - She is highly qualified for the position."
+  },
+  {
+    "source": "reform",
+    "translation": "改革 - n/v - The government is planning education reform."
+  },
+  {
+    "source": "lens",
+    "translation": "镜头 - n - The camera has a powerful zoom lens."
+  },
+  {
+    "source": "alerts",
+    "translation": "警报(alert的复数) - n - The system sends alerts when there's a problem."
+  },
+  {
+    "source": "treated",
+    "translation": "对待的(treat的过去式) - v - He treated everyone with respect."
+  },
+  {
+    "source": "discovery",
+    "translation": "发现 - n - The discovery of penicillin was a major breakthrough in medicine."
+  },
+  {
+    "source": "draw",
+    "translation": "画/拉 - v - She likes to draw pictures./The horse will draw the cart."
+  },
+  {
+    "source": "mysql",
+    "translation": "MySQL(数据库管理系统) - n - MySQL is a popular database system."
+  },
+  {
+    "source": "classified",
+    "translation": "分类的/机密的 - adj - The information is classified and cannot be shared."
+  },
+  {
+    "source": "relating",
+    "translation": "有关的(relate的现在分词) - v - He's writing a book relating to climate change."
+  },
+  {
+    "source": "assume",
+    "translation": "假设 - v - Don't assume that everyone agrees with you."
+  },
+  {
+    "source": "confidence",
+    "translation": "信心 - n - She has the confidence to speak in public."
+  },
+  {
+    "source": "alliance",
+    "translation": "联盟 - n - The two countries formed an alliance."
+  },
+  {
+    "source": "fm",
+    "translation": "调频(Frequency Modulation的缩写) - n - I listen to music on FM radio."
+  },
+  {
+    "source": "confirm",
+    "translation": "确认 - v - Please confirm your attendance by email."
+  },
+  {
+    "source": "warm",
+    "translation": "温暖的 - adj - It's a warm summer day."
+  },
+  {
+    "source": "neither",
+    "translation": "两者都不 - adv/pron - Neither option is perfect."
+  },
+  {
+    "source": "lewis",
+    "translation": "刘易斯(人名) - n - Lewis is a common surname."
+  },
+  {
+    "source": "howard",
+    "translation": "霍华德(人名) - n - Howard is both a first name and a surname."
+  },
+  {
+    "source": "offline",
+    "translation": "离线的 - adj - The system is currently offline for maintenance."
+  },
+  {
+    "source": "leaves",
+    "translation": "叶子(leaf的复数) - n - The leaves change color in autumn."
+  },
+  {
+    "source": "engineer",
+    "translation": "工程师 - n - She works as a software engineer."
+  },
+  {
+    "source": "lifestyle",
+    "translation": "生活方式 - n - He leads a healthy lifestyle."
+  },
+  {
+    "source": "consistent",
+    "translation": "一致的 - adj - His performance has been consistent throughout the season."
+  },
+  {
+    "source": "replace",
+    "translation": "替换 - v - We need to replace the broken window."
+  },
+  {
+    "source": "clearance",
+    "translation": "清仓/许可 - n - The store is having a clearance sale./You need security clearance to access this area."
+  },
+  {
+    "source": "connections",
+    "translation": "连接(connection的复数) - n - He has many connections in the industry."
+  },
+  {
+    "source": "inventory",
+    "translation": "库存 - n - The store is taking inventory this weekend."
+  },
+  {
+    "source": "converter",
+    "translation": "转换器 - n - You'll need a voltage converter to use your appliances abroad."
+  },
+  {
+    "source": "suck",
+    "translation": "吸 - v - The vacuum cleaner sucks up dirt from the carpet."
+  },
+  {
+    "source": "organisation",
+    "translation": "组织(英式拼法) - n - She works for an international organisation."
+  },
+  {
+    "source": "babe",
+    "translation": "宝贝 - n - The baby is sleeping peacefully."
+  },
+  {
+    "source": "checks",
+    "translation": "支票/检查(check的复数) - n - She wrote several checks to pay her bills./The doctor performed routine health checks."
+  },
+  {
+    "source": "reached",
+    "translation": "到达的(reach的过去式) - v - We reached the summit before sunset."
+  },
+  {
+    "source": "becoming",
+    "translation": "变得(become的现在分词) - v - She is becoming more confident in her abilities."
+  },
+  {
+    "source": "safari",
+    "translation": "狩猎旅行/Safari浏览器 - n - They went on a safari in Kenya./Safari is a web browser developed by Apple."
+  },
+  {
+    "source": "objective",
+    "translation": "目标/客观的 - n/adj - Our main objective is to increase sales./We need an objective assessment of the situation."
+  },
+  {
+    "source": "indicated",
+    "translation": "表明的(indicate的过去式) - v - The results indicated a positive trend."
+  },
+  {
+    "source": "sugar",
+    "translation": "糖 - n - Would you like sugar in your coffee?"
+  },
+  {
+    "source": "crew",
+    "translation": "船员/工作人员 - n - The film crew worked through the night."
+  },
+  {
+    "source": "legs",
+    "translation": "腿(leg的复数) - n - The table has four legs."
+  },
+  {
+    "source": "sam",
+    "translation": "萨姆(人名) - n - Sam is my colleague at work."
+  },
+  {
+    "source": "stick",
+    "translation": "棍子/粘贴 - n/v - He used a stick to reach the fruit./The label won't stick to the surface."
+  },
+  {
+    "source": "securities",
+    "translation": "证券(security的复数) - n - The company invests in various securities."
+  },
+  {
+    "source": "allen",
+    "translation": "艾伦(人名) - n - Allen is both a first name and a surname."
+  },
+  {
+    "source": "pdt",
+    "translation": "太平洋夏令时间(Pacific Daylight Time的缩写) - n - The meeting is scheduled for 3 PM PDT."
+  },
+  {
+    "source": "relation",
+    "translation": "关系 - n - There is a direct relation between diet and health."
+  },
+  {
+    "source": "enabled",
+    "translation": "启用的(enable的过去式) - v - The new feature is now enabled on all devices."
+  },
+  {
+    "source": "genre",
+    "translation": "类型 - n - Jazz is my favorite music genre."
+  },
+  {
+    "source": "slide",
+    "translation": "滑动/幻灯片 - v/n - Children like to slide down the hill./The presentation has 20 slides."
+  },
+  {
+    "source": "montana",
+    "translation": "蒙大拿州 - n - Montana is known for its beautiful mountains."
+  },
+  {
+    "source": "volunteer",
+    "translation": "志愿者 - n/v - She works as a volunteer at the hospital./Many people volunteered to help after the disaster."
+  },
+  {
+    "source": "tested",
+    "translation": "测试过的(test的过去式) - v - The product has been thoroughly tested."
+  },
+  {
+    "source": "rear",
+    "translation": "后部的 - adj - The car was hit from the rear."
+  },
+  {
+    "source": "democratic",
+    "translation": "民主的 - adj - The country has a democratic government."
+  },
+  {
+    "source": "enhance",
+    "translation": "增强 - v - The new features will enhance the user experience."
+  },
+  
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
