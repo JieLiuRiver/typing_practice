@@ -8947,7 +8947,1902 @@
     "source": "participants",
     "translation": "参与者 - n - The participants in the study were diverse."
   },
-  
+  {
+    "source": "participants",
+    "translation": "参与者 - n - The participants in the study were diverse."
+  },
+  {
+    "source": "secret",
+    "translation": "秘密 - n - She kept her secret safe."
+  },
+  {
+    "source": "bath",
+    "translation": "洗澡/浴缸 - n - I took a relaxing bath."
+  },
+  {
+    "source": "aa",
+    "translation": "AA(匿名戒酒会)/电池型号 - n - AA batteries are commonly used in small devices."
+  },
+  {
+    "source": "kelly",
+    "translation": "凯莉(名字) - n - Kelly is a friendly person."
+  },
+  {
+    "source": "leads",
+    "translation": "潜在客户/领先 - n/v - The sales team generated many leads."
+  },
+  {
+    "source": "negative",
+    "translation": "消极的 - adj - His attitude was very negative."
+  },
+  {
+    "source": "austin",
+    "translation": "奥斯汀(城市名) - n - Austin is a vibrant city."
+  },
+  {
+    "source": "favorites",
+    "translation": "最爱 - n - These are my favorites."
+  },
+  {
+    "source": "toronto",
+    "translation": "多伦多(城市名) - n - Toronto is a multicultural city."
+  },
+  {
+    "source": "theater",
+    "translation": "剧院 - n - I went to the theater to watch a play."
+  },
+  {
+    "source": "springs",
+    "translation": "温泉/弹簧 - n - The hot springs are very relaxing."
+  },
+  {
+    "source": "missouri",
+    "translation": "密苏里州 - n - Missouri is a state in the US."
+  },
+  {
+    "source": "andrew",
+    "translation": "安德鲁(名字) - n - Andrew is my cousin."
+  },
+  {
+    "source": "var",
+    "translation": "变量(编程术语) - n - In programming, var is used to declare a variable."
+  },
+  {
+    "source": "perform",
+    "translation": "表演/执行 - v - The band performed well."
+  },
+  {
+    "source": "healthy",
+    "translation": "健康的 - adj - Eating healthy is important."
+  },
+  {
+    "source": "translation",
+    "translation": "翻译 - n - I need a translation of this document."
+  },
+  {
+    "source": "estimates",
+    "translation": "估计 - n - The cost estimates are too high."
+  },
+  {
+    "source": "font",
+    "translation": "字体 - n - I like this font."
+  },
+  {
+    "source": "assets",
+    "translation": "资产 - n - The company's assets are valuable."
+  },
+  {
+    "source": "injury",
+    "translation": "伤害 - n - He suffered a serious injury."
+  },
+  {
+    "source": "mt",
+    "translation": "山/蒙大拿州(缩写) - n - MT is the abbreviation for Montana."
+  },
+  {
+    "source": "joseph",
+    "translation": "约瑟夫(名字) - n - Joseph is a common name."
+  },
+  {
+    "source": "ministry",
+    "translation": "部门/事工 - n - The ministry is responsible for education."
+  },
+  {
+    "source": "drivers",
+    "translation": "司机/驱动程序 - n - There are many bad drivers on the road."
+  },
+  {
+    "source": "lawyer",
+    "translation": "律师 - n - I need to consult a lawyer."
+  },
+  {
+    "source": "figures",
+    "translation": "数字/人物 - n - The statistics show interesting figures."
+  },
+  {
+    "source": "married",
+    "translation": "已婚的(marry的过去式) - v/adj - They got married last year."
+  },
+  {
+    "source": "protected",
+    "translation": "受保护的(protect的过去式) - v/adj - The environment needs to be protected."
+  },
+  {
+    "source": "proposal",
+    "translation": "提议 - n - He presented a great proposal."
+  },
+  {
+    "source": "sharing",
+    "translation": "分享 - n - Sharing is caring."
+  },
+  {
+    "source": "philadelphia",
+    "translation": "费城(城市名) - n - Philadelphia is a historical city."
+  },
+  {
+    "source": "portal",
+    "translation": "门户 - n - The company's portal is user-friendly."
+  },
+  {
+    "source": "waiting",
+    "translation": "等待(wait的现在分词) - v - I am waiting for the bus."
+  },
+  {
+    "source": "birthday",
+    "translation": "生日 - n - Today is my birthday."
+  },
+  {
+    "source": "beta",
+    "translation": "测试版 - n - The software is in beta testing."
+  },
+  {
+    "source": "fail",
+    "translation": "失败 - v - Don't be afraid to fail."
+  },
+  {
+    "source": "gratis",
+    "translation": "免费的 - adj - The service is offered gratis."
+  },
+  {
+    "source": "banking",
+    "translation": "银行业 - n - I work in the banking industry."
+  },
+  {
+    "source": "officials",
+    "translation": "官员 - n - The government officials are responsible for making decisions."
+  },
+  {
+    "source": "brian",
+    "translation": "布莱恩(名字) - n - Brian is my neighbor."
+  },
+  {
+    "source": "toward",
+    "translation": "朝着 - prep - He walked toward the park."
+  },
+  {
+    "source": "won",
+    "translation": "赢(win的过去式) - v - She won the race."
+  },
+  {
+    "source": "slightly",
+    "translation": "稍微 - adv - The temperature is slightly higher today."
+  },
+  {
+    "source": "assist",
+    "translation": "帮助 - v - Can you assist me with this task?"
+  },
+  {
+    "source": "conduct",
+    "translation": "行为/进行 - n/v - The experiment was conducted carefully."
+  },
+  {
+    "source": "contained",
+    "translation": "包含(contain的过去式) - v - The box contained many books."
+  },
+  {
+    "source": "lingerie",
+    "translation": "女性内衣 - n - She bought some beautiful lingerie."
+  },
+  {
+    "source": "legislation",
+    "translation": "立法 - n - The new legislation will have a big impact."
+  },
+  {
+    "source": "calling",
+    "translation": "使命/呼叫 - n - I feel a calling to help others."
+  },
+  {
+    "source": "parameters",
+    "translation": "参数 - n - We need to set the parameters for the experiment."
+  },
+  {
+    "source": "jazz",
+    "translation": "爵士乐 - n - I love listening to jazz music."
+  },
+  {
+    "source": "serving",
+    "translation": "服务/份量 - n - The waiter is serving food."
+  },
+  {
+    "source": "bags",
+    "translation": "包 - n - I need to buy some new bags."
+  },
+  {
+    "source": "profiles",
+    "translation": "个人资料 - n - The social media platform allows you to create profiles."
+  },
+  {
+    "source": "miami",
+    "translation": "迈阿密(城市名) - n - Miami is a popular tourist destination."
+  },
+  {
+    "source": "comics",
+    "translation": "漫画 - n - I read comics in my free time."
+  },
+  {
+    "source": "matters",
+    "translation": "事情/重要 - n/v - What matters most is family."
+  },
+  {
+    "source": "houses",
+    "translation": "房子 - n - There are many beautiful houses in this neighborhood."
+  },
+  {
+    "source": "doc",
+    "translation": "文档(缩写) - n - I need to open this document in Word (.doc format)."
+  },
+  {
+    "source": "postal",
+    "translation": "邮政的 - adj - The postal service is reliable."
+  },
+  {
+    "source": "relationships",
+    "translation": "关系 - n - Good relationships are important for happiness."
+  },
+  {
+    "source": "tennessee",
+    "translation": "田纳西州 - n - Tennessee is known for its music."
+  },
+  {
+    "source": "wear",
+    "translation": "穿 - v - I like to wear comfortable clothes."
+  },
+  {
+    "source": "controls",
+    "translation": "控制 - n - The machine has many controls."
+  },
+  {
+    "source": "breaking",
+    "translation": "突发的(break的现在分词) - adj - The news is breaking."
+  },
+  {
+    "source": "combined",
+    "translation": "结合的(combine的过去式) - v - The two companies combined to form a new entity."
+  },
+  {
+    "source": "ultimate",
+    "translation": "最终的 - adj - The ultimate goal is to achieve success."
+  },
+  {
+    "source": "wales",
+    "translation": "威尔士 - n - Wales is a country within the United Kingdom."
+  },
+  {
+    "source": "representative",
+    "translation": "代表 - n - The representative spoke on behalf of the people."
+  },
+  {
+    "source": "frequency",
+    "translation": "频率 - n - The radio station has a high frequency."
+  },
+  {
+    "source": "introduced",
+    "translation": "介绍(introduce的过去式) - v - The new product was introduced at the trade show."
+  },
+  {
+    "source": "minor",
+    "translation": "次要的 - adj - This is a minor issue."
+  },
+  {
+    "source": "finish",
+    "translation": "完成 - v - I need to finish this project by tomorrow."
+  },
+  {
+    "source": "departments",
+    "translation": "部门 - n - The company has different departments."
+  },
+  {
+    "source": "residents",
+    "translation": "居民 - n - The residents of the city are friendly."
+  },
+  {
+    "source": "noted",
+    "translation": "注意到(note的过去式) - v - As noted earlier, we need to take action."
+  },
+  {
+    "source": "displayed",
+    "translation": "展示(display的过去式) - v - The artworks are displayed in the gallery."
+  },
+  {
+    "source": "mom",
+    "translation": "妈妈 - n - I love my mom."
+  },
+  {
+    "source": "reduced",
+    "translation": "减少的(reduce的过去式) - v - The price has been reduced."
+  },
+  {
+    "source": "physics",
+    "translation": "物理学 - n - I am interested in physics."
+  },
+  {
+    "source": "rare",
+    "translation": "罕见的 - adj - This is a rare book."
+  },
+  {
+    "source": "spent",
+    "translation": "花费(spend的过去式) - v - I spent a lot of time on this project."
+  },
+  {
+    "source": "performed",
+    "translation": "表演(perform的过去式) - v - The play was performed beautifully."
+  },
+  {
+    "source": "extreme",
+    "translation": "极端的 - adj - The weather is extreme today."
+  },
+  {
+    "source": "samples",
+    "translation": "样品 - n - I need some samples of this product."
+  },
+  {
+    "source": "davis",
+    "translation": "戴维斯(姓氏) - n - Davis is a talented musician."
+  },
+  {
+    "source": "daniel",
+    "translation": "丹尼尔(名字) - n - Daniel is my friend."
+  },
+  {
+    "source": "bars",
+    "translation": "酒吧/条 - n - There are many bars in the city."
+  },
+  {
+    "source": "reviewed",
+    "translation": "评论(review的过去式) - v - The book was reviewed by many critics."
+  },
+  {
+    "source": "row",
+    "translation": "排 - n - We sat in the front row."
+  },
+  {
+    "source": "oz",
+    "translation": "盎司(重量单位) - n - The recipe calls for 8 oz of flour."
+  },
+  {
+    "source": "forecast",
+    "translation": "预报 - n - The weather forecast says it will rain tomorrow."
+  },
+  {
+    "source": "removed",
+    "translation": "移除(remove的过去式) - v - The stain was removed easily."
+  },
+  {
+    "source": "helps",
+    "translation": "帮助(help的第三人称单数) - v - Helping others is a noble act."
+  },
+  {
+    "source": "singles",
+    "translation": "单身人士/单曲 - n - There are many singles events in the city."
+  },
+  {
+    "source": "administrator",
+    "translation": "管理员 - n - The administrator is in charge of the school."
+  },
+  {
+    "source": "cycle",
+    "translation": "循环 - n - The life cycle of a butterfly is fascinating."
+  },
+  {
+    "source": "amounts",
+    "translation": "数量 - n - The amounts of money spent on education vary."
+  },
+  {
+    "source": "contain",
+    "translation": "包含 - v - The box contains many books."
+  },
+  {
+    "source": "accuracy",
+    "translation": "准确性 - n - We need to ensure the accuracy of the data."
+  },
+  {
+    "source": "dual",
+    "translation": "双重的 - adj - The phone has a dual camera."
+  },
+  {
+    "source": "rise",
+    "translation": "升起 - v - The sun rises in the east."
+  },
+  {
+    "source": "usd",
+    "translation": "美元(缩写) - n - The price is in USD."
+  },
+  {
+    "source": "sleep",
+    "translation": "睡觉 - v/n - I need a good sleep."
+  },
+  {
+    "source": "mg",
+    "translation": "毫克(缩写) - n - There are 500 mg in this tablet."
+  },
+  {
+    "source": "bird",
+    "translation": "鸟 - n - The bird is singing."
+  },
+  {
+    "source": "pharmacy",
+    "translation": "药店 - n - I went to the pharmacy to buy medicine."
+  },
+  {
+    "source": "brazil",
+    "translation": "巴西 - n - Brazil is a large country."
+  },
+  {
+    "source": "creation",
+    "translation": "创造 - n - The creation of art is a beautiful thing."
+  },
+  {
+    "source": "static",
+    "translation": "静态的 - adj - The picture is static."
+  },
+  {
+    "source": "scene",
+    "translation": "场景 - n - The scene is very beautiful."
+  },
+  {
+    "source": "hunter",
+    "translation": "猎人 - n - The hunter is looking for prey."
+  },
+  {
+    "source": "addresses",
+    "translation": "地址 - n - I need to update my addresses."
+  },
+  {
+    "source": "lady",
+    "translation": "女士 - n - The lady is very elegant."
+  },
+  {
+    "source": "crystal",
+    "translation": "水晶 - n - The crystal is very beautiful."
+  },
+  {
+    "source": "famous",
+    "translation": "著名的 - adj - He is a famous actor."
+  },
+  {
+    "source": "writer",
+    "translation": "作家 - n - She is a talented writer."
+  },
+  {
+    "source": "chairman",
+    "translation": "主席 - n - The chairman is in charge of the meeting."
+  },
+  {
+    "source": "violence",
+    "translation": "暴力 - n - We should oppose violence."
+  },
+  {
+    "source": "fans",
+    "translation": "粉丝 - n - The singer has many fans."
+  },
+  {
+    "source": "oklahoma",
+    "translation": "俄克拉荷马州 - n - Oklahoma is a state in the US."
+  },
+  {
+    "source": "speakers",
+    "translation": "扬声器/演讲者 - n - The speakers are very loud."
+  },
+  {
+    "source": "drink",
+    "translation": "喝 - v - I like to drink coffee."
+  },
+  {
+    "source": "academy",
+    "translation": "学院 - n - The academy offers many courses."
+  },
+  {
+    "source": "dynamic",
+    "translation": "动态的 - adj - The market is dynamic."
+  },
+  {
+    "source": "gender",
+    "translation": "性别 - n - There are two genders."
+  },
+  {
+    "source": "eat",
+    "translation": "吃 - v - I want to eat something delicious."
+  },
+  {
+    "source": "permanent",
+    "translation": "永久的 - adj - We need a permanent solution."
+  },
+  {
+    "source": "agriculture",
+    "translation": "农业 - n - Agriculture is important for the country."
+  },
+  {
+    "source": "dell",
+    "translation": "戴尔(公司名) - n - I use a Dell computer."
+  },
+  {
+    "source": "cleaning",
+    "translation": "清洁 - n - I need to do some cleaning."
+  },
+  {
+    "source": "constitutes",
+    "translation": "构成(constitute的第三人称单数) - v - This constitutes a violation."
+  },
+  {
+    "source": "portfolio",
+    "translation": "作品集 - n - I need to update my portfolio."
+  },
+  {
+    "source": "practical",
+    "translation": "实用的 - adj - This method is very practical."
+  },
+  {
+    "source": "delivered",
+    "translation": "交付(deliver的过去式) - v - The package was delivered on time."
+  },
+  {
+    "source": "collectibles",
+    "translation": "收藏品 - n - I collect stamps as collectibles."
+  },
+  {
+    "source": "infrastructure",
+    "translation": "基础设施 - n - The country needs better infrastructure."
+  },
+  {
+    "source": "exclusive",
+    "translation": "独家的/专属的 - adj - This is an exclusive club."
+  },
+  {
+    "source": "seat",
+    "translation": "座位 - n - Please take a seat."
+  },
+  {
+    "source": "concerns",
+    "translation": "担忧 - n - We have some concerns about the project."
+  },
+  {
+    "source": "colour",
+    "translation": "颜色(英式拼写) - n - What's your favourite colour?"
+  },
+  {
+    "source": "vendor",
+    "translation": "供应商/小贩 - n - The vendor is selling fruits."
+  },
+  {
+    "source": "originally",
+    "translation": "最初 - adv - This building was originally a factory."
+  },
+  {
+    "source": "intel",
+    "translation": "英特尔(公司名) - n - Intel is a leading technology company."
+  },
+  {
+    "source": "utilities",
+    "translation": "公用事业/水电费 - n - We need to pay the utilities bill."
+  },
+  {
+    "source": "philosophy",
+    "translation": "哲学 - n - I am interested in philosophy."
+  },
+  {
+    "source": "regulation",
+    "translation": "规定 - n - The new regulation will take effect soon."
+  },
+  {
+    "source": "officers",
+    "translation": "军官/警官 - n - The police officers are very brave."
+  },
+  {
+    "source": "reduction",
+    "translation": "减少 - n - We need to achieve a reduction in waste."
+  },
+  {
+    "source": "aim",
+    "translation": "目标 - n - What is your aim in life?"
+  },
+  {
+    "source": "bids",
+    "translation": "投标 - n - There are many bids for the project."
+  },
+  {
+    "source": "referred",
+    "translation": "推荐(refer的过去式) - v - I was referred to this doctor by a friend."
+  },
+  {
+    "source": "supports",
+    "translation": "支持(support的第三人称单数) - v - The government supports small businesses."
+  },
+  {
+    "source": "nutrition",
+    "translation": "营养 - n - Good nutrition is important for health."
+  },
+  {
+    "source": "recording",
+    "translation": "录音 - n - I am making a recording."
+  },
+  {
+    "source": "regions",
+    "translation": "地区 - n - Different regions have different cultures."
+  },
+  {
+    "source": "junior",
+    "translation": "初级的 - adj - He is a junior employee."
+  },
+  {
+    "source": "toll",
+    "translation": "通行费 - n - The toll on the bridge is expensive."
+  },
+  {
+    "source": "les",
+    "translation": "法语中的'the'(复数形式) - art - Les étudiants sont arrivés.(学生们到了)"
+  },
+  {
+    "source": "cape",
+    "translation": "披风/海角 - n - She wore a beautiful cape."
+  },
+  {
+    "source": "ann",
+    "translation": "安(人名) - n - Ann is my sister."
+  },
+  {
+    "source": "rings",
+    "translation": "戒指 - n - She wears beautiful rings."
+  },
+  {
+    "source": "meaning",
+    "translation": "意思 - n - What's the meaning of this word?"
+  },
+  {
+    "source": "tip",
+    "translation": "提示/小费 - n - Here's a tip for you."
+  },
+  {
+    "source": "secondary",
+    "translation": "次要的/中学的 - adj - This is a secondary school."
+  },
+  {
+    "source": "wonderful",
+    "translation": "精彩的 - adj - The view is wonderful."
+  },
+  {
+    "source": "mine",
+    "translation": "我的/矿山 - pron/n - This book is mine."
+  },
+  {
+    "source": "ladies",
+    "translation": "女士们 - n - Ladies and gentlemen, welcome!"
+  },
+  {
+    "source": "henry",
+    "translation": "亨利(人名) - n - Henry is a good friend of mine."
+  },
+  {
+    "source": "ticket",
+    "translation": "票 - n - I need to buy a ticket."
+  },
+  {
+    "source": "announced",
+    "translation": "宣布(announce的过去式) - v - The winner was announced."
+  },
+  {
+    "source": "guess",
+    "translation": "猜测 - v - Can you guess the answer?"
+  },
+  {
+    "source": "agreed",
+    "translation": "同意(agree的过去式) - v - We agreed on the terms."
+  },
+  {
+    "source": "prevention",
+    "translation": "预防 - n - Prevention is better than cure."
+  },
+  {
+    "source": "whom",
+    "translation": "谁(宾格) - pron - Whom did you meet?"
+  },
+  {
+    "source": "ski",
+    "translation": "滑雪 - v - I like skiing in winter."
+  },
+  {
+    "source": "soccer",
+    "translation": "足球 - n - I love playing soccer."
+  },
+  {
+    "source": "math",
+    "translation": "数学 - n - I am good at math."
+  },
+  {
+    "source": "import",
+    "translation": "进口 - v/n - We need to import some goods."
+  },
+  {
+    "source": "posting",
+    "translation": "发布 - n - I am posting on social media."
+  },
+  {
+    "source": "presence",
+    "translation": "存在/出席 - n - His presence was commanding."
+  },
+  {
+    "source": "instant",
+    "translation": "即时的 - adj - I need an instant answer."
+  },
+  {
+    "source": "mentioned",
+    "translation": "提到(mention的过去式) - v - As mentioned earlier, we need to finish the task."
+  },
+  {
+    "source": "automatic",
+    "translation": "自动的 - adj - The door is automatic."
+  },
+  {
+    "source": "healthcare",
+    "translation": "医疗保健 - n - We need better healthcare."
+  },
+  {
+    "source": "viewing",
+    "translation": "观看 - n - I am enjoying the viewing."
+  },
+  {
+    "source": "maintained",
+    "translation": "维护(maintain的过去式) - v - The machine needs to be maintained regularly."
+  },
+  {
+    "source": "increasing",
+    "translation": "增加的(increase的现在分词) - adj - The demand for this product is increasing."
+  },
+  {
+    "source": "majority",
+    "translation": "多数 - n - The majority of people voted for him."
+  },
+  {
+    "source": "connected",
+    "translation": "连接的(connect的过去式) - v - We are all connected in some way."
+  },
+  {
+    "source": "christ",
+    "translation": "基督 - n - Christianity is one of the major religions."
+  },
+  {
+    "source": "dan",
+    "translation": "丹(人名) - n - Dan is a good friend."
+  },
+  {
+    "source": "dogs",
+    "translation": "狗 - n - I love dogs."
+  },
+  {
+    "source": "sd",
+    "translation": "SD卡/标准偏差 - n - I need an SD card for my camera."
+  },
+  {
+    "source": "directors",
+    "translation": "董事/导演 - n - The board of directors is responsible for making decisions."
+  },
+  {
+    "source": "aspects",
+    "translation": "方面 - n - There are many aspects to consider."
+  },
+  {
+    "source": "austria",
+    "translation": "奥地利 - n - Austria is a beautiful country."
+  },
+  {
+    "source": "ahead",
+    "translation": "前面 - adv - We are ahead of schedule."
+  },
+  {
+    "source": "ahead",
+    "translation": "前面 - adv - We are ahead of schedule."
+  },
+  {
+    "source": "moon",
+    "translation": "月亮 - n - The moon is shining brightly."
+  },
+  {
+    "source": "participation",
+    "translation": "参与 - n - We encourage everyone's participation."
+  },
+  {
+    "source": "scheme",
+    "translation": "计划 - n - The government has launched a new scheme."
+  },
+  {
+    "source": "utility",
+    "translation": "实用性 - n - The utility of this tool is great."
+  },
+  {
+    "source": "preview",
+    "translation": "预览/预告片 - n - I watched a preview of the movie."
+  },
+  {
+    "source": "fly",
+    "translation": "飞 - v - Birds can fly."
+  },
+  {
+    "source": "manner",
+    "translation": "方式/礼貌 - n - He spoke in a polite manner."
+  },
+  {
+    "source": "matrix",
+    "translation": "矩阵 - n - The matrix is very complex."
+  },
+  {
+    "source": "containing",
+    "translation": "包含(contain的现在分词) - v - The box is containing many books."
+  },
+  {
+    "source": "combination",
+    "translation": "组合 - n - This combination of colors is beautiful."
+  },
+  {
+    "source": "devel",
+    "translation": "开发(development的缩写) - n - The devel package contains files needed for software development."
+  },
+  {
+    "source": "amendment",
+    "translation": "修正案 - n - The constitution can be amended."
+  },
+  {
+    "source": "despite",
+    "translation": "尽管 - prep - Despite the difficulties, we continued."
+  },
+  {
+    "source": "strength",
+    "translation": "力量 - n - He has great strength."
+  },
+  {
+    "source": "guaranteed",
+    "translation": "保证的(guarantee的过去式) - v - The product is guaranteed for one year."
+  },
+  {
+    "source": "turkey",
+    "translation": "土耳其/火鸡 - n - Turkey is known for its delicious food."
+  },
+  {
+    "source": "libraries",
+    "translation": "图书馆 - n - I love going to libraries."
+  },
+  {
+    "source": "proper",
+    "translation": "适当的 - adj - We need to use proper grammar."
+  },
+  {
+    "source": "distributed",
+    "translation": "分布的(distribute的过去式) - v - The goods are distributed evenly."
+  },
+  {
+    "source": "degrees",
+    "translation": "学位/度数 - n - She has a master's degree."
+  },
+  {
+    "source": "singapore",
+    "translation": "新加坡 - n - Singapore is a clean and modern city."
+  },
+  {
+    "source": "enterprises",
+    "translation": "企业 - n - Small enterprises play an important role."
+  },
+  {
+    "source": "delta",
+    "translation": "三角洲 - n - The river forms a delta."
+  },
+  {
+    "source": "fear",
+    "translation": "恐惧 - n - Fear can hold us back."
+  },
+  {
+    "source": "seeking",
+    "translation": "寻找(seek的现在分词) - v - He is seeking a job."
+  },
+  {
+    "source": "inches",
+    "translation": "英寸 - n - The table is 30 inches long."
+  },
+  {
+    "source": "phoenix",
+    "translation": "凤凰/菲尼克斯(城市名) - n - The phoenix is a mythical bird."
+  },
+  {
+    "source": "rs",
+    "translation": "卢比(印度货币符号)/RuneScape(游戏) - n - The item costs 500 Rs."
+  },
+  {
+    "source": "convention",
+    "translation": "大会/惯例 - n - The convention was a great success."
+  },
+  {
+    "source": "shares",
+    "translation": "股份 - n - I own some shares in the company."
+  },
+  {
+    "source": "principal",
+    "translation": "校长/主要的 - n/adj - The principal is in charge of the school."
+  },
+  {
+    "source": "daughter",
+    "translation": "女儿 - n - I love my daughter."
+  },
+  {
+    "source": "standing",
+    "translation": "地位/站立 - n - He has a good standing in the community."
+  },
+  {
+    "source": "comfort",
+    "translation": "舒适 - n - The bed is very comfortable."
+  },
+  {
+    "source": "colors",
+    "translation": "颜色 - n - The rainbow has many beautiful colors."
+  },
+  {
+    "source": "wars",
+    "translation": "战争 - n - Wars bring destruction."
+  },
+  {
+    "source": "cisco",
+    "translation": "思科(公司名) - n - Cisco is a leading technology company."
+  },
+  {
+    "source": "ordering",
+    "translation": "订购(order的现在分词) - v - I am ordering food online."
+  },
+  {
+    "source": "kept",
+    "translation": "保持(keep的过去式) - v - I kept my promise."
+  },
+  {
+    "source": "alpha",
+    "translation": "阿尔法(希腊字母) - n - Alpha is the first letter of the Greek alphabet."
+  },
+  {
+    "source": "appeal",
+    "translation": "吸引力/上诉 - n - The new design has a lot of appeal."
+  },
+  {
+    "source": "cruise",
+    "translation": "巡航/游轮 - n - We went on a cruise last summer."
+  },
+  {
+    "source": "bonus",
+    "translation": "奖金 - n - The employees received a bonus this year."
+  },
+  {
+    "source": "certification",
+    "translation": "认证 - n - She has a certification in yoga teaching."
+  },
+  {
+    "source": "previously",
+    "translation": "以前 - adv - Previously, I lived in another city."
+  },
+  {
+    "source": "hey",
+    "translation": "嘿 - interj - Hey! How are you?"
+  },
+  {
+    "source": "bookmark",
+    "translation": "书签 - n/v - I bookmarked my favorite website."
+  },
+  {
+    "source": "buildings",
+    "translation": "建筑物 - n - There are many tall buildings in the city."
+  },
+  {
+    "source": "specials",
+    "translation": "特色菜/特价品 - n - The restaurant has daily specials."
+  },
+  {
+    "source": "beat",
+    "translation": "节拍/打败 - n/v - The music has a great beat."
+  },
+  {
+    "source": "disney",
+    "translation": "迪士尼 - n - I love going to Disney World."
+  },
+  {
+    "source": "household",
+    "translation": "家庭/家务 - n/adj - Household chores can be tiring."
+  },
+  {
+    "source": "batteries",
+    "translation": "电池 - n - I need to buy new batteries."
+  },
+  {
+    "source": "adobe",
+    "translation": "Adobe(公司名) - n - Adobe software is very popular."
+  },
+  {
+    "source": "smoking",
+    "translation": "吸烟 - n - Smoking is bad for your health."
+  },
+  {
+    "source": "bbc",
+    "translation": "英国广播公司 - n - I watch BBC news."
+  },
+  {
+    "source": "becomes",
+    "translation": "变成(become的第三人称单数) - v - She becomes more confident."
+  },
+  {
+    "source": "drives",
+    "translation": "驾驶(drive的第三人称单数) - v - He drives a sports car."
+  },
+  {
+    "source": "arms",
+    "translation": "武器/手臂 - n - The soldiers carry arms."
+  },
+  {
+    "source": "alabama",
+    "translation": "阿拉巴马州 - n - Alabama is a state in the US."
+  },
+  {
+    "source": "tea",
+    "translation": "茶 - n - I like drinking tea."
+  },
+  {
+    "source": "improved",
+    "translation": "改进的(improve的过去式) - v - His grades have improved."
+  },
+  {
+    "source": "trees",
+    "translation": "树木 - n - There are many beautiful trees in the park."
+  },
+  {
+    "source": "avg",
+    "translation": "平均值(缩写) - n - The avg temperature is 25 degrees Celsius."
+  },
+  {
+    "source": "achieve",
+    "translation": "实现 - v - We can achieve our goals with hard work."
+  },
+  {
+    "source": "positions",
+    "translation": "职位/位置 - n - There are several open positions in the company."
+  },
+  {
+    "source": "dress",
+    "translation": "连衣裙/着装 - n - She wore a beautiful dress."
+  },
+  {
+    "source": "subscription",
+    "translation": "订阅 - n - I have a subscription to this magazine."
+  },
+  {
+    "source": "dealer",
+    "translation": "经销商 - n - The car dealer offered a good deal."
+  },
+  {
+    "source": "contemporary",
+    "translation": "当代的 - adj - Contemporary art is very diverse."
+  },
+  {
+    "source": "sky",
+    "translation": "天空 - n - The sky is blue today."
+  },
+  {
+    "source": "utah",
+    "translation": "犹他州 - n - Utah is known for its beautiful national parks."
+  },
+  {
+    "source": "nearby",
+    "translation": "附近的 - adj/adv - There is a park nearby."
+  },
+  {
+    "source": "rom",
+    "translation": "只读存储器(Read-Only Memory) - n - The ROM contains the computer's firmware."
+  },
+  {
+    "source": "carried",
+    "translation": "携带(carry的过去式) - v - She carried a heavy bag."
+  },
+  {
+    "source": "happen",
+    "translation": "发生 - v - What will happen next?"
+  },
+  {
+    "source": "exposure",
+    "translation": "暴露/曝光 - n - Exposure to sunlight is good for you."
+  },
+  {
+    "source": "panasonic",
+    "translation": "松下(公司名) - n - Panasonic makes quality electronics."
+  },
+  {
+    "source": "hide",
+    "translation": "隐藏 - v - The cat hid under the bed."
+  },
+  {
+    "source": "permalink",
+    "translation": "永久链接 - n - The blog post has a permalink."
+  },
+  {
+    "source": "signature",
+    "translation": "签名 - n - His signature is very unique."
+  },
+  {
+    "source": "gambling",
+    "translation": "赌博 - n - Gambling can be addictive."
+  },
+  {
+    "source": "refer",
+    "translation": "推荐/参考 - v - Can you refer me to a good doctor?"
+  },
+  {
+    "source": "miller",
+    "translation": "米勒(姓氏)/磨坊主 - n - Miller is a common surname."
+  },
+  {
+    "source": "provision",
+    "translation": "条款/供应 - n - The contract has a provision for early termination."
+  },
+  {
+    "source": "outdoors",
+    "translation": "户外 - adv - I love spending time outdoors."
+  },
+  {
+    "source": "clothes",
+    "translation": "衣服 - n - I need to buy some new clothes."
+  },
+  {
+    "source": "caused",
+    "translation": "导致(cause的过去式) - v - The accident was caused by bad weather."
+  },
+  {
+    "source": "luxury",
+    "translation": "奢侈 - n - Luxury cars are very expensive."
+  },
+  {
+    "source": "frames",
+    "translation": "框架/相框 - n - The picture frames are very stylish."
+  },
+  {
+    "source": "certainly",
+    "translation": "当然 - adv - Certainly, I will help you."
+  },
+  {
+    "source": "indeed",
+    "translation": "确实 - adv - That is indeed a good idea."
+  },
+  {
+    "source": "newspaper",
+    "translation": "报纸 - n - I read the newspaper every morning."
+  },
+  {
+    "source": "toy",
+    "translation": "玩具 - n - The child played with a toy."
+  },
+  {
+    "source": "circuit",
+    "translation": "电路/线路 - n - The electrical circuit is complex."
+  },
+  {
+    "source": "layer",
+    "translation": "层 - n - The cake has several layers."
+  },
+  {
+    "source": "printed",
+    "translation": "印刷的(print的过去式) - v - The document was printed on high-quality paper."
+  },
+  {
+    "source": "slow",
+    "translation": "缓慢的 - adj - The traffic is slow today."
+  },
+  {
+    "source": "removal",
+    "translation": "移除 - n - The removal of the old furniture was a big job."
+  },
+  {
+    "source": "easier",
+    "translation": "更容易的(easy的比较级) - adj - This task is much easier than I expected."
+  },
+  {
+    "source": "src",
+    "translation": "源代码/源文件(source的缩写) - n - The src folder contains all the source code files."
+  },
+  {
+    "source": "liability",
+    "translation": "责任/负债 - n - The company has limited liability."
+  },
+  {
+    "source": "trademark",
+    "translation": "商标 - n - The brand has a famous trademark."
+  },
+  {
+    "source": "hip",
+    "translation": "臀部/时髦的 - n/adj - She has a trendy hip style."
+  },
+  {
+    "source": "printers",
+    "translation": "打印机 - n - The printers are not working properly."
+  },
+  {
+    "source": "faqs",
+    "translation": "常见问题解答(Frequently Asked Questions的缩写) - n - Check the FAQs for answers to common questions."
+  },
+  {
+    "source": "nine",
+    "translation": "九 - num - There are nine planets in our solar system."
+  },
+  {
+    "source": "adding",
+    "translation": "添加(add的现在分词) - v - She is adding more details to the story."
+  },
+  {
+    "source": "kentucky",
+    "translation": "肯塔基州 - n - Kentucky is known for its horse racing."
+  },
+  {
+    "source": "mostly",
+    "translation": "主要地 - adv - I mostly read books in my free time."
+  },
+  {
+    "source": "eric",
+    "translation": "埃里克(人名) - n - Eric is my colleague."
+  },
+  {
+    "source": "spot",
+    "translation": "地点/斑点 - n - I found a nice spot for a picnic."
+  },
+  {
+    "source": "taylor",
+    "translation": "泰勒(人名) - n - Taylor is a popular singer."
+  },
+  {
+    "source": "trackback",
+    "translation": "引用通告 - n - The blog has trackback functionality."
+  },
+  {
+    "source": "prints",
+    "translation": "打印件 - n - I ordered some photo prints."
+  },
+  {
+    "source": "spend",
+    "translation": "花费 - v - I like to spend time with my family."
+  },
+  {
+    "source": "factory",
+    "translation": "工厂 - n - The factory produces cars."
+  },
+  {
+    "source": "interior",
+    "translation": "内部的 - adj - The interior design of the house is beautiful."
+  },
+  {
+    "source": "revised",
+    "translation": "修订的(revise的过去式) - v - The document was revised several times."
+  },
+  {
+    "source": "grow",
+    "translation": "生长 - v - The plants are growing well."
+  },
+  {
+    "source": "americans",
+    "translation": "美国人 - n - Americans are known for their love of freedom."
+  },
+  {
+    "source": "optical",
+    "translation": "光学的 - adj - I need to get my eyes checked for optical problems."
+  },
+  {
+    "source": "promotion",
+    "translation": "晋升/促销 - n - She got a promotion at work."
+  },
+  {
+    "source": "relative",
+    "translation": "亲戚/相对的 - n/adj - My relative lives far away."
+  },
+  {
+    "source": "amazing",
+    "translation": "令人惊叹的 - adj - The view is amazing."
+  },
+  {
+    "source": "clock",
+    "translation": "时钟 - n - The clock is ticking."
+  },
+  {
+    "source": "dot",
+    "translation": "点 - n - There is a dot on the paper."
+  },
+  {
+    "source": "hiv",
+    "translation": "艾滋病病毒(Human Immunodeficiency Virus的缩写) - n - HIV is a serious disease."
+  },
+  {
+    "source": "identity",
+    "translation": "身份 - n - We need to protect our identity."
+  },
+  {
+    "source": "suites",
+    "translation": "套房 - n - The hotel has luxurious suites."
+  },
+  {
+    "source": "conversion",
+    "translation": "转换 - n - The conversion of units can be tricky."
+  },
+  {
+    "source": "feeling",
+    "translation": "感觉 - n - I have a good feeling about this."
+  },
+  {
+    "source": "hidden",
+    "translation": "隐藏的(hide的过去分词) - adj - The treasure is hidden somewhere."
+  },
+  {
+    "source": "reasonable",
+    "translation": "合理的 - adj - The price is reasonable."
+  },
+  {
+    "source": "victoria",
+    "translation": "维多利亚(人名/地名) - n - Victoria is a beautiful name."
+  },
+  {
+    "source": "serial",
+    "translation": "连续的 - adj - The TV show has a serial format."
+  },
+  {
+    "source": "relief",
+    "translation": "救济/缓解 - n - The relief effort after the disaster was extensive."
+  },
+  {
+    "source": "revision",
+    "translation": "修订 - n - The revision of the book is complete."
+  },
+  {
+    "source": "broadband",
+    "translation": "宽带 - n - We need faster broadband."
+  },
+  {
+    "source": "influence",
+    "translation": "影响 - n/v - She has a lot of influence on others."
+  },
+  {
+    "source": "ratio",
+    "translation": "比率 - n - The ratio of boys to girls is 1:1."
+  },
+  {
+    "source": "pda",
+    "translation": "个人数字助理(Personal Digital Assistant的缩写) - n - I used to have a PDA."
+  },
+  {
+    "source": "importance",
+    "translation": "重要性 - n - The importance of education cannot be overstated."
+  },
+  {
+    "source": "rain",
+    "translation": "雨 - n - It's raining outside."
+  },
+  {
+    "source": "onto",
+    "translation": "到...上面 - prep - He jumped onto the table."
+  },
+  {
+    "source": "dsl",
+    "translation": "数字用户线路(Digital Subscriber Line的缩写) - n - I have DSL internet connection."
+  },
+  {
+    "source": "planet",
+    "translation": "行星 - n - Earth is a beautiful planet."
+  },
+  {
+    "source": "webmaster",
+    "translation": "网站管理员 - n - The webmaster is responsible for the website."
+  },
+  {
+    "source": "copies",
+    "translation": "复印件(copy的复数) - n - I need to make some copies of this document."
+  },
+  {
+    "source": "recipe",
+    "translation": "食谱 - n - I found a great recipe for cake."
+  },
+  {
+    "source": "zum",
+    "translation": "到/向(德语介词) - prep - Ich gehe zum Supermarkt.(我去超市。)"
+  },
+  {
+    "source": "permit",
+    "translation": "许可证/允许 - n/v - You need a permit to park here."
+  },
+  {
+    "source": "seeing",
+    "translation": "看见(see的现在分词) - v - I am looking forward to seeing you."
+  },
+  {
+    "source": "proof",
+    "translation": "证据 - n - Do you have any proof?"
+  },
+  {
+    "source": "dna",
+    "translation": "脱氧核糖核酸(Deoxyribonucleic Acid的缩写) - n - DNA is the blueprint of life."
+  },
+  {
+    "source": "diff",
+    "translation": "差异(difference的缩写)/文件比较 - n - The diff shows what changed between the two versions."
+  },
+  {
+    "source": "tennis",
+    "translation": "网球 - n - I like playing tennis."
+  },
+  {
+    "source": "bass",
+    "translation": "低音/贝斯 - n - The bass guitar adds depth to the music."
+  },
+  {
+    "source": "prescription",
+    "translation": "处方 - n - I need to fill my prescription."
+  },
+  {
+    "source": "bedroom",
+    "translation": "卧室 - n - My bedroom is very comfortable."
+  },
+  {
+    "source": "empty",
+    "translation": "空的 - adj - The room is empty."
+  },
+  {
+    "source": "instance",
+    "translation": "例子 - n - For instance, I like apples."
+  },
+  {
+    "source": "hole",
+    "translation": "洞 - n - There is a hole in the ground."
+  },
+  {
+    "source": "pets",
+    "translation": "宠物 - n - I love my pets."
+  },
+  {
+    "source": "ride",
+    "translation": "骑行/乘坐 - n/v - I took a ride on the Ferris wheel."
+  },
+  {
+    "source": "licensed",
+    "translation": "有执照的(license的过去分词) - adj - He is a licensed driver."
+  },
+  {
+    "source": "orlando",
+    "translation": "奥兰多(地名) - n - Orlando is a popular tourist destination."
+  },
+  {
+    "source": "specifically",
+    "translation": "具体地 - adv - Specifically, I am looking for a red dress."
+  },
+  {
+    "source": "tim",
+    "translation": "蒂姆(人名) - n - Tim is my friend."
+  },
+  {
+    "source": "bureau",
+    "translation": "局/处 - n - The bureau of statistics releases data."
+  },
+  {
+    "source": "maine",
+    "translation": "缅因州 - n - Maine is a beautiful state."
+  },
+  {
+    "source": "sql",
+    "translation": "结构化查询语言(Structured Query Language的缩写) - n - I am learning SQL."
+  },
+  {
+    "source": "represent",
+    "translation": "代表 - v - The flag represents the country."
+  },
+  {
+    "source": "conservation",
+    "translation": "保护 - n - We need to focus on conservation."
+  },
+  {
+    "source": "pair",
+    "translation": "一对/一双 - n - I bought a pair of shoes."
+  },
+  {
+    "source": "ideal",
+    "translation": "理想的 - adj - This is the ideal solution."
+  },
+  {
+    "source": "specs",
+    "translation": "规格(specifications的缩写) - n - Check the specs before buying."
+  },
+  {
+    "source": "recorded",
+    "translation": "录制的(record的过去式) - v - The song was recorded in a studio."
+  },
+  {
+    "source": "don",
+    "translation": "唐(人名) - n - Don is a common name."
+  },
+  {
+    "source": "pieces",
+    "translation": "片/件(piece的复数) - n - There are several pieces of furniture in the room."
+  },
+  {
+    "source": "finished",
+    "translation": "完成的(finish的过去式) - v - I finished my work early."
+  },
+  {
+    "source": "parks",
+    "translation": "公园(park的复数) - n - I like going to parks."
+  },
+  {
+    "source": "dinner",
+    "translation": "晚餐 - n - We had a delicious dinner."
+  },
+  {
+    "source": "lawyers",
+    "translation": "律师(lawyer的复数) - n - Lawyers help people with legal issues."
+  },
+  {
+    "source": "sydney",
+    "translation": "悉尼(地名) - n - Sydney is a beautiful city."
+  },
+  {
+    "source": "stress",
+    "translation": "压力 - n - Stress can affect your health."
+  },
+  {
+    "source": "cream",
+    "translation": "奶油 - n - I like vanilla ice cream."
+  },
+  {
+    "source": "runs",
+    "translation": "跑步(run的第三人称单数) - v - He runs every morning."
+  },
+  {
+    "source": "trends",
+    "translation": "趋势 - n - Fashion trends change quickly."
+  },
+  {
+    "source": "yeah",
+    "translation": "耶/是的 - interj - Yeah! That's a great idea."
+  },
+  {
+    "source": "discover",
+    "translation": "发现 - v - We need to discover new things."
+  },
+  {
+    "source": "patterns",
+    "translation": "图案 - n - The fabric has beautiful patterns."
+  },
+  {
+    "source": "boxes",
+    "translation": "盒子(box的复数) - n - There are many boxes in the storage room."
+  },
+  {
+    "source": "louisiana",
+    "translation": "路易斯安那州 - n - Louisiana is known for its Cajun cuisine."
+  },
+  {
+    "source": "hills",
+    "translation": "山丘 - n - The hills are covered with greenery."
+  },
+  {
+    "source": "javascript",
+    "translation": "JavaScript(编程语言) - n - I am learning JavaScript."
+  },
+  {
+    "source": "fourth",
+    "translation": "第四 - num - July fourth is Independence Day in the US."
+  },
+  {
+    "source": "nm",
+    "translation": "纳米(nanometer的缩写)/新墨西哥州(New Mexico的缩写) - n - The width of a human hair is about 80,000 nm."
+  },
+  {
+    "source": "advisor",
+    "translation": "顾问 - n - I need to consult an advisor."
+  },
+  {
+    "source": "mn",
+    "translation": "明尼苏达州(Minnesota的缩写) - n - MN is known for its many lakes."
+  },
+  {
+    "source": "marketplace",
+    "translation": "市场 - n - The online marketplace is very convenient."
+  },
+  {
+    "source": "nd",
+    "translation": "北达科他州(North Dakota的缩写) - n - ND is one of the least populated states in the US."
+  },
+  {
+    "source": "evil",
+    "translation": "邪恶的 - adj - Evil deeds should be condemned."
+  },
+  {
+    "source": "aware",
+    "translation": "意识到的 - adj - We should be aware of our surroundings."
+  },
+  {
+    "source": "wilson",
+    "translation": "威尔逊(姓氏) - n - Wilson is a common surname."
+  },
+  {
+    "source": "shape",
+    "translation": "形状 - n - The cloud is in the shape of a heart."
+  },
+  {
+    "source": "evolution",
+    "translation": "进化 - n - The theory of evolution is widely accepted."
+  },
+  {
+    "source": "irish",
+    "translation": "爱尔兰的 - adj - Irish people are known for their hospitality."
+  },
+  {
+    "source": "certificates",
+    "translation": "证书 - n - I have several certificates."
+  },
+  {
+    "source": "objectives",
+    "translation": "目标 - n - We need to set clear objectives."
+  },
+  {
+    "source": "stations",
+    "translation": "站点 - n - There are many train stations in the city."
+  },
+  {
+    "source": "suggested",
+    "translation": "建议的(suggest的过去式) - v - The doctor suggested some exercises."
+  },
+  {
+    "source": "gps",
+    "translation": "全球定位系统(Global Positioning System的缩写) - n - I use GPS to navigate."
+  },
+  {
+    "source": "op",
+    "translation": "操作/原创发帖人(operation/original poster的缩写) - n - The OP asked a good question in the forum."
+  },
+  {
+    "source": "remains",
+    "translation": "遗迹/保持(remain的第三人称单数) - n/v - The ruins remains a popular tourist attraction."
+  },
+  {
+    "source": "acc",
+    "translation": "账户/加速度(account/acceleration的缩写) - n - I need to check my ACC balance."
+  },
+  {
+    "source": "greatest",
+    "translation": "最伟大的(great的最高级) - adj - He is one of the greatest musicians of all time."
+  },
+  {
+    "source": "firms",
+    "translation": "公司 - n - There are many law firms in the city."
+  },
+  {
+    "source": "concerned",
+    "translation": "关心的(concern的过去式) - adj - We are concerned about the environment."
+  },
+  {
+    "source": "euro",
+    "translation": "欧元 - n - The euro is the currency of many European countries."
+  },
+  {
+    "source": "operator",
+    "translation": "操作员 - n - The machine operator is very skilled."
+  },
+  {
+    "source": "structures",
+    "translation": "结构 - n - The building has unique structures."
+  },
+  {
+    "source": "generic",
+    "translation": "通用的 - adj - The medicine is a generic brand."
+  },
+  {
+    "source": "encyclopedia",
+    "translation": "百科全书 - n - I love reading encyclopedias."
+  },
+  {
+    "source": "usage",
+    "translation": "用法 - n - The correct usage of this word is important."
+  },
+  {
+    "source": "cap",
+    "translation": "帽子/上限 - n - He wore a baseball cap."
+  },
+  {
+    "source": "ink",
+    "translation": "墨水 - n - I need to buy more ink for my printer."
+  },
+  {
+    "source": "charts",
+    "translation": "图表 - n - The charts show the company's sales trends."
+  },
+  {
+    "source": "continuing",
+    "translation": "继续的(continue的现在分词) - v - We are continuing our research."
+  },
+  {
+    "source": "mixed",
+    "translation": "混合的 - adj - The salad has a mixed of vegetables."
+  },
+  {
+    "source": "census",
+    "translation": "人口普查 - n - The census is conducted every ten years."
+  },
+  {
+    "source": "interracial",
+    "translation": "跨种族的 - adj - Interracial relationships are becoming more common."
+  },
+  {
+    "source": "peak",
+    "translation": "峰值/山峰 - n - The mountain has a beautiful peak."
+  },
+  {
+    "source": "tn",
+    "translation": "田纳西州(Tennessee的缩写) - n - TN is known for its country music."
+  },
+  {
+    "source": "competitive",
+    "translation": "竞争的 - adj - The market is very competitive."
+  },
+  {
+    "source": "exist",
+    "translation": "存在 - v - Does life exist on other planets?"
+  },
+  {
+    "source": "wheel",
+    "translation": "轮子 - n - The car has four wheels."
+  },
+  {
+    "source": "transit",
+    "translation": "运输/过境 - n - The public transit system is convenient."
+  },
+  {
+    "source": "suppliers",
+    "translation": "供应商 - n - The company has reliable suppliers."
+  },
+  {
+    "source": "salt",
+    "translation": "盐 - n - Salt is an essential ingredient in cooking."
+  },
+  {
+    "source": "compact",
+    "translation": "紧凑的 - adj - The car is very compact."
+  },
+  {
+    "source": "poetry",
+    "translation": "诗歌 - n - I enjoy reading poetry."
+  },
+  {
+    "source": "lights",
+    "translation": "灯光 - n - The Christmas lights are very beautiful."
+  },
+  {
+    "source": "tracking",
+    "translation": "跟踪 - n - We are tracking the shipment."
+  },
+  {
+    "source": "angel",
+    "translation": "天使 - n - Angels are often depicted as beautiful beings."
+  },
+  {
+    "source": "bell",
+    "translation": "铃铛 - n - The bell rang loudly."
+  },
+  {
+    "source": "keeping",
+    "translation": "保持(keep的现在分词) - v - She is good at keeping secrets."
+  },
+  {
+    "source": "preparation",
+    "translation": "准备 - n - Preparation is key to success."
+  },
+  {
+    "source": "attempt",
+    "translation": "尝试 - n/v - He made an attempt to solve the problem."
+  },
+  {
+    "source": "receiving",
+    "translation": "接收(receive的现在分词) - v - I am looking forward to receiving your letter."
+  },
+  {
+    "source": "matches",
+    "translation": "火柴/比赛 - n - He has a box of matches."
+  },
+  {
+    "source": "accordance",
+    "translation": "符合 - n - We should act in accordance with the law."
+  },
+  {
+    "source": "width",
+    "translation": "宽度 - n - The table is two meters in width."
+  },
+  {
+    "source": "noise",
+    "translation": "噪音 - n - The noise from the construction site is very loud."
+  },
+  {
+    "source": "engines",
+    "translation": "发动机 - n - The airplane has powerful engines."
+  },
+  {
+    "source": "forget",
+    "translation": "忘记 - v - I always forget my keys."
+  },
+  {
+    "source": "array",
+    "translation": "数组/排列 - n - The store has an array of products."
+  },
+  {
+    "source": "discussed",
+    "translation": "讨论的(discuss的过去式) - v - We discussed the issue at length."
+  },
+  {
+    "source": "accurate",
+    "translation": "准确的 - adj - The measurement needs to be accurate."
+  },
+  {
+    "source": "stephen",
+    "translation": "斯蒂芬(人名) - n - Stephen is a good friend of mine."
+  },
+  {
+    "source": "elizabeth",
+    "translation": "伊丽莎白(人名) - n - Elizabeth is a popular name."
+  },
+  {
+    "source": "climate",
+    "translation": "气候 - n - The climate is changing."
+  },
+  {
+    "source": "reservations",
+    "translation": "预订 - n - I made reservations at the restaurant."
+  },
+  {
+    "source": "pin",
+    "translation": "别针/密码 - n - I need to remember my PIN number."
+  },
+  {
+    "source": "playstation",
+    "translation": "PlayStation(游戏机) - n - I like playing games on my Playstation."
+  },
+  {
+    "source": "alcohol",
+    "translation": "酒精 - n - Excessive consumption of alcohol is harmful."
+  },
+  {
+    "source": "greek",
+    "translation": "希腊的 - adj - I am interested in Greek mythology."
+  },
+  {
+    "source": "instruction",
+    "translation": "指示 - n - Follow the instructions carefully."
+  },
+  {
+    "source": "managing",
+    "translation": "管理(manage的现在分词) - v - He is good at managing people."
+  },
+  {
+    "source": "annotation",
+    "translation": "注释 - n - The book has detailed annotations."
+  },
+  {
+    "source": "sister",
+    "translation": "姐妹 - n - My sister is very kind."
+  },
+  {
+    "source": "raw",
+    "translation": "生的/原始的 - adj - Raw materials are used in manufacturing."
+  },
+  {
+    "source": "differences",
+    "translation": "差异 - n - There are many differences between the two cultures."
+  },
   {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
