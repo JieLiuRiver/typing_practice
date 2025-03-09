@@ -400,6 +400,402 @@
     "translation": "阅读 - v - I like to read novels."
   },
   {
+    "source": "group",
+    "translation": "小组 - n - I am in a study group."
+  },
+  {
+    "source": "sex",
+    "translation": "性别 - n - We should respect people of all sexes."
+  },
+  {
+    "source": "need",
+    "translation": "需要 - v/n - I need a cup of coffee."
+  },
+  {
+    "source": "many",
+    "translation": "许多 - adj - There are many people in the park."
+  },
+  {
+    "source": "user",
+    "translation": "用户 - n - The user interface is very friendly."
+  },
+  {
+    "source": "said",
+    "translation": "说 - v - She said she would come."
+  },
+  {
+    "source": "de",
+    "translation": "的 - prep - I don't know the meaning of \"de\"."
+  },
+  {
+    "source": "does",
+    "translation": "做 - v - Does he like apples?"
+  },
+  {
+    "source": "set",
+    "translation": "设置 - v/n - I set the table for dinner."
+  },
+  {
+    "source": "under",
+    "translation": "在...下面 - prep - The cat is under the table."
+  },
+  {
+    "source": "general",
+    "translation": "一般的 - adj - In general, I like reading."
+  },
+  {
+    "source": "research",
+    "translation": "研究 - n/v - I am doing research on this topic."
+  },
+  {
+    "source": "university",
+    "translation": "大学 - n - I study at a university."
+  },
+  {
+    "source": "january",
+    "translation": "一月 - n - January is a cold month."
+  },
+  {
+    "source": "mail",
+    "translation": "邮件 - n - I check my mail every day."
+  },
+  {
+    "source": "full",
+    "translation": "满的 - adj - The glass is full of water."
+  },
+  {
+    "source": "map",
+    "translation": "地图 - n - I use a map to find my way."
+  },
+  {
+    "source": "reviews",
+    "translation": "评论 - n - I read the reviews before buying the product."
+  },
+  {
+    "source": "program",
+    "translation": "节目/程序 - n - I am watching a TV program."
+  },
+  {
+    "source": "life",
+    "translation": "生活 - n - Life is full of surprises."
+  },
+  {
+    "source": "know",
+    "translation": "知道 - v - I know how to swim."
+  },
+  {
+    "source": "games",
+    "translation": "游戏 - n - I like playing video games."
+  },
+  {
+    "source": "way",
+    "translation": "方式/路 - n - This is the way to the station."
+  },
+  {
+    "source": "days",
+    "translation": "天 - n - There are seven days in a week."
+  },
+  {
+    "source": "management",
+    "translation": "管理 - n - Good management is important for a company."
+  },
+  {
+    "source": "part",
+    "translation": "部分 - n - This is an important part of the project."
+  },
+  {
+    "source": "could",
+    "translation": "可以 - v - I could help you if you need."
+  },
+  {
+    "source": "great",
+    "translation": "很棒的 - adj - This is a great movie."
+  },
+  {
+    "source": "united",
+    "translation": "联合的 - adj - The United States is a big country."
+  },
+  {
+    "source": "hotel",
+    "translation": "酒店 - n - I am staying at a hotel."
+  },
+  {
+    "source": "real",
+    "translation": "真实的 - adj - This is a real diamond."
+  },
+  {
+    "source": "item",
+    "translation": "物品 - n - I bought some items at the store."
+  },
+  {
+    "source": "international",
+    "translation": "国际的 - adj - The conference is an international event."
+  },
+  {
+    "source": "center",
+    "translation": "中心 - n - The shopping center is very busy."
+  },
+  {
+    "source": "ebay",
+    "translation": "易贝 - n - I often buy things on Ebay."
+  },
+  {
+    "source": "must",
+    "translation": "必须 - v - You must finish your homework."
+  },
+  {
+    "source": "store",
+    "translation": "商店 - n - I go to the store to buy some food."
+  },
+  {
+    "source": "travel",
+    "translation": "旅行 - v/n - I like to travel around the world."
+  },
+  {
+    "source": "comments",
+    "translation": "评论 - n - I read the comments on the article."
+  },
+  {
+    "source": "made",
+    "translation": "制作 - v - This cake is made by my mother."
+  },
+  {
+    "source": "development",
+    "translation": "发展 - n - The city has seen rapid development."
+  },
+  {
+    "source": "report",
+    "translation": "报告 - n - I need to write a report."
+  },
+  {
+    "source": "off",
+    "translation": "关闭 - adv - Turn off the light."
+  },
+  {
+    "source": "member",
+    "translation": "成员 - n - I am a member of this club."
+  },
+  {
+    "source": "details",
+    "translation": "细节 - n - Please provide more details."
+  },
+  {
+    "source": "line",
+    "translation": "线/队伍 - n - Stand in line."
+  },
+  {
+    "source": "terms",
+    "translation": "条款 - n - I need to understand the terms and conditions."
+  },
+  {
+    "source": "before",
+    "translation": "在...之前 - prep - I finish my work before dinner."
+  },
+  {
+    "source": "hotels",
+    "translation": "酒店 - n - There are many hotels in this city."
+  },
+  {
+    "source": "did",
+    "translation": "做了 - v - Did you go to the party?"
+  },
+  {
+    "source": "send",
+    "translation": "发送 - v - I will send you an email."
+  },
+  {
+    "source": "right",
+    "translation": "正确的 - adj - You are right."
+  },
+  {
+    "source": "type",
+    "translation": "类型 - n - What type of music do you like?"
+  },
+  {
+    "source": "because",
+    "translation": "因为 - conj - I like this book because it is very interesting."
+  },
+  {
+    "source": "local",
+    "translation": "当地的 - adj - I like to eat at local restaurants."
+  },
+  {
+    "source": "those",
+    "translation": "那些 - pron - Those books are mine."
+  },
+  {
+    "source": "using",
+    "translation": "使用 - v - I am using a computer."
+  },
+  {
+    "source": "results",
+    "translation": "结果 - n - The results of the exam are out."
+  },
+  {
+    "source": "office",
+    "translation": "办公室 - n - I work in an office."
+  },
+  {
+    "source": "education",
+    "translation": "教育 - n - Education is very important."
+  },
+  {
+    "source": "national",
+    "translation": "国家的 - adj - The national flag is beautiful."
+  },
+  {
+    "source": "car",
+    "translation": "汽车 - n - I want to buy a new car."
+  },
+  {
+    "source": "design",
+    "translation": "设计 - n/v - The design of this building is very unique."
+  },
+  {
+    "source": "take",
+    "translation": "拿/乘坐 - v - I will take a bus to school."
+  },
+  {
+    "source": "posted",
+    "translation": "发布 - v - The notice was posted on the wall."
+  },
+  {
+    "source": "internet",
+    "translation": "互联网 - n - I use the internet every day."
+  },
+  {
+    "source": "address",
+    "translation": "地址 - n - What's your address?"
+  },
+  {
+    "source": "community",
+    "translation": "社区 - n - I live in a friendly community."
+  },
+  {
+    "source": "within",
+    "translation": "在...之内 - prep - I will finish the work within two days."
+  },
+  {
+    "source": "states",
+    "translation": "州 - n - The United States has 50 states."
+  },
+  {
+    "source": "area",
+    "translation": "区域 - n - This area is very quiet."
+  },
+  {
+    "source": "want",
+    "translation": "想要 - v - I want to go on a vacation."
+  },
+  {
+    "source": "phone",
+    "translation": "电话 - n - I use my phone to call my friends."
+  },
+  {
+    "source": "dvd",
+    "translation": "DVD - n - I watched a DVD last night."
+  },
+  {
+    "source": "shipping",
+    "translation": "运输 - n - The shipping cost is high."
+  },
+  {
+    "source": "reserved",
+    "translation": "预留的 - adj - This seat is reserved."
+  },
+  {
+    "source": "subject",
+    "translation": "科目 - n - My favorite subject is English."
+  },
+  {
+    "source": "between",
+    "translation": "在...之间 - prep - There is a park between my house and the school."
+  },
+  {
+    "source": "forum",
+    "translation": "论坛 - n - I often participate in online forums."
+  },
+  {
+    "source": "family",
+    "translation": "家庭 - n - I love my family."
+  },
+  {
+    "source": "long",
+    "translation": "长的 - adj - The journey is very long."
+  },
+  {
+    "source": "based",
+    "translation": "基于 - v - The company is based in New York."
+  },
+  {
+    "source": "code",
+    "translation": "代码/密码 - n - I need to enter the access code."
+  },
+  {
+    "source": "show",
+    "translation": "表演/展示 - n/v - The show was very entertaining."
+  },
+  {
+    "source": "even",
+    "translation": "即使 - adv - Even though it was raining, we went out."
+  },
+  {
+    "source": "black",
+    "translation": "黑色的 - adj - I like wearing black clothes."
+  },
+  {
+    "source": "check",
+    "translation": "检查 - v/n - Please check your answers carefully."
+  },
+  {
+    "source": "special",
+    "translation": "特殊的 - adj - This is a special occasion."
+  },
+  {
+    "source": "prices",
+    "translation": "价格 - n - The prices of goods are rising."
+  },
+  {
+    "source": "website",
+    "translation": "网站 - n - I often visit this website."
+  },
+  {
+    "source": "index",
+    "translation": "索引 - n - Look up the word in the index."
+  },
+  {
+    "source": "being",
+    "translation": "存在 - n - Being kind to others is important."
+  },
+  {
+    "source": "women",
+    "translation": "女性 - n - Women play an important role in society."
+  },
+  {
+    "source": "much",
+    "translation": "很多 - adj - I have much work to do."
+  },
+  {
+    "source": "sign",
+    "translation": "标志 - n - I saw a sign on the road."
+  },
+  {
+    "source": "file",
+    "translation": "文件 - n - I need to save this file."
+  },
+  {
+    "source": "link",
+    "translation": "链接 - n - Click on the link to access the website."
+  },
+  {
+    "source": "open",
+    "translation": "打开 - v - Open the window."
+  },
+  {
+    "source": "today",
+    "translation": "今天 - n - Today is a beautiful day."
+  },
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
