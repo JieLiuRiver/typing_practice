@@ -796,6 +796,410 @@
     "translation": "今天 - n - Today is a beautiful day."
   },
   {
+    "source": "technology",
+    "translation": "科技 - n - Technology has changed our lives."
+  },
+  {
+    "source": "south",
+    "translation": "南方 - n - I want to travel to the south."
+  },
+  {
+    "source": "case",
+    "translation": "情况 - n - In this case, we need to take action."
+  },
+  {
+    "source": "project",
+    "translation": "项目 - n - I am working on a new project."
+  },
+  {
+    "source": "same",
+    "translation": "相同的 - adj - We have the same hobby."
+  },
+  {
+    "source": "pages",
+    "translation": "页 - n - I read many pages of the book."
+  },
+  {
+    "source": "uk",
+    "translation": "英国 - n - I want to visit the UK."
+  },
+  {
+    "source": "version",
+    "translation": "版本 - n - This is the latest version of the software."
+  },
+  {
+    "source": "section",
+    "translation": "部分 - n - This section of the book is very interesting."
+  },
+  {
+    "source": "own",
+    "translation": "自己的 - adj - I have my own room."
+  },
+  {
+    "source": "found",
+    "translation": "发现 - v - I found a lost wallet."
+  },
+  {
+    "source": "sports",
+    "translation": "运动 - n - I like playing sports."
+  },
+  {
+    "source": "house",
+    "translation": "房子 - n - I live in a big house."
+  },
+  {
+    "source": "related",
+    "translation": "相关的 - adj - These two things are related."
+  },
+  {
+    "source": "security",
+    "translation": "安全 - n - We should pay attention to security."
+  },
+  {
+    "source": "both",
+    "translation": "两者都 - pron - Both of them are good students."
+  },
+  {
+    "source": "county",
+    "translation": "县 - n - I live in a beautiful county."
+  },
+  {
+    "source": "american",
+    "translation": "美国的 - adj - American culture is very diverse."
+  },
+  {
+    "source": "photo",
+    "translation": "照片 - n - I took a beautiful photo."
+  },
+  {
+    "source": "game",
+    "translation": "游戏 - n - I like playing video games."
+  },
+  {
+    "source": "members",
+    "translation": "成员 - n - There are many members in this club."
+  },
+  {
+    "source": "power",
+    "translation": "力量 - n - Knowledge is power."
+  },
+  {
+    "source": "while",
+    "translation": "当...的时候 - conj - While I was reading, he was watching TV."
+  },
+  {
+    "source": "care",
+    "translation": "关心 - n/v - We should take care of the environment."
+  },
+  {
+    "source": "network",
+    "translation": "网络 - n - The computer network is down."
+  },
+  {
+    "source": "down",
+    "translation": "坏了 - adv - The elevator is down."
+  },
+  {
+    "source": "computer",
+    "translation": "电脑 - n - I use a computer to work."
+  },
+  {
+    "source": "systems",
+    "translation": "系统 - n - The company has a good management system."
+  },
+  {
+    "source": "three",
+    "translation": "三 - num - I have three apples."
+  },
+  {
+    "source": "total",
+    "translation": "总计 - n/adj - The total cost is $100."
+  },
+  {
+    "source": "place",
+    "translation": "地方 - n - This is a good place to relax."
+  },
+  {
+    "source": "end",
+    "translation": "结束 - n - At the end of the movie, everyone was crying."
+  },
+  {
+    "source": "following",
+    "translation": "以下的 - adj - Please follow the following instructions."
+  },
+  {
+    "source": "download",
+    "translation": "下载 - v - I need to download this software."
+  },
+  {
+    "source": "him",
+    "translation": "他 - pron - I gave the book to him."
+  },
+  {
+    "source": "without",
+    "translation": "没有 - prep - I can't live without music."
+  },
+  {
+    "source": "per",
+    "translation": "每 - prep - The speed limit is 60 kilometers per hour."
+  },
+  {
+    "source": "access",
+    "translation": "接入 - n/v - I need access to the internet."
+  },
+  {
+    "source": "think",
+    "translation": "认为 - v - I think you are right."
+  },
+  {
+    "source": "north",
+    "translation": "北方 - n - I want to go to the north."
+  },
+  {
+    "source": "resources",
+    "translation": "资源 - n - We should make good use of natural resources."
+  },
+  {
+    "source": "current",
+    "translation": "当前的 - adj - The current situation is not good."
+  },
+  {
+    "source": "posts",
+    "translation": "帖子 - n - I read many posts on social media."
+  },
+  {
+    "source": "big",
+    "translation": "大的 - adj - This is a big city."
+  },
+  {
+    "source": "media",
+    "translation": "媒体 - n - Social media is very popular."
+  },
+  {
+    "source": "law",
+    "translation": "法律 - n - We should abide by the law."
+  },
+  {
+    "source": "control",
+    "translation": "控制 - v/n - We need to control our emotions."
+  },
+  {
+    "source": "water",
+    "translation": "水 - n - Water is essential for life."
+  },
+  {
+    "source": "history",
+    "translation": "历史 - n - I am interested in history."
+  },
+  {
+    "source": "pictures",
+    "translation": "照片 - n - I took many pictures on my trip."
+  },
+  {
+    "source": "size",
+    "translation": "大小 - n - What's the size of this room?"
+  },
+  {
+    "source": "art",
+    "translation": "艺术 - n - I love visiting art galleries."
+  },
+  {
+    "source": "personal",
+    "translation": "个人的 - adj - This is my personal opinion."
+  },
+  {
+    "source": "since",
+    "translation": "自从 - prep - I have known him since childhood."
+  },
+  {
+    "source": "including",
+    "translation": "包括 - prep - There are many fruits including apples and bananas."
+  },
+  {
+    "source": "guide",
+    "translation": "指南 - n - I need a travel guide."
+  },
+  {
+    "source": "shop",
+    "translation": "商店 - n - I like shopping in this store."
+  },
+  {
+    "source": "directory",
+    "translation": "目录 - n - Look up the phone number in the directory."
+  },
+  {
+    "source": "board",
+    "translation": "板/董事会 - n - The notice is on the bulletin board."
+  },
+  {
+    "source": "location",
+    "translation": "位置 - n - What's the location of the restaurant?"
+  },
+  {
+    "source": "change",
+    "translation": "改变/换 - v - I need to change my clothes."
+  },
+  {
+    "source": "white",
+    "translation": "白色的 - adj - The walls are painted white."
+  },
+  {
+    "source": "text",
+    "translation": "文本/短信 - n - I received a text message."
+  },
+  {
+    "source": "small",
+    "translation": "小的 - adj - This is a small town."
+  },
+  {
+    "source": "rating",
+    "translation": "评分 - n - The movie has a high rating."
+  },
+  {
+    "source": "rate",
+    "translation": "比率 - n - The interest rate is very low."
+  },
+  {
+    "source": "government",
+    "translation": "政府 - n - The government should take measures to solve the problem."
+  },
+  {
+    "source": "children",
+    "translation": "孩子们 - n - Children are the future of our country."
+  },
+  {
+    "source": "during",
+    "translation": "在...期间 - prep - I read a book during the flight."
+  },
+  {
+    "source": "usa",
+    "translation": "美国 - n - I want to travel to the USA."
+  },
+  {
+    "source": "return",
+    "translation": "返回/归还 - v - I will return the book to you tomorrow."
+  },
+  {
+    "source": "students",
+    "translation": "学生 - n - The students are having a class."
+  },
+  {
+    "source": "shopping",
+    "translation": "购物 - n - I enjoy shopping on weekends."
+  },
+  {
+    "source": "account",
+    "translation": "账户 - n - I need to check my bank account."
+  },
+  {
+    "source": "times",
+    "translation": "次数 - n - I have read this book several times."
+  },
+  {
+    "source": "sites",
+    "translation": "网站/景点 - n - There are many beautiful tourist sites."
+  },
+  {
+    "source": "level",
+    "translation": "水平 - n - My English level is intermediate."
+  },
+  {
+    "source": "digital",
+    "translation": "数字的 - adj - We live in a digital age."
+  },
+  {
+    "source": "profile",
+    "translation": "资料 - n - I updated my social media profile."
+  },
+  {
+    "source": "previous",
+    "translation": "以前的 - adj - The previous chapter was very interesting."
+  },
+  {
+    "source": "form",
+    "translation": "表格 - n - Please fill out this form."
+  },
+  {
+    "source": "events",
+    "translation": "事件 - n - There are many events happening this week."
+  },
+  {
+    "source": "love",
+    "translation": "爱 - n/v - I love my family."
+  },
+  {
+    "source": "old",
+    "translation": "老的 - adj - This is an old house."
+  },
+  {
+    "source": "john",
+    "translation": "约翰 - n - John is my friend."
+  },
+  {
+    "source": "main",
+    "translation": "主要的 - adj - The main idea of the article is clear."
+  },
+  {
+    "source": "call",
+    "translation": "打电话 - v - I will call you later."
+  },
+  {
+    "source": "hours",
+    "translation": "小时 - n - The store is open for eight hours a day."
+  },
+  {
+    "source": "image",
+    "translation": "图像 - n - The image is very beautiful."
+  },
+  {
+    "source": "department",
+    "translation": "部门 - n - I work in the sales department."
+  },
+  {
+    "source": "title",
+    "translation": "标题 - n - What's the title of the book?"
+  },
+  {
+    "source": "description",
+    "translation": "描述 - n - Please write a description of the picture."
+  },
+  {
+    "source": "non",
+    "translation": "非 - prefix - This is a non-smoking area."
+  },
+  {
+    "source": "insurance",
+    "translation": "保险 - n - I need to buy health insurance."
+  },
+  {
+    "source": "another",
+    "translation": "另一个 - adj - I want another cup of coffee."
+  },
+  {
+    "source": "why",
+    "translation": "为什么 - adv - Why are you late?"
+  },
+  {
+    "source": "shall",
+    "translation": "将要 - v - Shall we go for a walk?"
+  },
+  {
+    "source": "property",
+    "translation": "财产 - n - This house is his property."
+  },
+  {
+    "source": "class",
+    "translation": "班级/课 - n - I have a math class in the morning."
+  },
+  {
+    "source": "cd",
+    "translation": "光盘 - n - I listen to music on CD."
+  },
+  {
+    "source": "still",
+    "translation": "仍然 - adv - I am still waiting for you."
+  },
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
