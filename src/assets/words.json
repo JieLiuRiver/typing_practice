@@ -10916,6 +10916,806 @@
     "translation": "报酬 - n - The employees received fair compensation."
   },
   {
+    "source": "export",
+    "translation": "出口 - v/n - The company exports goods to many countries."
+  },
+  {
+    "source": "managers",
+    "translation": "经理(manager的复数) - n - The managers held a meeting to discuss the new strategy."
+  },
+  {
+    "source": "aircraft",
+    "translation": "飞机 - n - The aircraft took off on time."
+  },
+  {
+    "source": "modules",
+    "translation": "模块 - n - The software consists of several modules."
+  },
+  {
+    "source": "sweden",
+    "translation": "瑞典 - n - Sweden is known for its beautiful landscapes."
+  },
+  {
+    "source": "conflict",
+    "translation": "冲突 - n - There is a conflict between the two departments."
+  },
+  {
+    "source": "conducted",
+    "translation": "进行的(conduct的过去式) - v - The scientist conducted an experiment."
+  },
+  {
+    "source": "versions",
+    "translation": "版本(version的复数) - n - There are several versions of this software available."
+  },
+  {
+    "source": "employer",
+    "translation": "雇主 - n - My employer provides good benefits."
+  },
+  {
+    "source": "occur",
+    "translation": "发生 - v - Accidents can occur at any time."
+  },
+  {
+    "source": "percentage",
+    "translation": "百分比 - n - A high percentage of students passed the exam."
+  },
+  {
+    "source": "knows",
+    "translation": "知道(know的第三人称单数) - v - He knows the answer to the question."
+  },
+  {
+    "source": "mississippi",
+    "translation": "密西西比州 - n - The Mississippi River is one of the longest rivers in the US."
+  },
+  {
+    "source": "describe",
+    "translation": "描述 - v - Can you describe what happened?"
+  },
+  {
+    "source": "concern",
+    "translation": "担忧/关心 - n/v - I have concerns about the project."
+  },
+  {
+    "source": "backup",
+    "translation": "备份 - n/v - Always create a backup of important files."
+  },
+  {
+    "source": "requested",
+    "translation": "请求的(request的过去式) - v - The information was requested by the manager."
+  },
+  {
+    "source": "citizens",
+    "translation": "公民(citizen的复数) - n - All citizens have the right to vote."
+  },
+  {
+    "source": "connecticut",
+    "translation": "康涅狄格州 - n - Connecticut is a state in the northeastern United States."
+  },
+  {
+    "source": "heritage",
+    "translation": "遗产/传统 - n - The building is part of our cultural heritage."
+  },
+  {
+    "source": "personals",
+    "translation": "个人广告 - n - He met his wife through the personals section of a newspaper."
+  },
+  {
+    "source": "immediate",
+    "translation": "立即的 - adj - We need an immediate response to this issue."
+  },
+  {
+    "source": "holding",
+    "translation": "持有(hold的现在分词) - v - She was holding a book in her hand."
+  },
+  {
+    "source": "trouble",
+    "translation": "麻烦 - n - He got into trouble at school."
+  },
+  {
+    "source": "spread",
+    "translation": "传播/蔓延 - v/n - The disease spread quickly through the population."
+  },
+  {
+    "source": "coach",
+    "translation": "教练 - n - The coach gave the team a pep talk before the game."
+  },
+  {
+    "source": "kevin",
+    "translation": "凯文(人名) - n - Kevin is a common name in English-speaking countries."
+  },
+  {
+    "source": "agricultural",
+    "translation": "农业的 - adj - Agricultural products are an important export for many countries."
+  },
+  {
+    "source": "expand",
+    "translation": "扩展 - v - The company plans to expand its operations next year."
+  },
+  {
+    "source": "supporting",
+    "translation": "支持(support的现在分词) - v - She is supporting her family by working two jobs."
+  },
+  {
+    "source": "audience",
+    "translation": "观众 - n - The audience applauded at the end of the performance."
+  },
+  {
+    "source": "assigned",
+    "translation": "分配的(assign的过去式) - v - The teacher assigned homework to the students."
+  },
+  {
+    "source": "jordan",
+    "translation": "约旦/乔丹(国家/人名) - n - Jordan is a country in the Middle East./Michael Jordan is a famous basketball player."
+  },
+  {
+    "source": "collections",
+    "translation": "收藏(collection的复数) - n - The museum has impressive collections of ancient artifacts."
+  },
+  {
+    "source": "ages",
+    "translation": "年龄(age的复数) - n - Children of all ages enjoy this movie."
+  },
+  {
+    "source": "participate",
+    "translation": "参与 - v - Everyone is encouraged to participate in the discussion."
+  },
+  {
+    "source": "plug",
+    "translation": "插头/插入 - n/v - The plug fits into the socket./Please plug in the computer."
+  },
+  {
+    "source": "specialist",
+    "translation": "专家 - n - She is a specialist in heart disease."
+  },
+  {
+    "source": "cook",
+    "translation": "烹饪/厨师 - v/n - I like to cook Italian food./He works as a cook in a restaurant."
+  },
+  {
+    "source": "affect",
+    "translation": "影响 - v - The weather can affect your mood."
+  },
+  {
+    "source": "virgin",
+    "translation": "处女/原始的 - n/adj - Virgin forests are those that have never been cut down."
+  },
+  {
+    "source": "experienced",
+    "translation": "有经验的(experience的过去式) - adj - She is an experienced teacher."
+  },
+  {
+    "source": "investigation",
+    "translation": "调查 - n - The police conducted an investigation into the robbery."
+  },
+  {
+    "source": "raised",
+    "translation": "提高的/养育的(raise的过去式) - v - They raised money for charity./She was raised in a small town."
+  },
+  {
+    "source": "hat",
+    "translation": "帽子 - n - He wore a hat to protect himself from the sun."
+  },
+  {
+    "source": "institution",
+    "translation": "机构 - n - The university is a respected academic institution."
+  },
+  {
+    "source": "directed",
+    "translation": "指导的(direct的过去式) - v - The film was directed by a famous director."
+  },
+  {
+    "source": "dealers",
+    "translation": "经销商(dealer的复数) - n - Car dealers sell new and used vehicles."
+  },
+  {
+    "source": "searching",
+    "translation": "搜索(search的现在分词) - v - I spent hours searching for my lost keys."
+  },
+  {
+    "source": "sporting",
+    "translation": "体育的 - adj - The school has excellent sporting facilities."
+  },
+  {
+    "source": "helping",
+    "translation": "帮助(help的现在分词) - v - She is helping her friend with homework."
+  },
+  {
+    "source": "perl",
+    "translation": "Perl(编程语言) - n - Perl is a programming language used for text processing."
+  },
+  {
+    "source": "affected",
+    "translation": "受影响的(affect的过去式) - v - The storm affected many coastal areas."
+  },
+  {
+    "source": "lib",
+    "translation": "库/图书馆(library的缩写) - n - The program includes several lib files."
+  },
+  {
+    "source": "bike",
+    "translation": "自行车 - n - I ride my bike to work every day."
+  },
+  {
+    "source": "totally",
+    "translation": "完全地 - adv - I totally agree with your opinion."
+  },
+  {
+    "source": "plate",
+    "translation": "盘子 - n - She put the food on a plate."
+  },
+  {
+    "source": "expenses",
+    "translation": "费用 - n - Business expenses can be deducted from taxes."
+  },
+  {
+    "source": "indicate",
+    "translation": "表明 - v - The results indicate a positive trend."
+  },
+  {
+    "source": "blonde",
+    "translation": "金发的 - adj - She has blonde hair."
+  },
+  {
+    "source": "ab",
+    "translation": "腹肌(abdominal muscles的缩写) - n - He does exercises to strengthen his abs."
+  },
+  {
+    "source": "proceedings",
+    "translation": "会议记录/诉讼 - n - The proceedings of the conference were published."
+  },
+  {
+    "source": "favourite",
+    "translation": "最喜爱的(英式拼法) - adj - What's your favourite color?"
+  },
+  {
+    "source": "transmission",
+    "translation": "传输/变速器 - n - The car has automatic transmission."
+  },
+  {
+    "source": "anderson",
+    "translation": "安德森(姓氏) - n - Anderson is a common surname."
+  },
+  {
+    "source": "utc",
+    "translation": "协调世界时(Coordinated Universal Time的缩写) - n - The meeting is scheduled for 3:00 PM UTC."
+  },
+  {
+    "source": "characteristics",
+    "translation": "特征 - n - The product has many unique characteristics."
+  },
+  {
+    "source": "der",
+    "translation": "的(德语中的定冠词，阳性) - article - Der Mann ist groß.(这个男人很高。)"
+  },
+  {
+    "source": "lose",
+    "translation": "失去 - v - Don't lose your keys."
+  },
+  {
+    "source": "organic",
+    "translation": "有机的 - adj - I prefer to eat organic vegetables."
+  },
+  {
+    "source": "seek",
+    "translation": "寻求 - v - They seek a peaceful solution to the conflict."
+  },
+  {
+    "source": "experiences",
+    "translation": "经历(experience的复数) - n - She wrote a book about her experiences in Africa."
+  },
+  {
+    "source": "albums",
+    "translation": "专辑(album的复数) - n - The band has released several albums."
+  },
+  {
+    "source": "cheats",
+    "translation": "作弊(cheat的第三人称单数) - v - He cheats at card games."
+  },
+  {
+    "source": "extremely",
+    "translation": "极其 - adv - The test was extremely difficult."
+  },
+  {
+    "source": "verzeichnis",
+    "translation": "目录(德语) - n - Das Verzeichnis enthält alle Dateien.(该目录包含所有文件。)"
+  },
+  {
+    "source": "contracts",
+    "translation": "合同(contract的复数) - n - The company signed several contracts last month."
+  },
+  {
+    "source": "guests",
+    "translation": "客人(guest的复数) - n - We have invited many guests to the party."
+  },
+  {
+    "source": "hosted",
+    "translation": "主办的(host的过去式) - v - She hosted a dinner party last weekend."
+  },
+  {
+    "source": "diseases",
+    "translation": "疾病(disease的复数) - n - The doctor specializes in treating tropical diseases."
+  },
+  {
+    "source": "concerning",
+    "translation": "关于/令人担忧的 - prep/adj - He made a statement concerning the new policy./The situation is very concerning."
+  },
+  {
+    "source": "developers",
+    "translation": "开发者(developer的复数) - n - Software developers work on creating new applications."
+  },
+  {
+    "source": "equivalent",
+    "translation": "相等的 - adj - The euro is not equivalent to the dollar in value."
+  },
+  {
+    "source": "chemistry",
+    "translation": "化学 - n - She studies chemistry at university."
+  },
+  {
+    "source": "tony",
+    "translation": "托尼(人名) - n - Tony is a common nickname for Anthony."
+  },
+  {
+    "source": "neighborhood",
+    "translation": "社区 - n - I live in a friendly neighborhood."
+  },
+  {
+    "source": "nevada",
+    "translation": "内华达州 - n - Las Vegas is in Nevada."
+  },
+  {
+    "source": "kits",
+    "translation": "工具包(kit的复数) - n - The store sells first aid kits."
+  },
+  {
+    "source": "thailand",
+    "translation": "泰国 - n - Thailand is known for its beautiful beaches."
+  },
+  {
+    "source": "variables",
+    "translation": "变量 - n - In programming, variables store data values."
+  },
+  {
+    "source": "agenda",
+    "translation": "议程 - n - The meeting agenda includes several important topics."
+  },
+  {
+    "source": "anyway",
+    "translation": "无论如何 - adv - It's raining, but I'm going out anyway."
+  },
+  {
+    "source": "continues",
+    "translation": "继续(continue的第三人称单数) - v - The story continues in the next chapter."
+  },
+  {
+    "source": "tracks",
+    "translation": "轨道/足迹 - n - The train runs on these tracks./We followed the animal tracks in the snow."
+  },
+  {
+    "source": "advisory",
+    "translation": "咨询的 - adj - The committee serves in an advisory capacity."
+  },
+  {
+    "source": "cam",
+    "translation": "摄像头 - n - The laptop has a built-in cam."
+  },
+  {
+    "source": "curriculum",
+    "translation": "课程 - n - The school has updated its curriculum."
+  },
+  {
+    "source": "logic",
+    "translation": "逻辑 - n - His argument lacks logic."
+  },
+  {
+    "source": "template",
+    "translation": "模板 - n - I used a template to create the website."
+  },
+  {
+    "source": "prince",
+    "translation": "王子 - n - The prince will one day become king."
+  },
+  {
+    "source": "circle",
+    "translation": "圆圈 - n - Draw a circle on the paper."
+  },
+  {
+    "source": "soil",
+    "translation": "土壤 - n - The soil in this region is very fertile."
+  },
+  {
+    "source": "grants",
+    "translation": "补助金(grant的复数) - n - The university offers research grants to students."
+  },
+  {
+    "source": "anywhere",
+    "translation": "任何地方 - adv - You can find this product anywhere."
+  },
+  {
+    "source": "psychology",
+    "translation": "心理学 - n - She is studying psychology at university."
+  },
+  {
+    "source": "responses",
+    "translation": "回应(response的复数) - n - We received many positive responses to our survey."
+  },
+  {
+    "source": "atlantic",
+    "translation": "大西洋的 - adj - The Atlantic Ocean separates Europe from North America."
+  },
+  {
+    "source": "wet",
+    "translation": "湿的 - adj - Be careful, the floor is wet."
+  },
+  {
+    "source": "circumstances",
+    "translation": "情况 - n - Under the circumstances, we had to cancel the event."
+  },
+  {
+    "source": "edward",
+    "translation": "爱德华(人名) - n - Edward is my neighbor."
+  },
+  {
+    "source": "investor",
+    "translation": "投资者 - n - He is a successful investor in the stock market."
+  },
+  {
+    "source": "identification",
+    "translation": "身份证明 - n - You need to show identification to enter the building."
+  },
+  {
+    "source": "ram",
+    "translation": "内存/公羊 - n - This computer has 16GB of RAM./The ram has large curved horns."
+  },
+  {
+    "source": "leaving",
+    "translation": "离开(leave的现在分词) - v - We are leaving for the airport in an hour."
+  },
+  {
+    "source": "wildlife",
+    "translation": "野生动物 - n - The park is home to diverse wildlife."
+  },
+  {
+    "source": "appliances",
+    "translation": "电器(appliance的复数) - n - The store sells kitchen appliances."
+  },
+  {
+    "source": "matt",
+    "translation": "马特(人名) - n - Matt is coming to the party tonight."
+  },
+  {
+    "source": "elementary",
+    "translation": "基本的/小学的 - adj - These are elementary concepts in mathematics."
+  },
+  {
+    "source": "cooking",
+    "translation": "烹饪(cook的现在分词) - v - I enjoy cooking Italian food."
+  },
+  {
+    "source": "speaking",
+    "translation": "说话(speak的现在分词) - v - She is good at public speaking."
+  },
+  {
+    "source": "sponsors",
+    "translation": "赞助商(sponsor的复数) - n - The event has several corporate sponsors."
+  },
+  {
+    "source": "fox",
+    "translation": "狐狸 - n - The fox is known for being clever."
+  },
+  {
+    "source": "unlimited",
+    "translation": "无限的 - adj - The plan offers unlimited data."
+  },
+  {
+    "source": "respond",
+    "translation": "回应 - v - Please respond to my email as soon as possible."
+  },
+  {
+    "source": "sizes",
+    "translation": "尺寸(size的复数) - n - This shirt comes in different sizes."
+  },
+  {
+    "source": "plain",
+    "translation": "平原/朴素的 - n/adj - The house is on a vast plain./She prefers plain designs."
+  },
+  {
+    "source": "exit",
+    "translation": "出口 - n - The emergency exit is at the back of the building."
+  },
+  {
+    "source": "entered",
+    "translation": "进入的(enter的过去式) - v - He entered the room quietly."
+  },
+  {
+    "source": "iran",
+    "translation": "伊朗 - n - Iran is a country in the Middle East."
+  },
+  {
+    "source": "arm",
+    "translation": "手臂 - n - He broke his arm in the accident."
+  },
+  {
+    "source": "keys",
+    "translation": "钥匙(key的复数) - n - I lost my car keys yesterday."
+  },
+  {
+    "source": "launch",
+    "translation": "发射/推出 - v - The company will launch a new product next month."
+  },
+  {
+    "source": "wave",
+    "translation": "波浪 - n - The surfer rode the big wave."
+  },
+  {
+    "source": "checking",
+    "translation": "检查(check的现在分词) - v - I am checking my email."
+  },
+  {
+    "source": "costa",
+    "translation": "科斯塔(人名/地名) - n - Costa Rica is a country in Central America."
+  },
+  {
+    "source": "belgium",
+    "translation": "比利时 - n - Belgium is famous for its chocolate."
+  },
+  {
+    "source": "printable",
+    "translation": "可打印的 - adj - The document is in a printable format."
+  },
+  {
+    "source": "holy",
+    "translation": "神圣的 - adj - Jerusalem is a holy city for many religions."
+  },
+  {
+    "source": "acts",
+    "translation": "行为(act的复数) - n - The play is divided into three acts."
+  },
+  {
+    "source": "guidance",
+    "translation": "指导 - n - The teacher provides guidance to the students."
+  },
+  {
+    "source": "mesh",
+    "translation": "网状物 - n - The window has a fine mesh screen."
+  },
+  {
+    "source": "trail",
+    "translation": "小径 - n - We followed the hiking trail through the forest."
+  },
+  {
+    "source": "enforcement",
+    "translation": "执行 - n - Law enforcement agencies work to maintain public safety."
+  },
+  {
+    "source": "symbol",
+    "translation": "符号 - n - The dove is a symbol of peace."
+  },
+  {
+    "source": "crafts",
+    "translation": "工艺品 - n - The market sells local crafts."
+  },
+  {
+    "source": "highway",
+    "translation": "高速公路 - n - The highway connects the two cities."
+  },
+  {
+    "source": "buddy",
+    "translation": "伙伴 - n - He's my buddy from college."
+  },
+  {
+    "source": "hardcover",
+    "translation": "精装本 - n - I prefer hardcover books to paperbacks."
+  },
+  {
+    "source": "observed",
+    "translation": "观察到的(observe的过去式) - v - The scientist observed an interesting phenomenon."
+  },
+  {
+    "source": "dean",
+    "translation": "院长 - n - The dean of the college gave a speech."
+  },
+  {
+    "source": "setup",
+    "translation": "设置 - n - The computer setup is quite complex."
+  },
+  {
+    "source": "poll",
+    "translation": "民意调查 - n - According to the latest poll, the candidate is leading."
+  },
+  {
+    "source": "booking",
+    "translation": "预订 - n - I made a booking for dinner at the restaurant."
+  },
+  {
+    "source": "glossary",
+    "translation": "词汇表 - n - The book includes a glossary of technical terms."
+  },
+  {
+    "source": "fiscal",
+    "translation": "财政的 - adj - The company's fiscal year ends in December."
+  },
+  {
+    "source": "celebrity",
+    "translation": "名人 - n - The restaurant is popular with celebrities."
+  },
+  {
+    "source": "styles",
+    "translation": "风格(style的复数) - n - The store offers clothes in various styles."
+  },
+  {
+    "source": "denver",
+    "translation": "丹佛 - n - Denver is the capital city of Colorado."
+  },
+  {
+    "source": "unix",
+    "translation": "Unix(操作系统) - n - Unix is a powerful operating system."
+  },
+  {
+    "source": "filled",
+    "translation": "填满的(fill的过去式) - v - The stadium was filled with excited fans."
+  },
+  {
+    "source": "bond",
+    "translation": "债券/联系 - n - The company issued bonds to raise capital./They have a strong bond of friendship."
+  },
+  {
+    "source": "channels",
+    "translation": "频道(channel的复数) - n - The TV has over 100 channels."
+  },
+  {
+    "source": "ericsson",
+    "translation": "爱立信(公司名) - n - Ericsson is a telecommunications company."
+  },
+  {
+    "source": "appendix",
+    "translation": "附录/阑尾 - n - The data is in the appendix of the report./He had his appendix removed."
+  },
+  {
+    "source": "notify",
+    "translation": "通知 - v - Please notify me when the package arrives."
+  },
+  {
+    "source": "blues",
+    "translation": "蓝调音乐 - n - Blues is a genre of music that originated in the American South."
+  },
+  {
+    "source": "chocolate",
+    "translation": "巧克力 - n - I love dark chocolate."
+  },
+  {
+    "source": "pub",
+    "translation": "酒吧 - n - We met at the local pub for drinks."
+  },
+  {
+    "source": "portion",
+    "translation": "部分 - n - I only ate a small portion of the meal."
+  },
+  {
+    "source": "scope",
+    "translation": "范围 - n - This is beyond the scope of our project."
+  },
+  {
+    "source": "hampshire",
+    "translation": "汉普郡 - n - New Hampshire is a state in the northeastern United States."
+  },
+  {
+    "source": "supplier",
+    "translation": "供应商 - n - They are a major supplier of auto parts."
+  },
+  {
+    "source": "cables",
+    "translation": "电缆(cable的复数) - n - The electrician installed new cables."
+  },
+  {
+    "source": "cotton",
+    "translation": "棉花 - n - This shirt is made of cotton."
+  },
+  {
+    "source": "bluetooth",
+    "translation": "蓝牙 - n - The headphones connect via Bluetooth."
+  },
+  {
+    "source": "controlled",
+    "translation": "受控制的(control的过去式) - v - The experiment was conducted in a controlled environment."
+  },
+  {
+    "source": "requirement",
+    "translation": "要求 - n - A college degree is a requirement for this job."
+  },
+  {
+    "source": "authorities",
+    "translation": "当局(authority的复数) - n - The authorities are investigating the incident."
+  },
+  {
+    "source": "biology",
+    "translation": "生物学 - n - She is studying biology at university."
+  },
+  {
+    "source": "dental",
+    "translation": "牙科的 - adj - I have a dental appointment tomorrow."
+  },
+  {
+    "source": "killed",
+    "translation": "杀死的(kill的过去式) - v - The disease killed thousands of people."
+  },
+  {
+    "source": "border",
+    "translation": "边界 - n - The river forms a natural border between the two countries."
+  },
+  {
+    "source": "ancient",
+    "translation": "古代的 - adj - The museum has a collection of ancient artifacts."
+  },
+  {
+    "source": "debate",
+    "translation": "辩论 - n/v - There is ongoing debate about this issue."
+  },
+  {
+    "source": "representatives",
+    "translation": "代表(representative的复数) - n - The company sent representatives to the conference."
+  },
+  {
+    "source": "starts",
+    "translation": "开始(start的第三人称单数) - v - The movie starts at 8 PM."
+  },
+  {
+    "source": "pregnancy",
+    "translation": "怀孕 - n - She is in the early stages of pregnancy."
+  },
+  {
+    "source": "causes",
+    "translation": "原因(cause的复数) - n - There are many causes of climate change."
+  },
+  {
+    "source": "arkansas",
+    "translation": "阿肯色州 - n - Arkansas is a state in the southern United States."
+  },
+  {
+    "source": "biography",
+    "translation": "传记 - n - I'm reading a biography of Albert Einstein."
+  },
+  {
+    "source": "leisure",
+    "translation": "休闲 - n - People have more leisure time nowadays."
+  },
+  {
+    "source": "attractions",
+    "translation": "景点(attraction的复数) - n - The city has many tourist attractions."
+  },
+  {
+    "source": "learned",
+    "translation": "学到的(learn的过去式) - v - I learned a lot from that experience."
+  },
+  {
+    "source": "transactions",
+    "translation": "交易(transaction的复数) - n - The bank processes thousands of transactions daily."
+  },
+  {
+    "source": "notebook",
+    "translation": "笔记本 - n - I write my ideas in a notebook."
+  },
+  {
+    "source": "explorer",
+    "translation": "探险家 - n - Columbus was a famous explorer."
+  },
+  {
+    "source": "historic",
+    "translation": "历史性的 - adj - This is a historic moment for our country."
+  },
+  {
+    "source": "attached",
+    "translation": "附加的(attach的过去式) - v - I have attached the document to this email."
+  },
+  {
+    "source": "opened",
+    "translation": "打开的(open的过去式) - v - The store opened at 9 AM."
+  },
+  {
+    "source": "tm",
+    "translation": "商标(Trademark的缩写) - n - The logo has a TM symbol, indicating it's a trademark."
+  },
+  {
     "source": "social",
     "translation": "社会的 - adj - Social media is a powerful tool in today's society."
   },
