@@ -1,5 +1,4 @@
 import { atom } from 'jotai';
-import enSentences from '../assets/sentences.json';
 import enWords from '../assets/words.json';
 // import deSentences from '../assets/de-sentences.json';
 import deWords from '../assets/de-words.json';
@@ -25,20 +24,14 @@ export const sentencesAtom = atom(
 
     const words = language === 'de' ? deWords : enWords;
     // const sentences = language === 'de'? deSentences : enSentences;
-
-    
-    // if (language === 'de') {
-      const newSentences = words.map(word => {
-        const list = word.translation.split(' - ')
-        return {
-          source: list[list.length - 1],
-          translation: `${word.source} - ${list[0]} - ${list[1]}`
-        }
-      })
-      return contentType === 'sentences' ? newSentences : words;
-    // }
-    
-    return contentType === 'sentences' ? enSentences : enWords;
+    const newSentences = words.map(word => {
+      const list = word.translation.split(' - ')
+      return {
+        source: list[list.length - 1],
+        translation: `${word.source} - ${list[0]} - ${list[1]}`
+      }
+    })
+    return contentType === 'sentences' ? newSentences : words;
   }
 );
 
@@ -65,6 +58,18 @@ export const nextSentenceAtom = atom(
     const sentences = get(sentencesAtom);
     const currentIndex = get(currentIndexAtom);
     const newIndex = (currentIndex + 1) % sentences.length;
+    localStorage.setItem(`lastTimeIndex`, newIndex);
+    set(currentIndexAtom, newIndex);
+  }
+);
+
+// Action atom to advance to next sentence
+export const prevSentenceAtom = atom(
+  null,
+  (get, set) => {
+    const sentences = get(sentencesAtom);
+    const currentIndex = get(currentIndexAtom);
+    const newIndex = (currentIndex - 1) % sentences.length;
     localStorage.setItem(`lastTimeIndex`, newIndex);
     set(currentIndexAtom, newIndex);
   }

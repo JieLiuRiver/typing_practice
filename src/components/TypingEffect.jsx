@@ -203,7 +203,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
           onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
         >
-          <FaArrowLeft size={20} />
+          <FaArrowLeft size={40} />
         </div>
         {renderText()}
         <div 
@@ -222,7 +222,7 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
           onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
         >
-          <FaArrowRight size={20} />
+          <FaArrowRight size={40} />
         </div>
       </div>
     </div>

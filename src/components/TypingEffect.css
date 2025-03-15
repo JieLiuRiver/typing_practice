@@ -74,10 +74,18 @@ html.dark .overlay {
   background: rgba(0, 0, 0, 0.9);
 } */
 
+.text-display {
+  position: relative;
+}
+
 .prev-button {
-  margin-right: 100px !important;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .next-button {
-  margin-left: 100px !important;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
