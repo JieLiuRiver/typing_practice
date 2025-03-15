@@ -7,7 +7,9 @@ import useSentenceCount from '../hooks/useSentenceCount';
 import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, prevSentenceAtom, currentIndexAtom, pronunciationTypeAtom } from '../store';
 import usePronunciationSound from '../hooks/useWordSound';
 import useTTS from '../hooks/useTTS';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
+
+import "./TypingContainer.css"
 
 export default function TypingContainer({ lang }) {
   TypingContainer.propTypes = {
@@ -58,6 +60,31 @@ export default function TypingContainer({ lang }) {
     }
   }, [currentSentence?.source, playSentence, isRunning, lang, getAudioUrl, loadAudio, playAudio]);
 
+  const [autoPlayTimer, setAutoPlayTimer] = useState(null);
+  const [isAutoPlaying, setIsAutoPlaying] = useState(false); // 新增播放状态
+
+  const startAutoPlay = () => {
+    stopAutoPlay();
+    const timer = setInterval(() => {
+      handleComplete('next');
+    }, 5000);
+    setAutoPlayTimer(timer);
+    setIsAutoPlaying(true); // 设置播放状态
+  };
+
+  const stopAutoPlay = () => {
+    if (autoPlayTimer) {
+      clearInterval(autoPlayTimer);
+      setAutoPlayTimer(null);
+      setIsAutoPlaying(false); // 清除播放状态
+    }
+  };
+
+  // 添加组件卸载时的清理
+  useEffect(() => {
+    return () => stopAutoPlay();
+  }, []);
+
   return (
     <div className="typing-container">
       <div className="content-type-selector">
@@ -75,6 +102,18 @@ export default function TypingContainer({ lang }) {
         {currentSentence.translation}
       </div>
       {/* <StatsDisplay /> */}
+      <div className="controls">
+        {!isAutoPlaying && (
+          <button className="auto-play-btn" onClick={startAutoPlay}>
+            Auto Play
+          </button>
+        )}
+        {isAutoPlaying && (
+          <button className="stop-auto-play-btn" onClick={stopAutoPlay}>
+            Stop
+          </button>
+        )}
+      </div>
     </div>
   );
 }
