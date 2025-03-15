@@ -121,6 +121,22 @@
   .text-display {
     font-size: 1.2rem;
     line-height: 1.8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  .prev-button, 
+  .next-button {
+    position: relative !important;
+    margin: 20px 0;
+  }
+
+  .prev-button svg, 
+  .next-button svg {
+    width: 20px;
+    height: 20px;
   }
   
   .typing-container {
