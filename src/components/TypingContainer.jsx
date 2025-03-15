@@ -2,7 +2,6 @@ import { useAtom, useAtomValue, useSetAtom } from 'jotai';
 import PropTypes from 'prop-types';
 import ContentTypeSelect from './ContentTypeSelect';
 import TypingEffect from './TypingEffect';
-import StatsDisplay from './StatsDisplay';
 import useTypingSound from '../hooks/useTypingSound';
 import useSentenceCount from '../hooks/useSentenceCount';
 import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, prevSentenceAtom, currentIndexAtom, pronunciationTypeAtom } from '../store';
@@ -75,7 +74,7 @@ export default function TypingContainer({ lang }) {
       <div className="translation">
         {currentSentence.translation}
       </div>
-      <StatsDisplay />
+      {/* <StatsDisplay /> */}
     </div>
   );
 }

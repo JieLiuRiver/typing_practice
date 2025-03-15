@@ -20,15 +20,16 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  padding: 15px;
+  background-color: #1a1a1a;
 }
 
 .typing-container {
   background: var(--container-bg);
   border-radius: 8px;
-  padding: 40px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  width: 100%;
-  box-sizing: border-box;
+  padding: 20px;
+  /* box-shadow: 0 2px 4px rgba(0,0,0,0.3); */
+  /* box-sizing: border-box; */
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
@@ -59,7 +60,7 @@
   color: #a0a0a0;
   text-align: center;
   padding: 10px;
-  border-top: 1px solid #333;
+  /* border-top: 1px solid #333; */
   width: 100%;
 }
 
@@ -124,13 +125,23 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: stretch;
+    align-items: items;
   }
 
   .prev-button, 
   .next-button {
     position: relative !important;
-    margin: 20px 0;
+  }
+
+  .sound-icon {
+    margin-top: 5px;
+  }
+
+  .prev-button {
+    margin-bottom: 20px;
+  }
+  .next-button {
+    margin-top: 20px;
   }
 
   .prev-button svg, 

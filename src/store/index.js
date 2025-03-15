@@ -8,7 +8,7 @@ const savedContentType = localStorage.getItem(`contentType`) || 'words';
 export const contentTypeAtom = atom(savedContentType);
 
 // Typing state management
-export const isRunningAtom = atom(false);
+export const isRunningAtom = atom(true);
 
 // Store for sentences loaded from JSON
 // Get initial language from URL
