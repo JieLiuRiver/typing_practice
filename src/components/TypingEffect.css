@@ -79,13 +79,13 @@ html.dark .overlay {
 }
 
 .prev-button {
-  position: absolute;
+  position: relative;
   left: 0;
   top: 0;
 }
 
 .next-button {
-  position: absolute;
+  position: relative;
   right: 0;
   top: 0;
 }
