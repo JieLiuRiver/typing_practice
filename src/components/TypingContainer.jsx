@@ -30,8 +30,34 @@ export default function TypingContainer({ lang }) {
   const isRunning = useAtomValue(isRunningAtom);
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences } = useSentenceCount();
-  const currentIndex = useAtomValue(currentIndexAtom);
+  const [currentIndex, setCurrentIndex] = useAtom(currentIndexAtom);
   const { getAudioUrl, loadAudio, playAudio, preloadNextAudio } = useTTS();
+
+  // 添加状态用于输入框
+  const [inputIndex, setInputIndex] = useState('');
+
+  // 处理输入框变化
+  const handleIndexChange = (e) => {
+    setInputIndex(e.target.value);
+  };
+
+  // 处理输入框失去焦点或按下回车键
+  const handleIndexSubmit = (e) => {
+    if (e.type === 'blur' || (e.type === 'keydown' && e.key === 'Enter')) {
+      const newIndex = parseInt(inputIndex, 10) - 1; // 转换为0基索引
+      if (!isNaN(newIndex) && newIndex >= 0 && newIndex < totalSentences) {
+        setCurrentIndex(newIndex);
+      } else {
+        // 如果输入无效，重置为当前索引
+        setInputIndex('');
+      }
+    }
+  };
+
+  // 当currentIndex变化时更新输入框
+  useEffect(() => {
+    setInputIndex('');
+  }, [currentIndex]);
 
   const handleComplete = (type) => {
     type === 'next' ? nextSentence() : prevSentence();
@@ -91,7 +117,17 @@ export default function TypingContainer({ lang }) {
         <ContentTypeSelect />
       </div>
       <div className={`total-sentences`}>
-        {`${currentIndex + 1}/${totalSentences}`}
+        <input
+          type="number"
+          value={inputIndex || currentIndex + 1}
+          onChange={handleIndexChange}
+          onBlur={handleIndexSubmit}
+          onKeyDown={handleIndexSubmit}
+          min="1"
+          max={totalSentences}
+          className="sentence-index-input"
+        />
+        /{totalSentences}
       </div>
       <TypingEffect
         text={currentSentence.source?.replace(/[.?!]$/, '') ?? ''}

@@ -30,3 +30,21 @@
   justify-content: center;
   gap: 10px;
 }
+
+
+/* 添加到现有CSS文件末尾 */
+.sentence-index-input {
+  width: 60px;
+  text-align: center;
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: inherit;
+  padding: 2px;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+}
+
+.sentence-index-input:focus {
+  border-bottom: 1px solid #4CAF50;
+}
