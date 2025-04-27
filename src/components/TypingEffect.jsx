@@ -11,7 +11,7 @@ import PropTypes from 'prop-types';
 
 import "./TypingEffect.css"
 
-const TypingEffect = ({ text, onComplete, onStart }) => {
+const TypingEffect = ({ text, onComplete, translation, onStart }) => {
   const [cursorPos, setCursorPos] = useState(0);
   const [charStates, setCharStates] = useState(Array(text?.length || 0).fill('normal'));
   const isRunning = useAtomValue(isRunningAtom);
@@ -99,6 +99,21 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
           playSound('correct');
           if (cursorPos === text.length - 1) {
             playCurrentWordSound();
+            setTimeout(() => {
+              if (lang === 'de' && translation) {
+                const parts = translation.split(' - ');
+                if (parts.length > 2) {
+                  const germanPart = parts[2];
+                  const onlyDePart = germanPart.replace(/\(.*?\)/g, '').trim();
+                  if (onlyDePart) {
+                    const url = getAudioUrl(onlyDePart);
+                    loadAudio(url)
+                      .then(() => playAudio(url))
+                      .catch(err => console.error('播放德语翻译音频失败', err));
+                  }
+                }
+              }
+            }, 1000)
           }
         } else {
           playSound('wrong');
@@ -236,6 +251,7 @@ TypingEffect.propTypes = {
   onComplete: PropTypes.func,
   onStart: PropTypes.func,
   lang: PropTypes.string,
+  translation: PropTypes.string,
 };
 
 export default TypingEffect;

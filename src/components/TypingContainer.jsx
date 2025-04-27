@@ -133,6 +133,7 @@ export default function TypingContainer({ lang }) {
       </div>
       <TypingEffect
         text={currentSentence.source?.replace(/[.?!]$/, '') ?? ''}
+        translation={currentSentence.translation}
         onType={playSound}
         onComplete={handleComplete}
       />
