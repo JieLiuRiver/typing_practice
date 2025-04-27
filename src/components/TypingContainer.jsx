@@ -75,6 +75,19 @@ export default function TypingContainer({ lang }) {
         loadAudio(url)
           .then(() => {
             playAudio(url);
+
+            setTimeout(() => {
+              const parts = currentSentence.translation.split(' - ');
+                if (parts.length > 2) {
+                  const germanPart = parts[2];
+                  const onlyDePart = germanPart.replace(/\(.*?\)/g, '').trim();
+                  const url = getAudioUrl(onlyDePart);
+                  loadAudio(url)
+                    .then(() => playAudio(url))
+                    .catch(err => console.error('播放失败', err));
+                }
+            }, 1000)
+
             // 预加载下一个句子
             const nextSentenceText = currentSentence.next?.source;
             if (nextSentenceText) {
