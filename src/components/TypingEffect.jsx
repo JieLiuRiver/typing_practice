@@ -196,15 +196,6 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
     <div className="typing-container">
       {!isRunning && <div className="overlay"></div>}
       <div className="text-display">
-        <div 
-          className="prev-button"
-          onClick={handlePrev}
-          style={buttonStyle}
-          onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
-          onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
-        >
-          <FaArrowLeft size={40} />
-        </div>
         {renderText()}
         <div 
           className="sound-icon"
@@ -215,16 +206,27 @@ const TypingEffect = ({ text, onComplete, onStart }) => {
         >
           <FaVolumeUp size={20} />
         </div>
-        <div 
-          className="next-button"
-          onClick={handleNext}
-          style={buttonStyle}
-          onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
-          onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
-        >
-          <FaArrowRight size={40} />
-        </div>
       </div>
+      <div style={{marginLeft: '100%', display: 'flex', justifyContent: 'center'}}>
+        <div 
+            className="prev-button"
+            onClick={handlePrev}
+            style={buttonStyle}
+            onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
+            onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
+          >
+            <FaArrowLeft size={20} />
+          </div>
+          <div 
+            className="next-button"
+            onClick={handleNext}
+            style={buttonStyle}
+            onMouseEnter={(e) => e.currentTarget.style.color = '#333'}
+            onMouseLeave={(e) => e.currentTarget.style.color = '#666'}
+          >
+            <FaArrowRight size={20} />
+          </div>
+        </div>
     </div>
   );
 };

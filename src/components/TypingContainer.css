@@ -48,3 +48,14 @@
 .sentence-index-input:focus {
   border-bottom: 1px solid #4CAF50;
 }
+
+.volume-icon {
+  margin-left: 8px;
+  color: #666;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.volume-icon:hover {
+  color: #2196f3;
+}

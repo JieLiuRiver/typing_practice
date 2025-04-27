@@ -36,16 +36,16 @@
 
 .text-display {
   font-family: 'Fira Code', monospace;
-  font-size: 2rem;
+  font-size: 1.2rem;
   line-height: 2.2;
   white-space: pre-wrap;
   color: var(--text-color);
   letter-spacing: 1px;
   font-weight: 700;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: items;
+  align-items: items; */
 }
 
 .correct {

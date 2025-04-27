@@ -8,6 +8,7 @@ import { currentSentenceAtom, isRunningAtom, nextSentenceAtom, prevSentenceAtom,
 import usePronunciationSound from '../hooks/useWordSound';
 import useTTS from '../hooks/useTTS';
 import { useEffect, useState } from 'react';
+import { FaVolumeUp } from "react-icons/fa";
 
 import "./TypingContainer.css"
 
@@ -69,7 +70,8 @@ export default function TypingContainer({ lang }) {
   useEffect(() => {
     if (currentSentence?.source && isRunning) {
       if (lang === 'de') {
-        const url = getAudioUrl(currentSentence.source);
+        const onlyDePart = currentSentence.source.replace(/\(.*?\)/g, '').trim();
+        const url = getAudioUrl(onlyDePart);
         loadAudio(url)
           .then(() => {
             playAudio(url);
@@ -135,7 +137,26 @@ export default function TypingContainer({ lang }) {
         onComplete={handleComplete}
       />
       <div className="translation">
-        {currentSentence.translation}
+        {currentSentence.translation && currentSentence.translation.split(' - ').map((part, index) => (
+          <span key={index}>
+            {part}
+            {index === 2 && lang === 'de' && (
+              <FaVolumeUp 
+                className="volume-icon"
+                onClick={() => {
+                  if (lang === 'de') {
+                    const onlyDePart = part.replace(/\(.*?\)/g, '').trim();
+                    const url = getAudioUrl(onlyDePart);
+                    loadAudio(url)
+                      .then(() => playAudio(url))
+                      .catch(err => console.error('播放失败', err));
+                  }
+                }}
+              />
+            )}
+            {index < 2 && ' - '}
+          </span>
+        ))}
       </div>
       {/* <StatsDisplay /> */}
       <div className="controls">
