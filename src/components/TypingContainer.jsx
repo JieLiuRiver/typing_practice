@@ -108,7 +108,7 @@ export default function TypingContainer({ lang }) {
     stopAutoPlay();
     const timer = setInterval(() => {
       handleComplete('next');
-    }, 5000);
+    }, 10000);
     setAutoPlayTimer(timer);
     setIsAutoPlaying(true); // 设置播放状态
   };
