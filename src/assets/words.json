@@ -1,1107 +1,663 @@
 [
   {
-    "source": "business",
-    "translation": "商业 - n - I am engaged in business activities."
+    "source": "livestream",
+    "translation": "直播 - n - I am livestreaming on Twitch."
   },
   {
-    "source": "who",
-    "translation": "谁 - pron - Who is that person?"
+    "source": "usual",
+    "translation": "通常 - adj - This is the usual procedure."
   },
   {
-    "source": "web",
-    "translation": "网页 - n - I often browse the web."
+    "source": "disclosure",
+    "translation": "披露 - n - The disclosure of information is important."
   },
   {
-    "source": "also",
-    "translation": "也 - adv - I also like reading books."
+    "source": "agile methodology",
+    "translation": "敏捷方法论 - n - Agile methodology is widely used in software development."
   },
   {
-    "source": "now",
-    "translation": "现在 - adv - Now I am very busy."
+    "source": "conception",
+    "translation": "构思 - n - The conception of the project took several months."
   },
   {
-    "source": "help",
-    "translation": "帮助 - v/n - I need your help."
+    "source": "speculation",
+    "translation": "推测 - n - I am speculating about the future."
   },
   {
-    "source": "get",
-    "translation": "得到 - v - I get a new book."
+    "source": "exploration",
+    "translation": "探索 - n - The exploration of new ideas is essential."
   },
   {
-    "source": "pm",
-    "translation": "下午 - n - I will meet you at 2 pm."
+    "source": "adaptation",
+    "translation": "适应 - n - Adaptation to change is crucial for success."
   },
   {
-    "source": "view",
-    "translation": "景色 - n - The view here is very beautiful."
+    "source": "completion",
+    "translation": "完成 - n - The completion of the project is on schedule."
   },
   {
-    "source": "online",
-    "translation": "在线的 - adj - I often shop online."
+    "source": "project justification",
+    "translation": "项目立项 - n - The project justification was approved."
   },
   {
-    "source": "first",
-    "translation": "第一 - adj - This is my first time to do this."
+    "source": "architecture",
+    "translation": "架构 - n - The architecture of the system is robust."
   },
   {
-    "source": "am",
-    "translation": "是 - v - I am a student."
+    "source": "datasheet",
+    "translation": "数据表 - n - Please refer to the datasheet for more information."
   },
   {
-    "source": "been",
-    "translation": "去过 - v - I have been to many places."
+    "source": "iteration",
+    "translation": "迭代 - n - The iteration of the design process was successful."
   },
   {
-    "source": "would",
-    "translation": "将会 - v - I would like to go there."
+    "source": "constraint",
+    "translation": "约束 - n - There are several constraints to consider."
   },
   {
-    "source": "how",
-    "translation": "怎样 - adv - How are you?"
+    "source": "incremental delivery",
+    "translation": "增量交付 - n - Incremental delivery allows for faster feedback."
   },
   {
-    "source": "were",
-    "translation": "是 - v - You were very kind yesterday."
+    "source": "defect",
+    "translation": "缺陷 - n - The defect was identified and fixed."
   },
   {
-    "source": "me",
-    "translation": "我 - pron - Please give it to me."
+    "source": "increment",
+    "translation": "增量 - n - The increment of the project was successful."
   },
   {
-    "source": "services",
-    "translation": "服务 - n - The company provides excellent services."
+    "source": "estimation",
+    "translation": "估计 - n - The estimation of the project cost was accurate."
   },
   {
-    "source": "some",
-    "translation": "一些 - adj - I have some books."
+    "source": "criteria",
+    "translation": "标准 - n - The criteria for the project success were met."
   },
   {
-    "source": "these",
-    "translation": "这些 - pron - These are my friends."
+    "source": "paste",
+    "translation": "粘贴 - v - I pasted the code into the editor."
   },
   {
-    "source": "click",
-    "translation": "点击 - v - Click the button."
+    "source": "attestation",
+    "translation": "认证 - n - The attestation of the project was successful."
   },
   {
-    "source": "its",
-    "translation": "它的 - pron - Its color is very beautiful."
+    "source": "except",
+    "translation": "除了 - adv - I except that the project will be delayed."
   },
   {
-    "source": "like",
-    "translation": "喜欢 - v - I like apples."
+    "source": "annotation",
+    "translation": "注释 - n - The annotation of the code is helpful."
   },
   {
-    "source": "service",
-    "translation": "服务 - n - The service here is very good."
+    "source": "prerequisite",
+    "translation": "前提条件 - n - A prerequisite for the course is basic programming knowledge."
   },
   {
-    "source": "than",
-    "translation": "比 - conj - This one is better than that one."
+    "source": "seeded",
+    "translation": "种子 - n - The seeded dataset is used for training."
   },
   {
-    "source": "find",
-    "translation": "找到 - v - I can't find my keys."
+    "source": "externalize",
+    "translation": "外部化 - v - We need to externalize the configuration settings."
   },
   {
-    "source": "price",
-    "translation": "价格 - n - The price of this product is reasonable."
+    "source": "reproducibility",
+    "translation": "可重复性 - n - The reproducibility of the results is important."
   },
   {
-    "source": "date",
-    "translation": "日期 - n - What's the date today?"
+    "source": "reproducible",
+    "translation": "可重复的 - adj - The experiment is reproducible."
   },
   {
-    "source": "back",
-    "translation": "回来 - adv - Come back soon."
+    "source": "reproducibly",
+    "translation": "可重复地 - adv - The results were reproducibly verified."
   },
   {
-    "source": "top",
-    "translation": "顶部 - n - This is the top of the mountain."
+    "source": "monolithic",
+    "translation": "单体 - adj - The application is built as a monolithic structure."
   },
   {
-    "source": "people",
-    "translation": "人们 - n - There are many people here."
+    "source": "interoperable",
+    "translation": "可互操作的 - adj - The system is designed to be interoperable with other platforms."
   },
   {
-    "source": "had",
-    "translation": "有 - v - I had a great time yesterday."
+    "source": "boilerplate",
+    "translation": "样板 - n - The code includes a lot of boilerplate."
   },
   {
-    "source": "list",
-    "translation": "列表 - n - Make a list of things to do."
+    "source": "authentication",
+    "translation": "认证 - n - Authentication is required to access the system."
   },
   {
-    "source": "name",
-    "translation": "名字 - n - What's your name?"
+    "source": "embed",
+    "translation": "嵌入 - v - You can embed the video in your website."
   },
   {
-    "source": "just",
-    "translation": "刚刚 - adv - I just finished my homework."
+    "source": "executable",
+    "translation": "可执行的 - adj - The program is executable on multiple platforms."
   },
   {
-    "source": "over",
-    "translation": "结束 - adv - The game is over."
+    "source": "scalability",
+    "translation": "可扩展性 - n - Scalability is an important aspect of system design."
   },
   {
-    "source": "state",
-    "translation": "状态 - n - He is in a good state."
+    "source": "manageable",
+    "translation": "可管理的 - adj - The project is designed to be manageable."
   },
   {
-    "source": "year",
-    "translation": "年 - n - This year is very special."
+    "source": "abstraction",
+    "translation": "抽象 - n - Abstraction is a key principle in software design."
   },
   {
-    "source": "day",
-    "translation": "天 - n - What a beautiful day!"
+    "source": "standardize",
+    "translation": "标准化 - v - We need to standardize the process across teams."
   },
   {
-    "source": "into",
-    "translation": "进入 - prep - He walked into the room."
+    "source": "bootstrap",
+    "translation": "引导 - v - We need to bootstrap the application."
   },
   {
-    "source": "email",
-    "translation": "电子邮件 - n - Send me an email."
+    "source": "unrestricted",
+    "translation": "不受限制的 - adj - The access to the resources is unrestricted."
   },
   {
-    "source": "two",
-    "translation": "两个 - num - I have two sisters."
+    "source": "validation",
+    "translation": "验证 - n - Validation is an important step in the process."
   },
   {
-    "source": "health",
-    "translation": "健康 - n - We should pay attention to our health."
+    "source": "annotation",
+    "translation": "注释 - n - The annotation of the code is helpful."
   },
   {
-    "source": "world",
-    "translation": "世界 - n - The world is so big."
+    "source": "time-consumer",
+    "translation": "时间消费者 - n - The time-consuming task is a challenge."
   },
   {
-    "source": "re",
-    "translation": "重新 - prefix - I am re-reading this book."
+    "source": "enhanced",
+    "translation": "增强的 - adj - The feature is enhanced with additional functionality."
   },
   {
-    "source": "next",
-    "translation": "下一个 - adj - What's next?"
+    "source": "modular",
+    "translation": "模块化 - adj - The system is designed with a modular architecture."
   },
   {
-    "source": "used",
-    "translation": "曾经 - v - I used to live here."
+    "source": "self-motivated",
+    "translation": "自我激励的 - adj - The self-motivated team worked efficiently."
   },
   {
-    "source": "go",
-    "translation": "去 - v - Let's go shopping."
+    "source": "validity",
+    "translation": "有效性 - n - The validity of the results is crucial."
   },
   {
-    "source": "work",
-    "translation": "工作 - n/v - I go to work every day."
+    "source": "miss out",
+    "translation": "错过 - v - Don't miss out on the opportunity."
   },
   {
-    "source": "last",
-    "translation": "上一个 - adj - Last week, I went to the park."
+    "source": "accompanying",
+    "translation": "伴随的 - adj - The accompanying documentation is helpful."
   },
   {
-    "source": "most",
-    "translation": "大多数 - adj - Most people like music."
+    "source": "groundbreaking",
+    "translation": "开创性的 - adj - The groundbreaking research has changed the field."
   },
   {
-    "source": "products",
-    "translation": "产品 - n - These products are of high quality."
+    "source": "opinionated",
+    "translation": "有观点的 - adj - The opinionated article sparked a lot of discussions."
   },
   {
-    "source": "music",
-    "translation": "音乐 - n - I love listening to music."
+    "source": "manipulation",
+    "translation": "操控 - n - The manipulation of data is a common practice."
   },
   {
-    "source": "buy",
-    "translation": "购买 - v - I want to buy a new phone."
+    "source": "centralize",
+    "translation": "集中 - v - We need to centralize the data storage."
   },
   {
-    "source": "data",
-    "translation": "数据 - n - The data is very important."
+    "source": "needful",
+    "translation": "必要的 - adj - The needful changes were implemented."
   },
   {
-    "source": "make",
-    "translation": "制作 - v - I can make a cake."
+    "source": "overwhelming",
+    "translation": "压倒性的 - adj - The overwhelming response from users was positive."
   },
   {
-    "source": "them",
-    "translation": "他们 - pron - I like them very much."
+    "source": "capability",
+    "translation": "能力 - n - The system has the capability to process large amounts of data."
   },
   {
-    "source": "should",
-    "translation": "应该 - v - You should study hard."
+    "source": "beneficial",
+    "translation": "有益的 - adj - The changes have a beneficial effect on the system."
   },
   {
-    "source": "product",
-    "translation": "产品 - n - This product is very useful."
+    "source": "reliability",
+    "translation": "可靠性 - n - The reliability of the system is crucial for its success."
   },
   {
-    "source": "system",
-    "translation": "系统 - n - The computer system is running smoothly."
+    "source": "sustainability",
+    "translation": "可持续性 - n - Sustainability is a key factor in our design."
   },
   {
-    "source": "post",
-    "translation": "邮寄 - v - I will post this letter tomorrow."
+    "source": "infrastructure",
+    "translation": "基础设施 - n - The infrastructure supports the entire system."
   },
   {
-    "source": "her",
-    "translation": "她的 - pron - Her book is on the table."
+    "source": "intermediate",
+    "translation": "中间的 - adj - The intermediate steps are necessary for the process."
   },
   {
-    "source": "city",
-    "translation": "城市 - n - I live in a beautiful city."
+    "source": "compliance",
+    "translation": "合规性 - n - Compliance with regulations is mandatory."
   },
   {
-    "source": "add",
-    "translation": "添加 - v - Add some salt to the dish."
+    "source": "beneficial",
+    "translation": "有益的 - adj - The changes have a beneficial effect on the system."
   },
   {
-    "source": "policy",
-    "translation": "政策 - n - The company has a new policy."
+    "source": "connectivity",
+    "translation": "连接性 - n - The connectivity of the system is essential for its functionality."
   },
   {
-    "source": "number",
-    "translation": "数字 - n - What's your phone number?"
+    "source": "explicitly",
+    "translation": "明确地 - adv - The requirements must be stated explicitly."
   },
   {
-    "source": "such",
-    "translation": "如此 - adj - I have never seen such a beautiful place."
+    "source": "collaborate",
+    "translation": "合作 - v - We need to collaborate on this project."
   },
   {
-    "source": "please",
-    "translation": "请 - v - Please come in."
+    "source": "donate",
+    "translation": "捐赠 - v - We encourage everyone to donate to the cause."
   },
   {
-    "source": "available",
-    "translation": "可用的 - adj - This book is available in the library."
+    "source": "specification",
+    "translation": "规范 - n - The specification outlines the requirements."
   },
   {
-    "source": "copyright",
-    "translation": "版权 - n - We should respect copyright."
+    "source": "inventory",
+    "translation": "库存 - n - The inventory management system is efficient."
   },
   {
-    "source": "support",
-    "translation": "支持 - v/n - I need your support."
+    "source": "unzip",
+    "translation": "解压 - v - Please unzip the files before using them."
   },
   {
-    "source": "message",
-    "translation": "消息 - n - I received a message from him."
+    "source": "stand-alone",
+    "translation": "独立的 - adj - The stand-alone application is easy to use."
   },
   {
-    "source": "after",
-    "translation": "之后 - prep - After school, I will go home."
+    "source": "differ",
+    "translation": "不同 - v - The two systems differ in their architecture."
   },
   {
-    "source": "best",
-    "translation": "最好的 - adj - This is the best book I have ever read."
+    "source": "entity",
+    "translation": "实体 - n - The entity represents a real-world object."
   },
   {
-    "source": "software",
-    "translation": "软件 - n - I use this software to edit pictures."
+    "source": "expose",
+    "translation": "暴露 - v - The API is designed to expose certain functionalities."
   },
   {
-    "source": "then",
-    "translation": "然后 - adv - Then, what should we do?"
+    "source": "sanity",
+    "translation": "理智 - n - Maintaining sanity is important during stressful projects."
   },
   {
-    "source": "jan",
-    "translation": "一月 - n - January is the first month of the year."
+    "source": "archive",
+    "translation": "归档 - v - Please archive the old files."
   },
   {
-    "source": "good",
-    "translation": "好的 - adj - She is a good student."
+    "source": "reliably",
+    "translation": "可靠地 - adv - The system operates reliably under heavy load."
   },
   {
-    "source": "video",
-    "translation": "视频 - n - I watched a funny video yesterday."
+    "source": "decentralize",
+    "translation": "去中心化 - v - We aim to decentralize the control of the system."
   },
   {
-    "source": "well",
-    "translation": "好 - adv - I can play basketball well."
+    "source": "reliant",
+    "translation": "依赖的 - adj - The system is reliant on external services."
   },
   {
-    "source": "where",
-    "translation": "哪里 - adv - Where are you from?"
+    "source": "comprehensive",
+    "translation": "全面的 - adj - The report provides a comprehensive overview of the project."
   },
   {
-    "source": "info",
-    "translation": "信息 - n - I need more info about this product."
+    "source": "register",
+    "translation": "注册 - v - Please register for the event."
   },
   {
-    "source": "rights",
-    "translation": "权利 - n - We should protect our rights."
+    "source": "compatibility",
+    "translation": "兼容性 - n - The software has high compatibility with various systems."
   },
   {
-    "source": "public",
-    "translation": "公共的 - adj - The park is open to the public."
+    "source": "seamless",
+    "translation": "无缝的 - adj - The integration was seamless and efficient."
   },
   {
-    "source": "books",
-    "translation": "书籍 - n - I like reading books."
+    "source": "distribute",
+    "translation": "分发 - v - We need to distribute the resources evenly."
   },
   {
-    "source": "high",
-    "translation": "高的 - adj - The mountain is very high."
+    "source": "variety",
+    "translation": "多样性 - n - The variety of options available is impressive."
   },
   {
-    "source": "school",
-    "translation": "学校 - n - I go to school by bike."
+    "source": "automate",
+    "translation": "自动化 - v - We need to automate the deployment process."
   },
   {
-    "source": "through",
-    "translation": "通过 - prep - I go through the park every day."
+    "source": "proficient",
+    "translation": "熟练的 - adj - She is proficient in multiple programming languages."
   },
   {
-    "source": "each",
-    "translation": "每个 - adj - Each student has a book."
+    "source": "loosely",
+    "translation": "松散地 - adv - The components are loosely coupled."
   },
   {
-    "source": "links",
-    "translation": "链接 - n - Click on the links to learn more."
+    "source": "layer",
+    "translation": "层 - n - The application is built in layers."
   },
   {
-    "source": "she",
-    "translation": "她 - pron - She is singing a song."
+    "source": "illustration",
+    "translation": "插图 - n - The illustration helps to clarify the concept."
   },
   {
-    "source": "review",
-    "translation": "复习 - v/n - I will review my lessons tonight."
+    "source": "liquidity",
+    "translation": "流动性 - n - The liquidity of the asset is important for trading."
   },
   {
-    "source": "years",
-    "translation": "年 - n - I have known him for many years."
+    "source": "foster",
+    "translation": "促进 - v - We need to foster a culture of collaboration."
   },
   {
-    "source": "order",
-    "translation": "订单 - n - I placed an order for a new dress."
+    "source": "variant",
+    "translation": "变体 - n - The variant of the software includes new features."
   },
   {
-    "source": "very",
-    "translation": "非常 - adv - This movie is very interesting."
+    "source": "tutorial",
+    "translation": "教程 - n - The tutorial provides step-by-step instructions."
   },
   {
-    "source": "privacy",
-    "translation": "隐私 - n - We should protect our privacy."
+    "source": "unlike",
+    "translation": "不同于 - prep - Unlike the previous version, this one has new features."
   },
   {
-    "source": "book",
-    "translation": "书 - n - I am reading a book."
+    "source": "appropriate",
+    "translation": "适当的 - adj - The solution is appropriate for the given problem."
   },
   {
-    "source": "items",
-    "translation": "项目 - n - There are many items on the list."
+    "source": "corresponding",
+    "translation": "相应的 - adj - The corresponding changes have been made."
   },
   {
-    "source": "company",
-    "translation": "公司 - n - I work for a big company."
+    "source": "ingest",
+    "translation": "摄取 - v - The system can ingest large amounts of data."
   },
   {
-    "source": "read",
-    "translation": "阅读 - v - I like to read novels."
+    "source": "transfer",
+    "translation": "转移 - v - Please transfer the files to the new server."
   },
   {
-    "source": "group",
-    "translation": "小组 - n - I am in a study group."
+    "source": "customize",
+    "translation": "自定义 - v - You can customize the settings to fit your needs."
   },
   {
-    "source": "sex",
-    "translation": "性别 - n - We should respect people of all sexes."
+    "source": "recur",
+    "translation": "递归 - v - The function will recur until a base condition is met."
   },
   {
-    "source": "need",
-    "translation": "需要 - v/n - I need a cup of coffee."
+    "source": "instruction",
+    "translation": "指令 - n - The instruction manual is easy to follow."
   },
   {
-    "source": "many",
-    "translation": "许多 - adj - There are many people in the park."
+    "source": "convention",
+    "translation": "惯例 - n - The convention is to use camelCase for variable names."
   },
   {
-    "source": "user",
-    "translation": "用户 - n - The user interface is very friendly."
+    "source": "extensive",
+    "translation": "广泛的 - adj - The extensive documentation covers all aspects of the API."
   },
   {
-    "source": "said",
-    "translation": "说 - v - She said she would come."
+    "source": "mechanism",
+    "translation": "机制 - n - The mechanism of action is not fully understood."
   },
   {
-    "source": "de",
-    "translation": "的 - prep - I don't know the meaning of \"de\"."
+    "source": "complexity",
+    "translation": "复杂性 - n - The complexity of the system is increasing."
   },
   {
-    "source": "does",
-    "translation": "做 - v - Does he like apples?"
+    "source": "legacy",
+    "translation": "遗留的 - adj - The legacy system is still in use."
   },
   {
-    "source": "set",
-    "translation": "设置 - v/n - I set the table for dinner."
+    "source": "couple",
+    "translation": "一对 - n - A couple of changes were made to the system."
   },
   {
-    "source": "under",
-    "translation": "在...下面 - prep - The cat is under the table."
+    "source": "identifier",
+    "translation": "标识符 - n - The identifier is used to reference the object."
   },
   {
-    "source": "general",
-    "translation": "一般的 - adj - In general, I like reading."
+    "source": "formation",
+    "translation": "形成 - n - The formation of the team was a key milestone."
   },
   {
-    "source": "research",
-    "translation": "研究 - n/v - I am doing research on this topic."
+    "source": "purchase",
+    "translation": "购买 - n - The purchase of the new software was approved."
   },
   {
-    "source": "university",
-    "translation": "大学 - n - I study at a university."
+    "source": "persistence",
+    "translation": "持久性 - n - The persistence of the data is crucial for analysis."
   },
   {
-    "source": "january",
-    "translation": "一月 - n - January is a cold month."
+    "source": "conclusion",
+    "translation": "结论 - n - The conclusion summarizes the main findings."
   },
   {
-    "source": "mail",
-    "translation": "邮件 - n - I check my mail every day."
+    "source": "relevant",
+    "translation": "相关的 - adj - The information is relevant to the topic."
   },
   {
-    "source": "full",
-    "translation": "满的 - adj - The glass is full of water."
+    "source": "simplify",
+    "translation": "简化 - v - We need to simplify the process."
   },
   {
-    "source": "map",
-    "translation": "地图 - n - I use a map to find my way."
+    "source": "incoming",
+    "translation": "传入的 - adj - The incoming data stream is being processed."
   },
   {
-    "source": "reviews",
-    "translation": "评论 - n - I read the reviews before buying the product."
+    "source": "evolve",
+    "translation": "演变 - v - The system will evolve over time."
   },
   {
-    "source": "program",
-    "translation": "节目/程序 - n - I am watching a TV program."
+    "source": "extent",
+    "translation": "范围 - n - The extent of the changes is not yet clear."
   },
   {
-    "source": "life",
-    "translation": "生活 - n - Life is full of surprises."
+    "source": "automatic",
+    "translation": "自动的 - adj - The process is fully automatic."
   },
   {
-    "source": "know",
-    "translation": "知道 - v - I know how to swim."
+    "source": "independent",
+    "translation": "独立的 - adj - The modules are independent of each other."
   },
   {
-    "source": "games",
-    "translation": "游戏 - n - I like playing video games."
+    "source": "foundation",
+    "translation": "基础 - n - The foundation of the system is built on microservices."
   },
   {
-    "source": "way",
-    "translation": "方式/路 - n - This is the way to the station."
+    "source": "minimum",
+    "translation": "最小值 - n - The minimum requirement is 8 hours of work."
   },
   {
-    "source": "days",
-    "translation": "天 - n - There are seven days in a week."
+    "source": "assess",
+    "translation": "评估 - v - We need to assess the situation carefully."
   },
   {
-    "source": "management",
-    "translation": "管理 - n - Good management is important for a company."
+    "source": "external",
+    "translation": "外部的 - adj - The external factors must be considered."
   },
   {
-    "source": "part",
-    "translation": "部分 - n - This is an important part of the project."
+    "source": "barely",
+    "translation": "勉强 - adv - The solution barely meets the requirements."
   },
   {
-    "source": "could",
-    "translation": "可以 - v - I could help you if you need."
+    "source": "profile",
+    "translation": "轮廓 - n - The profile of the user is not complete."
   },
   {
-    "source": "great",
-    "translation": "很棒的 - adj - This is a great movie."
+    "source": "utilize",
+    "translation": "利用 - v - We need to utilize our resources effectively."
   },
   {
-    "source": "united",
-    "translation": "联合的 - adj - The United States is a big country."
+    "source": "further",
+    "translation": "进一步 - adv - We need to investigate this further."
   },
   {
-    "source": "hotel",
-    "translation": "酒店 - n - I am staying at a hotel."
+    "source": "maintenance",
+    "translation": "维护 - n - The maintenance of the system is important."
   },
   {
-    "source": "real",
-    "translation": "真实的 - adj - This is a real diamond."
+    "source": "examine",
+    "translation": "检查 - v - We need to examine the data closely."
   },
   {
-    "source": "item",
-    "translation": "物品 - n - I bought some items at the store."
+    "source": "efficiently",
+    "translation": "高效地 - adv - We need to work more efficiently."
   },
   {
-    "source": "international",
-    "translation": "国际的 - adj - The conference is an international event."
+    "source": "presence",
+    "translation": "存在 - n - The presence of the user is required."
   },
   {
-    "source": "center",
-    "translation": "中心 - n - The shopping center is very busy."
+    "source": "equally",
+    "translation": "同样地 - adv - The two solutions are equally valid."
   },
   {
-    "source": "ebay",
-    "translation": "易贝 - n - I often buy things on Ebay."
+    "source": "sequence",
+    "translation": "序列 - n - The sequence of events is important."
   },
   {
-    "source": "must",
-    "translation": "必须 - v - You must finish your homework."
+    "source": "equivalent",
+    "translation": "等效的 - adj - The two solutions are equivalent."
   },
   {
-    "source": "store",
-    "translation": "商店 - n - I go to the store to buy some food."
+    "source": "manner",
+    "translation": "方式 - n - The manner of execution is important."
   },
   {
-    "source": "travel",
-    "translation": "旅行 - v/n - I like to travel around the world."
+    "source": "pattern",
+    "translation": "模式 - n - The pattern of behavior is changing."
   },
   {
-    "source": "comments",
-    "translation": "评论 - n - I read the comments on the article."
+    "source": "extension",
+    "translation": "扩展 - n - The extension of the deadline was necessary."
   },
   {
-    "source": "made",
-    "translation": "制作 - v - This cake is made by my mother."
+    "source": "observation",
+    "translation": "观察 - n - The observation of the phenomenon was crucial."
   },
   {
-    "source": "development",
-    "translation": "发展 - n - The city has seen rapid development."
+    "source": "eliminate",
+    "translation": "消除 - v - We need to eliminate any errors in the system."
   },
   {
-    "source": "report",
-    "translation": "报告 - n - I need to write a report."
+    "source": "when it comes to",
+    "translation": "当它涉及到 - adv - When it comes to this, we need to be careful."
   },
   {
-    "source": "off",
-    "translation": "关闭 - adv - Turn off the light."
+    "source": "route",
+    "translation": "路线 - n - The route to success is not always clear."
   },
   {
-    "source": "member",
-    "translation": "成员 - n - I am a member of this club."
+    "source": "particular",
+    "translation": "特定的 - adj - This is a particular case that needs attention."
   },
   {
-    "source": "details",
-    "translation": "细节 - n - Please provide more details."
+    "source": "remains",
+    "translation": "剩余 - n - The remains of the old system are still present."
   },
   {
-    "source": "line",
-    "translation": "线/队伍 - n - Stand in line."
+    "source": "solid",
+    "translation": "坚固的 - adj - The solid foundation of the system is important."
   },
   {
-    "source": "terms",
-    "translation": "条款 - n - I need to understand the terms and conditions."
+    "source": "shift",
+    "translation": "转变 - v - We need to shift our focus to the new requirements."
   },
   {
-    "source": "before",
-    "translation": "在...之前 - prep - I finish my work before dinner."
+    "source": "associate",
+    "translation": "关联 - v - We need to associate these concepts with each other."
   },
   {
-    "source": "hotels",
-    "translation": "酒店 - n - There are many hotels in this city."
+    "source": "least",
+    "translation": "最少 - adv - At least we have a plan."
   },
   {
-    "source": "did",
-    "translation": "做了 - v - Did you go to the party?"
+    "source": "commercial",
+    "translation": "商业的 - adj - The commercial potential of the product is significant."
   },
   {
-    "source": "send",
-    "translation": "发送 - v - I will send you an email."
+    "source": "negotiation",
+    "translation": "谈判 - n - The negotiation process was lengthy."
   },
   {
-    "source": "right",
-    "translation": "正确的 - adj - You are right."
+    "source": "beyond",
+    "translation": "超出 - prep - Beyond the immediate concerns, we must consider the long-term impact."
   },
   {
-    "source": "type",
-    "translation": "类型 - n - What type of music do you like?"
+    "source": "widely",
+    "translation": "广泛地 - adv - The concept is widely accepted in the industry."
   },
   {
-    "source": "because",
-    "translation": "因为 - conj - I like this book because it is very interesting."
+    "source": "drawback",
+    "translation": "缺点 - n - The main drawback of the system is its complexity."
   },
   {
-    "source": "local",
-    "translation": "当地的 - adj - I like to eat at local restaurants."
+    "source": "significant",
+    "translation": "重要的 - adj - The changes have had a significant impact on the project."
   },
   {
-    "source": "those",
-    "translation": "那些 - pron - Those books are mine."
+    "source": "towards",
+    "translation": "朝向 - prep - We need to work towards a common goal."
   },
   {
-    "source": "using",
-    "translation": "使用 - v - I am using a computer."
+    "source": "extra",
+    "translation": "额外 - adj - We need to allocate extra resources for this project."
   },
   {
-    "source": "results",
-    "translation": "结果 - n - The results of the exam are out."
+    "source": "represent",
+    "translation": "代表 - v - The results represent a significant achievement."
   },
   {
-    "source": "office",
-    "translation": "办公室 - n - I work in an office."
+    "source": "given",
+    "translation": "考虑到 - prep - Given the circumstances, we need to adjust our approach."
   },
   {
-    "source": "education",
-    "translation": "教育 - n - Education is very important."
+    "source": "schedule",
+    "translation": "日程 - n - We need to create a schedule for the project."
   },
   {
-    "source": "national",
-    "translation": "国家的 - adj - The national flag is beautiful."
+    "source": "either",
+    "translation": "任一 - det - Either option is acceptable."
   },
   {
-    "source": "car",
-    "translation": "汽车 - n - I want to buy a new car."
+    "source": "relevant",
+    "translation": "相关的 - adj - The information is relevant to the topic."
   },
   {
-    "source": "design",
-    "translation": "设计 - n/v - The design of this building is very unique."
+    "source": "contribute",
+    "translation": "贡献 - v - Everyone can contribute to the success of the project."
   },
   {
-    "source": "take",
-    "translation": "拿/乘坐 - v - I will take a bus to school."
+    "source": "involve",
+    "translation": "涉及 - v - The project will involve multiple teams."
   },
   {
-    "source": "posted",
-    "translation": "发布 - v - The notice was posted on the wall."
-  },
-  {
-    "source": "internet",
-    "translation": "互联网 - n - I use the internet every day."
-  },
-  {
-    "source": "address",
-    "translation": "地址 - n - What's your address?"
-  },
-  {
-    "source": "community",
-    "translation": "社区 - n - I live in a friendly community."
-  },
-  {
-    "source": "within",
-    "translation": "在...之内 - prep - I will finish the work within two days."
-  },
-  {
-    "source": "states",
-    "translation": "州 - n - The United States has 50 states."
-  },
-  {
-    "source": "area",
-    "translation": "区域 - n - This area is very quiet."
-  },
-  {
-    "source": "want",
-    "translation": "想要 - v - I want to go on a vacation."
-  },
-  {
-    "source": "phone",
-    "translation": "电话 - n - I use my phone to call my friends."
-  },
-  {
-    "source": "dvd",
-    "translation": "DVD - n - I watched a DVD last night."
-  },
-  {
-    "source": "shipping",
-    "translation": "运输 - n - The shipping cost is high."
-  },
-  {
-    "source": "reserved",
-    "translation": "预留的 - adj - This seat is reserved."
-  },
-  {
-    "source": "subject",
-    "translation": "科目 - n - My favorite subject is English."
-  },
-  {
-    "source": "between",
-    "translation": "在...之间 - prep - There is a park between my house and the school."
-  },
-  {
-    "source": "forum",
-    "translation": "论坛 - n - I often participate in online forums."
-  },
-  {
-    "source": "family",
-    "translation": "家庭 - n - I love my family."
-  },
-  {
-    "source": "long",
-    "translation": "长的 - adj - The journey is very long."
-  },
-  {
-    "source": "based",
-    "translation": "基于 - v - The company is based in New York."
-  },
-  {
-    "source": "code",
-    "translation": "代码/密码 - n - I need to enter the access code."
-  },
-  {
-    "source": "show",
-    "translation": "表演/展示 - n/v - The show was very entertaining."
-  },
-  {
-    "source": "even",
-    "translation": "即使 - adv - Even though it was raining, we went out."
-  },
-  {
-    "source": "black",
-    "translation": "黑色的 - adj - I like wearing black clothes."
-  },
-  {
-    "source": "check",
-    "translation": "检查 - v/n - Please check your answers carefully."
-  },
-  {
-    "source": "special",
-    "translation": "特殊的 - adj - This is a special occasion."
-  },
-  {
-    "source": "prices",
-    "translation": "价格 - n - The prices of goods are rising."
-  },
-  {
-    "source": "website",
-    "translation": "网站 - n - I often visit this website."
-  },
-  {
-    "source": "index",
-    "translation": "索引 - n - Look up the word in the index."
-  },
-  {
-    "source": "being",
-    "translation": "存在 - n - Being kind to others is important."
-  },
-  {
-    "source": "women",
-    "translation": "女性 - n - Women play an important role in society."
-  },
-  {
-    "source": "much",
-    "translation": "很多 - adj - I have much work to do."
-  },
-  {
-    "source": "sign",
-    "translation": "标志 - n - I saw a sign on the road."
-  },
-  {
-    "source": "file",
-    "translation": "文件 - n - I need to save this file."
-  },
-  {
-    "source": "link",
-    "translation": "链接 - n - Click on the link to access the website."
-  },
-  {
-    "source": "open",
-    "translation": "打开 - v - Open the window."
-  },
-  {
-    "source": "today",
-    "translation": "今天 - n - Today is a beautiful day."
-  },
-  {
-    "source": "technology",
-    "translation": "科技 - n - Technology has changed our lives."
-  },
-  {
-    "source": "south",
-    "translation": "南方 - n - I want to travel to the south."
-  },
-  {
-    "source": "case",
-    "translation": "情况 - n - In this case, we need to take action."
-  },
-  {
-    "source": "project",
-    "translation": "项目 - n - I am working on a new project."
-  },
-  {
-    "source": "same",
-    "translation": "相同的 - adj - We have the same hobby."
-  },
-  {
-    "source": "pages",
-    "translation": "页 - n - I read many pages of the book."
-  },
-  {
-    "source": "uk",
-    "translation": "英国 - n - I want to visit the UK."
-  },
-  {
-    "source": "version",
-    "translation": "版本 - n - This is the latest version of the software."
-  },
-  {
-    "source": "section",
-    "translation": "部分 - n - This section of the book is very interesting."
-  },
-  {
-    "source": "own",
-    "translation": "自己的 - adj - I have my own room."
-  },
-  {
-    "source": "found",
-    "translation": "发现 - v - I found a lost wallet."
-  },
-  {
-    "source": "sports",
-    "translation": "运动 - n - I like playing sports."
-  },
-  {
-    "source": "house",
-    "translation": "房子 - n - I live in a big house."
-  },
-  {
-    "source": "related",
-    "translation": "相关的 - adj - These two things are related."
-  },
-  {
-    "source": "security",
-    "translation": "安全 - n - We should pay attention to security."
-  },
-  {
-    "source": "both",
-    "translation": "两者都 - pron - Both of them are good students."
-  },
-  {
-    "source": "county",
-    "translation": "县 - n - I live in a beautiful county."
-  },
-  {
-    "source": "american",
-    "translation": "美国的 - adj - American culture is very diverse."
-  },
-  {
-    "source": "photo",
-    "translation": "照片 - n - I took a beautiful photo."
-  },
-  {
-    "source": "game",
-    "translation": "游戏 - n - I like playing video games."
-  },
-  {
-    "source": "members",
-    "translation": "成员 - n - There are many members in this club."
-  },
-  {
-    "source": "power",
-    "translation": "力量 - n - Knowledge is power."
-  },
-  {
-    "source": "while",
-    "translation": "当...的时候 - conj - While I was reading, he was watching TV."
-  },
-  {
-    "source": "care",
-    "translation": "关心 - n/v - We should take care of the environment."
-  },
-  {
-    "source": "network",
-    "translation": "网络 - n - The computer network is down."
-  },
-  {
-    "source": "down",
-    "translation": "坏了 - adv - The elevator is down."
-  },
-  {
-    "source": "computer",
-    "translation": "电脑 - n - I use a computer to work."
-  },
-  {
-    "source": "systems",
-    "translation": "系统 - n - The company has a good management system."
-  },
-  {
-    "source": "three",
-    "translation": "三 - num - I have three apples."
-  },
-  {
-    "source": "total",
-    "translation": "总计 - n/adj - The total cost is $100."
-  },
-  {
-    "source": "place",
-    "translation": "地方 - n - This is a good place to relax."
-  },
-  {
-    "source": "end",
-    "translation": "结束 - n - At the end of the movie, everyone was crying."
-  },
-  {
-    "source": "following",
-    "translation": "以下的 - adj - Please follow the following instructions."
-  },
-  {
-    "source": "download",
-    "translation": "下载 - v - I need to download this software."
-  },
-  {
-    "source": "him",
-    "translation": "他 - pron - I gave the book to him."
-  },
-  {
-    "source": "without",
-    "translation": "没有 - prep - I can't live without music."
-  },
-  {
-    "source": "per",
-    "translation": "每 - prep - The speed limit is 60 kilometers per hour."
-  },
-  {
-    "source": "access",
-    "translation": "接入 - n/v - I need access to the internet."
-  },
-  {
-    "source": "think",
-    "translation": "认为 - v - I think you are right."
-  },
-  {
-    "source": "north",
-    "translation": "北方 - n - I want to go to the north."
-  },
-  {
-    "source": "resources",
-    "translation": "资源 - n - We should make good use of natural resources."
-  },
-  {
-    "source": "current",
-    "translation": "当前的 - adj - The current situation is not good."
-  },
-  {
-    "source": "posts",
-    "translation": "帖子 - n - I read many posts on social media."
-  },
-  {
-    "source": "big",
-    "translation": "大的 - adj - This is a big city."
-  },
-  {
-    "source": "media",
-    "translation": "媒体 - n - Social media is very popular."
-  },
-  {
-    "source": "law",
-    "translation": "法律 - n - We should abide by the law."
-  },
-  {
-    "source": "control",
-    "translation": "控制 - v/n - We need to control our emotions."
-  },
-  {
-    "source": "water",
-    "translation": "水 - n - Water is essential for life."
-  },
-  {
-    "source": "history",
-    "translation": "历史 - n - I am interested in history."
-  },
-  {
-    "source": "pictures",
-    "translation": "照片 - n - I took many pictures on my trip."
-  },
-  {
-    "source": "size",
-    "translation": "大小 - n - What's the size of this room?"
-  },
-  {
-    "source": "art",
-    "translation": "艺术 - n - I love visiting art galleries."
-  },
-  {
-    "source": "personal",
-    "translation": "个人的 - adj - This is my personal opinion."
-  },
-  {
-    "source": "since",
-    "translation": "自从 - prep - I have known him since childhood."
-  },
-  {
-    "source": "including",
-    "translation": "包括 - prep - There are many fruits including apples and bananas."
-  },
-  {
-    "source": "guide",
-    "translation": "指南 - n - I need a travel guide."
-  },
-  {
-    "source": "shop",
-    "translation": "商店 - n - I like shopping in this store."
-  },
-  {
-    "source": "directory",
-    "translation": "目录 - n - Look up the phone number in the directory."
-  },
-  {
-    "source": "board",
-    "translation": "板/董事会 - n - The notice is on the bulletin board."
-  },
-  {
-    "source": "location",
-    "translation": "位置 - n - What's the location of the restaurant?"
-  },
-  {
-    "source": "change",
-    "translation": "改变/换 - v - I need to change my clothes."
-  },
-  {
-    "source": "white",
-    "translation": "白色的 - adj - The walls are painted white."
-  },
-  {
-    "source": "text",
-    "translation": "文本/短信 - n - I received a text message."
-  },
-  {
-    "source": "small",
-    "translation": "小的 - adj - This is a small town."
-  },
-  {
-    "source": "rating",
-    "translation": "评分 - n - The movie has a high rating."
-  },
-  {
-    "source": "rate",
-    "translation": "比率 - n - The interest rate is very low."
-  },
-  {
-    "source": "government",
-    "translation": "政府 - n - The government should take measures to solve the problem."
-  },
-  {
-    "source": "children",
-    "translation": "孩子们 - n - Children are the future of our country."
-  },
-  {
-    "source": "during",
-    "translation": "在...期间 - prep - I read a book during the flight."
-  },
-  {
-    "source": "usa",
-    "translation": "美国 - n - I want to travel to the USA."
-  },
-  {
-    "source": "return",
-    "translation": "返回/归还 - v - I will return the book to you tomorrow."
-  },
-  {
-    "source": "students",
-    "translation": "学生 - n - The students are having a class."
-  },
-  {
-    "source": "shopping",
-    "translation": "购物 - n - I enjoy shopping on weekends."
-  },
-  {
-    "source": "account",
-    "translation": "账户 - n - I need to check my bank account."
-  },
-  {
-    "source": "times",
-    "translation": "次数 - n - I have read this book several times."
-  },
-  {
-    "source": "sites",
-    "translation": "网站/景点 - n - There are many beautiful tourist sites."
-  },
-  {
-    "source": "level",
-    "translation": "水平 - n - My English level is intermediate."
+    "source": "reliably",
+    "translation": "可靠地 - adv - The system operates reliably under heavy load."
   },
   {
     "source": "digital",
