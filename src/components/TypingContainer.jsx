@@ -32,7 +32,7 @@ export default function TypingContainer({ lang }) {
   const { play: playSentence } = usePronunciationSound(currentSentence?.source);
   const { totalSentences } = useSentenceCount();
   const [currentIndex, setCurrentIndex] = useAtom(currentIndexAtom);
-  const { getAudioUrl, loadAudio, playAudio, preloadNextAudio } = useTTS();
+  const { getAudioUrl, loadAudio, playAudio } = useTTS();
 
   // 添加状态用于输入框
   const [inputIndex, setInputIndex] = useState('');
@@ -69,35 +69,36 @@ export default function TypingContainer({ lang }) {
 
   useEffect(() => {
     if (currentSentence?.source && isRunning) {
-      if (lang === 'de') {
-        const onlyDePart = currentSentence.source.replace(/\(.*?\)/g, '').trim();
-        const url = getAudioUrl(onlyDePart);
-        loadAudio(url)
-          .then(() => {
-            playAudio(url);
+      // if (lang === 'de') {
+      //   const onlyDePart = currentSentence.source.replace(/\(.*?\)/g, '').trim();
+      //   const url = getAudioUrl(onlyDePart);
+      //   loadAudio(url)
+      //     .then(() => {
+      //       playAudio(url);
 
-            setTimeout(() => {
-              const parts = currentSentence.translation.split(' - ');
-                if (parts.length > 2) {
-                  const germanPart = parts[2];
-                  const onlyDePart = germanPart.replace(/\(.*?\)/g, '').trim();
-                  const url = getAudioUrl(onlyDePart);
-                  loadAudio(url)
-                    .then(() => playAudio(url))
-                    .catch(err => console.error('播放失败', err));
-                }
-            }, 1000)
+      //       setTimeout(() => {
+      //         const parts = currentSentence.translation.split(' - ');
+      //           if (parts.length > 2) {
+      //             const germanPart = parts[2];
+      //             const onlyDePart = germanPart.replace(/\(.*?\)/g, '').trim();
+      //             const url = getAudioUrl(onlyDePart);
+      //             loadAudio(url)
+      //               .then(() => playAudio(url))
+      //               .catch(err => console.error('播放失败', err));
+      //           }
+      //       }, 1000)
 
-            // 预加载下一个句子
-            const nextSentenceText = currentSentence.next?.source;
-            if (nextSentenceText) {
-              preloadNextAudio(nextSentenceText);
-            }
-          })
-          .catch(err => console.error('德语播放失败', err));
-      } else {
-        playSentence();
-      }
+      //       // 预加载下一个句子
+      //       const nextSentenceText = currentSentence.next?.source;
+      //       if (nextSentenceText) {
+      //         preloadNextAudio(nextSentenceText);
+      //       }
+      //     })
+      //     .catch(err => console.error('德语播放失败', err));
+      // } else {
+        
+      // }
+      playSentence();
     }
   }, [currentSentence?.source, playSentence, isRunning, lang, getAudioUrl, loadAudio, playAudio]);
 
@@ -151,26 +152,22 @@ export default function TypingContainer({ lang }) {
         onComplete={handleComplete}
       />
       <div className="translation">
-        {currentSentence.translation && currentSentence.translation.split(' - ').map((part, index) => (
-          <span key={index}>
-            {part}
-            {index === 2 && lang === 'de' && (
-              <FaVolumeUp 
-                className="volume-icon"
-                onClick={() => {
-                  if (lang === 'de') {
-                    const onlyDePart = part.replace(/\(.*?\)/g, '').trim();
-                    const url = getAudioUrl(onlyDePart);
-                    loadAudio(url)
-                      .then(() => playAudio(url))
-                      .catch(err => console.error('播放失败', err));
-                  }
-                }}
-              />
-            )}
-            {index < 2 && ' - '}
-          </span>
-        ))}
+        {currentSentence.translation && currentSentence.translation.split(' - ').map((part, index) => {
+          if (index !== currentSentence.translation.split(' - ').length - 1) {
+            return <span key={index}>
+              {part}
+              {index === 2 && lang === 'de' && (
+                <FaVolumeUp 
+                  className="volume-icon"
+                  onClick={() => {
+                    playSentence()
+                  }}
+                />
+              )}
+              {index < 2 && ' '}
+            </span>
+          }
+        })}
       </div>
       {/* <StatsDisplay /> */}
       <div className="controls">

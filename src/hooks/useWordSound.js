@@ -18,7 +18,7 @@ export function generateWordSoundSrc(word, pronunciation) {
     default:
       return ''
   }
-}
+} 
 
 export default function usePronunciationSound(word, isLoop) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
