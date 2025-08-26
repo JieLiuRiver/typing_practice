@@ -602,6 +602,234 @@
   {
     "source": "groups",
     "translation": "组 - n - The groups are working together."
+  },
+  {
+    "source": "easy",
+    "translation": "简单 - adj - This task is easy."
+  },
+  {
+    "source": "given",
+    "translation": "给定 - adj - The given information is helpful."
+  },
+  {
+    "source": "files",
+    "translation": "文件 - n - The files are stored securely."
+  },
+  {
+    "source": "event",
+    "translation": "事件 - n - The event was a success."
+  },
+  {
+    "source": "release",
+    "translation": "发布 - n - The release is scheduled for next week."
+  },
+  {
+    "source": "request",
+    "translation": "请求 - n - The request was approved."
+  },
+  {
+    "source": "fax",
+    "translation": "传真 - n - Please send the fax."
+  },
+  {
+    "source": "making",
+    "translation": "制作 - v - She is making a cake."
+  },
+  {
+    "source": "picture",
+    "translation": "图片 - n - The picture is beautiful."
+  },
+  {
+    "source": "needs",
+    "translation": "需求 - n - The needs are being addressed."
+  },
+  {
+    "source": "possible",
+    "translation": "可能 - adj - It is possible to improve the system."
+  },
+  {
+    "source": "might",
+    "translation": "可能 - aux - It might rain today."
+  },
+  {
+    "source": "professional",
+    "translation": "专业 - adj - She is a professional artist."
+  },
+  {
+    "source": "yet",
+    "translation": "尚未 - adv - The project is not yet complete."
+  },
+  {
+    "source": "month",
+    "translation": "月份 - n - March is the third month."
+  },
+  {
+    "source": "major",
+    "translation": "主要 - adj - This is a major issue."
+  },
+  {
+    "source": "start",
+    "translation": "开始 - v - Please start the project."
+  },
+  {
+    "source": "areas",
+    "translation": "区域 - n - The areas are well-defined."
+  },
+  {
+    "source": "space",
+    "translation": "空间 - n - The space is limited."
+  },
+  {
+    "source": "committee",
+    "translation": "委员会 - n - The committee is meeting today."
+  },
+  {
+    "source": "cards",
+    "translation": "卡片 - n - The cards are in the deck."
+  },
+  {
+    "source": "problems",
+    "translation": "问题 - n - There are several problems."
+  },
+  {
+    "source": "london",
+    "translation": "伦敦 - n - London is the capital of England."
+  },
+  {
+    "source": "washington",
+    "translation": "华盛顿 - n - Washington is the capital of the USA."
+  },
+  {
+    "source": "meeting",
+    "translation": "会议 - n - The meeting is scheduled for 10 AM."
+  },
+  {
+    "source": "interest",
+    "translation": "兴趣 - n - She has a keen interest in art."
+  },
+  {
+    "source": "keep",
+    "translation": "保持 - v - Please keep the noise down."
+  },
+  {
+    "source": "enter",
+    "translation": "进入 - v - Please enter the room quietly."
+  },
+  {
+    "source": "california",
+    "translation": "加利福尼亚 - n - California is a state in the USA."
+  },
+  {
+    "source": "porn",
+    "translation": "色情 - n - Pornography is not allowed."
+  },
+  {
+    "source": "share",
+    "translation": "分享 - v - Please share the information."
+  },
+  {
+    "source": "similar",
+    "translation": "相似 - adj - The two products are similar."
+  },
+  {
+    "source": "garden",
+    "translation": "花园 - n - The garden is full of flowers."
+  },
+  {
+    "source": "million",
+    "translation": "百万 - n - There are a million stars in the sky."
+  },
+  {
+    "source": "reference",
+    "translation": "参考 - n - The reference is helpful."
+  },
+  {
+    "source": "listed",
+    "translation": "上市 - n - The company is listed on the stock market."
+  },
+  {
+    "source": "energy",
+    "translation": "能量 - n - The energy is high."
+  },
+  {
+    "source": "delivery",
+    "translation": "快递 - n - The delivery is on time."
+  },
+  {
+    "source": "net",
+    "translation": "网络 - n - The net is very useful."
+  },
+  {
+    "source": "popular",
+    "translation": "受欢迎 - adj - This song is very popular."
+  },
+  {
+    "source": "term",
+    "translation": "术语 - n - This is a technical term."
+  },
+  {
+    "source": "film",
+    "translation": "电影 - n - The film was a blockbuster."
+  },
+  {
+    "source": "stories",
+    "translation": "故事 - n - She tells interesting stories."
+  },
+  {
+    "source": "put",
+    "translation": "放 - v - Please put the book on the table."
+  },
+  {
+    "source": "journal",
+    "translation": "期刊 - n - The journal is published monthly."
+  },
+  {
+    "source": "reports",
+    "translation": "报告 - n - The reports are due next week."
+  },
+  {
+    "source": "co",
+    "translation": "公司 - n - She works for a tech co."
+  },
+  {
+    "source": "central",
+    "translation": "中央 - adj - The central office is located downtown."
+  },
+  {
+    "source": "president",
+    "translation": "总统 - n - The president will give a speech."
+  },
+  {
+    "source": "notice",
+    "translation": "通知 - n - Please read the notice on the board."
+  },
+  {
+    "source": "original",
+    "translation": "原创 - adj - This is the original version."
+  },
+  {
+    "source": "head",
+    "translation": "头 - n - The head of the company is a CEO."
+  },
+  {
+    "source": "radio",
+    "translation": "收音机 - n - The radio is playing music."
+  },
+  {
+    "source": "until",
+    "translation": "直到 - prep - We waited until noon."
+  },
+  {
+    "source": "cell",
+    "translation": "细胞 - n - The cell is the basic unit of life."
+  },
+  {
+    "source": "self",
+    "translation": "自我 - n - Self-care is important."
+  },
+  {
+    "source": "away",
+    "translation": "离开 - adv - He is away on business."
   }
 ]
 
