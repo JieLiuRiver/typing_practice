@@ -1,5 +1,5 @@
 import { atom } from 'jotai';
-import enWords from '../assets/words.json';
+import enWords from '../assets/en-words.json';
 // import deSentences from '../assets/de-sentences.json';
 import deWords from '../assets/de-words.json';
 
