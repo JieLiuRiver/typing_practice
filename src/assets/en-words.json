@@ -343,7 +343,266 @@
     "source": "offers",
     "translation": "优惠 - n - The offers are valid for a limited time."
   },
-  
+  {
+    "source": "legal",
+    "translation": "法律 - adj - Legal issues must be addressed."
+  },
+  {
+    "source": "above",
+    "translation": "以上 - prep - The information above is relevant."
+  },
+  {
+    "source": "recent",
+    "translation": "最近 - adj - The recent changes are significant."
+  },
+  {
+    "source": "park",
+    "translation": "公园 - n - The park is a great place to relax."
+  },
+  {
+    "source": "stores",
+    "translation": "商店 - n - The stores are open late."
+  },
+  {
+    "source": "side",
+    "translation": "边 - n - The side of the building is damaged."
+  },
+  {
+    "source": "act",
+    "translation": "活动 - n - The act was successful."
+  },
+  {
+    "source": "problem",
+    "translation": "问题 - n - The problem needs to be solved."
+  },
+  {
+    "source": "red",
+    "translation": "红色 - adj - The red car is fast."
+  },
+  {
+    "source": "give",
+    "translation": "给予 - v - Please give me the book."
+  },
+  {
+    "source": "memory",
+    "translation": "记忆 - n - Memory is important for learning."
+  },
+  {
+    "source": "performance",
+    "translation": "表现 - n - The performance was outstanding."
+  },
+  {
+    "source": "social",
+    "translation": "社会 - adj - Social media is important."
+  },
+  {
+    "source": "august",
+    "translation": "八月 - n - August is a summer month."
+  },
+  {
+    "source": "quote",
+    "translation": "引用 - n - Please provide a quote for the project."
+  },
+  {
+    "source": "language",
+    "translation": "语言 - n - Language is a key aspect of culture."
+  },
+  {
+    "source": "sell",
+    "translation": "出售 - v - They want to sell their house."
+  },
+  {
+    "source": "options",
+    "translation": "选项 - n - There are many options available."
+  },
+  {
+    "source": "experience",
+    "translation": "经验 - n - The experience is valuable."
+  },
+  {
+    "source": "rates",
+    "translation": "费率 - n - The rates are competitive."
+  },
+  {
+    "source": "create",
+    "translation": "创建 - v - Please create a new account."
+  },
+  {
+    "source": "key",
+    "translation": "钥匙 - n - The key is on the table."
+  },
+  {
+    "source": "body",
+    "translation": "身体 - n - The body needs rest."
+  },
+  {
+    "source": "young",
+    "translation": "年轻 - adj - The young generation is tech-savvy."
+  },
+  {
+    "source": "america",
+    "translation": "美国 - n - America is a diverse country."
+  },
+  {
+    "source": "important",
+    "translation": "重要 - adj - Education is important."
+  },
+  {
+    "source": "field",
+    "translation": "领域 - n - The field of study is vast."
+  },
+  {
+    "source": "few",
+    "translation": "少数 - adj - A few people attended the meeting."
+  },
+  {
+    "source": "east",
+    "translation": "东 - n - The sun rises in the east."
+  },
+  {
+    "source": "paper",
+    "translation": "纸 - n - The paper is on the desk."
+  },
+  {
+    "source": "single",
+    "translation": "单一 - adj - A single mistake can cause problems."
+  },
+  {
+    "source": "activities",
+    "translation": "活动 - n - The activities were fun and engaging."
+  },
+  {
+    "source": "club",
+    "translation": "俱乐部 - n - The club meets every Friday."
+  },
+  {
+    "source": "example",
+    "translation": "例子 - n - Please provide an example."
+  },
+  {
+    "source": "girls",
+    "translation": "女孩 - n - Girls are more active than boys."
+  },
+  {
+    "source": "additional",
+    "translation": "额外 - adj - Additional information is required."
+  },
+  {
+    "source": "password",
+    "translation": "密码 - n - The password is complex."
+  },
+  {
+    "source": "latest",
+    "translation": "最新 - adj - The latest version is available."
+  },
+  {
+    "source": "something",
+    "translation": "某物 - n - Something is wrong with the system."
+  },
+  {
+    "source": "road",
+    "translation": "道路 - n - The road is closed for construction."
+  },
+  {
+    "source": "gift",
+    "translation": "礼物 - n - She received a beautiful gift."
+  },
+  {
+    "source": "question",
+    "translation": "问题 - n - Do you have a question?"
+  },
+  {
+    "source": "changes",
+    "translation": "变化 - n - The changes are noticeable."
+  },
+  {
+    "source": "night",
+    "translation": "夜晚 - n - The night is calm."
+  },
+  {
+    "source": "hard",
+    "translation": "困难 - adj - This problem is hard to solve."
+  },
+  {
+    "source": "oct",
+    "translation": "十月 - n - October is the tenth month."
+  },
+  {
+    "source": "pay",
+    "translation": "支付 - v - Please pay the bill."
+  },
+  {
+    "source": "status",
+    "translation": "状态 - n - The status is updated."
+  },
+  {
+    "source": "browse",
+    "translation": "浏览 - v - Please browse the website."
+  },
+  {
+    "source": "issue",
+    "translation": "问题 - n - There is an issue with the application."
+  },
+  {
+    "source": "range",
+    "translation": "范围 - n - The range is limited."
+  },
+  {
+    "source": "building",
+    "translation": "建筑 - n - The building is new."
+  },
+  {
+    "source": "seller",
+    "translation": "卖家 - n - The seller is reliable."
+  },
+  {
+    "source": "court",
+    "translation": "法院 - n - The court is in session."
+  },
+  {
+    "source": "february",
+    "translation": "二月 - n - February is the second month."
+  },
+  {
+    "source": "always",
+    "translation": "总是 - adv - I always go to the gym."
+  },
+  {
+    "source": "result",
+    "translation": "结果 - n - The result is positive."
+  },
+  {
+    "source": "audio",
+    "translation": "音频 - n - The audio is clear."
+  },
+  {
+    "source": "light",
+    "translation": "灯光 - n - The light is dim."
+  },
+  {
+    "source": "write",
+    "translation": "写 - v - Please write a letter."
+  },
+  {
+    "source": "war",
+    "translation": "战争 - n - The war is ongoing."
+  },
+  {
+    "source": "nov",
+    "translation": "十一月 - n - November is the eleventh month."
+  },
+  {
+    "source": "offer",
+    "translation": "报价 - n - The offer is valid."
+  },
+  {
+    "source": "blue",
+    "translation": "蓝色 - n - Blue is the color of the sky."
+  },
+  {
+    "source": "groups",
+    "translation": "组 - n - The groups are working together."
+  }
 ]
 
 
