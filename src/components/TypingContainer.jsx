@@ -153,7 +153,7 @@ export default function TypingContainer({ lang }) {
       />
       <div className="translation">
         {currentSentence.translation && currentSentence.translation.split(' - ').map((part, index) => {
-          if (index !== currentSentence.translation.split(' - ').length - 1) {
+          // if (index !== currentSentence.translation.split(' - ').length - 1) {
             return <span key={index}>
               {part}
               {index === 2 && lang === 'de' && (
@@ -164,9 +164,9 @@ export default function TypingContainer({ lang }) {
                   }}
                 />
               )}
-              {index < 2 && ' '}
+              {index < 2 && ' - '}
             </span>
-          }
+          // }
         })}
       </div>
       {/* <StatsDisplay /> */}
