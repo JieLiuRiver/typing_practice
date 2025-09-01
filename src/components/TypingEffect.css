@@ -89,6 +89,13 @@ html.dark .overlay {
   right: 0;
   top: 0;
 }
+
+.word {
+  
+}
+
 .letter {
-  font-size: 50px;
+  font-size: 30px;
+  font-weight: 500;
+  opacity: 0.04;
 }
