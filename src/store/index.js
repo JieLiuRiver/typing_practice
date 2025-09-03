@@ -1,5 +1,6 @@
 import { atom } from 'jotai';
-import enWords from '../assets/en-words.json';
+import enWords from '../assets/BNC_COCA_lists.json';
+// import enWords from '../assets/en-words.json';
 // import deSentences from '../assets/de-sentences.json';
 import deWords from '../assets/de-words.json';
 
@@ -25,10 +26,10 @@ export const sentencesAtom = atom(
     const words = language === 'de' ? deWords : enWords;
     // const sentences = language === 'de'? deSentences : enSentences;
     const newSentences = words.map(word => {
-      const list = word.translation.split(' - ')
+      const list = typeof word !== 'string' ? word.translation.split(' - ') : []
       return {
-        source: list[list.length - 1],
-        translation: `${word.source} - ${list[0]} - ${list[1]}`
+        source: typeof word === 'string' ? word : list[list.length - 1],
+        translation: `${typeof word === 'string' ? '' : list[0]} - ${list[1]}`
       }
     })
     return contentType === 'sentences' ? newSentences : words;

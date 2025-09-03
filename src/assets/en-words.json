@@ -5,7 +5,7 @@
   },
   {
     "source": "privacy",
-    "translation": "隐私 - n - Privacy is important."
+    "translation": "隐私 - n - Privacy xx."
   },
   {
     "source": "january",
@@ -101,7 +101,7 @@
   },
   {
     "source": "insurance",
-    "translation": "保险 - n - Insurance is important for financial security."
+    "translation": "保险 - n - Insurance xx for financial security."
   },
   {
     "source": "quality",
@@ -253,7 +253,7 @@
   },
   {
     "source": "financial",
-    "translation": "金融 - adj - Financial planning is important."
+    "translation": "金融 - adj - Financial planning xx."
   },
   {
     "source": "things",
@@ -385,7 +385,7 @@
   },
   {
     "source": "memory",
-    "translation": "记忆 - n - Memory is important for learning."
+    "translation": "记忆 - n - Memory xx for learning."
   },
   {
     "source": "performance",
@@ -393,7 +393,7 @@
   },
   {
     "source": "social",
-    "translation": "社会 - adj - Social media is important."
+    "translation": "社会 - adj - Social media xx."
   },
   {
     "source": "august",
@@ -445,7 +445,7 @@
   },
   {
     "source": "important",
-    "translation": "重要 - adj - Education is important."
+    "translation": "重要 - adj - Education xx."
   },
   {
     "source": "field",
@@ -825,11 +825,1248 @@
   },
   {
     "source": "self",
-    "translation": "自我 - n - Self-care is important."
+    "translation": "自我 - n - Self-care xx."
   },
   {
     "source": "away",
     "translation": "离开 - adv - He is away on business."
+  },
+  {
+    "source": "includes",
+    "translation": "包括 - adv - He includes the new features."
+  },
+  {
+    "source": "track",
+    "translation": "跟踪 - v - Please track the package."
+  },
+  {
+    "source": "australia",
+    "translation": "澳大利亚 - n - Australia is a country in the Pacific Ocean."
+  },
+  {
+    "source": "discussion",
+    "translation": "讨论 - n - The discussion xx."
+  },
+  {
+    "source": "archive",
+    "translation": "档案 - n - The archive is full of old files."
+  },
+  {
+    "source": "once",
+    "translation": "一次 - adv - He did it once."
+  },
+  {
+    "source": "entertainment",
+    "translation": "娱乐 - n - The entertainment xx."
+  },
+  {
+    "source": "agreement",
+    "translation": "协议 - n - The agreement xx."
+  },
+  {
+    "source": "format",
+    "translation": "格式 - n - The format xx."
+  },
+  {
+    "source": "least",
+    "translation": "最少 - adv - We need at least two people."
+  },  
+  {
+    "source": "society",
+    "translation": "社会 - n - The society xx."
+  },
+  {
+    "source": "months",
+    "translation": "月 - n - There are 12 months in a year."
+  },
+  {
+    "source": "log",
+    "translation": "日志 - n - The log is full of information."
+  },
+  {
+    "source": "safety",
+    "translation": "安全 - n - The safety xx."
+  },
+  {
+    "source": "sure",
+    "translation": "确定 - adv - I am sure about it."
+  },
+  {
+    "source": "faq",
+    "translation": "常见问题 - n - The FAQ is helpful."
+  },
+  {
+    "source": "trade",
+    "translation": "贸易 - n - The trade xx."
+  },
+  {
+    "source": "edition",
+    "translation": "版 - n - The edition xx."
+  },
+  {
+    "source": "marketing",
+    "translation": "营销 - n - The marketing xx."
+  },
+  {
+    "source": "further",
+    "translation": "进一步 - adv - He will do it further."
+  },
+  {
+    "source": "updated",
+    "translation": "更新 - adv - He updated the software."
+  },
+  {
+    "source": "association",
+    "translation": "协会 - n - The association xx."
+  },
+  {
+    "source": "able",
+    "translation": "能力 - n - He is able to do it."
+  },
+  {
+    "source": "provides",
+    "translation": "提供 - adv - He provides the new features."
+  },
+  {
+    "source": "already",
+    "translation": "已经 - adv - He already did it."
+  },
+  {
+    "source": "green",
+    "translation": "绿色 - adj - The green xx."
+  },
+  {
+    "source": "studies",
+    "translation": "研究 - n - The studies are important."
+  },
+  {
+    "source": "close",
+    "translation": "关闭 - adv - He closed the door."
+  },
+  {
+    "source": "drive",
+    "translation": "驾驶 - v - He drove the car."
+  },
+  {
+    "source": "specific",
+    "translation": "特定 - adj - The specific xx."
+  },
+  {
+    "source": "several",
+    "translation": "几个 - adv - We have several books."
+  },
+  {
+    "source": "gold",
+    "translation": "黄金 - n - /."
+  },
+  {
+    "source": "living",
+    "translation": "生活 - n - /."
+  },
+  {
+    "source": "collection",
+    "translation": "收藏 - n - /."
+  },
+  {
+    "source": "called",
+    "translation": "被调用 - adv - He called the function."
+  },
+  {
+    "source": "lot",
+    "translation": "很多 - adv - We have a lot of books."
+  },
+  {
+    "source": "display",
+    "translation": "显示 - v/n - The phone can display high-quality images."
+  },
+  {
+    "source": "limited",
+    "translation": "有限的 - adj - We have a limited amount of time."
+  },
+  {
+    "source": "powered",
+    "translation": "驱动的 - adj - The car is powered by electricity."
+  },
+  {
+    "source": "solutions",
+    "translation": "解决方案 - n - We need solutions to this problem."
+  },
+  {
+    "source": "means",
+    "translation": "手段/方式 - n - Hard work is the only means to success."
+  },
+  {
+    "source": "director",
+    "translation": "导演/主管 - n - She is the director of the company."
+  },
+  {
+    "source": "daily",
+    "translation": "每日的 - adj/adv - Exercise is part of my daily routine."
+  },
+  {
+    "source": "beach",
+    "translation": "海滩 - n - We spent the day at the beach."
+  },
+  {
+    "source": "past",
+    "translation": "过去 - n/adj - He learned from his past mistakes."
+  },
+  {
+    "source": "natural",
+    "translation": "自然的 - adj - She prefers natural food."
+  },
+  {
+    "source": "whether",
+    "translation": "是否 - conj - I don’t know whether he will come."
+  },
+  {
+    "source": "due",
+    "translation": "到期的/由于 - adj - The rent is due tomorrow."
+  },
+  {
+    "source": "et",
+    "translation": "以及（拉丁语） - conj - Common in 'et al.' meaning 'and others'."
+  },
+  {
+    "source": "electronics",
+    "translation": "电子学 - n - He studies electronics at university."
+  },
+  {
+    "source": "five",
+    "translation": "五 - num - They have five children."
+  },
+  {
+    "source": "upon",
+    "translation": "在…之上 - prep - He relies upon his friends."
+  },
+  {
+    "source": "period",
+    "translation": "时期/句号 - n - The project lasted a short period."
+  },
+  {
+    "source": "planning",
+    "translation": "规划 - n - Good planning saves time."
+  },
+  {
+    "source": "database",
+    "translation": "数据库 - n - The data is stored in a database."
+  },
+  {
+    "source": "says",
+    "translation": "说 - v - He says he will join us later."
+  },
+  {
+    "source": "official",
+    "translation": "官方的/官员 - adj/n - This is the official statement."
+  },
+  {
+    "source": "weather",
+    "translation": "天气 - n - The weather is nice today."
+  },
+  {
+    "source": "mar",
+    "translation": "损坏/三月缩写 - v/n - His face was marred by a scar."
+  },
+  {
+    "source": "land",
+    "translation": "土地/降落 - n/v - The plane will land soon."
+  },
+  {
+    "source": "average",
+    "translation": "平均 - n/adj - The average score is high."
+  },
+  {
+    "source": "done",
+    "translation": "完成的 - adj/v - I am done with my homework."
+  },
+  {
+    "source": "technical",
+    "translation": "技术的 - adj - He wrote a technical report."
+  },
+  {
+    "source": "window",
+    "translation": "窗户 - n - She opened the window for fresh air."
+  },
+  {
+    "source": "france",
+    "translation": "法国 - n - They traveled to France last year."
+  },
+  {
+    "source": "pro",
+    "translation": "专业的/支持者 - adj/n - He is a pro gamer."
+  },
+  {
+    "source": "region",
+    "translation": "地区 - n - This region is famous for wine."
+  },
+  {
+    "source": "island",
+    "translation": "岛屿 - n - They live on a small island."
+  },
+  {
+    "source": "record",
+    "translation": "记录/唱片 - n/v - She set a new world record."
+  },
+  {
+    "source": "direct",
+    "translation": "直接的/指导 - adj/v - He gave a direct answer."
+  },
+  {
+    "source": "microsoft",
+    "translation": "微软 - n - Microsoft develops Windows."
+  },
+  {
+    "source": "conference",
+    "translation": "会议 - n - The conference starts tomorrow."
+  },
+  {
+    "source": "environment",
+    "translation": "环境 - n - We must protect the environment."
+  },
+  {
+    "source": "records",
+    "translation": "记录 - n - The hospital keeps patient records."
+  },
+  {
+    "source": "st",
+    "translation": "街/圣（缩写） - abbr - He lives on 5th St."
+  },
+  {
+    "source": "district",
+    "translation": "地区/行政区 - n - They moved to another district."
+  },
+  {
+    "source": "calendar",
+    "translation": "日历 - n - I marked the date on my calendar."
+  },
+  {
+    "source": "costs",
+    "translation": "成本 - n - The project costs are too high."
+  },
+  {
+    "source": "style",
+    "translation": "风格 - n - She has her own style."
+  },
+  {
+    "source": "url",
+    "translation": "网址 - n - Please enter the correct URL."
+  },
+  {
+    "source": "front",
+    "translation": "前面 - n/adj - He stood at the front of the line."
+  },
+  {
+    "source": "statement",
+    "translation": "声明/账单 - n - The company issued a statement."
+  },
+  {
+    "source": "update",
+    "translation": "更新 - v/n - Please update the software."
+  },
+  {
+    "source": "parts",
+    "translation": "零件/部分 - n - The machine needs new parts."
+  },
+  {
+    "source": "aug",
+    "translation": "八月（缩写） - n - The event is in Aug."
+  },
+  {
+    "source": "ever",
+    "translation": "曾经/永远 - adv - Have you ever been to Japan?"
+  },
+  {
+    "source": "downloads",
+    "translation": "下载 - n - The app has one million downloads."
+  },
+  {
+    "source": "early",
+    "translation": "早的 - adj/adv - She came early to the meeting."
+  },
+  {
+    "source": "miles",
+    "translation": "英里 - n - The town is ten miles away."
+  },
+  {
+    "source": "sound",
+    "translation": "声音 - n - I heard a strange sound."
+  },
+  {
+    "source": "resource",
+    "translation": "资源 - n - Water is a precious resource."
+  },
+  {
+    "source": "present",
+    "translation": "现在/礼物/出席 - n/v/adj - All students are present today."
+  },
+  {
+    "source": "applications",
+    "translation": "应用/申请 - n - There are many mobile applications."
+  },
+  {
+    "source": "either",
+    "translation": "任一/或者 - conj/pron - You can choose either option."
+  },
+  {
+    "source": "ago",
+    "translation": "以前 - adv - She moved here two years ago."
+  },
+  {
+    "source": "document",
+    "translation": "文件 - n - Please read this document."
+  },
+  {
+    "source": "word",
+    "translation": "单词 - n - This word is difficult to spell."
+  },
+  {
+    "source": "works",
+    "translation": "作品/工厂/运作 - n/v - His works are displayed in the museum."
+  },
+  {
+    "source": "material",
+    "translation": "材料 - n - This dress is made of soft material."
+  },
+  {
+    "source": "bill",
+    "translation": "账单/法案 - n - The waiter brought the bill."
+  },
+  {
+    "source": "apr",
+    "translation": "四月（缩写） - n - He was born in Apr."
+  },
+  {
+    "source": "written",
+    "translation": "书写的 - adj - This is a written agreement."
+  },
+  {
+    "source": "talk",
+    "translation": "谈话 - v/n - They had a long talk."
+  },
+  {
+    "source": "federal",
+    "translation": "联邦的 - adj - He works for the federal government."
+  },
+  {
+    "source": "hosting",
+    "translation": "主办/托管 - v/n - The city is hosting the games."
+  },
+   {
+    "source": "rules",
+    "translation": "规则 - n - We must follow the rules."
+  },
+  {
+    "source": "final",
+    "translation": "最终的/决赛 - adj/n - This is the final round."
+  },
+  {
+    "source": "adult",
+    "translation": "成年人 - n - Children must be with an adult."
+  },
+  {
+    "source": "tickets",
+    "translation": "票 - n - We bought tickets for the concert."
+  },
+  {
+    "source": "thing",
+    "translation": "事情/东西 - n - Honesty is the most important thing."
+  },
+  {
+    "source": "centre",
+    "translation": "中心 - n - The shopping centre is crowded."
+  },
+  {
+    "source": "requirements",
+    "translation": "要求 - n - The job has strict requirements."
+  },
+  {
+    "source": "via",
+    "translation": "通过 - prep - We went to Paris via London."
+  },
+  {
+    "source": "cheap",
+    "translation": "便宜的 - adj - These shoes are very cheap."
+  },
+  {
+    "source": "nude",
+    "translation": "裸体的 - adj - The artist painted a nude model."
+  },
+  {
+    "source": "kids",
+    "translation": "小孩 - n - The kids are playing outside."
+  },
+  {
+    "source": "finance",
+    "translation": "金融 - n - He works in finance."
+  },
+  {
+    "source": "true",
+    "translation": "真的 - adj - The story is true."
+  },
+  {
+    "source": "minutes",
+    "translation": "分钟/会议记录 - n - The meeting lasted 30 minutes."
+  },
+  {
+    "source": "else",
+    "translation": "其他的 - adv - Do you want anything else?"
+  },
+  {
+    "source": "mark",
+    "translation": "标记/分数 - n/v - He got a high mark on the test."
+  },
+  {
+    "source": "third",
+    "translation": "第三 - adj/n - She finished in third place."
+  },
+  {
+    "source": "rock",
+    "translation": "岩石/摇滚 - n - The boat hit a rock."
+  },
+  {
+    "source": "gifts",
+    "translation": "礼物 - n - They exchanged gifts at Christmas."
+  },
+  {
+    "source": "europe",
+    "translation": "欧洲 - n - They traveled across Europe."
+  },
+  {
+    "source": "reading",
+    "translation": "阅读 - n - She enjoys reading books."
+  },
+  {
+    "source": "topics",
+    "translation": "话题 - n - We discussed many topics."
+  },
+  {
+    "source": "bad",
+    "translation": "坏的 - adj - He had a bad day."
+  },
+  {
+    "source": "individual",
+    "translation": "个人 - n/adj - Each individual has rights."
+  },
+  {
+    "source": "tips",
+    "translation": "小费/建议 - n - She gave me useful tips."
+  },
+  {
+    "source": "plus",
+    "translation": "加/优势 - conj/n - Two plus two is four."
+  },
+  {
+    "source": "auto",
+    "translation": "汽车/自动的 - n/adj - He drives an auto."
+  },
+  {
+    "source": "cover",
+    "translation": "覆盖/封面 - v/n - The book has a red cover."
+  },
+  {
+    "source": "usually",
+    "translation": "通常 - adv - I usually get up at 7."
+  },
+  {
+    "source": "edit",
+    "translation": "编辑 - v - She will edit the article."
+  },
+  {
+    "source": "together",
+    "translation": "一起 - adv - We worked together on the project."
+  },
+  {
+    "source": "videos",
+    "translation": "视频 - n - He likes watching funny videos."
+  },
+  {
+    "source": "percent",
+    "translation": "百分比 - n - The discount is 20 percent."
+  },
+  {
+    "source": "fast",
+    "translation": "快速的 - adj/adv - He runs very fast."
+  },
+  {
+    "source": "function",
+    "translation": "功能/函数 - n - The main function of the app is messaging."
+  },
+  {
+    "source": "fact",
+    "translation": "事实 - n - It is a fact that the earth orbits the sun."
+  },
+  {
+    "source": "unit",
+    "translation": "单位/单元 - n - The apartment has three units."
+  },
+  {
+    "source": "getting",
+    "translation": "获得/变得 - v - He is getting stronger."
+  },
+  {
+    "source": "global",
+    "translation": "全球的 - adj - Climate change is a global issue."
+  },
+  {
+    "source": "tech",
+    "translation": "科技 - n - He works in the tech industry."
+  },
+  {
+    "source": "meet",
+    "translation": "遇见/开会 - v - Let’s meet tomorrow."
+  },
+  {
+    "source": "far",
+    "translation": "远的 - adv - The school is far from here."
+  },
+  {
+    "source": "economic",
+    "translation": "经济的 - adj - The country faces economic challenges."
+  },
+  {
+    "source": "player",
+    "translation": "玩家/选手 - n - He is the best player on the team."
+  },
+  {
+    "source": "projects",
+    "translation": "项目 - n - We are working on new projects."
+  },
+  {
+    "source": "lyrics",
+    "translation": "歌词 - n - She memorized the song lyrics."
+  },
+  {
+    "source": "often",
+    "translation": "经常 - adv - He often goes jogging."
+  },
+  {
+    "source": "subscribe",
+    "translation": "订阅 - v - Please subscribe to our channel."
+  },
+  {
+    "source": "submit",
+    "translation": "提交 - v - You must submit the form online."
+  },
+  {
+    "source": "germany",
+    "translation": "德国 - n - She studied in Germany."
+  },
+  {
+    "source": "amount",
+    "translation": "数量 - n - He paid a large amount of money."
+  },
+  {
+    "source": "watch",
+    "translation": "观看/手表 - v/n - Let’s watch a movie tonight."
+  },
+  {
+    "source": "included",
+    "translation": "包含的 - adj - Breakfast is included in the price."
+  },
+  {
+    "source": "feel",
+    "translation": "感觉 - v - I feel happy today."
+  },
+  {
+    "source": "though",
+    "translation": "虽然 - conj - He came, though he was tired."
+  },
+  {
+    "source": "risk",
+    "translation": "风险 - n - Smoking is a health risk."
+  },
+  {
+    "source": "everything",
+    "translation": "一切 - pron - Everything is ready."
+  },
+  {
+    "source": "deals",
+    "translation": "交易/优惠 - n - The store offers great deals."
+  },
+  {
+    "source": "various",
+    "translation": "各种各样的 - adj - The library has books on various topics."
+  },
+  {
+    "source": "words",
+    "translation": "单词 - n - She learned 50 new words."
+  },
+  {
+    "source": "linux",
+    "translation": "Linux 操作系统 - n - The server runs on Linux."
+  },
+  {
+    "source": "jul",
+    "translation": "七月（缩写） - n - The meeting is in Jul."
+  },
+  {
+    "source": "production",
+    "translation": "生产 - n - The factory increased production."
+  },
+  {
+    "source": "commercial",
+    "translation": "商业的/广告 - adj/n - They shot a new TV commercial."
+  },
+  {
+    "source": "weight",
+    "translation": "重量 - n - He lost some weight."
+  },
+  {
+    "source": "town",
+    "translation": "城镇 - n - She lives in a small town."
+  },
+  {
+    "source": "heart",
+    "translation": "心脏/心 - n - He has a kind heart."
+  },
+  {
+    "source": "advertising",
+    "translation": "广告业 - n - She works in advertising."
+  },
+  {
+    "source": "received",
+    "translation": "收到的 - v - I received your email."
+  },
+  {
+    "source": "choose",
+    "translation": "选择 - v - You can choose any color."
+  },
+  {
+    "source": "treatment",
+    "translation": "治疗/对待 - n - The patient needs treatment."
+  },
+  {
+    "source": "newsletter",
+    "translation": "简报 - n - I subscribed to the newsletter."
+  },
+  {
+    "source": "archives",
+    "translation": "档案 - n - The old records are kept in the archives."
+  },
+  {
+    "source": "points",
+    "translation": "点/分数 - n - He scored 10 points in the game."
+  },
+  {
+    "source": "knowledge",
+    "translation": "知识 - n - Reading increases knowledge."
+  },
+  {
+    "source": "magazine",
+    "translation": "杂志 - n - She bought a fashion magazine."
+  },
+  {
+    "source": "error",
+    "translation": "错误 - n - There is an error in the code."
+  },
+  {
+    "source": "camera",
+    "translation": "相机 - n - He bought a new camera."
+  },
+  {
+    "source": "jun",
+    "translation": "六月（缩写） - n - The exam is in Jun."
+  },
+  {
+    "source": "girl",
+    "translation": "女孩 - n - The girl is reading a book."
+  },
+  {
+    "source": "currently",
+    "translation": "目前 - adv - He is currently working in London."
+  },
+  {
+    "source": "construction",
+    "translation": "施工/建设 - n - The construction will take two years."
+  },
+  {
+    "source": "toys",
+    "translation": "玩具 - n - The kids are playing with toys."
+  },
+  {
+    "source": "registered",
+    "translation": "注册的 - adj/v - She registered for the course."
+  },
+  {
+    "source": "clear",
+    "translation": "清楚的/清理 - adj/v - The sky is clear today."
+  },
+  {
+    "source": "golf",
+    "translation": "高尔夫 - n - He plays golf on weekends."
+  },
+  {
+    "source": "receive",
+    "translation": "收到 - v - Did you receive my message?"
+  },
+  {
+    "source": "domain",
+    "translation": "域名/领域 - n - The website has a .com domain."
+  },
+  {
+    "source": "methods",
+    "translation": "方法 - n - They use modern teaching methods."
+  },
+  {
+    "source": "chapter",
+    "translation": "章节 - n - I finished the first chapter of the book."
+  },
+  {
+    "source": "makes",
+    "translation": "制造/使得 - v - She makes good coffee."
+  },
+  {
+    "source": "protection",
+    "translation": "保护 - n - Sunscreen gives skin protection."
+  },
+  {
+    "source": "policies",
+    "translation": "政策 - n - The company changed its policies."
+  },
+  {
+    "source": "loan",
+    "translation": "贷款 - n - He applied for a bank loan."
+  },
+  {
+    "source": "wide",
+    "translation": "宽的 - adj - The river is very wide."
+  },
+  {
+    "source": "beauty",
+    "translation": "美丽 - n - The beauty of nature is amazing."
+  },
+  {
+    "source": "manager",
+    "translation": "经理 - n - The manager approved the plan."
+  },
+  {
+    "source": "india",
+    "translation": "印度 - n - She traveled to India last year."
+  },
+  {
+    "source": "position",
+    "translation": "位置/职位 - n - He applied for a manager position."
+  },
+  {
+    "source": "taken",
+    "translation": "被拿走的/占用的 - v - The seat is already taken."
+  },
+  {
+    "source": "sort",
+    "translation": "种类/分类 - n/v - This sort of music is popular."
+  },
+  {
+    "source": "listings",
+    "translation": "列表/清单 - n - The website has job listings."
+  },
+  {
+    "source": "models",
+    "translation": "模型/模特 - n - The company released new car models."
+  },
+  {
+    "source": "michael",
+    "translation": "迈克尔（人名） - n - Michael is my best friend."
+  },
+  {
+    "source": "known",
+    "translation": "已知的/著名的 - adj - She is known for her kindness."
+  },
+  {
+    "source": "half",
+    "translation": "一半 - n/adj - He ate half of the cake."
+  },
+  {
+    "source": "cases",
+    "translation": "案例/箱子 - n - The lawyer studied many cases."
+  },
+  {
+    "source": "step",
+    "translation": "步骤/步伐 - n/v - Follow the first step carefully."
+  },
+  {
+    "source": "engineering",
+    "translation": "工程学 - n - He studied mechanical engineering."
+  },
+  {
+    "source": "florida",
+    "translation": "佛罗里达 - n - They spent summer in Florida."
+  },
+  {
+    "source": "simple",
+    "translation": "简单的 - adj - The solution is quite simple."
+  },
+  {
+    "source": "quick",
+    "translation": "快速的 - adj - He gave a quick answer."
+  },
+  {
+    "source": "none",
+    "translation": "没有一个 - pron - None of them agreed."
+  },
+  {
+    "source": "wireless",
+    "translation": "无线的 - adj - She bought a wireless mouse."
+  },
+  {
+    "source": "license",
+    "translation": "执照 - n - He has a driver’s license."
+  },
+  {
+    "source": "paul",
+    "translation": "保罗（人名） - n - Paul is studying abroad."
+  },
+  {
+    "source": "friday",
+    "translation": "星期五 - n - The meeting is on Friday."
+  },
+  {
+    "source": "lake",
+    "translation": "湖 - n - They swam in the lake."
+  },
+  {
+    "source": "whole",
+    "translation": "整个的 - adj - He ate the whole apple."
+  },
+  {
+    "source": "annual",
+    "translation": "年度的 - adj - The company holds an annual meeting."
+  },
+  {
+    "source": "published",
+    "translation": "已出版的 - v/adj - The book was published last year."
+  },
+  {
+    "source": "later",
+    "translation": "后来/稍后 - adv - I’ll call you later."
+  },
+  {
+    "source": "basic",
+    "translation": "基本的 - adj - She has basic computer skills."
+  },
+  {
+    "source": "sony",
+    "translation": "索尼 - n - Sony makes cameras and TVs."
+  },
+  {
+    "source": "shows",
+    "translation": "演出/展示 - n/v - The data shows a clear trend."
+  },
+  {
+    "source": "corporate",
+    "translation": "公司的 - adj - He works in corporate law."
+  },
+  {
+    "source": "google",
+    "translation": "谷歌 - n - You can Google the answer."
+  },
+  {
+    "source": "church",
+    "translation": "教堂 - n - They got married in a church."
+  },
+  {
+    "source": "method",
+    "translation": "方法 - n - This method is effective."
+  },
+  {
+    "source": "purchase",
+    "translation": "购买 - v/n - She made a big purchase online."
+  },
+  {
+    "source": "customers",
+    "translation": "顾客 - n - The store values its customers."
+  },
+  {
+    "source": "active",
+    "translation": "积极的/活跃的 - adj - He is active in sports."
+  },
+  {
+    "source": "response",
+    "translation": "回应 - n - She gave a quick response."
+  },
+  {
+    "source": "practice",
+    "translation": "练习/实践 - n/v - Daily practice improves skills."
+  },
+  {
+    "source": "hardware",
+    "translation": "硬件 - n - The computer hardware is expensive."
+  },
+  {
+    "source": "figure",
+    "translation": "数字/人物/身材 - n - Unemployment is a key economic figure."
+  },
+  {
+    "source": "materials",
+    "translation": "材料 - n - The builder ordered new materials."
+  },
+  {
+    "source": "fire",
+    "translation": "火/开除 - n/v - The house caught fire."
+  },
+  {
+    "source": "holiday",
+    "translation": "假期 - n - We went to Italy for our holiday."
+  },
+  {
+    "source": "chat",
+    "translation": "聊天 - v/n - Let’s chat after work."
+  },
+  {
+    "source": "enough",
+    "translation": "足够的 - adj/adv - We have enough food."
+  },
+  {
+    "source": "designed",
+    "translation": "设计的 - adj/v - The app was designed for students."
+  },
+  {
+    "source": "along",
+    "translation": "沿着/一起 - prep/adv - They walked along the river."
+  },
+  {
+    "source": "among",
+    "translation": "在…之中 - prep - She was sitting among friends."
+  },
+  {
+    "source": "death",
+    "translation": "死亡 - n - He is afraid of death."
+  },
+  {
+    "source": "writing",
+    "translation": "写作 - n - Her writing is excellent."
+  },
+  {
+    "source": "speed",
+    "translation": "速度 - n - The car reached a high speed."
+  },
+  {
+    "source": "html",
+    "translation": "超文本标记语言 - n - The website was built with HTML."
+  },
+  {
+    "source": "countries",
+    "translation": "国家 - n - She has visited many countries."
+  },
+  {
+    "source": "loss",
+    "translation": "损失 - n - The company reported a big loss."
+  },
+  {
+    "source": "face",
+    "translation": "脸/面对 - n/v - She washed her face."
+  },
+  {
+    "source": "brand",
+    "translation": "品牌 - n - Nike is a famous brand."
+  },
+  {
+    "source": "discount",
+    "translation": "折扣 - n - They offered a 20% discount."
+  },
+  {
+    "source": "higher",
+    "translation": "更高的 - adj - The plane flew higher than before."
+  },
+  {
+    "source": "effects",
+    "translation": "效果 - n - The drug has side effects."
+  },
+  {
+    "source": "created",
+    "translation": "创造的 - v - She created a new design."
+  },
+  {
+    "source": "remember",
+    "translation": "记得 - v - Do you remember his name?"
+  },
+  {
+    "source": "standards",
+    "translation": "标准 - n - Safety standards are strict."
+  },
+  {
+    "source": "oil",
+    "translation": "油 - n - The price of oil is rising."
+  },
+  {
+    "source": "bit",
+    "translation": "一点 - n - I need a bit of sugar."
+  },
+  {
+    "source": "yellow",
+    "translation": "黄色 - adj - The flowers are yellow."
+  },
+  {
+    "source": "political",
+    "translation": "政治的 - adj - She is interested in political news."
+  },
+  {
+    "source": "increase",
+    "translation": "增加 - v/n - Prices continue to increase."
+  },
+  {
+    "source": "advertise",
+    "translation": "做广告 - v - They advertise on TV."
+  },
+  {
+    "source": "kingdom",
+    "translation": "王国 - n - England was once a powerful kingdom."
+  },
+  {
+    "source": "base",
+    "translation": "基础/基地 - n - The soldiers returned to base."
+  },
+  {
+    "source": "near",
+    "translation": "在…附近 - prep/adv - He lives near the park."
+  },
+  {
+    "source": "environmental",
+    "translation": "环境的 - adj - The factory caused environmental problems."
+  },
+  {
+    "source": "thought",
+    "translation": "想法/认为 - n/v - She had a good thought."
+  },
+  {
+    "source": "stuff",
+    "translation": "东西 - n - Put your stuff on the table."
+  },
+  {
+    "source": "french",
+    "translation": "法国的/法语 - adj/n - She speaks French well."
+  },
+  {
+    "source": "storage",
+    "translation": "存储 - n - The phone has large storage."
+  },
+
+  {
+    "source": "japan",
+    "translation": "日本 - noun - Japan is a beautiful country."
+  },
+  {
+    "source": "doing",
+    "translation": "做 - verb - What are you doing now?"
+  },
+  {
+    "source": "loans",
+    "translation": "贷款 - noun - The bank offers personal loans."
+  },
+  {
+    "source": "shoes",
+    "translation": "鞋子 - noun - She bought new shoes."
+  },
+  {
+    "source": "entry",
+    "translation": "入口 - noun - The entry is on the left side."
+  },
+  {
+    "source": "stay",
+    "translation": "停留 - verb - We will stay at a hotel."
+  },
+  {
+    "source": "nature",
+    "translation": "自然 - noun - He loves nature walks."
+  },
+  {
+    "source": "orders",
+    "translation": "订单 - noun - The company received many orders."
+  },
+  {
+    "source": "availability",
+    "translation": "可用性 - noun - Check the availability of rooms."
+  },
+  {
+    "source": "africa",
+    "translation": "非洲 - noun - Africa is a vast continent."
+  },
+  {
+    "source": "summary",
+    "translation": "总结 - noun - Please give me a summary of the report."
+  },
+  {
+    "source": "turn",
+    "translation": "转动 - verb - Turn left at the next street."
+  },
+  {
+    "source": "mean",
+    "translation": "意思是 - verb - What does this word mean?"
+  },
+  {
+    "source": "growth",
+    "translation": "增长 - noun - The company showed strong growth."
+  },
+  {
+    "source": "notes",
+    "translation": "笔记 - noun - He wrote notes during the lecture."
+  },
+  {
+    "source": "agency",
+    "translation": "机构 - noun - She works at a travel agency."
+  },
+  {
+    "source": "king",
+    "translation": "国王 - noun - The king ruled the country."
+  },
+  {
+    "source": "monday",
+    "translation": "星期一 - noun - The meeting is on Monday."
+  },
+  {
+    "source": "european",
+    "translation": "欧洲的 - adj - He is a European citizen."
+  },
+  {
+    "source": "activity",
+    "translation": "活动 - noun - The kids enjoyed the activity."
+  },
+  {
+    "source": "copy",
+    "translation": "复制 - verb - Please copy this file."
+  },
+  {
+    "source": "although",
+    "translation": "虽然 - conj - Although it was raining, we went outside."
+  },
+  {
+    "source": "drug",
+    "translation": "药物 - noun - The doctor prescribed a new drug."
+  },
+  {
+    "source": "pics",
+    "translation": "照片 - noun - She shared pics from her trip."
+  },
+  {
+    "source": "western",
+    "translation": "西方的 - adj - He studies Western culture."
+  },
+  {
+    "source": "income",
+    "translation": "收入 - noun - His income increased this year."
+  },
+  {
+    "source": "force",
+    "translation": "力量 - noun - The wind has great force."
+  },
+  {
+    "source": "cash",
+    "translation": "现金 - noun - She paid in cash."
+  },
+  {
+    "source": "employment",
+    "translation": "就业 - noun - Employment is rising in the city."
+  },
+  {
+    "source": "overall",
+    "translation": "总体的 - adj - The overall result was good."
+  },
+  {
+    "source": "bay",
+    "translation": "海湾 - noun - The boat is in the bay."
+  },
+  {
+    "source": "river",
+    "translation": "河流 - noun - The river flows to the sea."
   }
 ]
 

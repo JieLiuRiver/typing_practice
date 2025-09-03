@@ -29,7 +29,7 @@ export default function TypingContainer({ lang }) {
   const [, nextSentence] = useAtom(nextSentenceAtom);
   const [, prevSentence] = useAtom(prevSentenceAtom);
   const isRunning = useAtomValue(isRunningAtom);
-  const { play: playSentence } = usePronunciationSound(currentSentence?.source);
+  const { play: playSentence } = usePronunciationSound(typeof currentSentence === "string" ? currentSentence : currentSentence?.source);
   const { totalSentences } = useSentenceCount();
   const [currentIndex, setCurrentIndex] = useAtom(currentIndexAtom);
   const { getAudioUrl, loadAudio, playAudio } = useTTS();
@@ -68,7 +68,7 @@ export default function TypingContainer({ lang }) {
   };
 
   useEffect(() => {
-    if (currentSentence?.source && isRunning) {
+    if (currentSentence && isRunning) {
       // if (lang === 'de') {
       //   const onlyDePart = currentSentence.source.replace(/\(.*?\)/g, '').trim();
       //   const url = getAudioUrl(onlyDePart);
@@ -100,7 +100,7 @@ export default function TypingContainer({ lang }) {
       // }
       playSentence();
     }
-  }, [currentSentence?.source, playSentence, isRunning, lang, getAudioUrl, loadAudio, playAudio]);
+  }, [currentSentence, playSentence, isRunning, lang, getAudioUrl, loadAudio, playAudio]);
 
   const [autoPlayTimer, setAutoPlayTimer] = useState(null);
   const [isAutoPlaying, setIsAutoPlaying] = useState(false); // 新增播放状态
@@ -146,8 +146,8 @@ export default function TypingContainer({ lang }) {
         /{totalSentences}
       </div>
       <TypingEffect
-        text={currentSentence.source?.replace(/[.?!]$/, '') ?? ''}
-        translation={currentSentence.translation}
+        text={typeof currentSentence === "string" ? currentSentence : currentSentence.source?.replace(/[.?!]$/, '') ?? ''}
+        translation={typeof currentSentence === "string" ? '' : currentSentence.translation}
         onType={playSound}
         onComplete={handleComplete}
       />
